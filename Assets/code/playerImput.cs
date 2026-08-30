@@ -4,48 +4,46 @@ using static UnityEngine.InputSystem.InputAction;
 
 public class  PlayerInputManager: MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    public static event Action<Vector2> _onMoveCallback;
-    public static event Action<Vector2> _onLookCallback;
-
-    public static event Action _onJump;
-    public static event Action _onDance;
-
+    private EventBus _inet;
+    public void Init(EventBus bus)
+    {
+      _inet = bus;
+    }
     public void onMovePrtessed(CallbackContext context)
     {
         if(context.performed)
         {
-            _onMoveCallback?.Invoke(context.ReadValue<Vector2>());
+            _inet.TrigerMove(context.ReadValue<Vector2>());
         }
         else
         {
             var _zero = new Vector2(0f, 0f);
-            _onMoveCallback?.Invoke(_zero);
+            _inet.TrigerMove(_zero);
         }
     }
     public void OnLook(CallbackContext context)
     {   Vector2 lookInput = context.ReadValue<Vector2>();
         if(lookInput.sqrMagnitude > 3)
         {
-            _onLookCallback?.Invoke(lookInput);
+            _inet.TrigerLook(lookInput);
         }
         else
         {
-            _onLookCallback?.Invoke(Vector2.zero);
+            _inet.TrigerLook(Vector2.zero);
         }
     }
     public void OnJump(CallbackContext ctx)
     {
         if(ctx.performed)
         {
-            _onJump?.Invoke();
+            _inet.TrigerJump();
         }
     }
     public void OnDance(CallbackContext ctx)
     {
         if(ctx.performed)
         {
-            _onDance?.Invoke();
+            _inet.TrigerDance();
         }
     } 
     
