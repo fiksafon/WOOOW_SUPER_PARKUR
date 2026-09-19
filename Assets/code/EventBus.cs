@@ -8,6 +8,9 @@ public class EventBus : MonoBehaviour
 
     public  event Action _onJump;
     public event Action _onDance;
+    public event Action _onAtack;
+    public event Action<bool> _onRun;
+    public event Action<ButtonType> _OnButtonClick;
 
     public void TrigerMove(Vector2 kostya)
     {
@@ -24,6 +27,18 @@ public class EventBus : MonoBehaviour
      public void TrigerDance()
     {
         _onDance?.Invoke();
+    }
+    public void TrigerAtack()
+    {
+        _onAtack?.Invoke();
+    }
+    public void TrigerRun(bool isRun)
+    {
+        _onRun?.Invoke(isRun);
+    }
+    public void TrigerButtonClick(ButtonType button)
+    {
+        _OnButtonClick?.Invoke(button);
     }
     
 }

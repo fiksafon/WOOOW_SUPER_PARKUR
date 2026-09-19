@@ -9,7 +9,7 @@ public class  PlayerInputManager: MonoBehaviour
     {
       _inet = bus;
     }
-    public void onMovePrtessed(CallbackContext context)
+    public void TrigerMove(CallbackContext context)
     {
         if(context.performed)
         {
@@ -21,7 +21,7 @@ public class  PlayerInputManager: MonoBehaviour
             _inet.TrigerMove(_zero);
         }
     }
-    public void OnLook(CallbackContext context)
+    public void TrigerLook(CallbackContext context)
     {   Vector2 lookInput = context.ReadValue<Vector2>();
         if(lookInput.sqrMagnitude > 3)
         {
@@ -32,19 +32,37 @@ public class  PlayerInputManager: MonoBehaviour
             _inet.TrigerLook(Vector2.zero);
         }
     }
-    public void OnJump(CallbackContext ctx)
+    public void TrigerJump(CallbackContext ctx)
     {
         if(ctx.performed)
         {
             _inet.TrigerJump();
         }
     }
-    public void OnDance(CallbackContext ctx)
+    public void TrigerDance(CallbackContext ctx)
     {
         if(ctx.performed)
         {
             _inet.TrigerDance();
         }
     } 
+    public void TrigerAtack(CallbackContext ctx)
+    {
+        if(ctx.performed)
+        {
+            _inet.TrigerAtack();
+        }
+    }
+    public void TrigerRun(CallbackContext ctx)
+    {
+        if(ctx.started)
+        {
+            _inet.TrigerRun(true);
+        }
+        else if(ctx.canceled)
+        {
+            _inet.TrigerRun(false);
+        }
+    }
     
 }
