@@ -19,6 +19,7 @@ public class GameManager : MonoBehaviour
     }
     Instance = this;
     DontDestroyOnLoad(this);
+    
     _inputmen.Init(_inet);
     _inet._OnButtonClick += OnUiButton;
     OnStateRequest(GameState.MainMenu);
