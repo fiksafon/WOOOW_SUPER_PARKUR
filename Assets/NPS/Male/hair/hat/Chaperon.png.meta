@@ -1,0 +1,1289 @@
+fileFormatVersion: 2
+guid: acd6865b1afc7ac438d0e39688c069e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8574707561747675739
+    second: Chaperon_0
+  - first:
+      213: -900724834242297029
+    second: Chaperon_1
+  - first:
+      213: 4921931694777635398
+    second: Chaperon_2
+  - first:
+      213: 3239760251959160168
+    second: Chaperon_3
+  - first:
+      213: 5575897651714748057
+    second: Chaperon_4
+  - first:
+      213: 1201867951300384617
+    second: Chaperon_5
+  - first:
+      213: 1676811554713140034
+    second: Chaperon_6
+  - first:
+      213: -7632599885779592772
+    second: Chaperon_7
+  - first:
+      213: -3263528302533586122
+    second: Chaperon_8
+  - first:
+      213: 8341663005525491364
+    second: Chaperon_9
+  - first:
+      213: -8141953810052816786
+    second: Chaperon_10
+  - first:
+      213: 8376993555098047015
+    second: Chaperon_11
+  - first:
+      213: -1531766729628438681
+    second: Chaperon_12
+  - first:
+      213: 4373204593784320386
+    second: Chaperon_13
+  - first:
+      213: 920493003655834505
+    second: Chaperon_14
+  - first:
+      213: -4809872960021998324
+    second: Chaperon_15
+  - first:
+      213: -2443897453233825097
+    second: Chaperon_16
+  - first:
+      213: -809982050493278017
+    second: Chaperon_17
+  - first:
+      213: -8538259104339898399
+    second: Chaperon_18
+  - first:
+      213: 6217704169194151927
+    second: Chaperon_19
+  - first:
+      213: -6109714291820553006
+    second: Chaperon_20
+  - first:
+      213: 6355659339560760403
+    second: Chaperon_21
+  - first:
+      213: 7900973393084377491
+    second: Chaperon_22
+  - first:
+      213: 7187827398089203097
+    second: Chaperon_23
+  - first:
+      213: 4362977202178243534
+    second: Chaperon_24
+  - first:
+      213: -7400039219431675103
+    second: Chaperon_25
+  - first:
+      213: 339437615627728810
+    second: Chaperon_26
+  - first:
+      213: -6197905322927795485
+    second: Chaperon_27
+  - first:
+      213: 9088784087970489378
+    second: Chaperon_28
+  - first:
+      213: -2958525194900633736
+    second: Chaperon_29
+  - first:
+      213: 168771506245831784
+    second: Chaperon_30
+  - first:
+      213: 7309501774104039737
+    second: Chaperon_31
+  - first:
+      213: -857325806564491508
+    second: Chaperon_32
+  - first:
+      213: -6050281738249655869
+    second: Chaperon_33
+  - first:
+      213: -7049943205275868176
+    second: Chaperon_34
+  - first:
+      213: -6024633114486590828
+    second: Chaperon_35
+  - first:
+      213: -6030984104022284005
+    second: Chaperon_36
+  - first:
+      213: -7862859019619339887
+    second: Chaperon_37
+  - first:
+      213: -8247152594911736036
+    second: Chaperon_38
+  - first:
+      213: -3938976384272595355
+    second: Chaperon_39
+  - first:
+      213: 8374494258285869566
+    second: Chaperon_40
+  - first:
+      213: -4672562625881993752
+    second: Chaperon_41
+  - first:
+      213: -2311819602553257277
+    second: Chaperon_42
+  - first:
+      213: 4594869740195683686
+    second: Chaperon_43
+  - first:
+      213: 4443842268985744664
+    second: Chaperon_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chaperon_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 418
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a73deb81b7ff670800000000000000
+      internalID: 8574707561747675739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 418
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b338d96198bff73f0800000000000000
+      internalID: -900724834242297029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 419
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64215f38cc63e4440800000000000000
+      internalID: 4921931694777635398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 419
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86da47fb8c0f5fc20800000000000000
+      internalID: 3239760251959160168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 419
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e64623f51916d40800000000000000
+      internalID: 5575897651714748057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 354
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9679f20b884eda010800000000000000
+      internalID: 1201867951300384617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 354
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b72f1993b354710800000000000000
+      internalID: 1676811554713140034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 355
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb99b67d7de831690800000000000000
+      internalID: -7632599885779592772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 355
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6335d0dbc4e95b2d0800000000000000
+      internalID: -3263528302533586122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 354
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae3d58be4a83c370800000000000000
+      internalID: 8341663005525491364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 354
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60e92ec528f10f80800000000000000
+      internalID: -8141953810052816786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 355
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7221b51514f014470800000000000000
+      internalID: 8376993555098047015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 355
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f2cb966421ebae0800000000000000
+      internalID: -1531766729628438681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 291
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281fe96686eb0bc30800000000000000
+      internalID: 4373204593784320386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 290
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b6325828f36cc00800000000000000
+      internalID: 920493003655834505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_15
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 291
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05d123d606ef3db0800000000000000
+      internalID: -4809872960021998324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 291
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba1480f638851ed0800000000000000
+      internalID: -2443897453233825097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 291
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8d7e5dd9d52c4f0800000000000000
+      internalID: -809982050493278017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 290
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef439d0592028980800000000000000
+      internalID: -8538259104339898399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_19
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 291
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff5843cff8b94650800000000000000
+      internalID: 6217704169194151927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_20
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 291
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc98e4e83fe53ba0800000000000000
+      internalID: -6109714291820553006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 230
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354b9efde76d33850800000000000000
+      internalID: 6355659339560760403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 230
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3996b9a9075e5ad60800000000000000
+      internalID: 7900973393084377491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 230
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d5de19fea40c360800000000000000
+      internalID: 7187827398089203097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 230
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb36fa36a86c8c30800000000000000
+      internalID: 4362977202178243534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 164
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12be0d97987cd4990800000000000000
+      internalID: -7400039219431675103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 164
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa775e686bce5b400800000000000000
+      internalID: 339437615627728810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 164
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2d26b52fd9cf9a0800000000000000
+      internalID: -6197905322927795485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 164
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22424bb39f8d12e70800000000000000
+      internalID: 9088784087970489378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 98
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87787ea920531f6d0800000000000000
+      internalID: -2958525194900633736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 99
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c8dfd6ac8975200800000000000000
+      internalID: 168771506245831784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 100
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9311f8ad221907560800000000000000
+      internalID: 7309501774104039737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 99
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fb2f2a8ba2a14f0800000000000000
+      internalID: -857325806564491508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_33
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 96
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9a89890d4190ca0800000000000000
+      internalID: -6050281738249655869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_34
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 98
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f36adac102992e90800000000000000
+      internalID: -7049943205275868176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492b8fc2a14346ca0800000000000000
+      internalID: -6024633114486590828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_36
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 32
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1969b139e3ad4ca0800000000000000
+      internalID: -6030984104022284005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_37
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 27
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191fc90816381e290800000000000000
+      internalID: -7862859019619339887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 26
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f48d3096a3c8d80800000000000000
+      internalID: -8247152594911736036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_39
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 27
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56687cc19d1f559c0800000000000000
+      internalID: -3938976384272595355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_40
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 26
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef97dae682e283470800000000000000
+      internalID: 8374494258285869566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_41
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 26
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed898d4c09b72fb0800000000000000
+      internalID: -4672562625881993752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_42
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 0
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2470de154caefd0800000000000000
+      internalID: -2311819602553257277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_43
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d1e8d1fa144cf30800000000000000
+      internalID: 4594869740195683686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon_44
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dd2c8cff2bbad30800000000000000
+      internalID: 4443842268985744664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chaperon_0: 8574707561747675739
+      Chaperon_1: -900724834242297029
+      Chaperon_10: -8141953810052816786
+      Chaperon_11: 8376993555098047015
+      Chaperon_12: -1531766729628438681
+      Chaperon_13: 4373204593784320386
+      Chaperon_14: 920493003655834505
+      Chaperon_15: -4809872960021998324
+      Chaperon_16: -2443897453233825097
+      Chaperon_17: -809982050493278017
+      Chaperon_18: -8538259104339898399
+      Chaperon_19: 6217704169194151927
+      Chaperon_2: 4921931694777635398
+      Chaperon_20: -6109714291820553006
+      Chaperon_21: 6355659339560760403
+      Chaperon_22: 7900973393084377491
+      Chaperon_23: 7187827398089203097
+      Chaperon_24: 4362977202178243534
+      Chaperon_25: -7400039219431675103
+      Chaperon_26: 339437615627728810
+      Chaperon_27: -6197905322927795485
+      Chaperon_28: 9088784087970489378
+      Chaperon_29: -2958525194900633736
+      Chaperon_3: 3239760251959160168
+      Chaperon_30: 168771506245831784
+      Chaperon_31: 7309501774104039737
+      Chaperon_32: -857325806564491508
+      Chaperon_33: -6050281738249655869
+      Chaperon_34: -7049943205275868176
+      Chaperon_35: -6024633114486590828
+      Chaperon_36: -6030984104022284005
+      Chaperon_37: -7862859019619339887
+      Chaperon_38: -8247152594911736036
+      Chaperon_39: -3938976384272595355
+      Chaperon_4: 5575897651714748057
+      Chaperon_40: 8374494258285869566
+      Chaperon_41: -4672562625881993752
+      Chaperon_42: -2311819602553257277
+      Chaperon_43: 4594869740195683686
+      Chaperon_44: 4443842268985744664
+      Chaperon_5: 1201867951300384617
+      Chaperon_6: 1676811554713140034
+      Chaperon_7: -7632599885779592772
+      Chaperon_8: -3263528302533586122
+      Chaperon_9: 8341663005525491364
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

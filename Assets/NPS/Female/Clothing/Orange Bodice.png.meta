@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: c2aacfc74252486428098f04e55af7ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9160124449641374844
+    second: Orange Bodice_0
+  - first:
+      213: 2427702834003332776
+    second: Orange Bodice_1
+  - first:
+      213: 8676090073084486219
+    second: Orange Bodice_2
+  - first:
+      213: 1345469872082485822
+    second: Orange Bodice_3
+  - first:
+      213: 1918846023823840961
+    second: Orange Bodice_4
+  - first:
+      213: 2483207105726434228
+    second: Orange Bodice_5
+  - first:
+      213: -7263466929805119990
+    second: Orange Bodice_6
+  - first:
+      213: -5191016785919278221
+    second: Orange Bodice_7
+  - first:
+      213: -5687008279365776718
+    second: Orange Bodice_8
+  - first:
+      213: 1512556576419759621
+    second: Orange Bodice_9
+  - first:
+      213: -5722045320034894665
+    second: Orange Bodice_10
+  - first:
+      213: -2510727036490366722
+    second: Orange Bodice_11
+  - first:
+      213: 5937373159195882564
+    second: Orange Bodice_12
+  - first:
+      213: 7630585931083233863
+    second: Orange Bodice_13
+  - first:
+      213: -7791526839701971485
+    second: Orange Bodice_14
+  - first:
+      213: -8491652784376615187
+    second: Orange Bodice_15
+  - first:
+      213: 4900150930759284948
+    second: Orange Bodice_16
+  - first:
+      213: 8569358015739795060
+    second: Orange Bodice_17
+  - first:
+      213: -5479295716200355128
+    second: Orange Bodice_18
+  - first:
+      213: 5292606133907900624
+    second: Orange Bodice_19
+  - first:
+      213: -7391158497319170817
+    second: Orange Bodice_20
+  - first:
+      213: -2512085599975466910
+    second: Orange Bodice_21
+  - first:
+      213: 1225740107225539311
+    second: Orange Bodice_22
+  - first:
+      213: -5344070886446787066
+    second: Orange Bodice_23
+  - first:
+      213: 8382520731696916323
+    second: Orange Bodice_24
+  - first:
+      213: 1012767890974027431
+    second: Orange Bodice_25
+  - first:
+      213: -2056574808626111949
+    second: Orange Bodice_26
+  - first:
+      213: -6892168216305611060
+    second: Orange Bodice_27
+  - first:
+      213: 3286547722821585316
+    second: Orange Bodice_28
+  - first:
+      213: 7875902988694390323
+    second: Orange Bodice_29
+  - first:
+      213: -4973480119723111273
+    second: Orange Bodice_30
+  - first:
+      213: 2461447726768018776
+    second: Orange Bodice_31
+  - first:
+      213: 6964878491850427805
+    second: Orange Bodice_32
+  - first:
+      213: 4505202711604722450
+    second: Orange Bodice_33
+  - first:
+      213: 7563170079470277875
+    second: Orange Bodice_34
+  - first:
+      213: -7047458171216305300
+    second: Orange Bodice_35
+  - first:
+      213: 8190983961267566468
+    second: Orange Bodice_36
+  - first:
+      213: -8182346960540307167
+    second: Orange Bodice_37
+  - first:
+      213: -9048715969229153906
+    second: Orange Bodice_38
+  - first:
+      213: -3095977465933318369
+    second: Orange Bodice_39
+  - first:
+      213: 7376732008190643541
+    second: Orange Bodice_40
+  - first:
+      213: 1190548511829785687
+    second: Orange Bodice_41
+  - first:
+      213: 5189914394168531507
+    second: Orange Bodice_42
+  - first:
+      213: 4470572364454288442
+    second: Orange Bodice_43
+  - first:
+      213: -4085704220734868421
+    second: Orange Bodice_44
+  - first:
+      213: 2773768104355859231
+    second: Orange Bodice_45
+  - first:
+      213: 4557818055783742760
+    second: Orange Bodice_46
+  - first:
+      213: -3426248701689640402
+    second: Orange Bodice_47
+  - first:
+      213: 2153976072628605282
+    second: Orange Bodice_48
+  - first:
+      213: 3218134011200914902
+    second: Orange Bodice_49
+  - first:
+      213: -1164605849134156558
+    second: Orange Bodice_50
+  - first:
+      213: -7003429074481379071
+    second: Orange Bodice_51
+  - first:
+      213: -7493498442344548673
+    second: Orange Bodice_0_6
+  - first:
+      213: 5254973472061375141
+    second: Orange Bodice_1_6
+  - first:
+      213: 4426035431025071382
+    second: Orange Bodice_2_6
+  - first:
+      213: -7751386764719673961
+    second: Orange Bodice_3_6
+  - first:
+      213: -538044471431293578
+    second: Orange Bodice_4_6
+  - first:
+      213: 2588135069108722094
+    second: Orange Bodice_5_6
+  - first:
+      213: 7638302751005169203
+    second: Orange Bodice_6_6
+  - first:
+      213: 3810369593578962994
+    second: Orange Bodice_7_6
+  - first:
+      213: -7284814737609928019
+    second: Orange Bodice_8_6
+  - first:
+      213: -3268518806404734666
+    second: Orange Bodice_9_6
+  - first:
+      213: -5566343360515505799
+    second: Orange Bodice_0_5
+  - first:
+      213: 7741879557596255421
+    second: Orange Bodice_1_5
+  - first:
+      213: 6278601567635417754
+    second: Orange Bodice_2_5
+  - first:
+      213: -7494080316512034448
+    second: Orange Bodice_3_5
+  - first:
+      213: -1198799353686544711
+    second: Orange Bodice_4_5
+  - first:
+      213: 3899598689594843466
+    second: Orange Bodice_5_5
+  - first:
+      213: -7033107477189202662
+    second: Orange Bodice_6_5
+  - first:
+      213: -5862474601401652876
+    second: Orange Bodice_7_5
+  - first:
+      213: -1248339308606416451
+    second: Orange Bodice_8_5
+  - first:
+      213: 1048933538885966607
+    second: Orange Bodice_9_5
+  - first:
+      213: 3206739440296517253
+    second: Orange Bodice_0_4
+  - first:
+      213: 4150430917308675242
+    second: Orange Bodice_1_4
+  - first:
+      213: -5500988804604975278
+    second: Orange Bodice_2_4
+  - first:
+      213: -3170622005985006530
+    second: Orange Bodice_3_4
+  - first:
+      213: -4598507065370235413
+    second: Orange Bodice_4_4
+  - first:
+      213: 3455871383079250615
+    second: Orange Bodice_5_4
+  - first:
+      213: 935025256267020090
+    second: Orange Bodice_6_4
+  - first:
+      213: 4978276511391291134
+    second: Orange Bodice_7_4
+  - first:
+      213: -3038621074823005856
+    second: Orange Bodice_8_4
+  - first:
+      213: -2115209128623802716
+    second: Orange Bodice_9_4
+  - first:
+      213: -1687747706117496729
+    second: Orange Bodice_0_3
+  - first:
+      213: -2779793344750837404
+    second: Orange Bodice_1_3
+  - first:
+      213: -4871100349998958339
+    second: Orange Bodice_2_3
+  - first:
+      213: 8315172247170341086
+    second: Orange Bodice_3_3
+  - first:
+      213: 4503048898904380314
+    second: Orange Bodice_4_3
+  - first:
+      213: 8315572592228171490
+    second: Orange Bodice_5_3
+  - first:
+      213: -3308349792455433248
+    second: Orange Bodice_6_3
+  - first:
+      213: 4124293274771518213
+    second: Orange Bodice_7_3
+  - first:
+      213: 6841616602114286066
+    second: Orange Bodice_8_3
+  - first:
+      213: 7719042510789605217
+    second: Orange Bodice_9_3
+  - first:
+      213: 9128462369347536475
+    second: Orange Bodice_0_2
+  - first:
+      213: 3766583449468428261
+    second: Orange Bodice_1_2
+  - first:
+      213: -1210424142539951041
+    second: Orange Bodice_2_2
+  - first:
+      213: 8212513822355808272
+    second: Orange Bodice_3_2
+  - first:
+      213: 785548045197120062
+    second: Orange Bodice_4_2
+  - first:
+      213: 3350461747367991050
+    second: Orange Bodice_5_2
+  - first:
+      213: -4012024416663679769
+    second: Orange Bodice_6_2
+  - first:
+      213: 2492056241140514259
+    second: Orange Bodice_7_2
+  - first:
+      213: 4359906423584935646
+    second: Orange Bodice_8_2
+  - first:
+      213: 4125489825792076971
+    second: Orange Bodice_9_2
+  - first:
+      213: 1337705912557510442
+    second: Orange Bodice_0_1
+  - first:
+      213: -4584139070286724190
+    second: Orange Bodice_1_1
+  - first:
+      213: -1057121869712175758
+    second: Orange Bodice_2_1
+  - first:
+      213: 2837660828678070959
+    second: Orange Bodice_3_1
+  - first:
+      213: 5356043214671644039
+    second: Orange Bodice_4_1
+  - first:
+      213: 6704733764020765847
+    second: Orange Bodice_5_1
+  - first:
+      213: -320785353939805173
+    second: Orange Bodice_6_1
+  - first:
+      213: 8745533490377672673
+    second: Orange Bodice_7_1
+  - first:
+      213: 1561022727205342997
+    second: Orange Bodice_8_1
+  - first:
+      213: 1068541840899140274
+    second: Orange Bodice_9_1
+  - first:
+      213: -6000372216696056845
+    second: Orange Bodice_0_0
+  - first:
+      213: 2946631585674130580
+    second: Orange Bodice_1_0
+  - first:
+      213: -8033542795304382406
+    second: Orange Bodice_2_0
+  - first:
+      213: 5690083443757074765
+    second: Orange Bodice_3_0
+  - first:
+      213: -6996800556745273567
+    second: Orange Bodice_4_0
+  - first:
+      213: 7485116926127970988
+    second: Orange Bodice_5_0
+  - first:
+      213: 3958298380846019104
+    second: Orange Bodice_6_0
+  - first:
+      213: -4532156975985066462
+    second: Orange Bodice_7_0
+  - first:
+      213: 5025019119644608022
+    second: Orange Bodice_8_0
+  - first:
+      213: 4114987843303650973
+    second: Orange Bodice_9_0
+  - first:
+      213: 2963056139522881630
+    second: Orange Bodice_EMPTY_5
+  - first:
+      213: 7025902614178180004
+    second: Orange Bodice_EMPTY_6
+  - first:
+      213: 4943996063430467956
+    second: Orange Bodice_EMPTY_7
+  - first:
+      213: -278138374922215005
+    second: Orange Bodice_EMPTY_8
+  - first:
+      213: 7994051088914191643
+    second: Orange Bodice_EMPTY_9
+  - first:
+      213: -8423546150526349229
+    second: Orange Bodice_EMPTY_18
+  - first:
+      213: -5909512493953456684
+    second: Orange Bodice_EMPTY_19
+  - first:
+      213: 182276290248525646
+    second: Orange Bodice_EMPTY_28
+  - first:
+      213: 6175027171532326699
+    second: Orange Bodice_EMPTY_29
+  - first:
+      213: 2813200475307159861
+    second: Orange Bodice_EMPTY_34
+  - first:
+      213: -8617995556000604340
+    second: Orange Bodice_EMPTY_35
+  - first:
+      213: -7184378079727824429
+    second: Orange Bodice_EMPTY_36
+  - first:
+      213: 2742593936255464783
+    second: Orange Bodice_EMPTY_37
+  - first:
+      213: 7094430221420357994
+    second: Orange Bodice_EMPTY_38
+  - first:
+      213: 5941646104977194203
+    second: Orange Bodice_EMPTY_39
+  - first:
+      213: 3645023159011255396
+    second: Orange Bodice_EMPTY_44
+  - first:
+      213: -2320966083724546774
+    second: Orange Bodice_EMPTY_45
+  - first:
+      213: -7199171696493699184
+    second: Orange Bodice_EMPTY_46
+  - first:
+      213: 3782217784751466677
+    second: Orange Bodice_EMPTY_47
+  - first:
+      213: 500979494874564147
+    second: Orange Bodice_EMPTY_48
+  - first:
+      213: -5220767611156245987
+    second: Orange Bodice_EMPTY_49
+  - first:
+      213: -4029660190680658745
+    second: Orange Bodice_52
+  - first:
+      213: 661047296110752595
+    second: Orange Bodice_53
+  - first:
+      213: 8528515432427021705
+    second: Orange Bodice_54
+  - first:
+      213: -317435130931196177
+    second: Orange Bodice_55
+  - first:
+      213: -8314083085526851476
+    second: Orange Bodice_EMPTY_56
+  - first:
+      213: -8779823205750972766
+    second: Orange Bodice_EMPTY_57
+  - first:
+      213: -8965083947555522053
+    second: Orange Bodice_EMPTY_58
+  - first:
+      213: -849747986280934511
+    second: Orange Bodice_EMPTY_59
+  - first:
+      213: 3505630575058959965
+    second: Orange Bodice_60
+  - first:
+      213: -8198982286958659220
+    second: Orange Bodice_61
+  - first:
+      213: -3117010562694610332
+    second: Orange Bodice_62
+  - first:
+      213: 9005447692784710562
+    second: Orange Bodice_63
+  - first:
+      213: 3101513400967910566
+    second: Orange Bodice_64
+  - first:
+      213: -8177620819306851697
+    second: Orange Bodice_65
+  - first:
+      213: -907446437306045277
+    second: Orange Bodice_66
+  - first:
+      213: -685978363402306148
+    second: Orange Bodice_67
+  - first:
+      213: -8657157858524376143
+    second: Orange Bodice_68
+  - first:
+      213: -4863720120184061402
+    second: Orange Bodice_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orange Bodice_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74ae3f87ac4f1f70800000000000000
+      internalID: 9160124449641374844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae4af07ddee0b120800000000000000
+      internalID: 2427702834003332776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b426e7d14f9a76870800000000000000
+      internalID: 8676090073084486219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32877558b11ca210800000000000000
+      internalID: 1345469872082485822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6d0bcca4c11aa10800000000000000
+      internalID: 1918846023823840961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e583dc52cd3ee1920800000000000000
+      internalID: 2963056139522881630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab2498e335018160800000000000000
+      internalID: 7025902614178180004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471e3bba93a9c9440800000000000000
+      internalID: 4943996063430467956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a16b542f9ad32cf0800000000000000
+      internalID: -278138374922215005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b151e0f6c1390fe60800000000000000
+      internalID: 7994051088914191643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc32ae19163790b0800000000000000
+      internalID: -5722045320034894665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0c50e001b182dd0800000000000000
+      internalID: -2510727036490366722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4443fc44e69c56250800000000000000
+      internalID: 5937373159195882564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a3f4ac97945e960800000000000000
+      internalID: 7630585931083233863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed54adde9feed390800000000000000
+      internalID: -7791526839701971485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee664788c6972a80800000000000000
+      internalID: -8491652784376615187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8f4b53f45d00440800000000000000
+      internalID: 4900150930759284948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476115186b97ce670800000000000000
+      internalID: 8569358015739795060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35094cce76d891b80800000000000000
+      internalID: -8423546150526349229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5eb2a52b13dfda0800000000000000
+      internalID: -5909512493953456684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc4ea8b1845d6990800000000000000
+      internalID: -7391158497319170817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2689618d477432dd0800000000000000
+      internalID: -2512085599975466910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2a02e1224b20110800000000000000
+      internalID: 1225740107225539311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60615d6c7db06d5b0800000000000000
+      internalID: -5344070886446787066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36764276132b45470800000000000000
+      internalID: 8382520731696916323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aead6de7031e0e00800000000000000
+      internalID: 1012767890974027431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ad2d59b149573e0800000000000000
+      internalID: -2056574808626111949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccecdd606891a50a0800000000000000
+      internalID: -6892168216305611060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e474d3bf153978200800000000000000
+      internalID: 182276290248525646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27c19dee7a12b550800000000000000
+      internalID: 6175027171532326699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ccf668e26aafab0800000000000000
+      internalID: -4973480119723111273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855533b8aa1d82220800000000000000
+      internalID: 2461447726768018776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dc08a361838a060800000000000000
+      internalID: 6964878491850427805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b73522ff1b58e30800000000000000
+      internalID: 4505202711604722450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531b4a46dee7a0720800000000000000
+      internalID: 2813200475307159861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f50b0b3bab66880800000000000000
+      internalID: -8617995556000604340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d158b17336fb4c90800000000000000
+      internalID: -7184378079727824429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45b5a577a6af0620800000000000000
+      internalID: 2742593936255464783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a696e8fc2ba747260800000000000000
+      internalID: 7094430221420357994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcbf3cf6a7f47250800000000000000
+      internalID: 5941646104977194203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d05778daa6f5660800000000000000
+      internalID: 7376732008190643541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cfb7f409da58010800000000000000
+      internalID: 1190548511829785687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a1a17e4a7460840800000000000000
+      internalID: 5189914394168531507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cd9fd11e9aa0e30800000000000000
+      internalID: 4470572364454288442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46420fe3049b59230800000000000000
+      internalID: 3645023159011255396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d6ed3d4a54acfd0800000000000000
+      internalID: -2320966083724546774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f52712c77671c90800000000000000
+      internalID: -7199171696493699184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8a64349032d7430800000000000000
+      internalID: 3782217784751466677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336c0cf3236d3f600800000000000000
+      internalID: 500979494874564147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12da2ab48b1c87b0800000000000000
+      internalID: -5220767611156245987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4340b862d76dfe0800000000000000
+      internalID: -1164605849134156558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10905edcc52dece90800000000000000
+      internalID: -7003429074481379071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc42f81865c318c0800000000000000
+      internalID: -4029660190680658745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353f96073038c2900800000000000000
+      internalID: 661047296110752595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985ef3b899f5b5670800000000000000
+      internalID: 8528515432427021705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feecd952e6e389bf0800000000000000
+      internalID: -317435130931196177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60a61ecb717e9c80800000000000000
+      internalID: -8314083085526851476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae5b76df4dc72680800000000000000
+      internalID: -8779823205750972766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9756416af959380800000000000000
+      internalID: -8965083947555522053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1931f1965b61534f0800000000000000
+      internalID: -849747986280934511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e33243f6086a030800000000000000
+      internalID: 3505630575058959965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69fb12dc0d573e80800000000000000
+      internalID: -8198982286958659220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462827968672eb4d0800000000000000
+      internalID: -3117010562694610332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a33bc3b6f6c9fc70800000000000000
+      internalID: 9005447692784710562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a45ec2710aca0b20800000000000000
+      internalID: 3101513400967910566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8250651131438e80800000000000000
+      internalID: -8177620819306851697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acedabe54a1863f0800000000000000
+      internalID: -907446437306045277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d3dcd105aea76f0800000000000000
+      internalID: -685978363402306148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b35c269bc89bd780800000000000000
+      internalID: -8657157858524376143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622428dd158908cb0800000000000000
+      internalID: -4863720120184061402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orange Bodice_0: 9160124449641374844
+      Orange Bodice_0_0: -6000372216696056845
+      Orange Bodice_0_1: 1337705912557510442
+      Orange Bodice_0_2: 9128462369347536475
+      Orange Bodice_0_3: -1687747706117496729
+      Orange Bodice_0_4: 3206739440296517253
+      Orange Bodice_0_5: -5566343360515505799
+      Orange Bodice_0_6: -7493498442344548673
+      Orange Bodice_1: 2427702834003332776
+      Orange Bodice_10: -5722045320034894665
+      Orange Bodice_11: -2510727036490366722
+      Orange Bodice_12: 5937373159195882564
+      Orange Bodice_13: 7630585931083233863
+      Orange Bodice_14: -7791526839701971485
+      Orange Bodice_15: -8491652784376615187
+      Orange Bodice_16: 4900150930759284948
+      Orange Bodice_17: 8569358015739795060
+      Orange Bodice_18: -5479295716200355128
+      Orange Bodice_19: 5292606133907900624
+      Orange Bodice_1_0: 2946631585674130580
+      Orange Bodice_1_1: -4584139070286724190
+      Orange Bodice_1_2: 3766583449468428261
+      Orange Bodice_1_3: -2779793344750837404
+      Orange Bodice_1_4: 4150430917308675242
+      Orange Bodice_1_5: 7741879557596255421
+      Orange Bodice_1_6: 5254973472061375141
+      Orange Bodice_2: 8676090073084486219
+      Orange Bodice_20: -7391158497319170817
+      Orange Bodice_21: -2512085599975466910
+      Orange Bodice_22: 1225740107225539311
+      Orange Bodice_23: -5344070886446787066
+      Orange Bodice_24: 8382520731696916323
+      Orange Bodice_25: 1012767890974027431
+      Orange Bodice_26: -2056574808626111949
+      Orange Bodice_27: -6892168216305611060
+      Orange Bodice_28: 3286547722821585316
+      Orange Bodice_29: 7875902988694390323
+      Orange Bodice_2_0: -8033542795304382406
+      Orange Bodice_2_1: -1057121869712175758
+      Orange Bodice_2_2: -1210424142539951041
+      Orange Bodice_2_3: -4871100349998958339
+      Orange Bodice_2_4: -5500988804604975278
+      Orange Bodice_2_5: 6278601567635417754
+      Orange Bodice_2_6: 4426035431025071382
+      Orange Bodice_3: 1345469872082485822
+      Orange Bodice_30: -4973480119723111273
+      Orange Bodice_31: 2461447726768018776
+      Orange Bodice_32: 6964878491850427805
+      Orange Bodice_33: 4505202711604722450
+      Orange Bodice_34: 7563170079470277875
+      Orange Bodice_35: -7047458171216305300
+      Orange Bodice_36: 8190983961267566468
+      Orange Bodice_37: -8182346960540307167
+      Orange Bodice_38: -9048715969229153906
+      Orange Bodice_39: -3095977465933318369
+      Orange Bodice_3_0: 5690083443757074765
+      Orange Bodice_3_1: 2837660828678070959
+      Orange Bodice_3_2: 8212513822355808272
+      Orange Bodice_3_3: 8315172247170341086
+      Orange Bodice_3_4: -3170622005985006530
+      Orange Bodice_3_5: -7494080316512034448
+      Orange Bodice_3_6: -7751386764719673961
+      Orange Bodice_4: 1918846023823840961
+      Orange Bodice_40: 7376732008190643541
+      Orange Bodice_41: 1190548511829785687
+      Orange Bodice_42: 5189914394168531507
+      Orange Bodice_43: 4470572364454288442
+      Orange Bodice_44: -4085704220734868421
+      Orange Bodice_45: 2773768104355859231
+      Orange Bodice_46: 4557818055783742760
+      Orange Bodice_47: -3426248701689640402
+      Orange Bodice_48: 2153976072628605282
+      Orange Bodice_49: 3218134011200914902
+      Orange Bodice_4_0: -6996800556745273567
+      Orange Bodice_4_1: 5356043214671644039
+      Orange Bodice_4_2: 785548045197120062
+      Orange Bodice_4_3: 4503048898904380314
+      Orange Bodice_4_4: -4598507065370235413
+      Orange Bodice_4_5: -1198799353686544711
+      Orange Bodice_4_6: -538044471431293578
+      Orange Bodice_5: 2483207105726434228
+      Orange Bodice_50: -1164605849134156558
+      Orange Bodice_51: -7003429074481379071
+      Orange Bodice_52: -4029660190680658745
+      Orange Bodice_53: 661047296110752595
+      Orange Bodice_54: 8528515432427021705
+      Orange Bodice_55: -317435130931196177
+      Orange Bodice_5_0: 7485116926127970988
+      Orange Bodice_5_1: 6704733764020765847
+      Orange Bodice_5_2: 3350461747367991050
+      Orange Bodice_5_3: 8315572592228171490
+      Orange Bodice_5_4: 3455871383079250615
+      Orange Bodice_5_5: 3899598689594843466
+      Orange Bodice_5_6: 2588135069108722094
+      Orange Bodice_6: -7263466929805119990
+      Orange Bodice_60: 3505630575058959965
+      Orange Bodice_61: -8198982286958659220
+      Orange Bodice_62: -3117010562694610332
+      Orange Bodice_63: 9005447692784710562
+      Orange Bodice_64: 3101513400967910566
+      Orange Bodice_65: -8177620819306851697
+      Orange Bodice_66: -907446437306045277
+      Orange Bodice_67: -685978363402306148
+      Orange Bodice_68: -8657157858524376143
+      Orange Bodice_69: -4863720120184061402
+      Orange Bodice_6_0: 3958298380846019104
+      Orange Bodice_6_1: -320785353939805173
+      Orange Bodice_6_2: -4012024416663679769
+      Orange Bodice_6_3: -3308349792455433248
+      Orange Bodice_6_4: 935025256267020090
+      Orange Bodice_6_5: -7033107477189202662
+      Orange Bodice_6_6: 7638302751005169203
+      Orange Bodice_7: -5191016785919278221
+      Orange Bodice_7_0: -4532156975985066462
+      Orange Bodice_7_1: 8745533490377672673
+      Orange Bodice_7_2: 2492056241140514259
+      Orange Bodice_7_3: 4124293274771518213
+      Orange Bodice_7_4: 4978276511391291134
+      Orange Bodice_7_5: -5862474601401652876
+      Orange Bodice_7_6: 3810369593578962994
+      Orange Bodice_8: -5687008279365776718
+      Orange Bodice_8_0: 5025019119644608022
+      Orange Bodice_8_1: 1561022727205342997
+      Orange Bodice_8_2: 4359906423584935646
+      Orange Bodice_8_3: 6841616602114286066
+      Orange Bodice_8_4: -3038621074823005856
+      Orange Bodice_8_5: -1248339308606416451
+      Orange Bodice_8_6: -7284814737609928019
+      Orange Bodice_9: 1512556576419759621
+      Orange Bodice_9_0: 4114987843303650973
+      Orange Bodice_9_1: 1068541840899140274
+      Orange Bodice_9_2: 4125489825792076971
+      Orange Bodice_9_3: 7719042510789605217
+      Orange Bodice_9_4: -2115209128623802716
+      Orange Bodice_9_5: 1048933538885966607
+      Orange Bodice_9_6: -3268518806404734666
+      Orange Bodice_EMPTY_18: -8423546150526349229
+      Orange Bodice_EMPTY_19: -5909512493953456684
+      Orange Bodice_EMPTY_28: 182276290248525646
+      Orange Bodice_EMPTY_29: 6175027171532326699
+      Orange Bodice_EMPTY_34: 2813200475307159861
+      Orange Bodice_EMPTY_35: -8617995556000604340
+      Orange Bodice_EMPTY_36: -7184378079727824429
+      Orange Bodice_EMPTY_37: 2742593936255464783
+      Orange Bodice_EMPTY_38: 7094430221420357994
+      Orange Bodice_EMPTY_39: 5941646104977194203
+      Orange Bodice_EMPTY_44: 3645023159011255396
+      Orange Bodice_EMPTY_45: -2320966083724546774
+      Orange Bodice_EMPTY_46: -7199171696493699184
+      Orange Bodice_EMPTY_47: 3782217784751466677
+      Orange Bodice_EMPTY_48: 500979494874564147
+      Orange Bodice_EMPTY_49: -5220767611156245987
+      Orange Bodice_EMPTY_5: 2963056139522881630
+      Orange Bodice_EMPTY_56: -8314083085526851476
+      Orange Bodice_EMPTY_57: -8779823205750972766
+      Orange Bodice_EMPTY_58: -8965083947555522053
+      Orange Bodice_EMPTY_59: -849747986280934511
+      Orange Bodice_EMPTY_6: 7025902614178180004
+      Orange Bodice_EMPTY_7: 4943996063430467956
+      Orange Bodice_EMPTY_8: -278138374922215005
+      Orange Bodice_EMPTY_9: 7994051088914191643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

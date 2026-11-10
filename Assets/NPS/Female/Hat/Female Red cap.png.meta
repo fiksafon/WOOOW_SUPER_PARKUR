@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: 429f4539f94f7fe4fa48133840b0e449
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7731694572537592830
+    second: Female Red cap_0
+  - first:
+      213: -5033126551250774229
+    second: Female Red cap_1
+  - first:
+      213: -7787039860376754985
+    second: Female Red cap_2
+  - first:
+      213: 121379793346111191
+    second: Female Red cap_3
+  - first:
+      213: 6948642391165717682
+    second: Female Red cap_4
+  - first:
+      213: -6088827457056785486
+    second: Female Red cap_5
+  - first:
+      213: 7139932750356720319
+    second: Female Red cap_6
+  - first:
+      213: -3745969059445483524
+    second: Female Red cap_7
+  - first:
+      213: 7642999116923433723
+    second: Female Red cap_8
+  - first:
+      213: -7088937027268479631
+    second: Female Red cap_9
+  - first:
+      213: 5080511690433691950
+    second: Female Red cap_10
+  - first:
+      213: -1817357427992868622
+    second: Female Red cap_11
+  - first:
+      213: -3062214656551674849
+    second: Female Red cap_12
+  - first:
+      213: -2410865785496592106
+    second: Female Red cap_13
+  - first:
+      213: 2937894968768517992
+    second: Female Red cap_14
+  - first:
+      213: -3006273518480539135
+    second: Female Red cap_15
+  - first:
+      213: -8586882270902665014
+    second: Female Red cap_16
+  - first:
+      213: 3903063408714806074
+    second: Female Red cap_17
+  - first:
+      213: 1791800146362614605
+    second: Female Red cap_18
+  - first:
+      213: 5109787902074114466
+    second: Female Red cap_19
+  - first:
+      213: -7406980597875804378
+    second: Female Red cap_20
+  - first:
+      213: -637516273178790332
+    second: Female Red cap_21
+  - first:
+      213: 113291503954524912
+    second: Female Red cap_22
+  - first:
+      213: -5489306376704787344
+    second: Female Red cap_23
+  - first:
+      213: 6057115409117525679
+    second: Female Red cap_24
+  - first:
+      213: 1816105024872626307
+    second: Female Red cap_25
+  - first:
+      213: -4287581771028795898
+    second: Female Red cap_26
+  - first:
+      213: 6809629433111052764
+    second: Female Red cap_27
+  - first:
+      213: -185369285407098377
+    second: Female Red cap_28
+  - first:
+      213: 7385032905234807634
+    second: Female Red cap_29
+  - first:
+      213: -8777011294428391532
+    second: Female Red cap_30
+  - first:
+      213: -3108062611667692380
+    second: Female Red cap_31
+  - first:
+      213: 7892570862482677315
+    second: Female Red cap_32
+  - first:
+      213: 417396813715901273
+    second: Female Red cap_33
+  - first:
+      213: 2283521557803876251
+    second: Female Red cap_34
+  - first:
+      213: 2253552563269629976
+    second: Female Red cap_35
+  - first:
+      213: 6725131648739718052
+    second: Female Red cap_36
+  - first:
+      213: 2828034713555822049
+    second: Female Red cap_37
+  - first:
+      213: 8001521400842296700
+    second: Female Red cap_38
+  - first:
+      213: 7484898906318713624
+    second: Female Red cap_39
+  - first:
+      213: 5049290291074625422
+    second: Female Red cap_40
+  - first:
+      213: 7049558922556932618
+    second: Female Red cap_41
+  - first:
+      213: -4616964212459185447
+    second: Female Red cap_42
+  - first:
+      213: -2803152002111071977
+    second: Female Red cap_43
+  - first:
+      213: -3842394536256938452
+    second: Female Red cap_44
+  - first:
+      213: 6878167799722956537
+    second: Female Red cap_0_6
+  - first:
+      213: 1601641648909798933
+    second: Female Red cap_1_6
+  - first:
+      213: -887178457544731644
+    second: Female Red cap_2_6
+  - first:
+      213: -1215320356585090372
+    second: Female Red cap_3_6
+  - first:
+      213: -2875954378067282376
+    second: Female Red cap_4_6
+  - first:
+      213: 7944548276327719900
+    second: Female Red cap_5_6
+  - first:
+      213: -7095395619040631716
+    second: Female Red cap_6_6
+  - first:
+      213: 590528643788118292
+    second: Female Red cap_7_6
+  - first:
+      213: -1932202689731394214
+    second: Female Red cap_8_6
+  - first:
+      213: 6665026071198927121
+    second: Female Red cap_9_6
+  - first:
+      213: 5155994716901050789
+    second: Female Red cap_0_5
+  - first:
+      213: 6795897735225778211
+    second: Female Red cap_1_5
+  - first:
+      213: 7766066682368266447
+    second: Female Red cap_2_5
+  - first:
+      213: 1110952951721598031
+    second: Female Red cap_3_5
+  - first:
+      213: -1009267213964753713
+    second: Female Red cap_4_5
+  - first:
+      213: -2999153108346876718
+    second: Female Red cap_5_5
+  - first:
+      213: 6273667341986527605
+    second: Female Red cap_6_5
+  - first:
+      213: 2793426374021804659
+    second: Female Red cap_7_5
+  - first:
+      213: -8314482242309204817
+    second: Female Red cap_8_5
+  - first:
+      213: -6973229862949816583
+    second: Female Red cap_9_5
+  - first:
+      213: -4336569717141307442
+    second: Female Red cap_0_4
+  - first:
+      213: 5359704877898383940
+    second: Female Red cap_1_4
+  - first:
+      213: -7763661844514174352
+    second: Female Red cap_2_4
+  - first:
+      213: -6081619231211084066
+    second: Female Red cap_3_4
+  - first:
+      213: 8962372399479687343
+    second: Female Red cap_4_4
+  - first:
+      213: -3083719740528169130
+    second: Female Red cap_5_4
+  - first:
+      213: 4869366444263086455
+    second: Female Red cap_6_4
+  - first:
+      213: 6317981877437716609
+    second: Female Red cap_7_4
+  - first:
+      213: 6190623916950448239
+    second: Female Red cap_8_4
+  - first:
+      213: -7377537050419870007
+    second: Female Red cap_9_4
+  - first:
+      213: 8878075933227324638
+    second: Female Red cap_0_3
+  - first:
+      213: -227262115895512338
+    second: Female Red cap_1_3
+  - first:
+      213: 7292739095881704659
+    second: Female Red cap_2_3
+  - first:
+      213: -3776605057215308795
+    second: Female Red cap_3_3
+  - first:
+      213: -146322015317464989
+    second: Female Red cap_4_3
+  - first:
+      213: 1583689673776620645
+    second: Female Red cap_5_3
+  - first:
+      213: -2485444279810333016
+    second: Female Red cap_6_3
+  - first:
+      213: 3131533541384531422
+    second: Female Red cap_7_3
+  - first:
+      213: 8203618179777828202
+    second: Female Red cap_8_3
+  - first:
+      213: 680281902102239426
+    second: Female Red cap_9_3
+  - first:
+      213: 3529318325225998752
+    second: Female Red cap_0_2
+  - first:
+      213: 6629213214942422815
+    second: Female Red cap_1_2
+  - first:
+      213: -6443082189908821595
+    second: Female Red cap_2_2
+  - first:
+      213: -4245102738265036346
+    second: Female Red cap_3_2
+  - first:
+      213: 737214289354498640
+    second: Female Red cap_4_2
+  - first:
+      213: 362578835301118652
+    second: Female Red cap_5_2
+  - first:
+      213: 2909326526515331418
+    second: Female Red cap_6_2
+  - first:
+      213: 6861494326130535849
+    second: Female Red cap_7_2
+  - first:
+      213: 1960347695575246103
+    second: Female Red cap_8_2
+  - first:
+      213: 4038805461497374204
+    second: Female Red cap_9_2
+  - first:
+      213: 4257615789206613802
+    second: Female Red cap_0_1
+  - first:
+      213: 4003946716062641963
+    second: Female Red cap_1_1
+  - first:
+      213: 3923709459887527928
+    second: Female Red cap_2_1
+  - first:
+      213: -4720186744575009956
+    second: Female Red cap_3_1
+  - first:
+      213: -6154952528355951273
+    second: Female Red cap_4_1
+  - first:
+      213: 8316334820260775579
+    second: Female Red cap_5_1
+  - first:
+      213: 3932197714239105010
+    second: Female Red cap_6_1
+  - first:
+      213: -3353463746185519130
+    second: Female Red cap_7_1
+  - first:
+      213: -8413488619903303219
+    second: Female Red cap_8_1
+  - first:
+      213: -4505368829403402970
+    second: Female Red cap_9_1
+  - first:
+      213: -6445410057850793810
+    second: Female Red cap_0_0
+  - first:
+      213: -5754681048316231763
+    second: Female Red cap_1_0
+  - first:
+      213: 6906995057661085069
+    second: Female Red cap_2_0
+  - first:
+      213: -184814034649140588
+    second: Female Red cap_3_0
+  - first:
+      213: 3829833509346620916
+    second: Female Red cap_4_0
+  - first:
+      213: -8254977753824902067
+    second: Female Red cap_5_0
+  - first:
+      213: -4386143846477289278
+    second: Female Red cap_6_0
+  - first:
+      213: -8246853523451641345
+    second: Female Red cap_7_0
+  - first:
+      213: -5720737328557941758
+    second: Female Red cap_8_0
+  - first:
+      213: 8230912605548522032
+    second: Female Red cap_9_0
+  - first:
+      213: 4002940973816472651
+    second: Female Red cap_EMPTY_5
+  - first:
+      213: -7715258347228221429
+    second: Female Red cap_EMPTY_6
+  - first:
+      213: 3752451143068074979
+    second: Female Red cap_EMPTY_7
+  - first:
+      213: 7132943222060137253
+    second: Female Red cap_EMPTY_8
+  - first:
+      213: -868711230174560297
+    second: Female Red cap_EMPTY_9
+  - first:
+      213: 2038475264345476863
+    second: Female Red cap_EMPTY_18
+  - first:
+      213: 715038518130044531
+    second: Female Red cap_EMPTY_19
+  - first:
+      213: -6305762756053223249
+    second: Female Red cap_EMPTY_28
+  - first:
+      213: 5655824387930805577
+    second: Female Red cap_EMPTY_29
+  - first:
+      213: 4209949611990550402
+    second: Female Red cap_EMPTY_34
+  - first:
+      213: 7390343929145281595
+    second: Female Red cap_EMPTY_35
+  - first:
+      213: 7848583960030664565
+    second: Female Red cap_EMPTY_36
+  - first:
+      213: -3811248198926989809
+    second: Female Red cap_EMPTY_37
+  - first:
+      213: 8239841889842248973
+    second: Female Red cap_EMPTY_38
+  - first:
+      213: -7473912341242533736
+    second: Female Red cap_EMPTY_39
+  - first:
+      213: 2070306201791919458
+    second: Female Red cap_EMPTY_44
+  - first:
+      213: -4308262896309210162
+    second: Female Red cap_EMPTY_45
+  - first:
+      213: 1661044275450387968
+    second: Female Red cap_EMPTY_46
+  - first:
+      213: -2027324407461454367
+    second: Female Red cap_EMPTY_47
+  - first:
+      213: -4163621754352764903
+    second: Female Red cap_EMPTY_48
+  - first:
+      213: -1824882224890596646
+    second: Female Red cap_EMPTY_49
+  - first:
+      213: -6583356658390891578
+    second: Female Red cap_50
+  - first:
+      213: 3959291214203257406
+    second: Female Red cap_51
+  - first:
+      213: 7509080994239936005
+    second: Female Red cap_52
+  - first:
+      213: -8702185123612531356
+    second: Female Red cap_53
+  - first:
+      213: 4806186198183205379
+    second: Female Red cap_54
+  - first:
+      213: -8013872217701817368
+    second: Female Red cap_55
+  - first:
+      213: 8038078171743805539
+    second: Female Red cap_EMPTY_56
+  - first:
+      213: -2390176387161375247
+    second: Female Red cap_EMPTY_57
+  - first:
+      213: 5229706659187836772
+    second: Female Red cap_EMPTY_58
+  - first:
+      213: -4952831682690352703
+    second: Female Red cap_EMPTY_59
+  - first:
+      213: 5186792583358203020
+    second: Female Red cap_60
+  - first:
+      213: 205789602517945611
+    second: Female Red cap_61
+  - first:
+      213: 4052346147215600565
+    second: Female Red cap_62
+  - first:
+      213: 7269459048344475455
+    second: Female Red cap_63
+  - first:
+      213: 6943081008979050720
+    second: Female Red cap_64
+  - first:
+      213: -4206922960581379643
+    second: Female Red cap_65
+  - first:
+      213: 7134497689079494154
+    second: Female Red cap_66
+  - first:
+      213: -3686126770718404850
+    second: Female Red cap_67
+  - first:
+      213: -6677080700410229311
+    second: Female Red cap_68
+  - first:
+      213: -1346390358403992242
+    second: Female Red cap_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female Red cap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb3bebdf3f7c4b60800000000000000
+      internalID: 7731694572537592830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b275c1b711eb62ab0800000000000000
+      internalID: -5033126551250774229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4af662180eee390800000000000000
+      internalID: -7787039860376754985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d62e49674a3fa100800000000000000
+      internalID: 121379793346111191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc47a470798e6060800000000000000
+      internalID: 6948642391165717682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44ef217b9d4d8730800000000000000
+      internalID: 4002940973816472651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00381f0965ede490800000000000000
+      internalID: -7715258347228221429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3c49bee62631430800000000000000
+      internalID: 3752451143068074979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bbce9811e4df260800000000000000
+      internalID: 7132943222060137253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df7d012db7b1f3f0800000000000000
+      internalID: -868711230174560297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e210589f67a918640800000000000000
+      internalID: 5080511690433691950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8419a4c0377c6e0800000000000000
+      internalID: -1817357427992868622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c1e328ef3d085d0800000000000000
+      internalID: -3062214656551674849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61125566752ea8ed0800000000000000
+      internalID: -2410865785496592106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867dad098ef75c820800000000000000
+      internalID: 2937894968768517992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102cd41b9229746d0800000000000000
+      internalID: -3006273518480539135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac04fb2e11445d880800000000000000
+      internalID: -8586882270902665014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33754cad777a2630800000000000000
+      internalID: 3903063408714806074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe8bbed37e1a4c10800000000000000
+      internalID: 2038475264345476863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eecd96eb35ce900800000000000000
+      internalID: 715038518130044531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627f66dd36e153990800000000000000
+      internalID: -7406980597875804378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446b5a6c3561727f0800000000000000
+      internalID: -637516273178790332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa7749c50e729100800000000000000
+      internalID: 113291503954524912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c79391fe012d3b0800000000000000
+      internalID: -5489306376704787344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6bef36f523f0450800000000000000
+      internalID: 6057115409117525679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388b552e5e9143910800000000000000
+      internalID: 1816105024872626307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e636888137f74c0800000000000000
+      internalID: -4287581771028795898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd101a4f3e9a08e50800000000000000
+      internalID: 6809629433111052764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa83f87ce2e6d78a0800000000000000
+      internalID: -6305762756053223249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9455b92a0568d7e40800000000000000
+      internalID: 5655824387930805577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4971106fabac13680800000000000000
+      internalID: -8777011294428391532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4dfdb9581fdd4d0800000000000000
+      internalID: -3108062611667692380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ed0eef16b088d60800000000000000
+      internalID: 7892570862482677315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b8aebc034eac500800000000000000
+      internalID: 417396813715901273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2878df8eddebc6a30800000000000000
+      internalID: 4209949611990550402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c4ba8d5a6cf8660800000000000000
+      internalID: 7390343929145281595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577d47f2785cbec60800000000000000
+      internalID: 7848583960030664565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f060c18b4f9bb1bc0800000000000000
+      internalID: -3811248198926989809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d3e61da8cc95270800000000000000
+      internalID: 8239841889842248973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898a4d9f254574890800000000000000
+      internalID: -7473912341242533736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fe45774cea21640800000000000000
+      internalID: 5049290291074625422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02013a6d7015d160800000000000000
+      internalID: 7049558922556932618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daddafa28f3defb0800000000000000
+      internalID: -4616964212459185447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7199eb61b143919d0800000000000000
+      internalID: -2803152002111071977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265781685843bbc10800000000000000
+      internalID: 2070306201791919458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec37e72d8b9f534c0800000000000000
+      internalID: -4308262896309210162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e9a6ac7f63d0710800000000000000
+      internalID: 1661044275450387968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edd7c0513f7dd3e0800000000000000
+      internalID: -2027324407461454367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918f6b00318d736c0800000000000000
+      internalID: -4163621754352764903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2b87cf847bca6e0800000000000000
+      internalID: -1824882224890596646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c388e2dff733a4a0800000000000000
+      internalID: -6583356658390891578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3209e0d16a32f630800000000000000
+      internalID: 3959291214203257406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506fe43216d953860800000000000000
+      internalID: 7509080994239936005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465e2697cb0ab3780800000000000000
+      internalID: -8702185123612531356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a581b02e003b240800000000000000
+      internalID: 4806186198183205379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3e2846da109c090800000000000000
+      internalID: -8013872217701817368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3606c97728dfc8f60800000000000000
+      internalID: 8038078171743805539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd38b45d3364ded0800000000000000
+      internalID: -2390176387161375247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467c2649f76a39840800000000000000
+      internalID: 5229706659187836772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9f0f863d1044bb0800000000000000
+      internalID: -4952831682690352703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8442beaf503bf740800000000000000
+      internalID: 5186792583358203020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d0d8c9d8c1bd200800000000000000
+      internalID: 205789602517945611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb65b3c953dc3830800000000000000
+      internalID: 4052346147215600565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3752dd3d7e42e460800000000000000
+      internalID: 7269459048344475455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e005f24467ca5060800000000000000
+      internalID: 6943081008979050720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9bc194bd10e95c0800000000000000
+      internalID: -4206922960581379643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06bd6819d3d20360800000000000000
+      internalID: 7134497689079494154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f85426b3f38dcc0800000000000000
+      internalID: -3686126770718404850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd8e6bca7e3653a0800000000000000
+      internalID: -6677080700410229311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Red cap_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45b15e3a19a05de0800000000000000
+      internalID: -1346390358403992242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Female Red cap_0: 7731694572537592830
+      Female Red cap_0_0: -6445410057850793810
+      Female Red cap_0_1: 4257615789206613802
+      Female Red cap_0_2: 3529318325225998752
+      Female Red cap_0_3: 8878075933227324638
+      Female Red cap_0_4: -4336569717141307442
+      Female Red cap_0_5: 5155994716901050789
+      Female Red cap_0_6: 6878167799722956537
+      Female Red cap_1: -5033126551250774229
+      Female Red cap_10: 5080511690433691950
+      Female Red cap_11: -1817357427992868622
+      Female Red cap_12: -3062214656551674849
+      Female Red cap_13: -2410865785496592106
+      Female Red cap_14: 2937894968768517992
+      Female Red cap_15: -3006273518480539135
+      Female Red cap_16: -8586882270902665014
+      Female Red cap_17: 3903063408714806074
+      Female Red cap_18: 1791800146362614605
+      Female Red cap_19: 5109787902074114466
+      Female Red cap_1_0: -5754681048316231763
+      Female Red cap_1_1: 4003946716062641963
+      Female Red cap_1_2: 6629213214942422815
+      Female Red cap_1_3: -227262115895512338
+      Female Red cap_1_4: 5359704877898383940
+      Female Red cap_1_5: 6795897735225778211
+      Female Red cap_1_6: 1601641648909798933
+      Female Red cap_2: -7787039860376754985
+      Female Red cap_20: -7406980597875804378
+      Female Red cap_21: -637516273178790332
+      Female Red cap_22: 113291503954524912
+      Female Red cap_23: -5489306376704787344
+      Female Red cap_24: 6057115409117525679
+      Female Red cap_25: 1816105024872626307
+      Female Red cap_26: -4287581771028795898
+      Female Red cap_27: 6809629433111052764
+      Female Red cap_28: -185369285407098377
+      Female Red cap_29: 7385032905234807634
+      Female Red cap_2_0: 6906995057661085069
+      Female Red cap_2_1: 3923709459887527928
+      Female Red cap_2_2: -6443082189908821595
+      Female Red cap_2_3: 7292739095881704659
+      Female Red cap_2_4: -7763661844514174352
+      Female Red cap_2_5: 7766066682368266447
+      Female Red cap_2_6: -887178457544731644
+      Female Red cap_3: 121379793346111191
+      Female Red cap_30: -8777011294428391532
+      Female Red cap_31: -3108062611667692380
+      Female Red cap_32: 7892570862482677315
+      Female Red cap_33: 417396813715901273
+      Female Red cap_34: 2283521557803876251
+      Female Red cap_35: 2253552563269629976
+      Female Red cap_36: 6725131648739718052
+      Female Red cap_37: 2828034713555822049
+      Female Red cap_38: 8001521400842296700
+      Female Red cap_39: 7484898906318713624
+      Female Red cap_3_0: -184814034649140588
+      Female Red cap_3_1: -4720186744575009956
+      Female Red cap_3_2: -4245102738265036346
+      Female Red cap_3_3: -3776605057215308795
+      Female Red cap_3_4: -6081619231211084066
+      Female Red cap_3_5: 1110952951721598031
+      Female Red cap_3_6: -1215320356585090372
+      Female Red cap_4: 6948642391165717682
+      Female Red cap_40: 5049290291074625422
+      Female Red cap_41: 7049558922556932618
+      Female Red cap_42: -4616964212459185447
+      Female Red cap_43: -2803152002111071977
+      Female Red cap_44: -3842394536256938452
+      Female Red cap_4_0: 3829833509346620916
+      Female Red cap_4_1: -6154952528355951273
+      Female Red cap_4_2: 737214289354498640
+      Female Red cap_4_3: -146322015317464989
+      Female Red cap_4_4: 8962372399479687343
+      Female Red cap_4_5: -1009267213964753713
+      Female Red cap_4_6: -2875954378067282376
+      Female Red cap_5: -6088827457056785486
+      Female Red cap_50: -6583356658390891578
+      Female Red cap_51: 3959291214203257406
+      Female Red cap_52: 7509080994239936005
+      Female Red cap_53: -8702185123612531356
+      Female Red cap_54: 4806186198183205379
+      Female Red cap_55: -8013872217701817368
+      Female Red cap_5_0: -8254977753824902067
+      Female Red cap_5_1: 8316334820260775579
+      Female Red cap_5_2: 362578835301118652
+      Female Red cap_5_3: 1583689673776620645
+      Female Red cap_5_4: -3083719740528169130
+      Female Red cap_5_5: -2999153108346876718
+      Female Red cap_5_6: 7944548276327719900
+      Female Red cap_6: 7139932750356720319
+      Female Red cap_60: 5186792583358203020
+      Female Red cap_61: 205789602517945611
+      Female Red cap_62: 4052346147215600565
+      Female Red cap_63: 7269459048344475455
+      Female Red cap_64: 6943081008979050720
+      Female Red cap_65: -4206922960581379643
+      Female Red cap_66: 7134497689079494154
+      Female Red cap_67: -3686126770718404850
+      Female Red cap_68: -6677080700410229311
+      Female Red cap_69: -1346390358403992242
+      Female Red cap_6_0: -4386143846477289278
+      Female Red cap_6_1: 3932197714239105010
+      Female Red cap_6_2: 2909326526515331418
+      Female Red cap_6_3: -2485444279810333016
+      Female Red cap_6_4: 4869366444263086455
+      Female Red cap_6_5: 6273667341986527605
+      Female Red cap_6_6: -7095395619040631716
+      Female Red cap_7: -3745969059445483524
+      Female Red cap_7_0: -8246853523451641345
+      Female Red cap_7_1: -3353463746185519130
+      Female Red cap_7_2: 6861494326130535849
+      Female Red cap_7_3: 3131533541384531422
+      Female Red cap_7_4: 6317981877437716609
+      Female Red cap_7_5: 2793426374021804659
+      Female Red cap_7_6: 590528643788118292
+      Female Red cap_8: 7642999116923433723
+      Female Red cap_8_0: -5720737328557941758
+      Female Red cap_8_1: -8413488619903303219
+      Female Red cap_8_2: 1960347695575246103
+      Female Red cap_8_3: 8203618179777828202
+      Female Red cap_8_4: 6190623916950448239
+      Female Red cap_8_5: -8314482242309204817
+      Female Red cap_8_6: -1932202689731394214
+      Female Red cap_9: -7088937027268479631
+      Female Red cap_9_0: 8230912605548522032
+      Female Red cap_9_1: -4505368829403402970
+      Female Red cap_9_2: 4038805461497374204
+      Female Red cap_9_3: 680281902102239426
+      Female Red cap_9_4: -7377537050419870007
+      Female Red cap_9_5: -6973229862949816583
+      Female Red cap_9_6: 6665026071198927121
+      Female Red cap_EMPTY_18: 2038475264345476863
+      Female Red cap_EMPTY_19: 715038518130044531
+      Female Red cap_EMPTY_28: -6305762756053223249
+      Female Red cap_EMPTY_29: 5655824387930805577
+      Female Red cap_EMPTY_34: 4209949611990550402
+      Female Red cap_EMPTY_35: 7390343929145281595
+      Female Red cap_EMPTY_36: 7848583960030664565
+      Female Red cap_EMPTY_37: -3811248198926989809
+      Female Red cap_EMPTY_38: 8239841889842248973
+      Female Red cap_EMPTY_39: -7473912341242533736
+      Female Red cap_EMPTY_44: 2070306201791919458
+      Female Red cap_EMPTY_45: -4308262896309210162
+      Female Red cap_EMPTY_46: 1661044275450387968
+      Female Red cap_EMPTY_47: -2027324407461454367
+      Female Red cap_EMPTY_48: -4163621754352764903
+      Female Red cap_EMPTY_49: -1824882224890596646
+      Female Red cap_EMPTY_5: 4002940973816472651
+      Female Red cap_EMPTY_56: 8038078171743805539
+      Female Red cap_EMPTY_57: -2390176387161375247
+      Female Red cap_EMPTY_58: 5229706659187836772
+      Female Red cap_EMPTY_59: -4952831682690352703
+      Female Red cap_EMPTY_6: -7715258347228221429
+      Female Red cap_EMPTY_7: 3752451143068074979
+      Female Red cap_EMPTY_8: 7132943222060137253
+      Female Red cap_EMPTY_9: -868711230174560297
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

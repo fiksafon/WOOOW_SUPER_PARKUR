@@ -1,0 +1,2299 @@
+fileFormatVersion: 2
+guid: 6648aa71db9408e48b557a0274467f83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4081504046355909973
+    second: Green Corset v2 Long Sleeves_0
+  - first:
+      213: 9059075026705342835
+    second: Green Corset v2 Long Sleeves_1
+  - first:
+      213: 4013902118714293822
+    second: Green Corset v2 Long Sleeves_2
+  - first:
+      213: 7376496244143281498
+    second: Green Corset v2 Long Sleeves_3
+  - first:
+      213: 9165055294946232495
+    second: Green Corset v2 Long Sleeves_4
+  - first:
+      213: -2526911874943562184
+    second: Green Corset v2 Long Sleeves_5
+  - first:
+      213: -8045576449088449471
+    second: Green Corset v2 Long Sleeves_6
+  - first:
+      213: -1710328955687478096
+    second: Green Corset v2 Long Sleeves_7
+  - first:
+      213: 6721074105822088008
+    second: Green Corset v2 Long Sleeves_8
+  - first:
+      213: 3300204125421331809
+    second: Green Corset v2 Long Sleeves_9
+  - first:
+      213: 1075677954980880026
+    second: Green Corset v2 Long Sleeves_10
+  - first:
+      213: 1368469114138383713
+    second: Green Corset v2 Long Sleeves_11
+  - first:
+      213: -8049372696876757307
+    second: Green Corset v2 Long Sleeves_12
+  - first:
+      213: 1690857128188088635
+    second: Green Corset v2 Long Sleeves_13
+  - first:
+      213: -5877829650158767521
+    second: Green Corset v2 Long Sleeves_14
+  - first:
+      213: -9204466688232917085
+    second: Green Corset v2 Long Sleeves_15
+  - first:
+      213: -4959974244253012570
+    second: Green Corset v2 Long Sleeves_16
+  - first:
+      213: 8960581605376025948
+    second: Green Corset v2 Long Sleeves_17
+  - first:
+      213: 1562495648218459224
+    second: Green Corset v2 Long Sleeves_18
+  - first:
+      213: -4214692145294424206
+    second: Green Corset v2 Long Sleeves_19
+  - first:
+      213: 6152677820246797465
+    second: Green Corset v2 Long Sleeves_20
+  - first:
+      213: -5427140079178201303
+    second: Green Corset v2 Long Sleeves_21
+  - first:
+      213: -1594673878240518302
+    second: Green Corset v2 Long Sleeves_22
+  - first:
+      213: 5149886721739235293
+    second: Green Corset v2 Long Sleeves_23
+  - first:
+      213: 6660800124532807567
+    second: Green Corset v2 Long Sleeves_24
+  - first:
+      213: 2686621606810885682
+    second: Green Corset v2 Long Sleeves_25
+  - first:
+      213: -4632481176559387443
+    second: Green Corset v2 Long Sleeves_26
+  - first:
+      213: -4657747527906846937
+    second: Green Corset v2 Long Sleeves_27
+  - first:
+      213: -6223655510405286784
+    second: Green Corset v2 Long Sleeves_28
+  - first:
+      213: -2361176241387482859
+    second: Green Corset v2 Long Sleeves_29
+  - first:
+      213: 8366973033854613341
+    second: Green Corset v2 Long Sleeves_30
+  - first:
+      213: -9115941644909264046
+    second: Green Corset v2 Long Sleeves_31
+  - first:
+      213: -5054935575945432846
+    second: Green Corset v2 Long Sleeves_32
+  - first:
+      213: -2550602644852490357
+    second: Green Corset v2 Long Sleeves_33
+  - first:
+      213: -5416167703473853759
+    second: Green Corset v2 Long Sleeves_34
+  - first:
+      213: 567040819617700104
+    second: Green Corset v2 Long Sleeves_35
+  - first:
+      213: -5210961810986613836
+    second: Green Corset v2 Long Sleeves_36
+  - first:
+      213: 1947789413108052669
+    second: Green Corset v2 Long Sleeves_37
+  - first:
+      213: -8716039874041057901
+    second: Green Corset v2 Long Sleeves_38
+  - first:
+      213: 890807358256149501
+    second: Green Corset v2 Long Sleeves_39
+  - first:
+      213: -2692292154850710170
+    second: Green Corset v2 Long Sleeves_40
+  - first:
+      213: 7925865984230402066
+    second: Green Corset v2 Long Sleeves_41
+  - first:
+      213: -7208014344651741051
+    second: Green Corset v2 Long Sleeves_42
+  - first:
+      213: 4232881260300047682
+    second: Green Corset v2 Long Sleeves_43
+  - first:
+      213: 6923440206193381873
+    second: Green Corset v2 Long Sleeves_44
+  - first:
+      213: 5640258978841919003
+    second: Green Corset v2 Long Sleeves_45
+  - first:
+      213: 7334642462703064519
+    second: Green Corset v2 Long Sleeves_46
+  - first:
+      213: 1176431067937342599
+    second: Green Corset v2 Long Sleeves_47
+  - first:
+      213: 5138308230423474901
+    second: Green Corset v2 Long Sleeves_48
+  - first:
+      213: -415742317344528124
+    second: Green Corset v2 Long Sleeves_0_6
+  - first:
+      213: 4319967123659890261
+    second: Green Corset v2 Long Sleeves_1_6
+  - first:
+      213: 2605892354692895075
+    second: Green Corset v2 Long Sleeves_2_6
+  - first:
+      213: -1183797845454508945
+    second: Green Corset v2 Long Sleeves_3_6
+  - first:
+      213: -4669511087119559422
+    second: Green Corset v2 Long Sleeves_4_6
+  - first:
+      213: 6823004756955846001
+    second: Green Corset v2 Long Sleeves_5_6
+  - first:
+      213: 124826766867339864
+    second: Green Corset v2 Long Sleeves_6_6
+  - first:
+      213: 6830184829946921013
+    second: Green Corset v2 Long Sleeves_7_6
+  - first:
+      213: 742407387701140184
+    second: Green Corset v2 Long Sleeves_8_6
+  - first:
+      213: 80425800048966437
+    second: Green Corset v2 Long Sleeves_9_6
+  - first:
+      213: -7620681586716881846
+    second: Green Corset v2 Long Sleeves_0_5
+  - first:
+      213: 149274313156800397
+    second: Green Corset v2 Long Sleeves_1_5
+  - first:
+      213: -2380012471171845109
+    second: Green Corset v2 Long Sleeves_2_5
+  - first:
+      213: -1686162605218076509
+    second: Green Corset v2 Long Sleeves_3_5
+  - first:
+      213: -5361902773645579404
+    second: Green Corset v2 Long Sleeves_4_5
+  - first:
+      213: -7978576779753760735
+    second: Green Corset v2 Long Sleeves_5_5
+  - first:
+      213: -7327119890275567331
+    second: Green Corset v2 Long Sleeves_6_5
+  - first:
+      213: -7104122667860420491
+    second: Green Corset v2 Long Sleeves_7_5
+  - first:
+      213: 5623697926706703362
+    second: Green Corset v2 Long Sleeves_8_5
+  - first:
+      213: -163361317092459235
+    second: Green Corset v2 Long Sleeves_9_5
+  - first:
+      213: 8370618377747260235
+    second: Green Corset v2 Long Sleeves_0_4
+  - first:
+      213: -1406591292919797975
+    second: Green Corset v2 Long Sleeves_1_4
+  - first:
+      213: 7937673865015861162
+    second: Green Corset v2 Long Sleeves_2_4
+  - first:
+      213: -2569526308981272167
+    second: Green Corset v2 Long Sleeves_3_4
+  - first:
+      213: -2761373488412511775
+    second: Green Corset v2 Long Sleeves_4_4
+  - first:
+      213: 4000153997163289178
+    second: Green Corset v2 Long Sleeves_5_4
+  - first:
+      213: -8842745896205169866
+    second: Green Corset v2 Long Sleeves_6_4
+  - first:
+      213: -8327200992538433565
+    second: Green Corset v2 Long Sleeves_7_4
+  - first:
+      213: 7996039154831865401
+    second: Green Corset v2 Long Sleeves_8_4
+  - first:
+      213: 1950988463517110106
+    second: Green Corset v2 Long Sleeves_9_4
+  - first:
+      213: 5379843051099583334
+    second: Green Corset v2 Long Sleeves_0_3
+  - first:
+      213: -1014796237062205184
+    second: Green Corset v2 Long Sleeves_1_3
+  - first:
+      213: -4877258224645335862
+    second: Green Corset v2 Long Sleeves_2_3
+  - first:
+      213: 2914377975284033698
+    second: Green Corset v2 Long Sleeves_3_3
+  - first:
+      213: -7199699978627790595
+    second: Green Corset v2 Long Sleeves_4_3
+  - first:
+      213: 3999670403467951102
+    second: Green Corset v2 Long Sleeves_5_3
+  - first:
+      213: 5210192424355007391
+    second: Green Corset v2 Long Sleeves_6_3
+  - first:
+      213: 1396403911301028225
+    second: Green Corset v2 Long Sleeves_7_3
+  - first:
+      213: -717614197757297210
+    second: Green Corset v2 Long Sleeves_8_3
+  - first:
+      213: -6611113530895284249
+    second: Green Corset v2 Long Sleeves_9_3
+  - first:
+      213: -340774257456837612
+    second: Green Corset v2 Long Sleeves_0_2
+  - first:
+      213: -7673232830780771359
+    second: Green Corset v2 Long Sleeves_1_2
+  - first:
+      213: 3979809505016249819
+    second: Green Corset v2 Long Sleeves_2_2
+  - first:
+      213: -8010816452779296385
+    second: Green Corset v2 Long Sleeves_3_2
+  - first:
+      213: -1165839584495045430
+    second: Green Corset v2 Long Sleeves_4_2
+  - first:
+      213: 17274590459306779
+    second: Green Corset v2 Long Sleeves_5_2
+  - first:
+      213: 6960854812460124115
+    second: Green Corset v2 Long Sleeves_6_2
+  - first:
+      213: -6240576252228633894
+    second: Green Corset v2 Long Sleeves_7_2
+  - first:
+      213: 1881437136829444300
+    second: Green Corset v2 Long Sleeves_8_2
+  - first:
+      213: -4445238623707124662
+    second: Green Corset v2 Long Sleeves_9_2
+  - first:
+      213: -672768783830525472
+    second: Green Corset v2 Long Sleeves_0_1
+  - first:
+      213: 5667354531233858255
+    second: Green Corset v2 Long Sleeves_1_1
+  - first:
+      213: 8168390008012623199
+    second: Green Corset v2 Long Sleeves_2_1
+  - first:
+      213: -1299842618179476113
+    second: Green Corset v2 Long Sleeves_3_1
+  - first:
+      213: 8580316906069996777
+    second: Green Corset v2 Long Sleeves_4_1
+  - first:
+      213: -6741209649564025959
+    second: Green Corset v2 Long Sleeves_5_1
+  - first:
+      213: -357639101658054844
+    second: Green Corset v2 Long Sleeves_6_1
+  - first:
+      213: -4288487114079945319
+    second: Green Corset v2 Long Sleeves_7_1
+  - first:
+      213: 361487476974261186
+    second: Green Corset v2 Long Sleeves_8_1
+  - first:
+      213: 7984018663045294343
+    second: Green Corset v2 Long Sleeves_9_1
+  - first:
+      213: 4740993620473077274
+    second: Green Corset v2 Long Sleeves_0_0
+  - first:
+      213: 6977323789741228587
+    second: Green Corset v2 Long Sleeves_1_0
+  - first:
+      213: 6194062588989045444
+    second: Green Corset v2 Long Sleeves_2_0
+  - first:
+      213: 8781148975298071331
+    second: Green Corset v2 Long Sleeves_3_0
+  - first:
+      213: 6061188229012041057
+    second: Green Corset v2 Long Sleeves_4_0
+  - first:
+      213: -5878054711397481236
+    second: Green Corset v2 Long Sleeves_5_0
+  - first:
+      213: -702048054204588818
+    second: Green Corset v2 Long Sleeves_6_0
+  - first:
+      213: 7849333848669133179
+    second: Green Corset v2 Long Sleeves_7_0
+  - first:
+      213: 3346020639609042324
+    second: Green Corset v2 Long Sleeves_8_0
+  - first:
+      213: 2310880685319899998
+    second: Green Corset v2 Long Sleeves_9_0
+  - first:
+      213: 8837676365261953906
+    second: Green Corset v2 Long Sleeves_EMPTY_5
+  - first:
+      213: 8132676375956521864
+    second: Green Corset v2 Long Sleeves_EMPTY_6
+  - first:
+      213: 5285874056902829878
+    second: Green Corset v2 Long Sleeves_EMPTY_7
+  - first:
+      213: 8508438733568631566
+    second: Green Corset v2 Long Sleeves_EMPTY_8
+  - first:
+      213: 6285749112558991521
+    second: Green Corset v2 Long Sleeves_EMPTY_9
+  - first:
+      213: -4820844419974579262
+    second: Green Corset v2 Long Sleeves_EMPTY_18
+  - first:
+      213: -385852521201874929
+    second: Green Corset v2 Long Sleeves_EMPTY_19
+  - first:
+      213: 6008386068665157755
+    second: Green Corset v2 Long Sleeves_EMPTY_28
+  - first:
+      213: 3983275471347564485
+    second: Green Corset v2 Long Sleeves_EMPTY_29
+  - first:
+      213: 4197795083149086374
+    second: Green Corset v2 Long Sleeves_EMPTY_34
+  - first:
+      213: 113929561671833662
+    second: Green Corset v2 Long Sleeves_EMPTY_35
+  - first:
+      213: -6268488227666631826
+    second: Green Corset v2 Long Sleeves_EMPTY_36
+  - first:
+      213: 764628085580617856
+    second: Green Corset v2 Long Sleeves_EMPTY_37
+  - first:
+      213: -7911777961877085323
+    second: Green Corset v2 Long Sleeves_EMPTY_38
+  - first:
+      213: -5232972379667146402
+    second: Green Corset v2 Long Sleeves_EMPTY_39
+  - first:
+      213: -2346974742794259932
+    second: Green Corset v2 Long Sleeves_EMPTY_44
+  - first:
+      213: -8844763508838573946
+    second: Green Corset v2 Long Sleeves_EMPTY_45
+  - first:
+      213: 122969375645779982
+    second: Green Corset v2 Long Sleeves_EMPTY_46
+  - first:
+      213: 2341587572413302710
+    second: Green Corset v2 Long Sleeves_EMPTY_47
+  - first:
+      213: 6264600741403973975
+    second: Green Corset v2 Long Sleeves_EMPTY_48
+  - first:
+      213: -5033724440198593351
+    second: Green Corset v2 Long Sleeves_EMPTY_49
+  - first:
+      213: 6903681580425120349
+    second: Green Corset v2 Long Sleeves_50
+  - first:
+      213: -3301622160301221646
+    second: Green Corset v2 Long Sleeves_51
+  - first:
+      213: 4086362317223399242
+    second: Green Corset v2 Long Sleeves_52
+  - first:
+      213: 5188336007540593615
+    second: Green Corset v2 Long Sleeves_53
+  - first:
+      213: -7115741826287265157
+    second: Green Corset v2 Long Sleeves_54
+  - first:
+      213: 8846668854242756831
+    second: Green Corset v2 Long Sleeves_55
+  - first:
+      213: 3609496652630516128
+    second: Green Corset v2 Long Sleeves_EMPTY_56
+  - first:
+      213: -1431439006383879787
+    second: Green Corset v2 Long Sleeves_EMPTY_57
+  - first:
+      213: 602727118059388599
+    second: Green Corset v2 Long Sleeves_EMPTY_58
+  - first:
+      213: -3356302705965110619
+    second: Green Corset v2 Long Sleeves_EMPTY_59
+  - first:
+      213: -1615352234686281481
+    second: Green Corset v2 Long Sleeves_60
+  - first:
+      213: 6591032023899450290
+    second: Green Corset v2 Long Sleeves_61
+  - first:
+      213: -1160580359072450335
+    second: Green Corset v2 Long Sleeves_62
+  - first:
+      213: -5666078136576876176
+    second: Green Corset v2 Long Sleeves_63
+  - first:
+      213: -3677406194701300801
+    second: Green Corset v2 Long Sleeves_64
+  - first:
+      213: 4711462915403205028
+    second: Green Corset v2 Long Sleeves_65
+  - first:
+      213: -4515176088221557869
+    second: Green Corset v2 Long Sleeves_66
+  - first:
+      213: -3101538738165495523
+    second: Green Corset v2 Long Sleeves_67
+  - first:
+      213: -184246406750751276
+    second: Green Corset v2 Long Sleeves_68
+  - first:
+      213: -1922151751151074316
+    second: Green Corset v2 Long Sleeves_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2f2afc1b59b57c0800000000000000
+      internalID: -4081504046355909973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37162606dbc48bd70800000000000000
+      internalID: 9059075026705342835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e372dd5be34b730800000000000000
+      internalID: 4013902118714293822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55d92f60449e5660800000000000000
+      internalID: 7376496244143281498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa845127b31d03f70800000000000000
+      internalID: 9165055294946232495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bdd4784dbb5aa70800000000000000
+      internalID: 8837676365261953906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883891e33121dd070800000000000000
+      internalID: 8132676375956521864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6376521f2723b5940800000000000000
+      internalID: 5285874056902829878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e036883d2fb041670800000000000000
+      internalID: 8508438733568631566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a83e49b3877b3750800000000000000
+      internalID: 6285749112558991521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e9a5f96639dee00800000000000000
+      internalID: 1075677954980880026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165df4aa867cdf210800000000000000
+      internalID: 1368469114138383713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cecee9fd22ea4090800000000000000
+      internalID: -8049372696876757307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31969b7991277710800000000000000
+      internalID: 1690857128188088635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5237044311cd6ea0800000000000000
+      internalID: -5877829650158767521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7f5fc705a234080800000000000000
+      internalID: -9204466688232917085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad663434b1aa2bb0800000000000000
+      internalID: -4959974244253012570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c556651be716a5c70800000000000000
+      internalID: 8960581605376025948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbbdfdba8be81db0800000000000000
+      internalID: -4820844419974579262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08c2122d2d25aaf0800000000000000
+      internalID: -385852521201874929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c2c3511e3b26550800000000000000
+      internalID: 6152677820246797465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9274c4a2adceea4b0800000000000000
+      internalID: -5427140079178201303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f11e28e849ed9e0800000000000000
+      internalID: -1594673878240518302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf94ca20b2187740800000000000000
+      internalID: 5149886721739235293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87d7ae3c6aef6c50800000000000000
+      internalID: 6660800124532807567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e1ad7fd1cc84520800000000000000
+      internalID: 2686621606810885682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc7e72f9ee16bfb0800000000000000
+      internalID: -4632481176559387443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72798a91d4b5c5fb0800000000000000
+      internalID: -4657747527906846937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b784130bb43126350800000000000000
+      internalID: 6008386068665157755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfb238dfef674730800000000000000
+      internalID: 3983275471347564485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d573d28e4a57d1470800000000000000
+      internalID: 8366973033854613341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2534efd4f5bad7180800000000000000
+      internalID: -9115941644909264046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0b94930e249d9b0800000000000000
+      internalID: -5054935575945432846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f356e78607a9cd0800000000000000
+      internalID: -2550602644852490357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae8bf22360914a30800000000000000
+      internalID: 4197795083149086374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e389ddc2552c49100800000000000000
+      internalID: 113929561671833662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6366373b2bd109a0800000000000000
+      internalID: -6268488227666631826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088d15251318c9a00800000000000000
+      internalID: 764628085580617856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5736d80bcd7b33290800000000000000
+      internalID: -7911777961877085323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59528e985fb067b0800000000000000
+      internalID: -5232972379667146402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d6d8eac8e03aad0800000000000000
+      internalID: -2692292154850710170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218a76f9e155efd60800000000000000
+      internalID: 7925865984230402066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588ec1ba42df7fb90800000000000000
+      internalID: -7208014344651741051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245979854173eba30800000000000000
+      internalID: 4232881260300047682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4223feef7eedd6fd0800000000000000
+      internalID: -2346974742794259932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688d6554376114580800000000000000
+      internalID: -8844763508838573946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e084e91eeffd4b100800000000000000
+      internalID: 122969375645779982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b70a28ad7dfe7020800000000000000
+      internalID: 2341587572413302710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759580bde2550f650800000000000000
+      internalID: 6264600741403973975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4c2cc9a4e942ab0800000000000000
+      internalID: -5033724440198593351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a85a3f1ddcecf50800000000000000
+      internalID: 6903681580425120349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f810b053284e22d0800000000000000
+      internalID: -3301622160301221646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f84a580eca5b830800000000000000
+      internalID: 4086362317223399242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc353d02c1ca00840800000000000000
+      internalID: 5188336007540593615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a12c2828ecf3d90800000000000000
+      internalID: -7115741826287265157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8c6a6837ea5ca70800000000000000
+      internalID: 8846668854242756831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1e006e412871230800000000000000
+      internalID: 3609496652630516128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599c9dacec1822ce0800000000000000
+      internalID: -1431439006383879787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bebc68de115d5800800000000000000
+      internalID: 602727118059388599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa644ca8740c61d0800000000000000
+      internalID: -3356302705965110619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8046873bd1599e0800000000000000
+      internalID: -1615352234686281481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb20c774bc087b50800000000000000
+      internalID: 6591032023899450290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8f03cff4ac4efe0800000000000000
+      internalID: -1160580359072450335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0716ab774fb0e51b0800000000000000
+      internalID: -5666078136576876176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb0206bc8a37fcc0800000000000000
+      internalID: -3677406194701300801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9c8052f8a726140800000000000000
+      internalID: 4711462915403205028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b573b254fd651c0800000000000000
+      internalID: -4515176088221557869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19488643fe15f4d0800000000000000
+      internalID: -3101538738165495523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5ba768edc617df0800000000000000
+      internalID: -184246406750751276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2 Long Sleeves_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3ce349a252355e0800000000000000
+      internalID: -1922151751151074316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green Corset v2 Long Sleeves_0: -4081504046355909973
+      Green Corset v2 Long Sleeves_0_0: 4740993620473077274
+      Green Corset v2 Long Sleeves_0_1: -672768783830525472
+      Green Corset v2 Long Sleeves_0_2: -340774257456837612
+      Green Corset v2 Long Sleeves_0_3: 5379843051099583334
+      Green Corset v2 Long Sleeves_0_4: 8370618377747260235
+      Green Corset v2 Long Sleeves_0_5: -7620681586716881846
+      Green Corset v2 Long Sleeves_0_6: -415742317344528124
+      Green Corset v2 Long Sleeves_1: 9059075026705342835
+      Green Corset v2 Long Sleeves_10: 1075677954980880026
+      Green Corset v2 Long Sleeves_11: 1368469114138383713
+      Green Corset v2 Long Sleeves_12: -8049372696876757307
+      Green Corset v2 Long Sleeves_13: 1690857128188088635
+      Green Corset v2 Long Sleeves_14: -5877829650158767521
+      Green Corset v2 Long Sleeves_15: -9204466688232917085
+      Green Corset v2 Long Sleeves_16: -4959974244253012570
+      Green Corset v2 Long Sleeves_17: 8960581605376025948
+      Green Corset v2 Long Sleeves_18: 1562495648218459224
+      Green Corset v2 Long Sleeves_19: -4214692145294424206
+      Green Corset v2 Long Sleeves_1_0: 6977323789741228587
+      Green Corset v2 Long Sleeves_1_1: 5667354531233858255
+      Green Corset v2 Long Sleeves_1_2: -7673232830780771359
+      Green Corset v2 Long Sleeves_1_3: -1014796237062205184
+      Green Corset v2 Long Sleeves_1_4: -1406591292919797975
+      Green Corset v2 Long Sleeves_1_5: 149274313156800397
+      Green Corset v2 Long Sleeves_1_6: 4319967123659890261
+      Green Corset v2 Long Sleeves_2: 4013902118714293822
+      Green Corset v2 Long Sleeves_20: 6152677820246797465
+      Green Corset v2 Long Sleeves_21: -5427140079178201303
+      Green Corset v2 Long Sleeves_22: -1594673878240518302
+      Green Corset v2 Long Sleeves_23: 5149886721739235293
+      Green Corset v2 Long Sleeves_24: 6660800124532807567
+      Green Corset v2 Long Sleeves_25: 2686621606810885682
+      Green Corset v2 Long Sleeves_26: -4632481176559387443
+      Green Corset v2 Long Sleeves_27: -4657747527906846937
+      Green Corset v2 Long Sleeves_28: -6223655510405286784
+      Green Corset v2 Long Sleeves_29: -2361176241387482859
+      Green Corset v2 Long Sleeves_2_0: 6194062588989045444
+      Green Corset v2 Long Sleeves_2_1: 8168390008012623199
+      Green Corset v2 Long Sleeves_2_2: 3979809505016249819
+      Green Corset v2 Long Sleeves_2_3: -4877258224645335862
+      Green Corset v2 Long Sleeves_2_4: 7937673865015861162
+      Green Corset v2 Long Sleeves_2_5: -2380012471171845109
+      Green Corset v2 Long Sleeves_2_6: 2605892354692895075
+      Green Corset v2 Long Sleeves_3: 7376496244143281498
+      Green Corset v2 Long Sleeves_30: 8366973033854613341
+      Green Corset v2 Long Sleeves_31: -9115941644909264046
+      Green Corset v2 Long Sleeves_32: -5054935575945432846
+      Green Corset v2 Long Sleeves_33: -2550602644852490357
+      Green Corset v2 Long Sleeves_34: -5416167703473853759
+      Green Corset v2 Long Sleeves_35: 567040819617700104
+      Green Corset v2 Long Sleeves_36: -5210961810986613836
+      Green Corset v2 Long Sleeves_37: 1947789413108052669
+      Green Corset v2 Long Sleeves_38: -8716039874041057901
+      Green Corset v2 Long Sleeves_39: 890807358256149501
+      Green Corset v2 Long Sleeves_3_0: 8781148975298071331
+      Green Corset v2 Long Sleeves_3_1: -1299842618179476113
+      Green Corset v2 Long Sleeves_3_2: -8010816452779296385
+      Green Corset v2 Long Sleeves_3_3: 2914377975284033698
+      Green Corset v2 Long Sleeves_3_4: -2569526308981272167
+      Green Corset v2 Long Sleeves_3_5: -1686162605218076509
+      Green Corset v2 Long Sleeves_3_6: -1183797845454508945
+      Green Corset v2 Long Sleeves_4: 9165055294946232495
+      Green Corset v2 Long Sleeves_40: -2692292154850710170
+      Green Corset v2 Long Sleeves_41: 7925865984230402066
+      Green Corset v2 Long Sleeves_42: -7208014344651741051
+      Green Corset v2 Long Sleeves_43: 4232881260300047682
+      Green Corset v2 Long Sleeves_44: 6923440206193381873
+      Green Corset v2 Long Sleeves_45: 5640258978841919003
+      Green Corset v2 Long Sleeves_46: 7334642462703064519
+      Green Corset v2 Long Sleeves_47: 1176431067937342599
+      Green Corset v2 Long Sleeves_48: 5138308230423474901
+      Green Corset v2 Long Sleeves_4_0: 6061188229012041057
+      Green Corset v2 Long Sleeves_4_1: 8580316906069996777
+      Green Corset v2 Long Sleeves_4_2: -1165839584495045430
+      Green Corset v2 Long Sleeves_4_3: -7199699978627790595
+      Green Corset v2 Long Sleeves_4_4: -2761373488412511775
+      Green Corset v2 Long Sleeves_4_5: -5361902773645579404
+      Green Corset v2 Long Sleeves_4_6: -4669511087119559422
+      Green Corset v2 Long Sleeves_5: -2526911874943562184
+      Green Corset v2 Long Sleeves_50: 6903681580425120349
+      Green Corset v2 Long Sleeves_51: -3301622160301221646
+      Green Corset v2 Long Sleeves_52: 4086362317223399242
+      Green Corset v2 Long Sleeves_53: 5188336007540593615
+      Green Corset v2 Long Sleeves_54: -7115741826287265157
+      Green Corset v2 Long Sleeves_55: 8846668854242756831
+      Green Corset v2 Long Sleeves_5_0: -5878054711397481236
+      Green Corset v2 Long Sleeves_5_1: -6741209649564025959
+      Green Corset v2 Long Sleeves_5_2: 17274590459306779
+      Green Corset v2 Long Sleeves_5_3: 3999670403467951102
+      Green Corset v2 Long Sleeves_5_4: 4000153997163289178
+      Green Corset v2 Long Sleeves_5_5: -7978576779753760735
+      Green Corset v2 Long Sleeves_5_6: 6823004756955846001
+      Green Corset v2 Long Sleeves_6: -8045576449088449471
+      Green Corset v2 Long Sleeves_60: -1615352234686281481
+      Green Corset v2 Long Sleeves_61: 6591032023899450290
+      Green Corset v2 Long Sleeves_62: -1160580359072450335
+      Green Corset v2 Long Sleeves_63: -5666078136576876176
+      Green Corset v2 Long Sleeves_64: -3677406194701300801
+      Green Corset v2 Long Sleeves_65: 4711462915403205028
+      Green Corset v2 Long Sleeves_66: -4515176088221557869
+      Green Corset v2 Long Sleeves_67: -3101538738165495523
+      Green Corset v2 Long Sleeves_68: -184246406750751276
+      Green Corset v2 Long Sleeves_69: -1922151751151074316
+      Green Corset v2 Long Sleeves_6_0: -702048054204588818
+      Green Corset v2 Long Sleeves_6_1: -357639101658054844
+      Green Corset v2 Long Sleeves_6_2: 6960854812460124115
+      Green Corset v2 Long Sleeves_6_3: 5210192424355007391
+      Green Corset v2 Long Sleeves_6_4: -8842745896205169866
+      Green Corset v2 Long Sleeves_6_5: -7327119890275567331
+      Green Corset v2 Long Sleeves_6_6: 124826766867339864
+      Green Corset v2 Long Sleeves_7: -1710328955687478096
+      Green Corset v2 Long Sleeves_7_0: 7849333848669133179
+      Green Corset v2 Long Sleeves_7_1: -4288487114079945319
+      Green Corset v2 Long Sleeves_7_2: -6240576252228633894
+      Green Corset v2 Long Sleeves_7_3: 1396403911301028225
+      Green Corset v2 Long Sleeves_7_4: -8327200992538433565
+      Green Corset v2 Long Sleeves_7_5: -7104122667860420491
+      Green Corset v2 Long Sleeves_7_6: 6830184829946921013
+      Green Corset v2 Long Sleeves_8: 6721074105822088008
+      Green Corset v2 Long Sleeves_8_0: 3346020639609042324
+      Green Corset v2 Long Sleeves_8_1: 361487476974261186
+      Green Corset v2 Long Sleeves_8_2: 1881437136829444300
+      Green Corset v2 Long Sleeves_8_3: -717614197757297210
+      Green Corset v2 Long Sleeves_8_4: 7996039154831865401
+      Green Corset v2 Long Sleeves_8_5: 5623697926706703362
+      Green Corset v2 Long Sleeves_8_6: 742407387701140184
+      Green Corset v2 Long Sleeves_9: 3300204125421331809
+      Green Corset v2 Long Sleeves_9_0: 2310880685319899998
+      Green Corset v2 Long Sleeves_9_1: 7984018663045294343
+      Green Corset v2 Long Sleeves_9_2: -4445238623707124662
+      Green Corset v2 Long Sleeves_9_3: -6611113530895284249
+      Green Corset v2 Long Sleeves_9_4: 1950988463517110106
+      Green Corset v2 Long Sleeves_9_5: -163361317092459235
+      Green Corset v2 Long Sleeves_9_6: 80425800048966437
+      Green Corset v2 Long Sleeves_EMPTY_18: -4820844419974579262
+      Green Corset v2 Long Sleeves_EMPTY_19: -385852521201874929
+      Green Corset v2 Long Sleeves_EMPTY_28: 6008386068665157755
+      Green Corset v2 Long Sleeves_EMPTY_29: 3983275471347564485
+      Green Corset v2 Long Sleeves_EMPTY_34: 4197795083149086374
+      Green Corset v2 Long Sleeves_EMPTY_35: 113929561671833662
+      Green Corset v2 Long Sleeves_EMPTY_36: -6268488227666631826
+      Green Corset v2 Long Sleeves_EMPTY_37: 764628085580617856
+      Green Corset v2 Long Sleeves_EMPTY_38: -7911777961877085323
+      Green Corset v2 Long Sleeves_EMPTY_39: -5232972379667146402
+      Green Corset v2 Long Sleeves_EMPTY_44: -2346974742794259932
+      Green Corset v2 Long Sleeves_EMPTY_45: -8844763508838573946
+      Green Corset v2 Long Sleeves_EMPTY_46: 122969375645779982
+      Green Corset v2 Long Sleeves_EMPTY_47: 2341587572413302710
+      Green Corset v2 Long Sleeves_EMPTY_48: 6264600741403973975
+      Green Corset v2 Long Sleeves_EMPTY_49: -5033724440198593351
+      Green Corset v2 Long Sleeves_EMPTY_5: 8837676365261953906
+      Green Corset v2 Long Sleeves_EMPTY_56: 3609496652630516128
+      Green Corset v2 Long Sleeves_EMPTY_57: -1431439006383879787
+      Green Corset v2 Long Sleeves_EMPTY_58: 602727118059388599
+      Green Corset v2 Long Sleeves_EMPTY_59: -3356302705965110619
+      Green Corset v2 Long Sleeves_EMPTY_6: 8132676375956521864
+      Green Corset v2 Long Sleeves_EMPTY_7: 5285874056902829878
+      Green Corset v2 Long Sleeves_EMPTY_8: 8508438733568631566
+      Green Corset v2 Long Sleeves_EMPTY_9: 6285749112558991521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

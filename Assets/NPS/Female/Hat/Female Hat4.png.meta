@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: 023521df935f9134890508db3e82e357
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8433941162164063130
+    second: Female Hat4_0
+  - first:
+      213: 7882178852372347651
+    second: Female Hat4_1
+  - first:
+      213: -869658464731837529
+    second: Female Hat4_2
+  - first:
+      213: -3706740872488776336
+    second: Female Hat4_3
+  - first:
+      213: 3221124717486239840
+    second: Female Hat4_4
+  - first:
+      213: -8354085745277328791
+    second: Female Hat4_5
+  - first:
+      213: 2439708253415970871
+    second: Female Hat4_6
+  - first:
+      213: 8485055398696912742
+    second: Female Hat4_7
+  - first:
+      213: -7068269413769431966
+    second: Female Hat4_8
+  - first:
+      213: 1352593935871671893
+    second: Female Hat4_9
+  - first:
+      213: 4023851928809409275
+    second: Female Hat4_10
+  - first:
+      213: 6342465689574813469
+    second: Female Hat4_11
+  - first:
+      213: -7569099173703258639
+    second: Female Hat4_12
+  - first:
+      213: 3798564773459330255
+    second: Female Hat4_13
+  - first:
+      213: -1019181942178186265
+    second: Female Hat4_14
+  - first:
+      213: -4424122654467375732
+    second: Female Hat4_15
+  - first:
+      213: -2805827894168733184
+    second: Female Hat4_16
+  - first:
+      213: 815174362453912626
+    second: Female Hat4_17
+  - first:
+      213: -8534047057392528351
+    second: Female Hat4_18
+  - first:
+      213: 2151773401062538861
+    second: Female Hat4_19
+  - first:
+      213: 1518382543877703157
+    second: Female Hat4_20
+  - first:
+      213: 1322942165974259815
+    second: Female Hat4_21
+  - first:
+      213: 5897513102684994790
+    second: Female Hat4_22
+  - first:
+      213: -2911648012482062708
+    second: Female Hat4_23
+  - first:
+      213: 1365680612876260721
+    second: Female Hat4_24
+  - first:
+      213: -6268334216973379296
+    second: Female Hat4_25
+  - first:
+      213: 420754995547517607
+    second: Female Hat4_26
+  - first:
+      213: 2603824826587669626
+    second: Female Hat4_27
+  - first:
+      213: -6632443562361397864
+    second: Female Hat4_28
+  - first:
+      213: -1172539542460036691
+    second: Female Hat4_29
+  - first:
+      213: -6829145409959631748
+    second: Female Hat4_30
+  - first:
+      213: 8948178205877925543
+    second: Female Hat4_31
+  - first:
+      213: 6894911612852753712
+    second: Female Hat4_32
+  - first:
+      213: 5506524520333927571
+    second: Female Hat4_33
+  - first:
+      213: 2131643577135591029
+    second: Female Hat4_34
+  - first:
+      213: -7400113106661970080
+    second: Female Hat4_35
+  - first:
+      213: -1961921466023776024
+    second: Female Hat4_36
+  - first:
+      213: 5677019199906216888
+    second: Female Hat4_37
+  - first:
+      213: 6987191383391748354
+    second: Female Hat4_38
+  - first:
+      213: -6935253464999004795
+    second: Female Hat4_39
+  - first:
+      213: -608269049992539712
+    second: Female Hat4_40
+  - first:
+      213: 1119422437340035695
+    second: Female Hat4_41
+  - first:
+      213: 3539929520930965014
+    second: Female Hat4_42
+  - first:
+      213: 2280262088269260959
+    second: Female Hat4_43
+  - first:
+      213: -8786902052552139815
+    second: Female Hat4_44
+  - first:
+      213: -9079600558463926554
+    second: Female Hat4_0_6
+  - first:
+      213: -5347032491377614207
+    second: Female Hat4_1_6
+  - first:
+      213: -1923609801831166943
+    second: Female Hat4_2_6
+  - first:
+      213: -1592460745693230640
+    second: Female Hat4_3_6
+  - first:
+      213: -5673768414937941439
+    second: Female Hat4_4_6
+  - first:
+      213: 7081207508622200217
+    second: Female Hat4_5_6
+  - first:
+      213: -3231681664525350567
+    second: Female Hat4_6_6
+  - first:
+      213: 342594392551041751
+    second: Female Hat4_7_6
+  - first:
+      213: 1606394974781652778
+    second: Female Hat4_8_6
+  - first:
+      213: -6663329918409468353
+    second: Female Hat4_9_6
+  - first:
+      213: -1951073708819032115
+    second: Female Hat4_0_5
+  - first:
+      213: -967663894377920263
+    second: Female Hat4_1_5
+  - first:
+      213: 946768575563034263
+    second: Female Hat4_2_5
+  - first:
+      213: -1200882421974302337
+    second: Female Hat4_3_5
+  - first:
+      213: -681488511627094474
+    second: Female Hat4_4_5
+  - first:
+      213: -5463576143527743420
+    second: Female Hat4_5_5
+  - first:
+      213: 6171407918393490641
+    second: Female Hat4_6_5
+  - first:
+      213: 4315338531904806974
+    second: Female Hat4_7_5
+  - first:
+      213: 4474240350401139185
+    second: Female Hat4_8_5
+  - first:
+      213: 8066219045567379871
+    second: Female Hat4_9_5
+  - first:
+      213: 7442823775982970817
+    second: Female Hat4_0_4
+  - first:
+      213: 7587050319820350576
+    second: Female Hat4_1_4
+  - first:
+      213: -6845950702597338824
+    second: Female Hat4_2_4
+  - first:
+      213: 6122570267809624015
+    second: Female Hat4_3_4
+  - first:
+      213: -1925756954227540400
+    second: Female Hat4_4_4
+  - first:
+      213: -6677603039548985431
+    second: Female Hat4_5_4
+  - first:
+      213: -5773055280186999947
+    second: Female Hat4_6_4
+  - first:
+      213: 2005652137478986788
+    second: Female Hat4_7_4
+  - first:
+      213: 5688866790959452376
+    second: Female Hat4_8_4
+  - first:
+      213: 5249551426962110219
+    second: Female Hat4_9_4
+  - first:
+      213: -9031843072050051446
+    second: Female Hat4_0_3
+  - first:
+      213: -6932055801348009009
+    second: Female Hat4_1_3
+  - first:
+      213: -788208601371897467
+    second: Female Hat4_2_3
+  - first:
+      213: 1646373985679418206
+    second: Female Hat4_3_3
+  - first:
+      213: -4046795135119871140
+    second: Female Hat4_4_3
+  - first:
+      213: 1891529251744952519
+    second: Female Hat4_5_3
+  - first:
+      213: -8927150628113197810
+    second: Female Hat4_6_3
+  - first:
+      213: 3790838398551291792
+    second: Female Hat4_7_3
+  - first:
+      213: 332418032270415053
+    second: Female Hat4_8_3
+  - first:
+      213: -7688827759476043758
+    second: Female Hat4_9_3
+  - first:
+      213: -1630437431677347540
+    second: Female Hat4_0_2
+  - first:
+      213: 5558788349699708829
+    second: Female Hat4_1_2
+  - first:
+      213: 484869925868721823
+    second: Female Hat4_2_2
+  - first:
+      213: 8714478531174916580
+    second: Female Hat4_3_2
+  - first:
+      213: -172752172392387557
+    second: Female Hat4_4_2
+  - first:
+      213: -3005080365390219412
+    second: Female Hat4_5_2
+  - first:
+      213: -7750409990343428885
+    second: Female Hat4_6_2
+  - first:
+      213: -750113978020577752
+    second: Female Hat4_7_2
+  - first:
+      213: -6215824915040673875
+    second: Female Hat4_8_2
+  - first:
+      213: -3522718262351722280
+    second: Female Hat4_9_2
+  - first:
+      213: 2969848190818975671
+    second: Female Hat4_0_1
+  - first:
+      213: -4871372660568175
+    second: Female Hat4_1_1
+  - first:
+      213: -5513145779496736230
+    second: Female Hat4_2_1
+  - first:
+      213: -1281216702034982201
+    second: Female Hat4_3_1
+  - first:
+      213: 5232389100436210054
+    second: Female Hat4_4_1
+  - first:
+      213: 3525324913716987988
+    second: Female Hat4_5_1
+  - first:
+      213: -7112565245450009788
+    second: Female Hat4_6_1
+  - first:
+      213: -8761032318580566252
+    second: Female Hat4_7_1
+  - first:
+      213: -5187062700050784338
+    second: Female Hat4_8_1
+  - first:
+      213: 4114886652031747965
+    second: Female Hat4_9_1
+  - first:
+      213: -826419716232992672
+    second: Female Hat4_0_0
+  - first:
+      213: -2463223653919672362
+    second: Female Hat4_1_0
+  - first:
+      213: 7057789718381397626
+    second: Female Hat4_2_0
+  - first:
+      213: 454834257194912018
+    second: Female Hat4_3_0
+  - first:
+      213: -146279859921401243
+    second: Female Hat4_4_0
+  - first:
+      213: -6247477175124211253
+    second: Female Hat4_5_0
+  - first:
+      213: 5931753635104499867
+    second: Female Hat4_6_0
+  - first:
+      213: -8896558573713938979
+    second: Female Hat4_7_0
+  - first:
+      213: 980137695606477141
+    second: Female Hat4_8_0
+  - first:
+      213: 1155383619604826899
+    second: Female Hat4_9_0
+  - first:
+      213: -4730762898497231196
+    second: Female Hat4_EMPTY_5
+  - first:
+      213: 6983530721865645275
+    second: Female Hat4_EMPTY_6
+  - first:
+      213: 3634883694564596604
+    second: Female Hat4_EMPTY_7
+  - first:
+      213: -5524545948512466676
+    second: Female Hat4_EMPTY_8
+  - first:
+      213: -8191544294718423602
+    second: Female Hat4_EMPTY_9
+  - first:
+      213: 6590819530073474068
+    second: Female Hat4_EMPTY_18
+  - first:
+      213: 4837996966015050282
+    second: Female Hat4_EMPTY_19
+  - first:
+      213: 1327624710653361509
+    second: Female Hat4_EMPTY_28
+  - first:
+      213: -9064835467918329580
+    second: Female Hat4_EMPTY_29
+  - first:
+      213: -2800860888107089194
+    second: Female Hat4_EMPTY_34
+  - first:
+      213: 8102441746195339154
+    second: Female Hat4_EMPTY_35
+  - first:
+      213: 2774833334562934541
+    second: Female Hat4_EMPTY_36
+  - first:
+      213: 1691836194597344458
+    second: Female Hat4_EMPTY_37
+  - first:
+      213: 1058096483734204804
+    second: Female Hat4_EMPTY_38
+  - first:
+      213: 2644603261512494408
+    second: Female Hat4_EMPTY_39
+  - first:
+      213: -5998174877246159439
+    second: Female Hat4_EMPTY_44
+  - first:
+      213: -7850309900078847348
+    second: Female Hat4_EMPTY_45
+  - first:
+      213: -4238373198346974442
+    second: Female Hat4_EMPTY_46
+  - first:
+      213: 8188949374328056075
+    second: Female Hat4_EMPTY_47
+  - first:
+      213: 4378400931552724422
+    second: Female Hat4_EMPTY_48
+  - first:
+      213: 4640227893828587588
+    second: Female Hat4_EMPTY_49
+  - first:
+      213: 5922130809294611296
+    second: Female Hat4_50
+  - first:
+      213: -6573795876428138635
+    second: Female Hat4_51
+  - first:
+      213: -8660445365752509070
+    second: Female Hat4_52
+  - first:
+      213: 231889514936217608
+    second: Female Hat4_53
+  - first:
+      213: -106871514845160811
+    second: Female Hat4_54
+  - first:
+      213: -8328200071658291284
+    second: Female Hat4_55
+  - first:
+      213: 7509917829105993603
+    second: Female Hat4_EMPTY_56
+  - first:
+      213: -2833463766308385061
+    second: Female Hat4_EMPTY_57
+  - first:
+      213: -5160639054940690619
+    second: Female Hat4_EMPTY_58
+  - first:
+      213: 6773729690149945147
+    second: Female Hat4_EMPTY_59
+  - first:
+      213: 2992576542688135113
+    second: Female Hat4_60
+  - first:
+      213: -717396666775540825
+    second: Female Hat4_61
+  - first:
+      213: 7461014816928223544
+    second: Female Hat4_62
+  - first:
+      213: 2099397301779843385
+    second: Female Hat4_63
+  - first:
+      213: -7042977216834575761
+    second: Female Hat4_64
+  - first:
+      213: 3880011055882266009
+    second: Female Hat4_65
+  - first:
+      213: -2707104490694077962
+    second: Female Hat4_66
+  - first:
+      213: 6226497515303173123
+    second: Female Hat4_67
+  - first:
+      213: 6481985924615984892
+    second: Female Hat4_68
+  - first:
+      213: -1486602048534013791
+    second: Female Hat4_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female Hat4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b85535dc06b0570800000000000000
+      internalID: 8433941162164063130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bffb797ef136d60800000000000000
+      internalID: 7882178852372347651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab4fb5eb3a5ee3f0800000000000000
+      internalID: -869658464731837529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d82ecc0d20f8cc0800000000000000
+      internalID: -3706740872488776336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0607ff24ddbb3bc20800000000000000
+      internalID: 3221124717486239840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6a97e5534f85eb0800000000000000
+      internalID: -4730762898497231196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc34d2f03c7ae060800000000000000
+      internalID: 6983530721865645275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bd1663673b17230800000000000000
+      internalID: 3634883694564596604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c094799eabed453b0800000000000000
+      internalID: -5524545948512466676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd3e675dd9c15e80800000000000000
+      internalID: -8191544294718423602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa847d820897d730800000000000000
+      internalID: 4023851928809409275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fa53bd0f6f40850800000000000000
+      internalID: 6342465689574813469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fde6b1876825f690800000000000000
+      internalID: -7569099173703258639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc40b5a298637b430800000000000000
+      internalID: 3798564773459330255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebf9f66c632bd1f0800000000000000
+      internalID: -1019181942178186265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8db6b1c2eb5a92c0800000000000000
+      internalID: -4424122654467375732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ab03b6562bf09d0800000000000000
+      internalID: -2805827894168733184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c221083c4105b00800000000000000
+      internalID: 815174362453912626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4148cb4617b477b50800000000000000
+      internalID: 6590819530073474068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22aeb79b94042340800000000000000
+      internalID: 4837996966015050282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f50cf001e0621510800000000000000
+      internalID: 1518382543877703157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768184504e80c5210800000000000000
+      internalID: 1322942165974259815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec30c7abec28d150800000000000000
+      internalID: 5897513102684994790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86d8092f8fb797d0800000000000000
+      internalID: -2911648012482062708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175902f184fd3f210800000000000000
+      internalID: 1365680612876260721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02910ef9d376209a0800000000000000
+      internalID: -6268334216973379296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2b41f6072d6d500800000000000000
+      internalID: 420754995547517607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74e91652e4a22420800000000000000
+      internalID: 2603824826587669626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d3689e3abac6210800000000000000
+      internalID: 1327624710653361509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419bd536b2c333280800000000000000
+      internalID: -9064835467918329580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74edd79e600a31a0800000000000000
+      internalID: -6829145409959631748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6fe343ba05e2c70800000000000000
+      internalID: 8948178205877925543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035ddc1c495afaf50800000000000000
+      internalID: 6894911612852753712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3946b7d50ea1b6c40800000000000000
+      internalID: 5506524520333927571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d28713acd75129d0800000000000000
+      internalID: -2800860888107089194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297d44fe6d7a17070800000000000000
+      internalID: 8102441746195339154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f49815730328620800000000000000
+      internalID: 2774833334562934541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac49f152e0c9a7710800000000000000
+      internalID: 1691836194597344458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481311b552d1fae00800000000000000
+      internalID: 1058096483734204804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84daa4697a483b420800000000000000
+      internalID: 2644603261512494408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c19453958efe87f0800000000000000
+      internalID: -608269049992539712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a314b96ccf88f00800000000000000
+      internalID: 1119422437340035695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6164209d42b502130800000000000000
+      internalID: 3539929520930965014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f986416b94e15af10800000000000000
+      internalID: 2280262088269260959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b502159ab332cca0800000000000000
+      internalID: -5998174877246159439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a61151db81e0390800000000000000
+      internalID: -7850309900078847348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b0efe28064e25c0800000000000000
+      internalID: -4238373198346974442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b092b7ca11ef4a170800000000000000
+      internalID: 8188949374328056075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c58071137433cc30800000000000000
+      internalID: 4378400931552724422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44013883fa6656040800000000000000
+      internalID: 4640227893828587588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063e6612892af2250800000000000000
+      internalID: 5922130809294611296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577b297da7f25c4a0800000000000000
+      internalID: -6573795876428138635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dc4a923daefc780800000000000000
+      internalID: -8660445365752509070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80039e40946d73300800000000000000
+      internalID: 231889514936217608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59adb096ce0548ef0800000000000000
+      internalID: -106871514845160811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafbc66d82a4c6c80800000000000000
+      internalID: -8328200071658291284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3874c30f976983860800000000000000
+      internalID: 7509917829105993603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde8f3587b38da8d0800000000000000
+      internalID: -2833463766308385061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547a04c2f1ab168b0800000000000000
+      internalID: -5160639054940690619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f77e1b34f110e50800000000000000
+      internalID: 6773729690149945147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7c71e9284c78920800000000000000
+      internalID: 2992576542688135113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab6bc1588b4b06f0800000000000000
+      internalID: -717396666775540825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831dee22279da8760800000000000000
+      internalID: 7461014816928223544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939400f09be822d10800000000000000
+      internalID: 2099397301779843385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62e76d5981524e90800000000000000
+      internalID: -7042977216834575761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99563768f7198d530800000000000000
+      internalID: 3880011055882266009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1905efece6e6ad0800000000000000
+      internalID: -2707104490694077962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c7f723086f86650800000000000000
+      internalID: 6226497515303173123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf651dbfad3a4f950800000000000000
+      internalID: 6481985924615984892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Hat4_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a813ce20578e5be0800000000000000
+      internalID: -1486602048534013791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Female Hat4_0: 8433941162164063130
+      Female Hat4_0_0: -826419716232992672
+      Female Hat4_0_1: 2969848190818975671
+      Female Hat4_0_2: -1630437431677347540
+      Female Hat4_0_3: -9031843072050051446
+      Female Hat4_0_4: 7442823775982970817
+      Female Hat4_0_5: -1951073708819032115
+      Female Hat4_0_6: -9079600558463926554
+      Female Hat4_1: 7882178852372347651
+      Female Hat4_10: 4023851928809409275
+      Female Hat4_11: 6342465689574813469
+      Female Hat4_12: -7569099173703258639
+      Female Hat4_13: 3798564773459330255
+      Female Hat4_14: -1019181942178186265
+      Female Hat4_15: -4424122654467375732
+      Female Hat4_16: -2805827894168733184
+      Female Hat4_17: 815174362453912626
+      Female Hat4_18: -8534047057392528351
+      Female Hat4_19: 2151773401062538861
+      Female Hat4_1_0: -2463223653919672362
+      Female Hat4_1_1: -4871372660568175
+      Female Hat4_1_2: 5558788349699708829
+      Female Hat4_1_3: -6932055801348009009
+      Female Hat4_1_4: 7587050319820350576
+      Female Hat4_1_5: -967663894377920263
+      Female Hat4_1_6: -5347032491377614207
+      Female Hat4_2: -869658464731837529
+      Female Hat4_20: 1518382543877703157
+      Female Hat4_21: 1322942165974259815
+      Female Hat4_22: 5897513102684994790
+      Female Hat4_23: -2911648012482062708
+      Female Hat4_24: 1365680612876260721
+      Female Hat4_25: -6268334216973379296
+      Female Hat4_26: 420754995547517607
+      Female Hat4_27: 2603824826587669626
+      Female Hat4_28: -6632443562361397864
+      Female Hat4_29: -1172539542460036691
+      Female Hat4_2_0: 7057789718381397626
+      Female Hat4_2_1: -5513145779496736230
+      Female Hat4_2_2: 484869925868721823
+      Female Hat4_2_3: -788208601371897467
+      Female Hat4_2_4: -6845950702597338824
+      Female Hat4_2_5: 946768575563034263
+      Female Hat4_2_6: -1923609801831166943
+      Female Hat4_3: -3706740872488776336
+      Female Hat4_30: -6829145409959631748
+      Female Hat4_31: 8948178205877925543
+      Female Hat4_32: 6894911612852753712
+      Female Hat4_33: 5506524520333927571
+      Female Hat4_34: 2131643577135591029
+      Female Hat4_35: -7400113106661970080
+      Female Hat4_36: -1961921466023776024
+      Female Hat4_37: 5677019199906216888
+      Female Hat4_38: 6987191383391748354
+      Female Hat4_39: -6935253464999004795
+      Female Hat4_3_0: 454834257194912018
+      Female Hat4_3_1: -1281216702034982201
+      Female Hat4_3_2: 8714478531174916580
+      Female Hat4_3_3: 1646373985679418206
+      Female Hat4_3_4: 6122570267809624015
+      Female Hat4_3_5: -1200882421974302337
+      Female Hat4_3_6: -1592460745693230640
+      Female Hat4_4: 3221124717486239840
+      Female Hat4_40: -608269049992539712
+      Female Hat4_41: 1119422437340035695
+      Female Hat4_42: 3539929520930965014
+      Female Hat4_43: 2280262088269260959
+      Female Hat4_44: -8786902052552139815
+      Female Hat4_4_0: -146279859921401243
+      Female Hat4_4_1: 5232389100436210054
+      Female Hat4_4_2: -172752172392387557
+      Female Hat4_4_3: -4046795135119871140
+      Female Hat4_4_4: -1925756954227540400
+      Female Hat4_4_5: -681488511627094474
+      Female Hat4_4_6: -5673768414937941439
+      Female Hat4_5: -8354085745277328791
+      Female Hat4_50: 5922130809294611296
+      Female Hat4_51: -6573795876428138635
+      Female Hat4_52: -8660445365752509070
+      Female Hat4_53: 231889514936217608
+      Female Hat4_54: -106871514845160811
+      Female Hat4_55: -8328200071658291284
+      Female Hat4_5_0: -6247477175124211253
+      Female Hat4_5_1: 3525324913716987988
+      Female Hat4_5_2: -3005080365390219412
+      Female Hat4_5_3: 1891529251744952519
+      Female Hat4_5_4: -6677603039548985431
+      Female Hat4_5_5: -5463576143527743420
+      Female Hat4_5_6: 7081207508622200217
+      Female Hat4_6: 2439708253415970871
+      Female Hat4_60: 2992576542688135113
+      Female Hat4_61: -717396666775540825
+      Female Hat4_62: 7461014816928223544
+      Female Hat4_63: 2099397301779843385
+      Female Hat4_64: -7042977216834575761
+      Female Hat4_65: 3880011055882266009
+      Female Hat4_66: -2707104490694077962
+      Female Hat4_67: 6226497515303173123
+      Female Hat4_68: 6481985924615984892
+      Female Hat4_69: -1486602048534013791
+      Female Hat4_6_0: 5931753635104499867
+      Female Hat4_6_1: -7112565245450009788
+      Female Hat4_6_2: -7750409990343428885
+      Female Hat4_6_3: -8927150628113197810
+      Female Hat4_6_4: -5773055280186999947
+      Female Hat4_6_5: 6171407918393490641
+      Female Hat4_6_6: -3231681664525350567
+      Female Hat4_7: 8485055398696912742
+      Female Hat4_7_0: -8896558573713938979
+      Female Hat4_7_1: -8761032318580566252
+      Female Hat4_7_2: -750113978020577752
+      Female Hat4_7_3: 3790838398551291792
+      Female Hat4_7_4: 2005652137478986788
+      Female Hat4_7_5: 4315338531904806974
+      Female Hat4_7_6: 342594392551041751
+      Female Hat4_8: -7068269413769431966
+      Female Hat4_8_0: 980137695606477141
+      Female Hat4_8_1: -5187062700050784338
+      Female Hat4_8_2: -6215824915040673875
+      Female Hat4_8_3: 332418032270415053
+      Female Hat4_8_4: 5688866790959452376
+      Female Hat4_8_5: 4474240350401139185
+      Female Hat4_8_6: 1606394974781652778
+      Female Hat4_9: 1352593935871671893
+      Female Hat4_9_0: 1155383619604826899
+      Female Hat4_9_1: 4114886652031747965
+      Female Hat4_9_2: -3522718262351722280
+      Female Hat4_9_3: -7688827759476043758
+      Female Hat4_9_4: 5249551426962110219
+      Female Hat4_9_5: 8066219045567379871
+      Female Hat4_9_6: -6663329918409468353
+      Female Hat4_EMPTY_18: 6590819530073474068
+      Female Hat4_EMPTY_19: 4837996966015050282
+      Female Hat4_EMPTY_28: 1327624710653361509
+      Female Hat4_EMPTY_29: -9064835467918329580
+      Female Hat4_EMPTY_34: -2800860888107089194
+      Female Hat4_EMPTY_35: 8102441746195339154
+      Female Hat4_EMPTY_36: 2774833334562934541
+      Female Hat4_EMPTY_37: 1691836194597344458
+      Female Hat4_EMPTY_38: 1058096483734204804
+      Female Hat4_EMPTY_39: 2644603261512494408
+      Female Hat4_EMPTY_44: -5998174877246159439
+      Female Hat4_EMPTY_45: -7850309900078847348
+      Female Hat4_EMPTY_46: -4238373198346974442
+      Female Hat4_EMPTY_47: 8188949374328056075
+      Female Hat4_EMPTY_48: 4378400931552724422
+      Female Hat4_EMPTY_49: 4640227893828587588
+      Female Hat4_EMPTY_5: -4730762898497231196
+      Female Hat4_EMPTY_56: 7509917829105993603
+      Female Hat4_EMPTY_57: -2833463766308385061
+      Female Hat4_EMPTY_58: -5160639054940690619
+      Female Hat4_EMPTY_59: 6773729690149945147
+      Female Hat4_EMPTY_6: 6983530721865645275
+      Female Hat4_EMPTY_7: 3634883694564596604
+      Female Hat4_EMPTY_8: -5524545948512466676
+      Female Hat4_EMPTY_9: -8191544294718423602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

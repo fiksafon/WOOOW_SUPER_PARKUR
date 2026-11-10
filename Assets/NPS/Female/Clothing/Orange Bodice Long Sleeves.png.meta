@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: a07ba7fdea85c044c8ea8d843f31bbf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4691904490353509306
+    second: Orange Bodice Long Sleeves_0
+  - first:
+      213: -4828475975291916586
+    second: Orange Bodice Long Sleeves_1
+  - first:
+      213: -4273635839226400186
+    second: Orange Bodice Long Sleeves_2
+  - first:
+      213: 7894255993531054908
+    second: Orange Bodice Long Sleeves_3
+  - first:
+      213: 6467279850514858064
+    second: Orange Bodice Long Sleeves_4
+  - first:
+      213: 4735438953262562065
+    second: Orange Bodice Long Sleeves_5
+  - first:
+      213: -6776121185254580200
+    second: Orange Bodice Long Sleeves_6
+  - first:
+      213: 678502567930172034
+    second: Orange Bodice Long Sleeves_7
+  - first:
+      213: 2389198834657035448
+    second: Orange Bodice Long Sleeves_8
+  - first:
+      213: -3469919841676863475
+    second: Orange Bodice Long Sleeves_9
+  - first:
+      213: -7503712052956538096
+    second: Orange Bodice Long Sleeves_10
+  - first:
+      213: 3937723246613394522
+    second: Orange Bodice Long Sleeves_11
+  - first:
+      213: -8758392038451326522
+    second: Orange Bodice Long Sleeves_12
+  - first:
+      213: -6408058166559086100
+    second: Orange Bodice Long Sleeves_13
+  - first:
+      213: 8599073897810313417
+    second: Orange Bodice Long Sleeves_14
+  - first:
+      213: -6258358581088537072
+    second: Orange Bodice Long Sleeves_15
+  - first:
+      213: 1071028366537394132
+    second: Orange Bodice Long Sleeves_16
+  - first:
+      213: 7822235334069964804
+    second: Orange Bodice Long Sleeves_17
+  - first:
+      213: 1228398862467995048
+    second: Orange Bodice Long Sleeves_18
+  - first:
+      213: 3682754304154650533
+    second: Orange Bodice Long Sleeves_19
+  - first:
+      213: -7966522193071594397
+    second: Orange Bodice Long Sleeves_20
+  - first:
+      213: 3346576058314370800
+    second: Orange Bodice Long Sleeves_21
+  - first:
+      213: 5782161921552263339
+    second: Orange Bodice Long Sleeves_22
+  - first:
+      213: 326259908456663789
+    second: Orange Bodice Long Sleeves_23
+  - first:
+      213: 3643852496586206268
+    second: Orange Bodice Long Sleeves_24
+  - first:
+      213: 3733991097699885606
+    second: Orange Bodice Long Sleeves_25
+  - first:
+      213: 7762597876644942037
+    second: Orange Bodice Long Sleeves_26
+  - first:
+      213: 3003295099902204476
+    second: Orange Bodice Long Sleeves_27
+  - first:
+      213: 5554713038104639348
+    second: Orange Bodice Long Sleeves_28
+  - first:
+      213: -6553675491717819210
+    second: Orange Bodice Long Sleeves_29
+  - first:
+      213: -1232662042605675779
+    second: Orange Bodice Long Sleeves_30
+  - first:
+      213: 8077274015570056148
+    second: Orange Bodice Long Sleeves_31
+  - first:
+      213: -8292389519195809307
+    second: Orange Bodice Long Sleeves_32
+  - first:
+      213: 1876929954004277248
+    second: Orange Bodice Long Sleeves_33
+  - first:
+      213: 1546253951737553152
+    second: Orange Bodice Long Sleeves_34
+  - first:
+      213: 3361652089914107936
+    second: Orange Bodice Long Sleeves_35
+  - first:
+      213: -3145226690686151283
+    second: Orange Bodice Long Sleeves_36
+  - first:
+      213: -2938494439923257378
+    second: Orange Bodice Long Sleeves_37
+  - first:
+      213: 4665334066535548671
+    second: Orange Bodice Long Sleeves_38
+  - first:
+      213: -1951336612767162060
+    second: Orange Bodice Long Sleeves_39
+  - first:
+      213: 2856706373971893775
+    second: Orange Bodice Long Sleeves_40
+  - first:
+      213: 7864540864788887452
+    second: Orange Bodice Long Sleeves_41
+  - first:
+      213: 6658236513337867820
+    second: Orange Bodice Long Sleeves_42
+  - first:
+      213: 1293519474020461716
+    second: Orange Bodice Long Sleeves_43
+  - first:
+      213: -762220317761933181
+    second: Orange Bodice Long Sleeves_44
+  - first:
+      213: 7219702038115963304
+    second: Orange Bodice Long Sleeves_0_6
+  - first:
+      213: 3679490927918040389
+    second: Orange Bodice Long Sleeves_1_6
+  - first:
+      213: 4249253909182427913
+    second: Orange Bodice Long Sleeves_2_6
+  - first:
+      213: 3128943754293658708
+    second: Orange Bodice Long Sleeves_3_6
+  - first:
+      213: 7937914299472970895
+    second: Orange Bodice Long Sleeves_4_6
+  - first:
+      213: 4365517320277798381
+    second: Orange Bodice Long Sleeves_5_6
+  - first:
+      213: -4429140659740780918
+    second: Orange Bodice Long Sleeves_6_6
+  - first:
+      213: 378397848254969618
+    second: Orange Bodice Long Sleeves_7_6
+  - first:
+      213: -3437685995272699109
+    second: Orange Bodice Long Sleeves_8_6
+  - first:
+      213: -9177663752783994594
+    second: Orange Bodice Long Sleeves_9_6
+  - first:
+      213: -6161637096807415582
+    second: Orange Bodice Long Sleeves_0_5
+  - first:
+      213: -8560322563398434160
+    second: Orange Bodice Long Sleeves_1_5
+  - first:
+      213: 6229088076972937655
+    second: Orange Bodice Long Sleeves_2_5
+  - first:
+      213: 6648090867202660290
+    second: Orange Bodice Long Sleeves_3_5
+  - first:
+      213: -1841501893003345040
+    second: Orange Bodice Long Sleeves_4_5
+  - first:
+      213: 7242811701883630390
+    second: Orange Bodice Long Sleeves_5_5
+  - first:
+      213: 7431272313603681514
+    second: Orange Bodice Long Sleeves_6_5
+  - first:
+      213: -8160940737781425720
+    second: Orange Bodice Long Sleeves_7_5
+  - first:
+      213: 4607207703675223368
+    second: Orange Bodice Long Sleeves_8_5
+  - first:
+      213: 8225683078396508536
+    second: Orange Bodice Long Sleeves_9_5
+  - first:
+      213: -6166392049195650209
+    second: Orange Bodice Long Sleeves_0_4
+  - first:
+      213: -7076573248452527368
+    second: Orange Bodice Long Sleeves_1_4
+  - first:
+      213: -8585971128852849540
+    second: Orange Bodice Long Sleeves_2_4
+  - first:
+      213: -3434844018257500051
+    second: Orange Bodice Long Sleeves_3_4
+  - first:
+      213: 4607130659145868014
+    second: Orange Bodice Long Sleeves_4_4
+  - first:
+      213: -3249608935430442076
+    second: Orange Bodice Long Sleeves_5_4
+  - first:
+      213: 3237145418580869880
+    second: Orange Bodice Long Sleeves_6_4
+  - first:
+      213: 3723397566067456543
+    second: Orange Bodice Long Sleeves_7_4
+  - first:
+      213: 1384800118103186862
+    second: Orange Bodice Long Sleeves_8_4
+  - first:
+      213: 4165845161242305857
+    second: Orange Bodice Long Sleeves_9_4
+  - first:
+      213: 333783851140262676
+    second: Orange Bodice Long Sleeves_0_3
+  - first:
+      213: 5951608037984290737
+    second: Orange Bodice Long Sleeves_1_3
+  - first:
+      213: -6240699330658062950
+    second: Orange Bodice Long Sleeves_2_3
+  - first:
+      213: 3138229308535704241
+    second: Orange Bodice Long Sleeves_3_3
+  - first:
+      213: -737462593458256861
+    second: Orange Bodice Long Sleeves_4_3
+  - first:
+      213: 6522395384531415493
+    second: Orange Bodice Long Sleeves_5_3
+  - first:
+      213: 8840205493341914593
+    second: Orange Bodice Long Sleeves_6_3
+  - first:
+      213: -7363628861019992862
+    second: Orange Bodice Long Sleeves_7_3
+  - first:
+      213: 8081696942127314428
+    second: Orange Bodice Long Sleeves_8_3
+  - first:
+      213: 5642189072720823547
+    second: Orange Bodice Long Sleeves_9_3
+  - first:
+      213: 5086228328955441364
+    second: Orange Bodice Long Sleeves_0_2
+  - first:
+      213: -79673543131745597
+    second: Orange Bodice Long Sleeves_1_2
+  - first:
+      213: -99109620735411068
+    second: Orange Bodice Long Sleeves_2_2
+  - first:
+      213: 7360963823279311624
+    second: Orange Bodice Long Sleeves_3_2
+  - first:
+      213: 6990523732737193810
+    second: Orange Bodice Long Sleeves_4_2
+  - first:
+      213: 9103891839368241821
+    second: Orange Bodice Long Sleeves_5_2
+  - first:
+      213: 8573607211184519976
+    second: Orange Bodice Long Sleeves_6_2
+  - first:
+      213: -1371504584288820633
+    second: Orange Bodice Long Sleeves_7_2
+  - first:
+      213: -8661105942728139576
+    second: Orange Bodice Long Sleeves_8_2
+  - first:
+      213: -8123218945447170252
+    second: Orange Bodice Long Sleeves_9_2
+  - first:
+      213: -2591557453307639956
+    second: Orange Bodice Long Sleeves_0_1
+  - first:
+      213: 3040996283817293543
+    second: Orange Bodice Long Sleeves_1_1
+  - first:
+      213: -788601668310909948
+    second: Orange Bodice Long Sleeves_2_1
+  - first:
+      213: 6754218431585156375
+    second: Orange Bodice Long Sleeves_3_1
+  - first:
+      213: -1932371892121165608
+    second: Orange Bodice Long Sleeves_4_1
+  - first:
+      213: -7821546168566368396
+    second: Orange Bodice Long Sleeves_5_1
+  - first:
+      213: -3582044344806643996
+    second: Orange Bodice Long Sleeves_6_1
+  - first:
+      213: 1517932838597356776
+    second: Orange Bodice Long Sleeves_7_1
+  - first:
+      213: -3813044754268814616
+    second: Orange Bodice Long Sleeves_8_1
+  - first:
+      213: -8077267633140391842
+    second: Orange Bodice Long Sleeves_9_1
+  - first:
+      213: 3957370027323161419
+    second: Orange Bodice Long Sleeves_0_0
+  - first:
+      213: 1226867621308201207
+    second: Orange Bodice Long Sleeves_1_0
+  - first:
+      213: 4648394275545571905
+    second: Orange Bodice Long Sleeves_2_0
+  - first:
+      213: 2380450649369054544
+    second: Orange Bodice Long Sleeves_3_0
+  - first:
+      213: -669687467408461733
+    second: Orange Bodice Long Sleeves_4_0
+  - first:
+      213: 4483384879711826596
+    second: Orange Bodice Long Sleeves_5_0
+  - first:
+      213: -3990561576171793298
+    second: Orange Bodice Long Sleeves_6_0
+  - first:
+      213: -867614754562101935
+    second: Orange Bodice Long Sleeves_7_0
+  - first:
+      213: 6819481723066214017
+    second: Orange Bodice Long Sleeves_8_0
+  - first:
+      213: 8801628401406999070
+    second: Orange Bodice Long Sleeves_9_0
+  - first:
+      213: 6160363267164411921
+    second: Orange Bodice Long Sleeves_EMPTY_5
+  - first:
+      213: -8956980009146807111
+    second: Orange Bodice Long Sleeves_EMPTY_6
+  - first:
+      213: -805033625590947637
+    second: Orange Bodice Long Sleeves_EMPTY_7
+  - first:
+      213: -7841703356160619715
+    second: Orange Bodice Long Sleeves_EMPTY_8
+  - first:
+      213: -4703593070192530194
+    second: Orange Bodice Long Sleeves_EMPTY_9
+  - first:
+      213: 62784555624081746
+    second: Orange Bodice Long Sleeves_EMPTY_18
+  - first:
+      213: 5092793648563686400
+    second: Orange Bodice Long Sleeves_EMPTY_19
+  - first:
+      213: 6226883617979308412
+    second: Orange Bodice Long Sleeves_EMPTY_28
+  - first:
+      213: 453615827681871814
+    second: Orange Bodice Long Sleeves_EMPTY_29
+  - first:
+      213: -6504924254530242976
+    second: Orange Bodice Long Sleeves_EMPTY_34
+  - first:
+      213: 1287126586853519103
+    second: Orange Bodice Long Sleeves_EMPTY_35
+  - first:
+      213: 2889405094128212419
+    second: Orange Bodice Long Sleeves_EMPTY_36
+  - first:
+      213: 5447940661261760321
+    second: Orange Bodice Long Sleeves_EMPTY_37
+  - first:
+      213: 1932272443899639568
+    second: Orange Bodice Long Sleeves_EMPTY_38
+  - first:
+      213: 2225774855766049748
+    second: Orange Bodice Long Sleeves_EMPTY_39
+  - first:
+      213: -3772619918715323614
+    second: Orange Bodice Long Sleeves_EMPTY_44
+  - first:
+      213: -1437217238460941872
+    second: Orange Bodice Long Sleeves_EMPTY_45
+  - first:
+      213: -6748692858414036670
+    second: Orange Bodice Long Sleeves_EMPTY_46
+  - first:
+      213: -3065398102835475245
+    second: Orange Bodice Long Sleeves_EMPTY_47
+  - first:
+      213: 4835757077352386604
+    second: Orange Bodice Long Sleeves_EMPTY_48
+  - first:
+      213: -9204721323936835662
+    second: Orange Bodice Long Sleeves_EMPTY_49
+  - first:
+      213: -4872834904918120831
+    second: Orange Bodice Long Sleeves_50
+  - first:
+      213: -2535563537427305141
+    second: Orange Bodice Long Sleeves_51
+  - first:
+      213: -6769416646047628475
+    second: Orange Bodice Long Sleeves_52
+  - first:
+      213: -3518988239922057778
+    second: Orange Bodice Long Sleeves_53
+  - first:
+      213: -7734456099831054006
+    second: Orange Bodice Long Sleeves_54
+  - first:
+      213: 492188164543583313
+    second: Orange Bodice Long Sleeves_55
+  - first:
+      213: 5404654050867857505
+    second: Orange Bodice Long Sleeves_EMPTY_56
+  - first:
+      213: -5592241820910229654
+    second: Orange Bodice Long Sleeves_EMPTY_57
+  - first:
+      213: 1496496782991483307
+    second: Orange Bodice Long Sleeves_EMPTY_58
+  - first:
+      213: -25564283520158288
+    second: Orange Bodice Long Sleeves_EMPTY_59
+  - first:
+      213: -6670102395937324726
+    second: Orange Bodice Long Sleeves_60
+  - first:
+      213: -2099890362187063062
+    second: Orange Bodice Long Sleeves_61
+  - first:
+      213: -695732884706535981
+    second: Orange Bodice Long Sleeves_62
+  - first:
+      213: -158621887742375796
+    second: Orange Bodice Long Sleeves_63
+  - first:
+      213: -3436523520418089587
+    second: Orange Bodice Long Sleeves_64
+  - first:
+      213: 4685517382969895025
+    second: Orange Bodice Long Sleeves_65
+  - first:
+      213: 2654697695272393071
+    second: Orange Bodice Long Sleeves_66
+  - first:
+      213: -2287172560893677072
+    second: Orange Bodice Long Sleeves_67
+  - first:
+      213: 2840467402876157175
+    second: Orange Bodice Long Sleeves_68
+  - first:
+      213: 5412184375794379491
+    second: Orange Bodice Long Sleeves_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c3b6c89b103eeb0800000000000000
+      internalID: -4691904490353509306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dea73eceaecdfcb0800000000000000
+      internalID: -4828475975291916586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642388fc8def0b4c0800000000000000
+      internalID: -4273635839226400186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bba6420080e8d60800000000000000
+      internalID: 7894255993531054908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050caf842c460c950800000000000000
+      internalID: 6467279850514858064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11813b2a0c10e7550800000000000000
+      internalID: 6160363267164411921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc8786432a62b380800000000000000
+      internalID: -8956980009146807111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0286ace22f3d4f0800000000000000
+      internalID: -805033625590947637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bce0e385cac2390800000000000000
+      internalID: -7841703356160619715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec6f2bf50b79beb0800000000000000
+      internalID: -4703593070192530194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b55bae4a57dd790800000000000000
+      internalID: -7503712052956538096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54703a0e6a95a630800000000000000
+      internalID: 3937723246613394522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1df7058d0f37680800000000000000
+      internalID: -8758392038451326522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce964328c010217a0800000000000000
+      internalID: -6408058166559086100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c04154762c065770800000000000000
+      internalID: 8599073897810313417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01633395708d529a0800000000000000
+      internalID: -6258358581088537072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d704d3ff9e0dde00800000000000000
+      internalID: 1071028366537394132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400dfb4a7992e8c60800000000000000
+      internalID: 7822235334069964804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259aa5f783e0fd000800000000000000
+      internalID: 62784555624081746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c010137dc3da640800000000000000
+      internalID: 5092793648563686400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364a3ba164a317190800000000000000
+      internalID: -7966522193071594397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fea7a1b13d617e20800000000000000
+      internalID: 3346576058314370800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8a9e7e1ad5e3050800000000000000
+      internalID: 5782161921552263339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deac20c78ab178400800000000000000
+      internalID: 326259908456663789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ce0f82a80919230800000000000000
+      internalID: 3643852496586206268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6226fdcae1dc1d330800000000000000
+      internalID: 3733991097699885606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d09f9b04a94abb60800000000000000
+      internalID: 7762597876644942037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a97513bf8dda920800000000000000
+      internalID: 3003295099902204476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c791b5bb8a55a6650800000000000000
+      internalID: 6226883617979308412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7097121319b4600800000000000000
+      internalID: 453615827681871814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa91663764b4eee0800000000000000
+      internalID: -1232662042605675779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3db830ced381070800000000000000
+      internalID: 8077274015570056148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e95921daa38bec80800000000000000
+      internalID: -8292389519195809307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00817b849d13c0a10800000000000000
+      internalID: 1876929954004277248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066f6e5eaddd9b5a0800000000000000
+      internalID: -6504924254530242976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe6d5eafcaccd110800000000000000
+      internalID: 1287126586853519103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c957b7df9a391820800000000000000
+      internalID: 2889405094128212419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147f9efba29fa9b40800000000000000
+      internalID: 5447940661261760321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017f9e3dc8fc0da10800000000000000
+      internalID: 1932272443899639568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d38eeb407a83ee10800000000000000
+      internalID: 2225774855766049748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e5038cf4f05a720800000000000000
+      internalID: 2856706373971893775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97f8479f36742d60800000000000000
+      internalID: 7864540864788887452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ef90005dec66c50800000000000000
+      internalID: 6658236513337867820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c2a07bb1183f110800000000000000
+      internalID: 1293519474020461716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bf8601c26f4abc0800000000000000
+      internalID: -3772619918715323614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9b77c498afd0ce0800000000000000
+      internalID: -1437217238460941872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2490404f993d752a0800000000000000
+      internalID: -6748692858414036670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcc559aaa48575d0800000000000000
+      internalID: -3065398102835475245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c209bafd07f0c1340800000000000000
+      internalID: 4835757077352386604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7184e79b2424080800000000000000
+      internalID: -9204721323936835662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1862b3ba876306cb0800000000000000
+      internalID: -4872834904918120831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d663e856edfccd0800000000000000
+      internalID: -2535563537427305141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54307b32d633e02a0800000000000000
+      internalID: -6769416646047628475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd2ba617da0a2fc0800000000000000
+      internalID: -3518988239922057778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4187b6f721b9a490800000000000000
+      internalID: -7734456099831054006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1549546278a94d600800000000000000
+      internalID: 492188164543583313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168cad36930310b40800000000000000
+      internalID: 5404654050867857505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67ef8e51bd5462b0800000000000000
+      internalID: -5592241820910229654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1e8b535ef94c410800000000000000
+      internalID: 1496496782991483307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5f7d96b6d25aff0800000000000000
+      internalID: -25564283520158288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a418caae5390f63a0800000000000000
+      internalID: -6670102395937324726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0e29e57d0bbd2e0800000000000000
+      internalID: -2099890362187063062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d55284a0a24856f0800000000000000
+      internalID: -695732884706535981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c888387cb367ccdf0800000000000000
+      internalID: -158621887742375796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85743fc0140f40d0800000000000000
+      internalID: -3436523520418089587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178a6d02c3d460140800000000000000
+      internalID: 4685517382969895025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6952c81d7167d420800000000000000
+      internalID: 2654697695272393071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f179ef7ca45240e0800000000000000
+      internalID: -2287172560893677072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc7280bd0e5b6720800000000000000
+      internalID: 2840467402876157175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bodice Long Sleeves_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaa42ac301fb1b40800000000000000
+      internalID: 5412184375794379491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orange Bodice Long Sleeves_0: -4691904490353509306
+      Orange Bodice Long Sleeves_0_0: 3957370027323161419
+      Orange Bodice Long Sleeves_0_1: -2591557453307639956
+      Orange Bodice Long Sleeves_0_2: 5086228328955441364
+      Orange Bodice Long Sleeves_0_3: 333783851140262676
+      Orange Bodice Long Sleeves_0_4: -6166392049195650209
+      Orange Bodice Long Sleeves_0_5: -6161637096807415582
+      Orange Bodice Long Sleeves_0_6: 7219702038115963304
+      Orange Bodice Long Sleeves_1: -4828475975291916586
+      Orange Bodice Long Sleeves_10: -7503712052956538096
+      Orange Bodice Long Sleeves_11: 3937723246613394522
+      Orange Bodice Long Sleeves_12: -8758392038451326522
+      Orange Bodice Long Sleeves_13: -6408058166559086100
+      Orange Bodice Long Sleeves_14: 8599073897810313417
+      Orange Bodice Long Sleeves_15: -6258358581088537072
+      Orange Bodice Long Sleeves_16: 1071028366537394132
+      Orange Bodice Long Sleeves_17: 7822235334069964804
+      Orange Bodice Long Sleeves_18: 1228398862467995048
+      Orange Bodice Long Sleeves_19: 3682754304154650533
+      Orange Bodice Long Sleeves_1_0: 1226867621308201207
+      Orange Bodice Long Sleeves_1_1: 3040996283817293543
+      Orange Bodice Long Sleeves_1_2: -79673543131745597
+      Orange Bodice Long Sleeves_1_3: 5951608037984290737
+      Orange Bodice Long Sleeves_1_4: -7076573248452527368
+      Orange Bodice Long Sleeves_1_5: -8560322563398434160
+      Orange Bodice Long Sleeves_1_6: 3679490927918040389
+      Orange Bodice Long Sleeves_2: -4273635839226400186
+      Orange Bodice Long Sleeves_20: -7966522193071594397
+      Orange Bodice Long Sleeves_21: 3346576058314370800
+      Orange Bodice Long Sleeves_22: 5782161921552263339
+      Orange Bodice Long Sleeves_23: 326259908456663789
+      Orange Bodice Long Sleeves_24: 3643852496586206268
+      Orange Bodice Long Sleeves_25: 3733991097699885606
+      Orange Bodice Long Sleeves_26: 7762597876644942037
+      Orange Bodice Long Sleeves_27: 3003295099902204476
+      Orange Bodice Long Sleeves_28: 5554713038104639348
+      Orange Bodice Long Sleeves_29: -6553675491717819210
+      Orange Bodice Long Sleeves_2_0: 4648394275545571905
+      Orange Bodice Long Sleeves_2_1: -788601668310909948
+      Orange Bodice Long Sleeves_2_2: -99109620735411068
+      Orange Bodice Long Sleeves_2_3: -6240699330658062950
+      Orange Bodice Long Sleeves_2_4: -8585971128852849540
+      Orange Bodice Long Sleeves_2_5: 6229088076972937655
+      Orange Bodice Long Sleeves_2_6: 4249253909182427913
+      Orange Bodice Long Sleeves_3: 7894255993531054908
+      Orange Bodice Long Sleeves_30: -1232662042605675779
+      Orange Bodice Long Sleeves_31: 8077274015570056148
+      Orange Bodice Long Sleeves_32: -8292389519195809307
+      Orange Bodice Long Sleeves_33: 1876929954004277248
+      Orange Bodice Long Sleeves_34: 1546253951737553152
+      Orange Bodice Long Sleeves_35: 3361652089914107936
+      Orange Bodice Long Sleeves_36: -3145226690686151283
+      Orange Bodice Long Sleeves_37: -2938494439923257378
+      Orange Bodice Long Sleeves_38: 4665334066535548671
+      Orange Bodice Long Sleeves_39: -1951336612767162060
+      Orange Bodice Long Sleeves_3_0: 2380450649369054544
+      Orange Bodice Long Sleeves_3_1: 6754218431585156375
+      Orange Bodice Long Sleeves_3_2: 7360963823279311624
+      Orange Bodice Long Sleeves_3_3: 3138229308535704241
+      Orange Bodice Long Sleeves_3_4: -3434844018257500051
+      Orange Bodice Long Sleeves_3_5: 6648090867202660290
+      Orange Bodice Long Sleeves_3_6: 3128943754293658708
+      Orange Bodice Long Sleeves_4: 6467279850514858064
+      Orange Bodice Long Sleeves_40: 2856706373971893775
+      Orange Bodice Long Sleeves_41: 7864540864788887452
+      Orange Bodice Long Sleeves_42: 6658236513337867820
+      Orange Bodice Long Sleeves_43: 1293519474020461716
+      Orange Bodice Long Sleeves_44: -762220317761933181
+      Orange Bodice Long Sleeves_4_0: -669687467408461733
+      Orange Bodice Long Sleeves_4_1: -1932371892121165608
+      Orange Bodice Long Sleeves_4_2: 6990523732737193810
+      Orange Bodice Long Sleeves_4_3: -737462593458256861
+      Orange Bodice Long Sleeves_4_4: 4607130659145868014
+      Orange Bodice Long Sleeves_4_5: -1841501893003345040
+      Orange Bodice Long Sleeves_4_6: 7937914299472970895
+      Orange Bodice Long Sleeves_5: 4735438953262562065
+      Orange Bodice Long Sleeves_50: -4872834904918120831
+      Orange Bodice Long Sleeves_51: -2535563537427305141
+      Orange Bodice Long Sleeves_52: -6769416646047628475
+      Orange Bodice Long Sleeves_53: -3518988239922057778
+      Orange Bodice Long Sleeves_54: -7734456099831054006
+      Orange Bodice Long Sleeves_55: 492188164543583313
+      Orange Bodice Long Sleeves_5_0: 4483384879711826596
+      Orange Bodice Long Sleeves_5_1: -7821546168566368396
+      Orange Bodice Long Sleeves_5_2: 9103891839368241821
+      Orange Bodice Long Sleeves_5_3: 6522395384531415493
+      Orange Bodice Long Sleeves_5_4: -3249608935430442076
+      Orange Bodice Long Sleeves_5_5: 7242811701883630390
+      Orange Bodice Long Sleeves_5_6: 4365517320277798381
+      Orange Bodice Long Sleeves_6: -6776121185254580200
+      Orange Bodice Long Sleeves_60: -6670102395937324726
+      Orange Bodice Long Sleeves_61: -2099890362187063062
+      Orange Bodice Long Sleeves_62: -695732884706535981
+      Orange Bodice Long Sleeves_63: -158621887742375796
+      Orange Bodice Long Sleeves_64: -3436523520418089587
+      Orange Bodice Long Sleeves_65: 4685517382969895025
+      Orange Bodice Long Sleeves_66: 2654697695272393071
+      Orange Bodice Long Sleeves_67: -2287172560893677072
+      Orange Bodice Long Sleeves_68: 2840467402876157175
+      Orange Bodice Long Sleeves_69: 5412184375794379491
+      Orange Bodice Long Sleeves_6_0: -3990561576171793298
+      Orange Bodice Long Sleeves_6_1: -3582044344806643996
+      Orange Bodice Long Sleeves_6_2: 8573607211184519976
+      Orange Bodice Long Sleeves_6_3: 8840205493341914593
+      Orange Bodice Long Sleeves_6_4: 3237145418580869880
+      Orange Bodice Long Sleeves_6_5: 7431272313603681514
+      Orange Bodice Long Sleeves_6_6: -4429140659740780918
+      Orange Bodice Long Sleeves_7: 678502567930172034
+      Orange Bodice Long Sleeves_7_0: -867614754562101935
+      Orange Bodice Long Sleeves_7_1: 1517932838597356776
+      Orange Bodice Long Sleeves_7_2: -1371504584288820633
+      Orange Bodice Long Sleeves_7_3: -7363628861019992862
+      Orange Bodice Long Sleeves_7_4: 3723397566067456543
+      Orange Bodice Long Sleeves_7_5: -8160940737781425720
+      Orange Bodice Long Sleeves_7_6: 378397848254969618
+      Orange Bodice Long Sleeves_8: 2389198834657035448
+      Orange Bodice Long Sleeves_8_0: 6819481723066214017
+      Orange Bodice Long Sleeves_8_1: -3813044754268814616
+      Orange Bodice Long Sleeves_8_2: -8661105942728139576
+      Orange Bodice Long Sleeves_8_3: 8081696942127314428
+      Orange Bodice Long Sleeves_8_4: 1384800118103186862
+      Orange Bodice Long Sleeves_8_5: 4607207703675223368
+      Orange Bodice Long Sleeves_8_6: -3437685995272699109
+      Orange Bodice Long Sleeves_9: -3469919841676863475
+      Orange Bodice Long Sleeves_9_0: 8801628401406999070
+      Orange Bodice Long Sleeves_9_1: -8077267633140391842
+      Orange Bodice Long Sleeves_9_2: -8123218945447170252
+      Orange Bodice Long Sleeves_9_3: 5642189072720823547
+      Orange Bodice Long Sleeves_9_4: 4165845161242305857
+      Orange Bodice Long Sleeves_9_5: 8225683078396508536
+      Orange Bodice Long Sleeves_9_6: -9177663752783994594
+      Orange Bodice Long Sleeves_EMPTY_18: 62784555624081746
+      Orange Bodice Long Sleeves_EMPTY_19: 5092793648563686400
+      Orange Bodice Long Sleeves_EMPTY_28: 6226883617979308412
+      Orange Bodice Long Sleeves_EMPTY_29: 453615827681871814
+      Orange Bodice Long Sleeves_EMPTY_34: -6504924254530242976
+      Orange Bodice Long Sleeves_EMPTY_35: 1287126586853519103
+      Orange Bodice Long Sleeves_EMPTY_36: 2889405094128212419
+      Orange Bodice Long Sleeves_EMPTY_37: 5447940661261760321
+      Orange Bodice Long Sleeves_EMPTY_38: 1932272443899639568
+      Orange Bodice Long Sleeves_EMPTY_39: 2225774855766049748
+      Orange Bodice Long Sleeves_EMPTY_44: -3772619918715323614
+      Orange Bodice Long Sleeves_EMPTY_45: -1437217238460941872
+      Orange Bodice Long Sleeves_EMPTY_46: -6748692858414036670
+      Orange Bodice Long Sleeves_EMPTY_47: -3065398102835475245
+      Orange Bodice Long Sleeves_EMPTY_48: 4835757077352386604
+      Orange Bodice Long Sleeves_EMPTY_49: -9204721323936835662
+      Orange Bodice Long Sleeves_EMPTY_5: 6160363267164411921
+      Orange Bodice Long Sleeves_EMPTY_56: 5404654050867857505
+      Orange Bodice Long Sleeves_EMPTY_57: -5592241820910229654
+      Orange Bodice Long Sleeves_EMPTY_58: 1496496782991483307
+      Orange Bodice Long Sleeves_EMPTY_59: -25564283520158288
+      Orange Bodice Long Sleeves_EMPTY_6: -8956980009146807111
+      Orange Bodice Long Sleeves_EMPTY_7: -805033625590947637
+      Orange Bodice Long Sleeves_EMPTY_8: -7841703356160619715
+      Orange Bodice Long Sleeves_EMPTY_9: -4703593070192530194
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

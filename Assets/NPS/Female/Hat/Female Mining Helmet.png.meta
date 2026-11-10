@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: 34ab0cdb1fc263a4ead7c6aa7a6e659f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5253139885706484706
+    second: Female Mining Helmet_0
+  - first:
+      213: 602911269004273528
+    second: Female Mining Helmet_1
+  - first:
+      213: 7630174885556451368
+    second: Female Mining Helmet_2
+  - first:
+      213: -6692223624219593205
+    second: Female Mining Helmet_3
+  - first:
+      213: -8317322546316859358
+    second: Female Mining Helmet_4
+  - first:
+      213: -4622058273108028325
+    second: Female Mining Helmet_5
+  - first:
+      213: 1012758500089857436
+    second: Female Mining Helmet_6
+  - first:
+      213: 3021816875493988311
+    second: Female Mining Helmet_7
+  - first:
+      213: -4966825559913302013
+    second: Female Mining Helmet_8
+  - first:
+      213: 4775137253830008580
+    second: Female Mining Helmet_9
+  - first:
+      213: 1309730608790413099
+    second: Female Mining Helmet_10
+  - first:
+      213: -1222306397456042856
+    second: Female Mining Helmet_11
+  - first:
+      213: -867665187646755010
+    second: Female Mining Helmet_12
+  - first:
+      213: -579453447333558128
+    second: Female Mining Helmet_13
+  - first:
+      213: -7704468288828596786
+    second: Female Mining Helmet_14
+  - first:
+      213: 4558434918326149628
+    second: Female Mining Helmet_15
+  - first:
+      213: 7229882759247005012
+    second: Female Mining Helmet_16
+  - first:
+      213: 6115414361826795345
+    second: Female Mining Helmet_17
+  - first:
+      213: -598667954354167367
+    second: Female Mining Helmet_18
+  - first:
+      213: 3680344107456248606
+    second: Female Mining Helmet_19
+  - first:
+      213: -1770206850910278786
+    second: Female Mining Helmet_20
+  - first:
+      213: 7131938165078849918
+    second: Female Mining Helmet_21
+  - first:
+      213: -8901563395170127118
+    second: Female Mining Helmet_22
+  - first:
+      213: 7080505618051893466
+    second: Female Mining Helmet_23
+  - first:
+      213: 7001016737493188199
+    second: Female Mining Helmet_24
+  - first:
+      213: -8303954003367572351
+    second: Female Mining Helmet_25
+  - first:
+      213: 7025483971386931604
+    second: Female Mining Helmet_26
+  - first:
+      213: -6382740451582026441
+    second: Female Mining Helmet_27
+  - first:
+      213: 1602969742823920615
+    second: Female Mining Helmet_28
+  - first:
+      213: 746409697419991355
+    second: Female Mining Helmet_29
+  - first:
+      213: 7688257211933005298
+    second: Female Mining Helmet_30
+  - first:
+      213: 1079846125000551705
+    second: Female Mining Helmet_31
+  - first:
+      213: -7191508514035454744
+    second: Female Mining Helmet_32
+  - first:
+      213: -7662197346441276123
+    second: Female Mining Helmet_33
+  - first:
+      213: -906200330726384247
+    second: Female Mining Helmet_34
+  - first:
+      213: 7463774373335099346
+    second: Female Mining Helmet_35
+  - first:
+      213: 5869638926289716390
+    second: Female Mining Helmet_36
+  - first:
+      213: -2118244099512854275
+    second: Female Mining Helmet_37
+  - first:
+      213: 1785001300981637106
+    second: Female Mining Helmet_38
+  - first:
+      213: -2912715378270493694
+    second: Female Mining Helmet_39
+  - first:
+      213: -3949788015917191197
+    second: Female Mining Helmet_40
+  - first:
+      213: 4008704799002551513
+    second: Female Mining Helmet_41
+  - first:
+      213: 1425697045290650833
+    second: Female Mining Helmet_42
+  - first:
+      213: -6831739287759121720
+    second: Female Mining Helmet_43
+  - first:
+      213: 29930103823244451
+    second: Female Mining Helmet_44
+  - first:
+      213: -1223803631497972036
+    second: Female Mining Helmet_0_6
+  - first:
+      213: 4308211574834184519
+    second: Female Mining Helmet_1_6
+  - first:
+      213: 8615854561282006048
+    second: Female Mining Helmet_2_6
+  - first:
+      213: -3978890039240782391
+    second: Female Mining Helmet_3_6
+  - first:
+      213: 1114087759776561314
+    second: Female Mining Helmet_4_6
+  - first:
+      213: -4134901585288132947
+    second: Female Mining Helmet_5_6
+  - first:
+      213: -1056056536462133696
+    second: Female Mining Helmet_6_6
+  - first:
+      213: 1703498598569041657
+    second: Female Mining Helmet_7_6
+  - first:
+      213: -3044736591626031598
+    second: Female Mining Helmet_8_6
+  - first:
+      213: 663729570920558896
+    second: Female Mining Helmet_9_6
+  - first:
+      213: -3459137424827558838
+    second: Female Mining Helmet_0_5
+  - first:
+      213: -8607713560838836660
+    second: Female Mining Helmet_1_5
+  - first:
+      213: 2318084122341688380
+    second: Female Mining Helmet_2_5
+  - first:
+      213: -1250817982773115112
+    second: Female Mining Helmet_3_5
+  - first:
+      213: 7053423681885700581
+    second: Female Mining Helmet_4_5
+  - first:
+      213: -7346657280002256916
+    second: Female Mining Helmet_5_5
+  - first:
+      213: -2037588834367956600
+    second: Female Mining Helmet_6_5
+  - first:
+      213: 2302905102729131014
+    second: Female Mining Helmet_7_5
+  - first:
+      213: 8687385885118139593
+    second: Female Mining Helmet_8_5
+  - first:
+      213: -6170667187724977651
+    second: Female Mining Helmet_9_5
+  - first:
+      213: -7061363654076139716
+    second: Female Mining Helmet_0_4
+  - first:
+      213: -5869874878661288087
+    second: Female Mining Helmet_1_4
+  - first:
+      213: -5576349121204724910
+    second: Female Mining Helmet_2_4
+  - first:
+      213: -2978278426727027056
+    second: Female Mining Helmet_3_4
+  - first:
+      213: -2390994590770751176
+    second: Female Mining Helmet_4_4
+  - first:
+      213: -635751234578556405
+    second: Female Mining Helmet_5_4
+  - first:
+      213: -403373076466771566
+    second: Female Mining Helmet_6_4
+  - first:
+      213: 2437588859359458096
+    second: Female Mining Helmet_7_4
+  - first:
+      213: 2374905208181005314
+    second: Female Mining Helmet_8_4
+  - first:
+      213: 2722291755402876619
+    second: Female Mining Helmet_9_4
+  - first:
+      213: 854884223809449889
+    second: Female Mining Helmet_0_3
+  - first:
+      213: 7646239265200181976
+    second: Female Mining Helmet_1_3
+  - first:
+      213: 7024636141979943826
+    second: Female Mining Helmet_2_3
+  - first:
+      213: 7305896307554197048
+    second: Female Mining Helmet_3_3
+  - first:
+      213: 4547308780179361968
+    second: Female Mining Helmet_4_3
+  - first:
+      213: -2069625098278689428
+    second: Female Mining Helmet_5_3
+  - first:
+      213: 822174468352135825
+    second: Female Mining Helmet_6_3
+  - first:
+      213: -8256328086864374196
+    second: Female Mining Helmet_7_3
+  - first:
+      213: -2941625482904153653
+    second: Female Mining Helmet_8_3
+  - first:
+      213: 8529670753961984922
+    second: Female Mining Helmet_9_3
+  - first:
+      213: -4948933076782593877
+    second: Female Mining Helmet_0_2
+  - first:
+      213: -4340489619347945594
+    second: Female Mining Helmet_1_2
+  - first:
+      213: 8546687215707833481
+    second: Female Mining Helmet_2_2
+  - first:
+      213: -1158454246362417106
+    second: Female Mining Helmet_3_2
+  - first:
+      213: -5315550040789344966
+    second: Female Mining Helmet_4_2
+  - first:
+      213: -7323694970347513339
+    second: Female Mining Helmet_5_2
+  - first:
+      213: -3901276463487100163
+    second: Female Mining Helmet_6_2
+  - first:
+      213: 5821084852891547449
+    second: Female Mining Helmet_7_2
+  - first:
+      213: 3192209365428824422
+    second: Female Mining Helmet_8_2
+  - first:
+      213: 5293592344427166274
+    second: Female Mining Helmet_9_2
+  - first:
+      213: 4887552460979379463
+    second: Female Mining Helmet_0_1
+  - first:
+      213: -5873528681007864123
+    second: Female Mining Helmet_1_1
+  - first:
+      213: -5169689691469102354
+    second: Female Mining Helmet_2_1
+  - first:
+      213: 435383697804447671
+    second: Female Mining Helmet_3_1
+  - first:
+      213: 2897091437768620963
+    second: Female Mining Helmet_4_1
+  - first:
+      213: 8449365187573244232
+    second: Female Mining Helmet_5_1
+  - first:
+      213: -6097613245504009258
+    second: Female Mining Helmet_6_1
+  - first:
+      213: -8812095150044616563
+    second: Female Mining Helmet_7_1
+  - first:
+      213: 232521107699884177
+    second: Female Mining Helmet_8_1
+  - first:
+      213: -2205769509368261363
+    second: Female Mining Helmet_9_1
+  - first:
+      213: 5322991213370639360
+    second: Female Mining Helmet_0_0
+  - first:
+      213: 361327724197553172
+    second: Female Mining Helmet_1_0
+  - first:
+      213: 4847863417382502485
+    second: Female Mining Helmet_2_0
+  - first:
+      213: -7106774964776079858
+    second: Female Mining Helmet_3_0
+  - first:
+      213: 5713874181879506093
+    second: Female Mining Helmet_4_0
+  - first:
+      213: 8001544693683894970
+    second: Female Mining Helmet_5_0
+  - first:
+      213: -6701358542389082442
+    second: Female Mining Helmet_6_0
+  - first:
+      213: 2218361449778635088
+    second: Female Mining Helmet_7_0
+  - first:
+      213: 8747615550649540745
+    second: Female Mining Helmet_8_0
+  - first:
+      213: 8629682934548616228
+    second: Female Mining Helmet_9_0
+  - first:
+      213: -812572088238055983
+    second: Female Mining Helmet_EMPTY_5
+  - first:
+      213: 8166016071690017471
+    second: Female Mining Helmet_EMPTY_6
+  - first:
+      213: -8953789411600643539
+    second: Female Mining Helmet_EMPTY_7
+  - first:
+      213: 2168394869101619598
+    second: Female Mining Helmet_EMPTY_8
+  - first:
+      213: -8274346256772748083
+    second: Female Mining Helmet_EMPTY_9
+  - first:
+      213: -171537062147055338
+    second: Female Mining Helmet_EMPTY_18
+  - first:
+      213: -6986460066344727707
+    second: Female Mining Helmet_EMPTY_19
+  - first:
+      213: -823922754718249621
+    second: Female Mining Helmet_EMPTY_28
+  - first:
+      213: -1275288556977866886
+    second: Female Mining Helmet_EMPTY_29
+  - first:
+      213: -3288008711509035323
+    second: Female Mining Helmet_EMPTY_34
+  - first:
+      213: -4742651228135730558
+    second: Female Mining Helmet_EMPTY_35
+  - first:
+      213: -1102048188451512014
+    second: Female Mining Helmet_EMPTY_36
+  - first:
+      213: 845144815589717170
+    second: Female Mining Helmet_EMPTY_37
+  - first:
+      213: 31638047353056245
+    second: Female Mining Helmet_EMPTY_38
+  - first:
+      213: -3428532649093075548
+    second: Female Mining Helmet_EMPTY_39
+  - first:
+      213: -7094777874330721365
+    second: Female Mining Helmet_EMPTY_44
+  - first:
+      213: -2420576196819797084
+    second: Female Mining Helmet_EMPTY_45
+  - first:
+      213: -8504076760966701921
+    second: Female Mining Helmet_EMPTY_46
+  - first:
+      213: 1497519008411298506
+    second: Female Mining Helmet_EMPTY_47
+  - first:
+      213: -3370845628719434309
+    second: Female Mining Helmet_EMPTY_48
+  - first:
+      213: 2748761824558703477
+    second: Female Mining Helmet_EMPTY_49
+  - first:
+      213: -8571296648322468476
+    second: Female Mining Helmet_50
+  - first:
+      213: -6558292582663384452
+    second: Female Mining Helmet_51
+  - first:
+      213: -4184240437663947533
+    second: Female Mining Helmet_52
+  - first:
+      213: 3425516424059599725
+    second: Female Mining Helmet_53
+  - first:
+      213: -2929243221295586407
+    second: Female Mining Helmet_54
+  - first:
+      213: 3302815014554708686
+    second: Female Mining Helmet_55
+  - first:
+      213: -7234100961400227859
+    second: Female Mining Helmet_EMPTY_56
+  - first:
+      213: 238740821393131430
+    second: Female Mining Helmet_EMPTY_57
+  - first:
+      213: 766663876233818928
+    second: Female Mining Helmet_EMPTY_58
+  - first:
+      213: -1558078198975473070
+    second: Female Mining Helmet_EMPTY_59
+  - first:
+      213: -6797835733721980556
+    second: Female Mining Helmet_60
+  - first:
+      213: -2916256250452463962
+    second: Female Mining Helmet_61
+  - first:
+      213: -8588120232180733027
+    second: Female Mining Helmet_62
+  - first:
+      213: 1366082537481513379
+    second: Female Mining Helmet_63
+  - first:
+      213: 3509378063812591031
+    second: Female Mining Helmet_64
+  - first:
+      213: -3905661573703910881
+    second: Female Mining Helmet_65
+  - first:
+      213: 768736870124548967
+    second: Female Mining Helmet_66
+  - first:
+      213: 3798670653284297642
+    second: Female Mining Helmet_67
+  - first:
+      213: 8980949818439767899
+    second: Female Mining Helmet_68
+  - first:
+      213: -5318683889888405258
+    second: Female Mining Helmet_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female Mining Helmet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb98fac4e6e6e840800000000000000
+      internalID: 5253139885706484706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8776414da98fd5800800000000000000
+      internalID: 602911269004273528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828f2bbc1a3d3e960800000000000000
+      internalID: 7630174885556451368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06f9e812127023a0800000000000000
+      internalID: -6692223624219593205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228af60163fe29c80800000000000000
+      internalID: -8317322546316859358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd5c2eadf929b4f0800000000000000
+      internalID: -812572088238055983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbad63f0a54835170800000000000000
+      internalID: 8166016071690017471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ac3e728ffbdb380800000000000000
+      internalID: -8953789411600643539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89e49115afa71e10800000000000000
+      internalID: 2168394869101619598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc2a783bed9b2d80800000000000000
+      internalID: -8274346256772748083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f9868ac091d2210800000000000000
+      internalID: 1309730608790413099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894f1fcbece790fe0800000000000000
+      internalID: -1222306397456042856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fa752eb1f65f3f0800000000000000
+      internalID: -867665187646755010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098cec3e82e55f7f0800000000000000
+      internalID: -579453447333558128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd1c1d49ea341590800000000000000
+      internalID: -7704468288828596786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf121961860d24f30800000000000000
+      internalID: 4558434918326149628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45583a06014b55460800000000000000
+      internalID: 7229882759247005012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f120316f05ed450800000000000000
+      internalID: 6115414361826795345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61129e863f39e9df0800000000000000
+      internalID: -171537062147055338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b0214e59b1b0f90800000000000000
+      internalID: -6986460066344727707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ba7808f36fe67e0800000000000000
+      internalID: -1770206850910278786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79739979fbb9f260800000000000000
+      internalID: 7131938165078849918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2b34d214b477480800000000000000
+      internalID: -8901563395170127118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad804227852034260800000000000000
+      internalID: 7080505618051893466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e78d831ab982160800000000000000
+      internalID: 7001016737493188199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cc71684dd62cc80800000000000000
+      internalID: -8303954003367572351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499f7b903788f7160800000000000000
+      internalID: 7025483971386931604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ddfe16063fb67a0800000000000000
+      internalID: -6382740451582026441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d48a2be96d094f0800000000000000
+      internalID: -823922754718249621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77b63f60d34d4ee0800000000000000
+      internalID: -1275288556977866886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f51a1b333d22ba60800000000000000
+      internalID: 7688257211933005298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d6db454526cfe00800000000000000
+      internalID: 1079846125000551705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec28b5db11a23c90800000000000000
+      internalID: -7191508514035454744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5255d660c186aa590800000000000000
+      internalID: -7662197346441276123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c63d1c5f75ae52d0800000000000000
+      internalID: -3288008711509035323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282566de5d7be2eb0800000000000000
+      internalID: -4742651228135730558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2312cf1f20db4b0f0800000000000000
+      internalID: -1102048188451512014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4fcf46bbe8abb00800000000000000
+      internalID: 845144815589717170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbaddde2a6607000800000000000000
+      internalID: 31638047353056245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad6af588b76b60d0800000000000000
+      internalID: -3428532649093075548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef2925f9b88f29c0800000000000000
+      internalID: -3949788015917191197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d463f196c7c1a730800000000000000
+      internalID: 4008704799002551513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc8fd5b8e719c310800000000000000
+      internalID: 1425697045290650833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2990b5059c031a0800000000000000
+      internalID: -6831739287759121720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba36730fc194a8d90800000000000000
+      internalID: -7094777874330721365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab3ac416c2686ed0800000000000000
+      internalID: -2420576196819797084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cdcef0e337bf980800000000000000
+      internalID: -8504076760966701921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca20cc9a9148c410800000000000000
+      internalID: 1497519008411298506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5ff7b92c95831d0800000000000000
+      internalID: -3370845628719434309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573e9fcd050952620800000000000000
+      internalID: 2748761824558703477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4853e3c6c13ac0980800000000000000
+      internalID: -8571296648322468476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c721545b4a34cf4a0800000000000000
+      internalID: -6558292582663384452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f42732bd779ee5c0800000000000000
+      internalID: -4184240437663947533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bb65cd901e98f20800000000000000
+      internalID: 3425516424059599725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993a4fd5fcc3957d0800000000000000
+      internalID: -2929243221295586407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca2c55b1c4f5dd20800000000000000
+      internalID: 3302815014554708686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de77d66e08f4b9b90800000000000000
+      internalID: -7234100961400227859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7c58c138d205300800000000000000
+      internalID: 238740821393131430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0337a05cbbcb3aa00800000000000000
+      internalID: 766663876233818928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a59c11228906ae0800000000000000
+      internalID: -1558078198975473070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4716b0aaa6c39a1a0800000000000000
+      internalID: -6797835733721980556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aea4c524606787d0800000000000000
+      internalID: -2916256250452463962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ba580962ed0d880800000000000000
+      internalID: -8588120232180733027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9237c74dc45f210800000000000000
+      internalID: 1366082537481513379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdf81c61c0d3b030800000000000000
+      internalID: 3509378063812591031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a3c76ed7d4cc9c0800000000000000
+      internalID: -3905661573703910881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763f4854c1a1baa00800000000000000
+      internalID: 768736870124548967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab26bb35d697b430800000000000000
+      internalID: 3798670653284297642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5716b9d64eb2ac70800000000000000
+      internalID: 8980949818439767899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mining Helmet_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8db968e2d3036b0800000000000000
+      internalID: -5318683889888405258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Female Mining Helmet_0: 5253139885706484706
+      Female Mining Helmet_0_0: 5322991213370639360
+      Female Mining Helmet_0_1: 4887552460979379463
+      Female Mining Helmet_0_2: -4948933076782593877
+      Female Mining Helmet_0_3: 854884223809449889
+      Female Mining Helmet_0_4: -7061363654076139716
+      Female Mining Helmet_0_5: -3459137424827558838
+      Female Mining Helmet_0_6: -1223803631497972036
+      Female Mining Helmet_1: 602911269004273528
+      Female Mining Helmet_10: 1309730608790413099
+      Female Mining Helmet_11: -1222306397456042856
+      Female Mining Helmet_12: -867665187646755010
+      Female Mining Helmet_13: -579453447333558128
+      Female Mining Helmet_14: -7704468288828596786
+      Female Mining Helmet_15: 4558434918326149628
+      Female Mining Helmet_16: 7229882759247005012
+      Female Mining Helmet_17: 6115414361826795345
+      Female Mining Helmet_18: -598667954354167367
+      Female Mining Helmet_19: 3680344107456248606
+      Female Mining Helmet_1_0: 361327724197553172
+      Female Mining Helmet_1_1: -5873528681007864123
+      Female Mining Helmet_1_2: -4340489619347945594
+      Female Mining Helmet_1_3: 7646239265200181976
+      Female Mining Helmet_1_4: -5869874878661288087
+      Female Mining Helmet_1_5: -8607713560838836660
+      Female Mining Helmet_1_6: 4308211574834184519
+      Female Mining Helmet_2: 7630174885556451368
+      Female Mining Helmet_20: -1770206850910278786
+      Female Mining Helmet_21: 7131938165078849918
+      Female Mining Helmet_22: -8901563395170127118
+      Female Mining Helmet_23: 7080505618051893466
+      Female Mining Helmet_24: 7001016737493188199
+      Female Mining Helmet_25: -8303954003367572351
+      Female Mining Helmet_26: 7025483971386931604
+      Female Mining Helmet_27: -6382740451582026441
+      Female Mining Helmet_28: 1602969742823920615
+      Female Mining Helmet_29: 746409697419991355
+      Female Mining Helmet_2_0: 4847863417382502485
+      Female Mining Helmet_2_1: -5169689691469102354
+      Female Mining Helmet_2_2: 8546687215707833481
+      Female Mining Helmet_2_3: 7024636141979943826
+      Female Mining Helmet_2_4: -5576349121204724910
+      Female Mining Helmet_2_5: 2318084122341688380
+      Female Mining Helmet_2_6: 8615854561282006048
+      Female Mining Helmet_3: -6692223624219593205
+      Female Mining Helmet_30: 7688257211933005298
+      Female Mining Helmet_31: 1079846125000551705
+      Female Mining Helmet_32: -7191508514035454744
+      Female Mining Helmet_33: -7662197346441276123
+      Female Mining Helmet_34: -906200330726384247
+      Female Mining Helmet_35: 7463774373335099346
+      Female Mining Helmet_36: 5869638926289716390
+      Female Mining Helmet_37: -2118244099512854275
+      Female Mining Helmet_38: 1785001300981637106
+      Female Mining Helmet_39: -2912715378270493694
+      Female Mining Helmet_3_0: -7106774964776079858
+      Female Mining Helmet_3_1: 435383697804447671
+      Female Mining Helmet_3_2: -1158454246362417106
+      Female Mining Helmet_3_3: 7305896307554197048
+      Female Mining Helmet_3_4: -2978278426727027056
+      Female Mining Helmet_3_5: -1250817982773115112
+      Female Mining Helmet_3_6: -3978890039240782391
+      Female Mining Helmet_4: -8317322546316859358
+      Female Mining Helmet_40: -3949788015917191197
+      Female Mining Helmet_41: 4008704799002551513
+      Female Mining Helmet_42: 1425697045290650833
+      Female Mining Helmet_43: -6831739287759121720
+      Female Mining Helmet_44: 29930103823244451
+      Female Mining Helmet_4_0: 5713874181879506093
+      Female Mining Helmet_4_1: 2897091437768620963
+      Female Mining Helmet_4_2: -5315550040789344966
+      Female Mining Helmet_4_3: 4547308780179361968
+      Female Mining Helmet_4_4: -2390994590770751176
+      Female Mining Helmet_4_5: 7053423681885700581
+      Female Mining Helmet_4_6: 1114087759776561314
+      Female Mining Helmet_5: -4622058273108028325
+      Female Mining Helmet_50: -8571296648322468476
+      Female Mining Helmet_51: -6558292582663384452
+      Female Mining Helmet_52: -4184240437663947533
+      Female Mining Helmet_53: 3425516424059599725
+      Female Mining Helmet_54: -2929243221295586407
+      Female Mining Helmet_55: 3302815014554708686
+      Female Mining Helmet_5_0: 8001544693683894970
+      Female Mining Helmet_5_1: 8449365187573244232
+      Female Mining Helmet_5_2: -7323694970347513339
+      Female Mining Helmet_5_3: -2069625098278689428
+      Female Mining Helmet_5_4: -635751234578556405
+      Female Mining Helmet_5_5: -7346657280002256916
+      Female Mining Helmet_5_6: -4134901585288132947
+      Female Mining Helmet_6: 1012758500089857436
+      Female Mining Helmet_60: -6797835733721980556
+      Female Mining Helmet_61: -2916256250452463962
+      Female Mining Helmet_62: -8588120232180733027
+      Female Mining Helmet_63: 1366082537481513379
+      Female Mining Helmet_64: 3509378063812591031
+      Female Mining Helmet_65: -3905661573703910881
+      Female Mining Helmet_66: 768736870124548967
+      Female Mining Helmet_67: 3798670653284297642
+      Female Mining Helmet_68: 8980949818439767899
+      Female Mining Helmet_69: -5318683889888405258
+      Female Mining Helmet_6_0: -6701358542389082442
+      Female Mining Helmet_6_1: -6097613245504009258
+      Female Mining Helmet_6_2: -3901276463487100163
+      Female Mining Helmet_6_3: 822174468352135825
+      Female Mining Helmet_6_4: -403373076466771566
+      Female Mining Helmet_6_5: -2037588834367956600
+      Female Mining Helmet_6_6: -1056056536462133696
+      Female Mining Helmet_7: 3021816875493988311
+      Female Mining Helmet_7_0: 2218361449778635088
+      Female Mining Helmet_7_1: -8812095150044616563
+      Female Mining Helmet_7_2: 5821084852891547449
+      Female Mining Helmet_7_3: -8256328086864374196
+      Female Mining Helmet_7_4: 2437588859359458096
+      Female Mining Helmet_7_5: 2302905102729131014
+      Female Mining Helmet_7_6: 1703498598569041657
+      Female Mining Helmet_8: -4966825559913302013
+      Female Mining Helmet_8_0: 8747615550649540745
+      Female Mining Helmet_8_1: 232521107699884177
+      Female Mining Helmet_8_2: 3192209365428824422
+      Female Mining Helmet_8_3: -2941625482904153653
+      Female Mining Helmet_8_4: 2374905208181005314
+      Female Mining Helmet_8_5: 8687385885118139593
+      Female Mining Helmet_8_6: -3044736591626031598
+      Female Mining Helmet_9: 4775137253830008580
+      Female Mining Helmet_9_0: 8629682934548616228
+      Female Mining Helmet_9_1: -2205769509368261363
+      Female Mining Helmet_9_2: 5293592344427166274
+      Female Mining Helmet_9_3: 8529670753961984922
+      Female Mining Helmet_9_4: 2722291755402876619
+      Female Mining Helmet_9_5: -6170667187724977651
+      Female Mining Helmet_9_6: 663729570920558896
+      Female Mining Helmet_EMPTY_18: -171537062147055338
+      Female Mining Helmet_EMPTY_19: -6986460066344727707
+      Female Mining Helmet_EMPTY_28: -823922754718249621
+      Female Mining Helmet_EMPTY_29: -1275288556977866886
+      Female Mining Helmet_EMPTY_34: -3288008711509035323
+      Female Mining Helmet_EMPTY_35: -4742651228135730558
+      Female Mining Helmet_EMPTY_36: -1102048188451512014
+      Female Mining Helmet_EMPTY_37: 845144815589717170
+      Female Mining Helmet_EMPTY_38: 31638047353056245
+      Female Mining Helmet_EMPTY_39: -3428532649093075548
+      Female Mining Helmet_EMPTY_44: -7094777874330721365
+      Female Mining Helmet_EMPTY_45: -2420576196819797084
+      Female Mining Helmet_EMPTY_46: -8504076760966701921
+      Female Mining Helmet_EMPTY_47: 1497519008411298506
+      Female Mining Helmet_EMPTY_48: -3370845628719434309
+      Female Mining Helmet_EMPTY_49: 2748761824558703477
+      Female Mining Helmet_EMPTY_5: -812572088238055983
+      Female Mining Helmet_EMPTY_56: -7234100961400227859
+      Female Mining Helmet_EMPTY_57: 238740821393131430
+      Female Mining Helmet_EMPTY_58: 766663876233818928
+      Female Mining Helmet_EMPTY_59: -1558078198975473070
+      Female Mining Helmet_EMPTY_6: 8166016071690017471
+      Female Mining Helmet_EMPTY_7: -8953789411600643539
+      Female Mining Helmet_EMPTY_8: 2168394869101619598
+      Female Mining Helmet_EMPTY_9: -8274346256772748083
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

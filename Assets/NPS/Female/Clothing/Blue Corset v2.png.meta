@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: efc47972cbee8384790599140f0c1dfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5032573676322352943
+    second: Blue Corset v2_0
+  - first:
+      213: -6063259127853571671
+    second: Blue Corset v2_1
+  - first:
+      213: -6679701354390660637
+    second: Blue Corset v2_2
+  - first:
+      213: -4023745375487682801
+    second: Blue Corset v2_3
+  - first:
+      213: 6104794459687921966
+    second: Blue Corset v2_4
+  - first:
+      213: -5520176089567403712
+    second: Blue Corset v2_5
+  - first:
+      213: 1816078328801699627
+    second: Blue Corset v2_6
+  - first:
+      213: -7108591571245213187
+    second: Blue Corset v2_7
+  - first:
+      213: 493408328483209809
+    second: Blue Corset v2_8
+  - first:
+      213: -2070926276505644320
+    second: Blue Corset v2_9
+  - first:
+      213: -831835602395481104
+    second: Blue Corset v2_10
+  - first:
+      213: -994386258614628153
+    second: Blue Corset v2_11
+  - first:
+      213: -67947211525231354
+    second: Blue Corset v2_12
+  - first:
+      213: -454108203308844681
+    second: Blue Corset v2_13
+  - first:
+      213: 228848130462318761
+    second: Blue Corset v2_14
+  - first:
+      213: 2825387032194180349
+    second: Blue Corset v2_15
+  - first:
+      213: 7505984055937922382
+    second: Blue Corset v2_16
+  - first:
+      213: 3745413065756067659
+    second: Blue Corset v2_17
+  - first:
+      213: -5464969999558891346
+    second: Blue Corset v2_18
+  - first:
+      213: -1310480794468694325
+    second: Blue Corset v2_19
+  - first:
+      213: 6441745907859853559
+    second: Blue Corset v2_20
+  - first:
+      213: -8523643404691964511
+    second: Blue Corset v2_21
+  - first:
+      213: 4007469756428428306
+    second: Blue Corset v2_22
+  - first:
+      213: -8784496975234670553
+    second: Blue Corset v2_23
+  - first:
+      213: 781528542105111387
+    second: Blue Corset v2_24
+  - first:
+      213: -2684372508197771582
+    second: Blue Corset v2_25
+  - first:
+      213: 8147428452788202324
+    second: Blue Corset v2_26
+  - first:
+      213: 3668849183547573817
+    second: Blue Corset v2_27
+  - first:
+      213: 1384107110268411446
+    second: Blue Corset v2_28
+  - first:
+      213: -8036650580576990174
+    second: Blue Corset v2_29
+  - first:
+      213: 389720673121535183
+    second: Blue Corset v2_30
+  - first:
+      213: -8077337472906239898
+    second: Blue Corset v2_31
+  - first:
+      213: 2739348260505528511
+    second: Blue Corset v2_32
+  - first:
+      213: 783163421902200665
+    second: Blue Corset v2_33
+  - first:
+      213: 6274660747653884826
+    second: Blue Corset v2_34
+  - first:
+      213: -1888812023989301888
+    second: Blue Corset v2_35
+  - first:
+      213: 4313131965824295164
+    second: Blue Corset v2_36
+  - first:
+      213: 5361474482285650783
+    second: Blue Corset v2_37
+  - first:
+      213: -6169385361609829073
+    second: Blue Corset v2_38
+  - first:
+      213: 1066276565337289802
+    second: Blue Corset v2_39
+  - first:
+      213: -2412424610242498273
+    second: Blue Corset v2_40
+  - first:
+      213: -239959409354866887
+    second: Blue Corset v2_41
+  - first:
+      213: -4450695429796496290
+    second: Blue Corset v2_42
+  - first:
+      213: -5448958790910088602
+    second: Blue Corset v2_43
+  - first:
+      213: -319394189520326966
+    second: Blue Corset v2_44
+  - first:
+      213: 2749040731055473233
+    second: Blue Corset v2_45
+  - first:
+      213: 8575016502390226949
+    second: Blue Corset v2_46
+  - first:
+      213: -4908713226277326912
+    second: Blue Corset v2_47
+  - first:
+      213: 6120970782900131034
+    second: Blue Corset v2_48
+  - first:
+      213: -1636521436901641815
+    second: Blue Corset v2_49
+  - first:
+      213: 3556271871378513858
+    second: Blue Corset v2_50
+  - first:
+      213: 5185070653723249129
+    second: Blue Corset v2_51
+  - first:
+      213: -2941242861470664639
+    second: Blue Corset v2_52
+  - first:
+      213: -7216523424442927359
+    second: Blue Corset v2_53
+  - first:
+      213: -6086530415973711320
+    second: Blue Corset v2_0_6
+  - first:
+      213: -4144878447966930513
+    second: Blue Corset v2_1_6
+  - first:
+      213: -1717032336870509673
+    second: Blue Corset v2_2_6
+  - first:
+      213: 5075490297373185769
+    second: Blue Corset v2_3_6
+  - first:
+      213: 6199361240922910993
+    second: Blue Corset v2_4_6
+  - first:
+      213: -6294900451673133934
+    second: Blue Corset v2_5_6
+  - first:
+      213: 476642252551320000
+    second: Blue Corset v2_6_6
+  - first:
+      213: -2292678339341792098
+    second: Blue Corset v2_7_6
+  - first:
+      213: -1418555017146051330
+    second: Blue Corset v2_8_6
+  - first:
+      213: 2328250801402016753
+    second: Blue Corset v2_9_6
+  - first:
+      213: 8197212228147561825
+    second: Blue Corset v2_0_5
+  - first:
+      213: -8452000067486451744
+    second: Blue Corset v2_1_5
+  - first:
+      213: -1512671577555543249
+    second: Blue Corset v2_2_5
+  - first:
+      213: 1778901610266986405
+    second: Blue Corset v2_3_5
+  - first:
+      213: 789878287888143718
+    second: Blue Corset v2_4_5
+  - first:
+      213: 2976467193808628093
+    second: Blue Corset v2_5_5
+  - first:
+      213: -8445266648128529353
+    second: Blue Corset v2_6_5
+  - first:
+      213: -1703474582215501765
+    second: Blue Corset v2_7_5
+  - first:
+      213: 504868458518884787
+    second: Blue Corset v2_8_5
+  - first:
+      213: 3930165800329211552
+    second: Blue Corset v2_9_5
+  - first:
+      213: 2095889216280089964
+    second: Blue Corset v2_0_4
+  - first:
+      213: 13920164964472448
+    second: Blue Corset v2_1_4
+  - first:
+      213: 2802608557826503690
+    second: Blue Corset v2_2_4
+  - first:
+      213: -9125513277904518710
+    second: Blue Corset v2_3_4
+  - first:
+      213: -7359955533413535639
+    second: Blue Corset v2_4_4
+  - first:
+      213: 1163774938170480860
+    second: Blue Corset v2_5_4
+  - first:
+      213: -4197019326934516152
+    second: Blue Corset v2_6_4
+  - first:
+      213: 1974663285025988369
+    second: Blue Corset v2_7_4
+  - first:
+      213: -3635267462258198603
+    second: Blue Corset v2_8_4
+  - first:
+      213: -6702378025598964994
+    second: Blue Corset v2_9_4
+  - first:
+      213: 5819535155146632541
+    second: Blue Corset v2_0_3
+  - first:
+      213: -2705522059319775043
+    second: Blue Corset v2_1_3
+  - first:
+      213: 1402165775080467966
+    second: Blue Corset v2_2_3
+  - first:
+      213: 2890124482141776661
+    second: Blue Corset v2_3_3
+  - first:
+      213: 5202654299274194133
+    second: Blue Corset v2_4_3
+  - first:
+      213: -2038309927736145421
+    second: Blue Corset v2_5_3
+  - first:
+      213: -983774007737458113
+    second: Blue Corset v2_6_3
+  - first:
+      213: -7261257423776023471
+    second: Blue Corset v2_7_3
+  - first:
+      213: 4828316920864820897
+    second: Blue Corset v2_8_3
+  - first:
+      213: -8030645416673932982
+    second: Blue Corset v2_9_3
+  - first:
+      213: 5770642132653214058
+    second: Blue Corset v2_0_2
+  - first:
+      213: 4615008138487655043
+    second: Blue Corset v2_1_2
+  - first:
+      213: 6012462768318775059
+    second: Blue Corset v2_2_2
+  - first:
+      213: 298574636084879161
+    second: Blue Corset v2_3_2
+  - first:
+      213: 7362976408117471292
+    second: Blue Corset v2_4_2
+  - first:
+      213: -7801690803195924607
+    second: Blue Corset v2_5_2
+  - first:
+      213: -5333928393704460269
+    second: Blue Corset v2_6_2
+  - first:
+      213: 5399614315806394458
+    second: Blue Corset v2_7_2
+  - first:
+      213: -5734107029686184273
+    second: Blue Corset v2_8_2
+  - first:
+      213: 7677462528398309787
+    second: Blue Corset v2_9_2
+  - first:
+      213: 5878904000662995053
+    second: Blue Corset v2_0_1
+  - first:
+      213: -1212087903212090436
+    second: Blue Corset v2_1_1
+  - first:
+      213: -5594728796564315119
+    second: Blue Corset v2_2_1
+  - first:
+      213: 7656227638506922356
+    second: Blue Corset v2_3_1
+  - first:
+      213: 1146800850423782316
+    second: Blue Corset v2_4_1
+  - first:
+      213: -9070035756929852327
+    second: Blue Corset v2_5_1
+  - first:
+      213: -6694512790706893517
+    second: Blue Corset v2_6_1
+  - first:
+      213: -8635721543244833730
+    second: Blue Corset v2_7_1
+  - first:
+      213: 9146810182936114263
+    second: Blue Corset v2_8_1
+  - first:
+      213: 7648368330510050978
+    second: Blue Corset v2_9_1
+  - first:
+      213: -8082154672373583394
+    second: Blue Corset v2_0_0
+  - first:
+      213: 7123448666254032404
+    second: Blue Corset v2_1_0
+  - first:
+      213: -911993480007257081
+    second: Blue Corset v2_2_0
+  - first:
+      213: -2744669057590896654
+    second: Blue Corset v2_3_0
+  - first:
+      213: -7111943446846466190
+    second: Blue Corset v2_4_0
+  - first:
+      213: 2599424830053793815
+    second: Blue Corset v2_5_0
+  - first:
+      213: 7429338107596959027
+    second: Blue Corset v2_6_0
+  - first:
+      213: -3935599366992773554
+    second: Blue Corset v2_7_0
+  - first:
+      213: 5979450772408263455
+    second: Blue Corset v2_8_0
+  - first:
+      213: 871849232785656650
+    second: Blue Corset v2_9_0
+  - first:
+      213: -303348691265683147
+    second: Blue Corset v2_EMPTY_5
+  - first:
+      213: -1470287246688392771
+    second: Blue Corset v2_EMPTY_6
+  - first:
+      213: -5994257441014829718
+    second: Blue Corset v2_EMPTY_7
+  - first:
+      213: 8243078388679120194
+    second: Blue Corset v2_EMPTY_8
+  - first:
+      213: -239276237409418369
+    second: Blue Corset v2_EMPTY_9
+  - first:
+      213: 3483743112950096713
+    second: Blue Corset v2_EMPTY_18
+  - first:
+      213: -116925463032602374
+    second: Blue Corset v2_EMPTY_19
+  - first:
+      213: 4299601907643306249
+    second: Blue Corset v2_EMPTY_28
+  - first:
+      213: 6773871909189817399
+    second: Blue Corset v2_EMPTY_29
+  - first:
+      213: -303200367233541418
+    second: Blue Corset v2_EMPTY_34
+  - first:
+      213: -8056877136855713691
+    second: Blue Corset v2_EMPTY_35
+  - first:
+      213: 2647201436914474364
+    second: Blue Corset v2_EMPTY_36
+  - first:
+      213: -3123812571178756842
+    second: Blue Corset v2_EMPTY_37
+  - first:
+      213: 5872680297025016198
+    second: Blue Corset v2_EMPTY_38
+  - first:
+      213: 2440171866014937839
+    second: Blue Corset v2_EMPTY_39
+  - first:
+      213: 2883948993175367587
+    second: Blue Corset v2_EMPTY_44
+  - first:
+      213: 5952639537356200822
+    second: Blue Corset v2_EMPTY_45
+  - first:
+      213: -196345902342801278
+    second: Blue Corset v2_EMPTY_46
+  - first:
+      213: -5365649816945527558
+    second: Blue Corset v2_EMPTY_47
+  - first:
+      213: -8542168970906506642
+    second: Blue Corset v2_EMPTY_48
+  - first:
+      213: -9093825278950643287
+    second: Blue Corset v2_EMPTY_49
+  - first:
+      213: 1282279301210874645
+    second: Blue Corset v2_54
+  - first:
+      213: 1695628477413673870
+    second: Blue Corset v2_55
+  - first:
+      213: 6688806396329154250
+    second: Blue Corset v2_EMPTY_56
+  - first:
+      213: 2463408922153156872
+    second: Blue Corset v2_EMPTY_57
+  - first:
+      213: -487692463110085477
+    second: Blue Corset v2_EMPTY_58
+  - first:
+      213: 6088559056106850544
+    second: Blue Corset v2_EMPTY_59
+  - first:
+      213: -1708143299181362225
+    second: Blue Corset v2_60
+  - first:
+      213: 4746363081983525461
+    second: Blue Corset v2_61
+  - first:
+      213: 7011931548254180676
+    second: Blue Corset v2_62
+  - first:
+      213: 4562043034937841337
+    second: Blue Corset v2_63
+  - first:
+      213: -5672238094806462972
+    second: Blue Corset v2_64
+  - first:
+      213: -1370783678153823262
+    second: Blue Corset v2_65
+  - first:
+      213: -2347923445386556388
+    second: Blue Corset v2_66
+  - first:
+      213: 5297310158574964391
+    second: Blue Corset v2_67
+  - first:
+      213: -2079117520050670294
+    second: Blue Corset v2_68
+  - first:
+      213: 4040763142787152595
+    second: Blue Corset v2_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Corset v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d013d4b7e4b82ab0800000000000000
+      internalID: -5032573676322352943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1a42f92f9fadba0800000000000000
+      internalID: -6063259127853571671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e959dd320fec43a0800000000000000
+      internalID: -6679701354390660637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f079f6356e8c828c0800000000000000
+      internalID: -4023745375487682801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29a87c673698b450800000000000000
+      internalID: 6104794459687921966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5318706f8f94acbf0800000000000000
+      internalID: -303348691265683147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9e95ff98d789be0800000000000000
+      internalID: -1470287246688392771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6da118cd9e10dca0800000000000000
+      internalID: -5994257441014829718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2451becee1c456270800000000000000
+      internalID: 8243078388679120194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f730502a78bedacf0800000000000000
+      internalID: -239276237409418369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbb1b74de9b474f0800000000000000
+      internalID: -831835602395481104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0debd57fa3332f0800000000000000
+      internalID: -994386258614628153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d6f810f5a9e0ff0800000000000000
+      internalID: -67947211525231354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7797f2cbefea2b9f0800000000000000
+      internalID: -454108203308844681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a008b389280d2300800000000000000
+      internalID: 228848130462318761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4ede6498ac53720800000000000000
+      internalID: 2825387032194180349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45fceffabc9a2860800000000000000
+      internalID: 7505984055937922382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b474f79d6516af330800000000000000
+      internalID: 3745413065756067659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943aa1057edb85030800000000000000
+      internalID: 3483743112950096713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af06ebe29e8906ef0800000000000000
+      internalID: -116925463032602374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0105bf5cda56950800000000000000
+      internalID: 6441745907859853559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adfb3fcb7fe5b980800000000000000
+      internalID: -8523643404691964511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214a900d2846d9730800000000000000
+      internalID: 4007469756428428306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720e4a41b82371680800000000000000
+      internalID: -8784496975234670553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b010e711c88da00800000000000000
+      internalID: 781528542105111387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c62c0c1d613fbad0800000000000000
+      internalID: -2684372508197771582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45be959c20b711170800000000000000
+      internalID: 8147428452788202324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936c5dfd4ee5ae230800000000000000
+      internalID: 3668849183547573817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901dbac97214bab30800000000000000
+      internalID: 4299601907643306249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7349145ac90a10e50800000000000000
+      internalID: 6773871909189817399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4090b23e0986500800000000000000
+      internalID: 389720673121535183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660e87c2d5887ef80800000000000000
+      internalID: -8077337472906239898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8248faabe140620800000000000000
+      internalID: 2739348260505528511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f5f8b9bfa5eda00800000000000000
+      internalID: 783163421902200665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dad6475fd0dacbf0800000000000000
+      internalID: -303200367233541418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568bfb26ee8303090800000000000000
+      internalID: -8056877136855713691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dd0307eafbcb420800000000000000
+      internalID: 2647201436914474364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6159df5640df5a4d0800000000000000
+      internalID: -3123812571178756842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6819c978d93ff7150800000000000000
+      internalID: 5872680297025016198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2f8b0326b3dd120800000000000000
+      internalID: 2440171866014937839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11f51b3998558ed0800000000000000
+      internalID: -2412424610242498273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ff3e4403e7bacf0800000000000000
+      internalID: -239959409354866887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c768f5614fb32c0800000000000000
+      internalID: -4450695429796496290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aef0879d86164b0800000000000000
+      internalID: -5448958790910088602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af20985458d50820800000000000000
+      internalID: 2883948993175367587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bdf0cee160c9250800000000000000
+      internalID: 5952639537356200822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288f0cd2170764df0800000000000000
+      internalID: -196345902342801278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af472df7be16985b0800000000000000
+      internalID: -5365649816945527558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ae0cd449e147980800000000000000
+      internalID: -8542168970906506642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9eda6071e3cc180800000000000000
+      internalID: -9093825278950643287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfda32dc6a6a5130800000000000000
+      internalID: 3556271871378513858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e90a72b94215f740800000000000000
+      internalID: 5185070653723249129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14833eb633b9e27d0800000000000000
+      internalID: -2941242861470664639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1073bc42e22c9db90800000000000000
+      internalID: -7216523424442927359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513a28b0b329bc110800000000000000
+      internalID: 1282279301210874645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b474bcd15188710800000000000000
+      internalID: 1695628477413673870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac65f888af963dc50800000000000000
+      internalID: 6688806396329154250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801877dec59cf2220800000000000000
+      internalID: 2463408922153156872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9420b8e94e5b39f0800000000000000
+      internalID: -487692463110085477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f88c35f338ee7450800000000000000
+      internalID: 6088559056106850544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3c4d238b47b48e0800000000000000
+      internalID: -1708143299181362225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55208a463187ed140800000000000000
+      internalID: 4746363081983525461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4459b03a7926f4160800000000000000
+      internalID: 7011931548254180676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6d38338f1af4f30800000000000000
+      internalID: 4562043034937841337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e4f9d61892841b0800000000000000
+      internalID: -5672238094806462972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebecb7e18ff9fce0800000000000000
+      internalID: -1370783678153823262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c4ce5f0108a6fd0800000000000000
+      internalID: -2347923445386556388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aecdead583d38940800000000000000
+      internalID: 5297310158574964391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25b61391ad7523e0800000000000000
+      internalID: -2079117520050670294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dab1536baca31830800000000000000
+      internalID: 4040763142787152595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blue Corset v2_0: -5032573676322352943
+      Blue Corset v2_0_0: -8082154672373583394
+      Blue Corset v2_0_1: 5878904000662995053
+      Blue Corset v2_0_2: 5770642132653214058
+      Blue Corset v2_0_3: 5819535155146632541
+      Blue Corset v2_0_4: 2095889216280089964
+      Blue Corset v2_0_5: 8197212228147561825
+      Blue Corset v2_0_6: -6086530415973711320
+      Blue Corset v2_1: -6063259127853571671
+      Blue Corset v2_10: -831835602395481104
+      Blue Corset v2_11: -994386258614628153
+      Blue Corset v2_12: -67947211525231354
+      Blue Corset v2_13: -454108203308844681
+      Blue Corset v2_14: 228848130462318761
+      Blue Corset v2_15: 2825387032194180349
+      Blue Corset v2_16: 7505984055937922382
+      Blue Corset v2_17: 3745413065756067659
+      Blue Corset v2_18: -5464969999558891346
+      Blue Corset v2_19: -1310480794468694325
+      Blue Corset v2_1_0: 7123448666254032404
+      Blue Corset v2_1_1: -1212087903212090436
+      Blue Corset v2_1_2: 4615008138487655043
+      Blue Corset v2_1_3: -2705522059319775043
+      Blue Corset v2_1_4: 13920164964472448
+      Blue Corset v2_1_5: -8452000067486451744
+      Blue Corset v2_1_6: -4144878447966930513
+      Blue Corset v2_2: -6679701354390660637
+      Blue Corset v2_20: 6441745907859853559
+      Blue Corset v2_21: -8523643404691964511
+      Blue Corset v2_22: 4007469756428428306
+      Blue Corset v2_23: -8784496975234670553
+      Blue Corset v2_24: 781528542105111387
+      Blue Corset v2_25: -2684372508197771582
+      Blue Corset v2_26: 8147428452788202324
+      Blue Corset v2_27: 3668849183547573817
+      Blue Corset v2_28: 1384107110268411446
+      Blue Corset v2_29: -8036650580576990174
+      Blue Corset v2_2_0: -911993480007257081
+      Blue Corset v2_2_1: -5594728796564315119
+      Blue Corset v2_2_2: 6012462768318775059
+      Blue Corset v2_2_3: 1402165775080467966
+      Blue Corset v2_2_4: 2802608557826503690
+      Blue Corset v2_2_5: -1512671577555543249
+      Blue Corset v2_2_6: -1717032336870509673
+      Blue Corset v2_3: -4023745375487682801
+      Blue Corset v2_30: 389720673121535183
+      Blue Corset v2_31: -8077337472906239898
+      Blue Corset v2_32: 2739348260505528511
+      Blue Corset v2_33: 783163421902200665
+      Blue Corset v2_34: 6274660747653884826
+      Blue Corset v2_35: -1888812023989301888
+      Blue Corset v2_36: 4313131965824295164
+      Blue Corset v2_37: 5361474482285650783
+      Blue Corset v2_38: -6169385361609829073
+      Blue Corset v2_39: 1066276565337289802
+      Blue Corset v2_3_0: -2744669057590896654
+      Blue Corset v2_3_1: 7656227638506922356
+      Blue Corset v2_3_2: 298574636084879161
+      Blue Corset v2_3_3: 2890124482141776661
+      Blue Corset v2_3_4: -9125513277904518710
+      Blue Corset v2_3_5: 1778901610266986405
+      Blue Corset v2_3_6: 5075490297373185769
+      Blue Corset v2_4: 6104794459687921966
+      Blue Corset v2_40: -2412424610242498273
+      Blue Corset v2_41: -239959409354866887
+      Blue Corset v2_42: -4450695429796496290
+      Blue Corset v2_43: -5448958790910088602
+      Blue Corset v2_44: -319394189520326966
+      Blue Corset v2_45: 2749040731055473233
+      Blue Corset v2_46: 8575016502390226949
+      Blue Corset v2_47: -4908713226277326912
+      Blue Corset v2_48: 6120970782900131034
+      Blue Corset v2_49: -1636521436901641815
+      Blue Corset v2_4_0: -7111943446846466190
+      Blue Corset v2_4_1: 1146800850423782316
+      Blue Corset v2_4_2: 7362976408117471292
+      Blue Corset v2_4_3: 5202654299274194133
+      Blue Corset v2_4_4: -7359955533413535639
+      Blue Corset v2_4_5: 789878287888143718
+      Blue Corset v2_4_6: 6199361240922910993
+      Blue Corset v2_5: -5520176089567403712
+      Blue Corset v2_50: 3556271871378513858
+      Blue Corset v2_51: 5185070653723249129
+      Blue Corset v2_52: -2941242861470664639
+      Blue Corset v2_53: -7216523424442927359
+      Blue Corset v2_54: 1282279301210874645
+      Blue Corset v2_55: 1695628477413673870
+      Blue Corset v2_5_0: 2599424830053793815
+      Blue Corset v2_5_1: -9070035756929852327
+      Blue Corset v2_5_2: -7801690803195924607
+      Blue Corset v2_5_3: -2038309927736145421
+      Blue Corset v2_5_4: 1163774938170480860
+      Blue Corset v2_5_5: 2976467193808628093
+      Blue Corset v2_5_6: -6294900451673133934
+      Blue Corset v2_6: 1816078328801699627
+      Blue Corset v2_60: -1708143299181362225
+      Blue Corset v2_61: 4746363081983525461
+      Blue Corset v2_62: 7011931548254180676
+      Blue Corset v2_63: 4562043034937841337
+      Blue Corset v2_64: -5672238094806462972
+      Blue Corset v2_65: -1370783678153823262
+      Blue Corset v2_66: -2347923445386556388
+      Blue Corset v2_67: 5297310158574964391
+      Blue Corset v2_68: -2079117520050670294
+      Blue Corset v2_69: 4040763142787152595
+      Blue Corset v2_6_0: 7429338107596959027
+      Blue Corset v2_6_1: -6694512790706893517
+      Blue Corset v2_6_2: -5333928393704460269
+      Blue Corset v2_6_3: -983774007737458113
+      Blue Corset v2_6_4: -4197019326934516152
+      Blue Corset v2_6_5: -8445266648128529353
+      Blue Corset v2_6_6: 476642252551320000
+      Blue Corset v2_7: -7108591571245213187
+      Blue Corset v2_7_0: -3935599366992773554
+      Blue Corset v2_7_1: -8635721543244833730
+      Blue Corset v2_7_2: 5399614315806394458
+      Blue Corset v2_7_3: -7261257423776023471
+      Blue Corset v2_7_4: 1974663285025988369
+      Blue Corset v2_7_5: -1703474582215501765
+      Blue Corset v2_7_6: -2292678339341792098
+      Blue Corset v2_8: 493408328483209809
+      Blue Corset v2_8_0: 5979450772408263455
+      Blue Corset v2_8_1: 9146810182936114263
+      Blue Corset v2_8_2: -5734107029686184273
+      Blue Corset v2_8_3: 4828316920864820897
+      Blue Corset v2_8_4: -3635267462258198603
+      Blue Corset v2_8_5: 504868458518884787
+      Blue Corset v2_8_6: -1418555017146051330
+      Blue Corset v2_9: -2070926276505644320
+      Blue Corset v2_9_0: 871849232785656650
+      Blue Corset v2_9_1: 7648368330510050978
+      Blue Corset v2_9_2: 7677462528398309787
+      Blue Corset v2_9_3: -8030645416673932982
+      Blue Corset v2_9_4: -6702378025598964994
+      Blue Corset v2_9_5: 3930165800329211552
+      Blue Corset v2_9_6: 2328250801402016753
+      Blue Corset v2_EMPTY_18: 3483743112950096713
+      Blue Corset v2_EMPTY_19: -116925463032602374
+      Blue Corset v2_EMPTY_28: 4299601907643306249
+      Blue Corset v2_EMPTY_29: 6773871909189817399
+      Blue Corset v2_EMPTY_34: -303200367233541418
+      Blue Corset v2_EMPTY_35: -8056877136855713691
+      Blue Corset v2_EMPTY_36: 2647201436914474364
+      Blue Corset v2_EMPTY_37: -3123812571178756842
+      Blue Corset v2_EMPTY_38: 5872680297025016198
+      Blue Corset v2_EMPTY_39: 2440171866014937839
+      Blue Corset v2_EMPTY_44: 2883948993175367587
+      Blue Corset v2_EMPTY_45: 5952639537356200822
+      Blue Corset v2_EMPTY_46: -196345902342801278
+      Blue Corset v2_EMPTY_47: -5365649816945527558
+      Blue Corset v2_EMPTY_48: -8542168970906506642
+      Blue Corset v2_EMPTY_49: -9093825278950643287
+      Blue Corset v2_EMPTY_5: -303348691265683147
+      Blue Corset v2_EMPTY_56: 6688806396329154250
+      Blue Corset v2_EMPTY_57: 2463408922153156872
+      Blue Corset v2_EMPTY_58: -487692463110085477
+      Blue Corset v2_EMPTY_59: 6088559056106850544
+      Blue Corset v2_EMPTY_6: -1470287246688392771
+      Blue Corset v2_EMPTY_7: -5994257441014829718
+      Blue Corset v2_EMPTY_8: 8243078388679120194
+      Blue Corset v2_EMPTY_9: -239276237409418369
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

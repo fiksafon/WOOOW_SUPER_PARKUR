@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: 6d3dcc330010a7d499297eab67b09b21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3239616443853612413
+    second: Female Orange cap_0
+  - first:
+      213: 8366002707457321667
+    second: Female Orange cap_1
+  - first:
+      213: 835205630916744024
+    second: Female Orange cap_2
+  - first:
+      213: -6978202654762025996
+    second: Female Orange cap_3
+  - first:
+      213: -3716358097542609707
+    second: Female Orange cap_4
+  - first:
+      213: -2471568003611293495
+    second: Female Orange cap_5
+  - first:
+      213: -8121667903795963184
+    second: Female Orange cap_6
+  - first:
+      213: 5444810600535840093
+    second: Female Orange cap_7
+  - first:
+      213: 7378081229779213581
+    second: Female Orange cap_8
+  - first:
+      213: 1635440580277837871
+    second: Female Orange cap_9
+  - first:
+      213: -3041090853412774621
+    second: Female Orange cap_10
+  - first:
+      213: 893239735156091805
+    second: Female Orange cap_11
+  - first:
+      213: 3183453598521100182
+    second: Female Orange cap_12
+  - first:
+      213: 1830024028534318166
+    second: Female Orange cap_13
+  - first:
+      213: -1006805690619949417
+    second: Female Orange cap_14
+  - first:
+      213: 1391819321100159668
+    second: Female Orange cap_15
+  - first:
+      213: 2371277792279640968
+    second: Female Orange cap_16
+  - first:
+      213: -6977452904827864295
+    second: Female Orange cap_17
+  - first:
+      213: 3546691300930104420
+    second: Female Orange cap_18
+  - first:
+      213: -5994528236655717125
+    second: Female Orange cap_19
+  - first:
+      213: -2154327287236914085
+    second: Female Orange cap_20
+  - first:
+      213: -41062461539725226
+    second: Female Orange cap_21
+  - first:
+      213: 7949614896184480458
+    second: Female Orange cap_22
+  - first:
+      213: 3984130406399870922
+    second: Female Orange cap_23
+  - first:
+      213: -382854384582022710
+    second: Female Orange cap_24
+  - first:
+      213: -6925012890484060411
+    second: Female Orange cap_25
+  - first:
+      213: -7865201453195170871
+    second: Female Orange cap_26
+  - first:
+      213: -2337951166449207864
+    second: Female Orange cap_27
+  - first:
+      213: 4115833418066093898
+    second: Female Orange cap_28
+  - first:
+      213: -4108200605695873053
+    second: Female Orange cap_29
+  - first:
+      213: -6315753809892437949
+    second: Female Orange cap_30
+  - first:
+      213: -4431829906888192303
+    second: Female Orange cap_31
+  - first:
+      213: -6551270239546436089
+    second: Female Orange cap_32
+  - first:
+      213: -386544181846315353
+    second: Female Orange cap_33
+  - first:
+      213: 3486448800701968748
+    second: Female Orange cap_34
+  - first:
+      213: -2787534018210827299
+    second: Female Orange cap_35
+  - first:
+      213: 3571389306502092250
+    second: Female Orange cap_36
+  - first:
+      213: -7135235836945990604
+    second: Female Orange cap_37
+  - first:
+      213: 9110060749232074580
+    second: Female Orange cap_38
+  - first:
+      213: 900305314599934459
+    second: Female Orange cap_39
+  - first:
+      213: -2426983673099068065
+    second: Female Orange cap_40
+  - first:
+      213: 7312884589782737481
+    second: Female Orange cap_41
+  - first:
+      213: -1157566319520512932
+    second: Female Orange cap_42
+  - first:
+      213: 6384180339384848479
+    second: Female Orange cap_43
+  - first:
+      213: -2551537627823562267
+    second: Female Orange cap_44
+  - first:
+      213: -8879579963848453037
+    second: Female Orange cap_0_6
+  - first:
+      213: 1129411116693444636
+    second: Female Orange cap_1_6
+  - first:
+      213: 1884430936385474772
+    second: Female Orange cap_2_6
+  - first:
+      213: -3793346177297226962
+    second: Female Orange cap_3_6
+  - first:
+      213: -6181575839765701307
+    second: Female Orange cap_4_6
+  - first:
+      213: -6770901371213552551
+    second: Female Orange cap_5_6
+  - first:
+      213: 1997848312579364166
+    second: Female Orange cap_6_6
+  - first:
+      213: 6311912105353099907
+    second: Female Orange cap_7_6
+  - first:
+      213: 6273580242551941713
+    second: Female Orange cap_8_6
+  - first:
+      213: -1963953048058995346
+    second: Female Orange cap_9_6
+  - first:
+      213: 9144494572798704595
+    second: Female Orange cap_0_5
+  - first:
+      213: -924689915788569658
+    second: Female Orange cap_1_5
+  - first:
+      213: -8258961555897221075
+    second: Female Orange cap_2_5
+  - first:
+      213: -7339568659704475584
+    second: Female Orange cap_3_5
+  - first:
+      213: -1541582545989577160
+    second: Female Orange cap_4_5
+  - first:
+      213: -7538945612138700731
+    second: Female Orange cap_5_5
+  - first:
+      213: -5346852719743733923
+    second: Female Orange cap_6_5
+  - first:
+      213: 9017106501174305912
+    second: Female Orange cap_7_5
+  - first:
+      213: 3279383642305008984
+    second: Female Orange cap_8_5
+  - first:
+      213: 3536084270802738439
+    second: Female Orange cap_9_5
+  - first:
+      213: 4613267003241797326
+    second: Female Orange cap_0_4
+  - first:
+      213: -980376101937493712
+    second: Female Orange cap_1_4
+  - first:
+      213: -5037773838566279974
+    second: Female Orange cap_2_4
+  - first:
+      213: 4913630161571022648
+    second: Female Orange cap_3_4
+  - first:
+      213: -7487275594372310335
+    second: Female Orange cap_4_4
+  - first:
+      213: -8616824617946361684
+    second: Female Orange cap_5_4
+  - first:
+      213: 5311070673968644499
+    second: Female Orange cap_6_4
+  - first:
+      213: 2214826919073778433
+    second: Female Orange cap_7_4
+  - first:
+      213: 4696489438189738372
+    second: Female Orange cap_8_4
+  - first:
+      213: -8053581467718576832
+    second: Female Orange cap_9_4
+  - first:
+      213: -8298589234304150115
+    second: Female Orange cap_0_3
+  - first:
+      213: 7958215403308916412
+    second: Female Orange cap_1_3
+  - first:
+      213: 5417749320768307163
+    second: Female Orange cap_2_3
+  - first:
+      213: -884670946166304625
+    second: Female Orange cap_3_3
+  - first:
+      213: -6050081851753277637
+    second: Female Orange cap_4_3
+  - first:
+      213: 1253574569425771156
+    second: Female Orange cap_5_3
+  - first:
+      213: -6145465553292995705
+    second: Female Orange cap_6_3
+  - first:
+      213: -4246223441758042432
+    second: Female Orange cap_7_3
+  - first:
+      213: -1446182074100398685
+    second: Female Orange cap_8_3
+  - first:
+      213: 4599633071417869200
+    second: Female Orange cap_9_3
+  - first:
+      213: 336875722960748857
+    second: Female Orange cap_0_2
+  - first:
+      213: -2895479624484046858
+    second: Female Orange cap_1_2
+  - first:
+      213: -4915630588367564462
+    second: Female Orange cap_2_2
+  - first:
+      213: -2578419118173335154
+    second: Female Orange cap_3_2
+  - first:
+      213: 4175850702402675811
+    second: Female Orange cap_4_2
+  - first:
+      213: 5419265449418014016
+    second: Female Orange cap_5_2
+  - first:
+      213: -2259570189313116718
+    second: Female Orange cap_6_2
+  - first:
+      213: -4043669496613760882
+    second: Female Orange cap_7_2
+  - first:
+      213: -4593978280593875030
+    second: Female Orange cap_8_2
+  - first:
+      213: 2124995274062240295
+    second: Female Orange cap_9_2
+  - first:
+      213: 8059983142764051295
+    second: Female Orange cap_0_1
+  - first:
+      213: -4686148574221173108
+    second: Female Orange cap_1_1
+  - first:
+      213: -9067227130322372227
+    second: Female Orange cap_2_1
+  - first:
+      213: -1411348403275381840
+    second: Female Orange cap_3_1
+  - first:
+      213: -8713535451984966398
+    second: Female Orange cap_4_1
+  - first:
+      213: 1878009816247164317
+    second: Female Orange cap_5_1
+  - first:
+      213: -1629533958298299474
+    second: Female Orange cap_6_1
+  - first:
+      213: 7064484706030960239
+    second: Female Orange cap_7_1
+  - first:
+      213: -3120924620593194576
+    second: Female Orange cap_8_1
+  - first:
+      213: 5723222954524258087
+    second: Female Orange cap_9_1
+  - first:
+      213: -795237199504249631
+    second: Female Orange cap_0_0
+  - first:
+      213: 5726928625216897728
+    second: Female Orange cap_1_0
+  - first:
+      213: 1735594671956772612
+    second: Female Orange cap_2_0
+  - first:
+      213: 1593352308576127297
+    second: Female Orange cap_3_0
+  - first:
+      213: 8544163892068417988
+    second: Female Orange cap_4_0
+  - first:
+      213: -8712151277587278026
+    second: Female Orange cap_5_0
+  - first:
+      213: -8872149686660142174
+    second: Female Orange cap_6_0
+  - first:
+      213: 4469634659431471557
+    second: Female Orange cap_7_0
+  - first:
+      213: -4716418327178232935
+    second: Female Orange cap_8_0
+  - first:
+      213: 5462221609410951616
+    second: Female Orange cap_9_0
+  - first:
+      213: -3576074735955721413
+    second: Female Orange cap_EMPTY_5
+  - first:
+      213: -274990011805833495
+    second: Female Orange cap_EMPTY_6
+  - first:
+      213: 2280174205533751317
+    second: Female Orange cap_EMPTY_7
+  - first:
+      213: -8944282426565401156
+    second: Female Orange cap_EMPTY_8
+  - first:
+      213: 8982605063036238174
+    second: Female Orange cap_EMPTY_9
+  - first:
+      213: -3381215001348444860
+    second: Female Orange cap_EMPTY_18
+  - first:
+      213: -1708699084563273917
+    second: Female Orange cap_EMPTY_19
+  - first:
+      213: 8688073597664366427
+    second: Female Orange cap_EMPTY_28
+  - first:
+      213: -5477406666545808543
+    second: Female Orange cap_EMPTY_29
+  - first:
+      213: 4259129172760623748
+    second: Female Orange cap_EMPTY_34
+  - first:
+      213: -6868977570664200542
+    second: Female Orange cap_EMPTY_35
+  - first:
+      213: -1060567094509907758
+    second: Female Orange cap_EMPTY_36
+  - first:
+      213: 1639267222279244197
+    second: Female Orange cap_EMPTY_37
+  - first:
+      213: -275108661820999516
+    second: Female Orange cap_EMPTY_38
+  - first:
+      213: -89217870712173894
+    second: Female Orange cap_EMPTY_39
+  - first:
+      213: -1568470371671503668
+    second: Female Orange cap_EMPTY_44
+  - first:
+      213: 6946259300455031722
+    second: Female Orange cap_EMPTY_45
+  - first:
+      213: -1947577012684778513
+    second: Female Orange cap_EMPTY_46
+  - first:
+      213: -2902447595749759681
+    second: Female Orange cap_EMPTY_47
+  - first:
+      213: -1616434225793250239
+    second: Female Orange cap_EMPTY_48
+  - first:
+      213: 8833061706315169146
+    second: Female Orange cap_EMPTY_49
+  - first:
+      213: 2573551365547745206
+    second: Female Orange cap_50
+  - first:
+      213: 4437639106523321588
+    second: Female Orange cap_51
+  - first:
+      213: -7697046346895896788
+    second: Female Orange cap_52
+  - first:
+      213: 3760180178891990833
+    second: Female Orange cap_53
+  - first:
+      213: 2224029625737128649
+    second: Female Orange cap_54
+  - first:
+      213: 4594345574385954787
+    second: Female Orange cap_55
+  - first:
+      213: -6135371631538699453
+    second: Female Orange cap_EMPTY_56
+  - first:
+      213: 1467031608981443493
+    second: Female Orange cap_EMPTY_57
+  - first:
+      213: -5000842810764806378
+    second: Female Orange cap_EMPTY_58
+  - first:
+      213: -1027800737772008066
+    second: Female Orange cap_EMPTY_59
+  - first:
+      213: 5703141534819152076
+    second: Female Orange cap_60
+  - first:
+      213: -177356747154233652
+    second: Female Orange cap_61
+  - first:
+      213: 6361404213192226751
+    second: Female Orange cap_62
+  - first:
+      213: -7437226278768292266
+    second: Female Orange cap_63
+  - first:
+      213: -5990400458887801811
+    second: Female Orange cap_64
+  - first:
+      213: -781565217765507939
+    second: Female Orange cap_65
+  - first:
+      213: -6500409067833866112
+    second: Female Orange cap_66
+  - first:
+      213: -4253544609912790653
+    second: Female Orange cap_67
+  - first:
+      213: -7510047773341292894
+    second: Female Orange cap_68
+  - first:
+      213: -4416642785292959899
+    second: Female Orange cap_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female Orange cap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a579f22029a03d0800000000000000
+      internalID: -3239616443853612413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca23ff23230a1470800000000000000
+      internalID: 8366002707457321667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853d231a81f379b00800000000000000
+      internalID: 835205630916744024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbb83858a1782f90800000000000000
+      internalID: -6978202654762025996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d483d91008dc6cc0800000000000000
+      internalID: -3716358097542609707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b334c1979fa3f5ec0800000000000000
+      internalID: -3576074735955721413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6688d8a0a0f2cf0800000000000000
+      internalID: -274990011805833495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51809daeb5ec4af10800000000000000
+      internalID: 2280174205533751317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5ecc995868fd380800000000000000
+      internalID: -8944282426565401156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5976e386bf98ac70800000000000000
+      internalID: 8982605063036238174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d54a03bffdbc5d0800000000000000
+      internalID: -3041090853412774621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b2e397ecc656c00800000000000000
+      internalID: 893239735156091805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6970ac26e26ed2c20800000000000000
+      internalID: 3183453598521100182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654a737782d856910800000000000000
+      internalID: 1830024028534318166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e81c40f8b1702f0800000000000000
+      internalID: -1006805690619949417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba43b16c4cb05310800000000000000
+      internalID: 1391819321100159668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bb998a69878e020800000000000000
+      internalID: 2371277792279640968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bb7ba1d8b1b2f90800000000000000
+      internalID: -6977452904827864295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d6767eed28311d0800000000000000
+      internalID: -3381215001348444860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34722945c3b7948e0800000000000000
+      internalID: -1708699084563273917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5410521fba4a12e0800000000000000
+      internalID: -2154327287236914085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6505256a8ed1e6ff0800000000000000
+      internalID: -41062461539725226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2da3411a4b25e60800000000000000
+      internalID: 7949614896184480458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac70c4cee797a4730800000000000000
+      internalID: 3984130406399870922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9a94637f3dfaaf0800000000000000
+      internalID: -382854384582022710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f42b5677965ef90800000000000000
+      internalID: -6925012890484060411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb6a6f23f039d290800000000000000
+      internalID: -7865201453195170871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5b5951dcded8fd0800000000000000
+      internalID: -2337951166449207864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f0c3bd7ec329870800000000000000
+      internalID: 8688073597664366427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b3e2648a75cf3b0800000000000000
+      internalID: -5477406666545808543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3409a884f5fe958a0800000000000000
+      internalID: -6315753809892437949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de0af63e2afe72c0800000000000000
+      internalID: -4431829906888192303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7061f306d663515a0800000000000000
+      internalID: -6551270239546436089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae6e075d18b2aaf0800000000000000
+      internalID: -386544181846315353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a76e2ba677b1b30800000000000000
+      internalID: 4259129172760623748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a64f6afa4d7ca0a0800000000000000
+      internalID: -6868977570664200542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0d44fb8db1841f0800000000000000
+      internalID: -1060567094509907758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a945eb7ad8dfb610800000000000000
+      internalID: 1639267222279244197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8b681312e9e2cf0800000000000000
+      internalID: -275108661820999516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba859cb1d803cef0800000000000000
+      internalID: -89217870712173894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dd141453f915ed0800000000000000
+      internalID: -2426983673099068065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942ad610ac59c7560800000000000000
+      internalID: 7312884589782737481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c540601c09f7fefe0800000000000000
+      internalID: -1157566319520512932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50111f913a299850800000000000000
+      internalID: 6384180339384848479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc8bcfc18cab3ae0800000000000000
+      internalID: -1568470371671503668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa32069e702166060800000000000000
+      internalID: 6946259300455031722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe315329601d8f4e0800000000000000
+      internalID: -1947577012684778513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35262c1a4f68b7d0800000000000000
+      internalID: -2902447595749759681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c4fc8c2a54199e0800000000000000
+      internalID: -1616434225793250239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d750482d6559a70800000000000000
+      internalID: 8833061706315169146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfd1bae45717b320800000000000000
+      internalID: 2573551365547745206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f454b97149a59d30800000000000000
+      internalID: 4437639106523321588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f4d81d0299e2590800000000000000
+      internalID: -7697046346895896788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137625e43f7de2430800000000000000
+      internalID: 3760180178891990833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caa10449275dde10800000000000000
+      internalID: 2224029625737128649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efa9a045f462cf30800000000000000
+      internalID: 4594345574385954787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3438029f108cadaa0800000000000000
+      internalID: -6135371631538699453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3db97c971fb5410800000000000000
+      internalID: 1467031608981443493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6173cce85ff699ab0800000000000000
+      internalID: -5000842810764806378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d073daca48cb1f0800000000000000
+      internalID: -1027800737772008066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0fba66201a52f40800000000000000
+      internalID: 5703141534819152076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc66a576af6e98df0800000000000000
+      internalID: -177356747154233652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7feff7d6f384850800000000000000
+      internalID: 6361404213192226751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ec0d38a1aa9c890800000000000000
+      internalID: -7437226278768292266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24d7a96582dddca0800000000000000
+      internalID: -5990400458887801811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c394a43925725f0800000000000000
+      internalID: -781565217765507939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088c809b468e9c5a0800000000000000
+      internalID: -6500409067833866112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381eed9a6bf58f4c0800000000000000
+      internalID: -4253544609912790653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a667cf0753f6c790800000000000000
+      internalID: -7510047773341292894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orange cap_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f32d289cee4b2c0800000000000000
+      internalID: -4416642785292959899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Female Orange cap_0: -3239616443853612413
+      Female Orange cap_0_0: -795237199504249631
+      Female Orange cap_0_1: 8059983142764051295
+      Female Orange cap_0_2: 336875722960748857
+      Female Orange cap_0_3: -8298589234304150115
+      Female Orange cap_0_4: 4613267003241797326
+      Female Orange cap_0_5: 9144494572798704595
+      Female Orange cap_0_6: -8879579963848453037
+      Female Orange cap_1: 8366002707457321667
+      Female Orange cap_10: -3041090853412774621
+      Female Orange cap_11: 893239735156091805
+      Female Orange cap_12: 3183453598521100182
+      Female Orange cap_13: 1830024028534318166
+      Female Orange cap_14: -1006805690619949417
+      Female Orange cap_15: 1391819321100159668
+      Female Orange cap_16: 2371277792279640968
+      Female Orange cap_17: -6977452904827864295
+      Female Orange cap_18: 3546691300930104420
+      Female Orange cap_19: -5994528236655717125
+      Female Orange cap_1_0: 5726928625216897728
+      Female Orange cap_1_1: -4686148574221173108
+      Female Orange cap_1_2: -2895479624484046858
+      Female Orange cap_1_3: 7958215403308916412
+      Female Orange cap_1_4: -980376101937493712
+      Female Orange cap_1_5: -924689915788569658
+      Female Orange cap_1_6: 1129411116693444636
+      Female Orange cap_2: 835205630916744024
+      Female Orange cap_20: -2154327287236914085
+      Female Orange cap_21: -41062461539725226
+      Female Orange cap_22: 7949614896184480458
+      Female Orange cap_23: 3984130406399870922
+      Female Orange cap_24: -382854384582022710
+      Female Orange cap_25: -6925012890484060411
+      Female Orange cap_26: -7865201453195170871
+      Female Orange cap_27: -2337951166449207864
+      Female Orange cap_28: 4115833418066093898
+      Female Orange cap_29: -4108200605695873053
+      Female Orange cap_2_0: 1735594671956772612
+      Female Orange cap_2_1: -9067227130322372227
+      Female Orange cap_2_2: -4915630588367564462
+      Female Orange cap_2_3: 5417749320768307163
+      Female Orange cap_2_4: -5037773838566279974
+      Female Orange cap_2_5: -8258961555897221075
+      Female Orange cap_2_6: 1884430936385474772
+      Female Orange cap_3: -6978202654762025996
+      Female Orange cap_30: -6315753809892437949
+      Female Orange cap_31: -4431829906888192303
+      Female Orange cap_32: -6551270239546436089
+      Female Orange cap_33: -386544181846315353
+      Female Orange cap_34: 3486448800701968748
+      Female Orange cap_35: -2787534018210827299
+      Female Orange cap_36: 3571389306502092250
+      Female Orange cap_37: -7135235836945990604
+      Female Orange cap_38: 9110060749232074580
+      Female Orange cap_39: 900305314599934459
+      Female Orange cap_3_0: 1593352308576127297
+      Female Orange cap_3_1: -1411348403275381840
+      Female Orange cap_3_2: -2578419118173335154
+      Female Orange cap_3_3: -884670946166304625
+      Female Orange cap_3_4: 4913630161571022648
+      Female Orange cap_3_5: -7339568659704475584
+      Female Orange cap_3_6: -3793346177297226962
+      Female Orange cap_4: -3716358097542609707
+      Female Orange cap_40: -2426983673099068065
+      Female Orange cap_41: 7312884589782737481
+      Female Orange cap_42: -1157566319520512932
+      Female Orange cap_43: 6384180339384848479
+      Female Orange cap_44: -2551537627823562267
+      Female Orange cap_4_0: 8544163892068417988
+      Female Orange cap_4_1: -8713535451984966398
+      Female Orange cap_4_2: 4175850702402675811
+      Female Orange cap_4_3: -6050081851753277637
+      Female Orange cap_4_4: -7487275594372310335
+      Female Orange cap_4_5: -1541582545989577160
+      Female Orange cap_4_6: -6181575839765701307
+      Female Orange cap_5: -2471568003611293495
+      Female Orange cap_50: 2573551365547745206
+      Female Orange cap_51: 4437639106523321588
+      Female Orange cap_52: -7697046346895896788
+      Female Orange cap_53: 3760180178891990833
+      Female Orange cap_54: 2224029625737128649
+      Female Orange cap_55: 4594345574385954787
+      Female Orange cap_5_0: -8712151277587278026
+      Female Orange cap_5_1: 1878009816247164317
+      Female Orange cap_5_2: 5419265449418014016
+      Female Orange cap_5_3: 1253574569425771156
+      Female Orange cap_5_4: -8616824617946361684
+      Female Orange cap_5_5: -7538945612138700731
+      Female Orange cap_5_6: -6770901371213552551
+      Female Orange cap_6: -8121667903795963184
+      Female Orange cap_60: 5703141534819152076
+      Female Orange cap_61: -177356747154233652
+      Female Orange cap_62: 6361404213192226751
+      Female Orange cap_63: -7437226278768292266
+      Female Orange cap_64: -5990400458887801811
+      Female Orange cap_65: -781565217765507939
+      Female Orange cap_66: -6500409067833866112
+      Female Orange cap_67: -4253544609912790653
+      Female Orange cap_68: -7510047773341292894
+      Female Orange cap_69: -4416642785292959899
+      Female Orange cap_6_0: -8872149686660142174
+      Female Orange cap_6_1: -1629533958298299474
+      Female Orange cap_6_2: -2259570189313116718
+      Female Orange cap_6_3: -6145465553292995705
+      Female Orange cap_6_4: 5311070673968644499
+      Female Orange cap_6_5: -5346852719743733923
+      Female Orange cap_6_6: 1997848312579364166
+      Female Orange cap_7: 5444810600535840093
+      Female Orange cap_7_0: 4469634659431471557
+      Female Orange cap_7_1: 7064484706030960239
+      Female Orange cap_7_2: -4043669496613760882
+      Female Orange cap_7_3: -4246223441758042432
+      Female Orange cap_7_4: 2214826919073778433
+      Female Orange cap_7_5: 9017106501174305912
+      Female Orange cap_7_6: 6311912105353099907
+      Female Orange cap_8: 7378081229779213581
+      Female Orange cap_8_0: -4716418327178232935
+      Female Orange cap_8_1: -3120924620593194576
+      Female Orange cap_8_2: -4593978280593875030
+      Female Orange cap_8_3: -1446182074100398685
+      Female Orange cap_8_4: 4696489438189738372
+      Female Orange cap_8_5: 3279383642305008984
+      Female Orange cap_8_6: 6273580242551941713
+      Female Orange cap_9: 1635440580277837871
+      Female Orange cap_9_0: 5462221609410951616
+      Female Orange cap_9_1: 5723222954524258087
+      Female Orange cap_9_2: 2124995274062240295
+      Female Orange cap_9_3: 4599633071417869200
+      Female Orange cap_9_4: -8053581467718576832
+      Female Orange cap_9_5: 3536084270802738439
+      Female Orange cap_9_6: -1963953048058995346
+      Female Orange cap_EMPTY_18: -3381215001348444860
+      Female Orange cap_EMPTY_19: -1708699084563273917
+      Female Orange cap_EMPTY_28: 8688073597664366427
+      Female Orange cap_EMPTY_29: -5477406666545808543
+      Female Orange cap_EMPTY_34: 4259129172760623748
+      Female Orange cap_EMPTY_35: -6868977570664200542
+      Female Orange cap_EMPTY_36: -1060567094509907758
+      Female Orange cap_EMPTY_37: 1639267222279244197
+      Female Orange cap_EMPTY_38: -275108661820999516
+      Female Orange cap_EMPTY_39: -89217870712173894
+      Female Orange cap_EMPTY_44: -1568470371671503668
+      Female Orange cap_EMPTY_45: 6946259300455031722
+      Female Orange cap_EMPTY_46: -1947577012684778513
+      Female Orange cap_EMPTY_47: -2902447595749759681
+      Female Orange cap_EMPTY_48: -1616434225793250239
+      Female Orange cap_EMPTY_49: 8833061706315169146
+      Female Orange cap_EMPTY_5: -3576074735955721413
+      Female Orange cap_EMPTY_56: -6135371631538699453
+      Female Orange cap_EMPTY_57: 1467031608981443493
+      Female Orange cap_EMPTY_58: -5000842810764806378
+      Female Orange cap_EMPTY_59: -1027800737772008066
+      Female Orange cap_EMPTY_6: -274990011805833495
+      Female Orange cap_EMPTY_7: 2280174205533751317
+      Female Orange cap_EMPTY_8: -8944282426565401156
+      Female Orange cap_EMPTY_9: 8982605063036238174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

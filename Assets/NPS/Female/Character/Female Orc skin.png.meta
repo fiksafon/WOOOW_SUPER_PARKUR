@@ -1,0 +1,1769 @@
+fileFormatVersion: 2
+guid: f844c675464bfec4786e3d15fca6f06e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4307481142053245960
+    second: Female Orc skin_0
+  - first:
+      213: -6932061938575911383
+    second: Female Orc skin_1
+  - first:
+      213: 6753691725073149780
+    second: Female Orc skin_2
+  - first:
+      213: -831961904773764146
+    second: Female Orc skin_3
+  - first:
+      213: 2626553353836585521
+    second: Female Orc skin_4
+  - first:
+      213: -7295388627645312732
+    second: Female Orc skin_5
+  - first:
+      213: -3901241179148461528
+    second: Female Orc skin_6
+  - first:
+      213: 7870570413089005579
+    second: Female Orc skin_7
+  - first:
+      213: -4982648860974637952
+    second: Female Orc skin_8
+  - first:
+      213: 5381501422829920373
+    second: Female Orc skin_9
+  - first:
+      213: -48027544672175170
+    second: Female Orc skin_10
+  - first:
+      213: 2886369991379307135
+    second: Female Orc skin_11
+  - first:
+      213: -7163869320909146339
+    second: Female Orc skin_12
+  - first:
+      213: 7862800991977630261
+    second: Female Orc skin_13
+  - first:
+      213: -2164965448775125798
+    second: Female Orc skin_14
+  - first:
+      213: 6623010938310547156
+    second: Female Orc skin_15
+  - first:
+      213: -5612647717366329353
+    second: Female Orc skin_16
+  - first:
+      213: -4577038807001249647
+    second: Female Orc skin_17
+  - first:
+      213: 9159248812469767134
+    second: Female Orc skin_18
+  - first:
+      213: -749736036871940800
+    second: Female Orc skin_19
+  - first:
+      213: -4159553117313452543
+    second: Female Orc skin_20
+  - first:
+      213: -1019604847353096308
+    second: Female Orc skin_21
+  - first:
+      213: 6559853009065738041
+    second: Female Orc skin_22
+  - first:
+      213: 5027233490049932083
+    second: Female Orc skin_23
+  - first:
+      213: -4649532760400249862
+    second: Female Orc skin_24
+  - first:
+      213: 7098785506715671742
+    second: Female Orc skin_25
+  - first:
+      213: -2475651486549776475
+    second: Female Orc skin_26
+  - first:
+      213: 5954425115793915255
+    second: Female Orc skin_27
+  - first:
+      213: -3882587747878238208
+    second: Female Orc skin_28
+  - first:
+      213: -4401461004499489354
+    second: Female Orc skin_29
+  - first:
+      213: -4102079545882456675
+    second: Female Orc skin_30
+  - first:
+      213: -5291233422561288447
+    second: Female Orc skin_31
+  - first:
+      213: 6739452121056365295
+    second: Female Orc skin_32
+  - first:
+      213: 8787272829684454575
+    second: Female Orc skin_33
+  - first:
+      213: -7309652204117737216
+    second: Female Orc skin_34
+  - first:
+      213: -1490356381596193219
+    second: Female Orc skin_35
+  - first:
+      213: 5055412597909667874
+    second: Female Orc skin_36
+  - first:
+      213: -8808085742573852163
+    second: Female Orc skin_37
+  - first:
+      213: -1683844356364483171
+    second: Female Orc skin_38
+  - first:
+      213: -6579368289552260367
+    second: Female Orc skin_39
+  - first:
+      213: 8228381886534344636
+    second: Female Orc skin_40
+  - first:
+      213: 1167835673854339621
+    second: Female Orc skin_41
+  - first:
+      213: -321699270893705822
+    second: Female Orc skin_42
+  - first:
+      213: 5661547060536919692
+    second: Female Orc skin_43
+  - first:
+      213: 8734779602915446985
+    second: Female Orc skin_44
+  - first:
+      213: 2146360276580331260
+    second: Female Orc skin_0_6
+  - first:
+      213: 1571921717500327870
+    second: Female Orc skin_1_6
+  - first:
+      213: -1839087053205440962
+    second: Female Orc skin_2_6
+  - first:
+      213: -5828427808851437323
+    second: Female Orc skin_3_6
+  - first:
+      213: 8621555496292182423
+    second: Female Orc skin_4_6
+  - first:
+      213: 8990685951953045581
+    second: Female Orc skin_5_6
+  - first:
+      213: -9196150592523257399
+    second: Female Orc skin_6_6
+  - first:
+      213: -7476023058237875593
+    second: Female Orc skin_7_6
+  - first:
+      213: 7581075207663208651
+    second: Female Orc skin_8_6
+  - first:
+      213: 8792353505203254231
+    second: Female Orc skin_9_6
+  - first:
+      213: -1290699043991880465
+    second: Female Orc skin_0_5
+  - first:
+      213: 3745142611404431577
+    second: Female Orc skin_1_5
+  - first:
+      213: -8465603321277830666
+    second: Female Orc skin_2_5
+  - first:
+      213: -484265137843151988
+    second: Female Orc skin_3_5
+  - first:
+      213: 4184617119575448477
+    second: Female Orc skin_4_5
+  - first:
+      213: -8873637156565121264
+    second: Female Orc skin_5_5
+  - first:
+      213: -3098800373884665694
+    second: Female Orc skin_6_5
+  - first:
+      213: -166517763442648932
+    second: Female Orc skin_7_5
+  - first:
+      213: -797607729651178315
+    second: Female Orc skin_8_5
+  - first:
+      213: -4537843504628506912
+    second: Female Orc skin_9_5
+  - first:
+      213: -2251103006681336506
+    second: Female Orc skin_0_4
+  - first:
+      213: 8429965158500313810
+    second: Female Orc skin_1_4
+  - first:
+      213: 3567540811014174825
+    second: Female Orc skin_2_4
+  - first:
+      213: 2099569425459712217
+    second: Female Orc skin_3_4
+  - first:
+      213: 4230189884755049593
+    second: Female Orc skin_4_4
+  - first:
+      213: 4052230802130698114
+    second: Female Orc skin_5_4
+  - first:
+      213: -8638257689231980805
+    second: Female Orc skin_6_4
+  - first:
+      213: -2697127395176201087
+    second: Female Orc skin_7_4
+  - first:
+      213: 957732606336216467
+    second: Female Orc skin_8_4
+  - first:
+      213: -3304644634277687680
+    second: Female Orc skin_9_4
+  - first:
+      213: 2142732301782234283
+    second: Female Orc skin_0_3
+  - first:
+      213: 3748806754890500099
+    second: Female Orc skin_1_3
+  - first:
+      213: 8701570386126213199
+    second: Female Orc skin_2_3
+  - first:
+      213: -2981948420340194949
+    second: Female Orc skin_3_3
+  - first:
+      213: 2206478692540829318
+    second: Female Orc skin_4_3
+  - first:
+      213: 5487802647808010715
+    second: Female Orc skin_5_3
+  - first:
+      213: -5372994243502945338
+    second: Female Orc skin_6_3
+  - first:
+      213: -141856748275124945
+    second: Female Orc skin_7_3
+  - first:
+      213: 6029608050171347880
+    second: Female Orc skin_8_3
+  - first:
+      213: 7349814205600342089
+    second: Female Orc skin_9_3
+  - first:
+      213: -4851638084839703444
+    second: Female Orc skin_0_2
+  - first:
+      213: -2066813929346580565
+    second: Female Orc skin_1_2
+  - first:
+      213: -7324445086443590306
+    second: Female Orc skin_2_2
+  - first:
+      213: -6730618199619881413
+    second: Female Orc skin_3_2
+  - first:
+      213: -5333939425942307478
+    second: Female Orc skin_4_2
+  - first:
+      213: -1876099497615647082
+    second: Female Orc skin_5_2
+  - first:
+      213: 2691339080533292041
+    second: Female Orc skin_6_2
+  - first:
+      213: -4596692316999924152
+    second: Female Orc skin_7_2
+  - first:
+      213: -8609500632174311037
+    second: Female Orc skin_8_2
+  - first:
+      213: 6292734122232053826
+    second: Female Orc skin_9_2
+  - first:
+      213: 2134717193455773067
+    second: Female Orc skin_0_1
+  - first:
+      213: -5119743297739728383
+    second: Female Orc skin_1_1
+  - first:
+      213: 7203536682542968612
+    second: Female Orc skin_2_1
+  - first:
+      213: 8856494851982749686
+    second: Female Orc skin_3_1
+  - first:
+      213: 3871639447023490633
+    second: Female Orc skin_4_1
+  - first:
+      213: -2612239951735144557
+    second: Female Orc skin_5_1
+  - first:
+      213: 5982249159429412538
+    second: Female Orc skin_6_1
+  - first:
+      213: -4595905163097859622
+    second: Female Orc skin_7_1
+  - first:
+      213: 6375870829316718071
+    second: Female Orc skin_8_1
+  - first:
+      213: -5317854170371973326
+    second: Female Orc skin_9_1
+  - first:
+      213: -4608370066914685191
+    second: Female Orc skin_0_0
+  - first:
+      213: 6169682036199191700
+    second: Female Orc skin_1_0
+  - first:
+      213: 6014753747989026399
+    second: Female Orc skin_2_0
+  - first:
+      213: -827115517652096527
+    second: Female Orc skin_3_0
+  - first:
+      213: 236345461807378735
+    second: Female Orc skin_4_0
+  - first:
+      213: 1355666510350853361
+    second: Female Orc skin_5_0
+  - first:
+      213: -4068491018423900734
+    second: Female Orc skin_6_0
+  - first:
+      213: 5656348522065508245
+    second: Female Orc skin_7_0
+  - first:
+      213: 4728327835040085321
+    second: Female Orc skin_8_0
+  - first:
+      213: -3325061902953997145
+    second: Female Orc skin_9_0
+  - first:
+      213: -118808680427929542
+    second: Female Orc skin_45
+  - first:
+      213: 8964687260388667411
+    second: Female Orc skin_46
+  - first:
+      213: 4773834454620118181
+    second: Female Orc skin_47
+  - first:
+      213: -1096990108130383108
+    second: Female Orc skin_48
+  - first:
+      213: 6992811101113543840
+    second: Female Orc skin_49
+  - first:
+      213: -6834904711776237251
+    second: Female Orc skin_50
+  - first:
+      213: 1492844209386662708
+    second: Female Orc skin_51
+  - first:
+      213: -6464289751679959034
+    second: Female Orc skin_52
+  - first:
+      213: 7319640965325464687
+    second: Female Orc skin_53
+  - first:
+      213: 5810322922861444313
+    second: Female Orc skin_54
+  - first:
+      213: -3745661135868572993
+    second: Female Orc skin_55
+  - first:
+      213: 2183173374486715250
+    second: Female Orc skin_56
+  - first:
+      213: -1234848460732623269
+    second: Female Orc skin_57
+  - first:
+      213: 4320758550059984383
+    second: Female Orc skin_58
+  - first:
+      213: -402114304392491404
+    second: Female Orc skin_59
+  - first:
+      213: 8617339322947251130
+    second: Female Orc skin_60
+  - first:
+      213: -5501794603764757568
+    second: Female Orc skin_61
+  - first:
+      213: 3985554389542560373
+    second: Female Orc skin_62
+  - first:
+      213: -1189183978909754607
+    second: Female Orc skin_63
+  - first:
+      213: 852407933642241896
+    second: Female Orc skin_64
+  - first:
+      213: -7890863222225367899
+    second: Female Orc skin_65
+  - first:
+      213: -6894385711584248423
+    second: Female Orc skin_66
+  - first:
+      213: 1796740062813694185
+    second: Female Orc skin_67
+  - first:
+      213: -2902790799628542819
+    second: Female Orc skin_68
+  - first:
+      213: 7037234630506676918
+    second: Female Orc skin_69
+  - first:
+      213: 8128010458761398729
+    second: Female Orc skin_EMPTY_5
+  - first:
+      213: 7548998990649765029
+    second: Female Orc skin_EMPTY_6
+  - first:
+      213: -1061230290722474161
+    second: Female Orc skin_EMPTY_7
+  - first:
+      213: 1789036681642969249
+    second: Female Orc skin_EMPTY_8
+  - first:
+      213: 2992466743263752062
+    second: Female Orc skin_EMPTY_9
+  - first:
+      213: -8143263861391841284
+    second: Female Orc skin_EMPTY_18
+  - first:
+      213: 5867728758180731878
+    second: Female Orc skin_EMPTY_19
+  - first:
+      213: 514499249747822300
+    second: Female Orc skin_EMPTY_28
+  - first:
+      213: 4744881174495438206
+    second: Female Orc skin_EMPTY_29
+  - first:
+      213: -5852752423169777480
+    second: Female Orc skin_EMPTY_34
+  - first:
+      213: -9154655707543097079
+    second: Female Orc skin_EMPTY_35
+  - first:
+      213: -4876440434148060409
+    second: Female Orc skin_EMPTY_36
+  - first:
+      213: -4653560515480782825
+    second: Female Orc skin_EMPTY_37
+  - first:
+      213: 2381817940375368634
+    second: Female Orc skin_EMPTY_38
+  - first:
+      213: -2095290261631230033
+    second: Female Orc skin_EMPTY_39
+  - first:
+      213: -948192143020797252
+    second: Female Orc skin_EMPTY_44
+  - first:
+      213: 1284979382392444085
+    second: Female Orc skin_EMPTY_45
+  - first:
+      213: -3996572927980199797
+    second: Female Orc skin_EMPTY_46
+  - first:
+      213: -3352321124302799148
+    second: Female Orc skin_EMPTY_47
+  - first:
+      213: 7661641208451149504
+    second: Female Orc skin_EMPTY_48
+  - first:
+      213: 8297303987390145222
+    second: Female Orc skin_EMPTY_49
+  - first:
+      213: 6754239167260390618
+    second: Female Orc skin_EMPTY_56
+  - first:
+      213: -6523646647829724642
+    second: Female Orc skin_EMPTY_57
+  - first:
+      213: -563079236629400567
+    second: Female Orc skin_EMPTY_58
+  - first:
+      213: -8173193369774503406
+    second: Female Orc skin_EMPTY_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female Orc skin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80417c4d64f37cb30800000000000000
+      internalID: 4307481142053245960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9265d2ef46e5ccf90800000000000000
+      internalID: -6932061938575911383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fea7367dee9bd50800000000000000
+      internalID: 6753691725073149780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb6d473e074474f0800000000000000
+      internalID: -831961904773764146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1326a07fb54637420800000000000000
+      internalID: 2626553353836585521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421d6ce12b291ca90800000000000000
+      internalID: -7295388627645312732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82adab531d10cd9c0800000000000000
+      internalID: -3901241179148461528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00aed33712e93d60800000000000000
+      internalID: 7870570413089005579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c1a1992431adab0800000000000000
+      internalID: -4982648860974637952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570690a180feeaa40800000000000000
+      internalID: 5381501422829920373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb716cd33f555ff0800000000000000
+      internalID: -48027544672175170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ac28ae6327e0820800000000000000
+      internalID: 2886369991379307135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_12
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1734e5fec2d49c90800000000000000
+      internalID: -7163869320909146339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a6a62e7d74e1d60800000000000000
+      internalID: 7862800991977630261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4b3c2156f74f1e0800000000000000
+      internalID: -2164965448775125798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6d681bb59a9eb50800000000000000
+      internalID: 6623010938310547156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff09fc53aedb12b0800000000000000
+      internalID: -5612647717366329353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198438984771b70c0800000000000000
+      internalID: -4577038807001249647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbcda464403c1f70800000000000000
+      internalID: 9159248812469767134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04550f6fb076895f0800000000000000
+      internalID: -749736036871940800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_20
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106b9226a7c4646c0800000000000000
+      internalID: -4159553117313452543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87904e1bc2a9d1f0800000000000000
+      internalID: -1019604847353096308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ff3206e87490b50800000000000000
+      internalID: 6559853009065738041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b9f59493254c540800000000000000
+      internalID: 5027233490049932083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb3dc4b69a897fb0800000000000000
+      internalID: -4649532760400249862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc9a70bec3f38260800000000000000
+      internalID: 7098785506715671742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7688ce618b4add0800000000000000
+      internalID: -2475651486549776475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d7f8c481e52a250800000000000000
+      internalID: 5954425115793915255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0080f6e93074e1ac0800000000000000
+      internalID: -3882587747878238208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bde21e498edae2c0800000000000000
+      internalID: -4401461004499489354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dc743036c7217c0800000000000000
+      internalID: -4102079545882456675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f5f808c33c196b0800000000000000
+      internalID: -5291233422561288447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea41583ff7578d50800000000000000
+      internalID: 6739452121056365295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa498c5e41aa2f970800000000000000
+      internalID: 8787272829684454575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00149ed6c06ee8a90800000000000000
+      internalID: -7309652204117737216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ee83664c0315be0800000000000000
+      internalID: -1490356381596193219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220c07b19fe682640800000000000000
+      internalID: 5055412597909667874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9e3b23fa463c580800000000000000
+      internalID: -8808085742573852163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9549d1ba78c1a8e0800000000000000
+      internalID: -1683844356364483171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2a4ce466361b4a0800000000000000
+      internalID: -6579368289552260367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf532fdab5113270800000000000000
+      internalID: 8228381886534344636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52aed10ab5cf43010800000000000000
+      internalID: 1167835673854339621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_42
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5e0e1b738198bf0800000000000000
+      internalID: -321699270893705822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86c57e2e0bd19e40800000000000000
+      internalID: 5661547060536919692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Orc skin_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c05a1f15cb283970800000000000000
+      internalID: 8734779602915446985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Female Orc skin_0: 4307481142053245960
+      Female Orc skin_0_0: -4608370066914685191
+      Female Orc skin_0_1: 2134717193455773067
+      Female Orc skin_0_2: -4851638084839703444
+      Female Orc skin_0_3: 2142732301782234283
+      Female Orc skin_0_4: -2251103006681336506
+      Female Orc skin_0_5: -1290699043991880465
+      Female Orc skin_0_6: 2146360276580331260
+      Female Orc skin_1: -6932061938575911383
+      Female Orc skin_10: -48027544672175170
+      Female Orc skin_11: 2886369991379307135
+      Female Orc skin_12: -7163869320909146339
+      Female Orc skin_13: 7862800991977630261
+      Female Orc skin_14: -2164965448775125798
+      Female Orc skin_15: 6623010938310547156
+      Female Orc skin_16: -5612647717366329353
+      Female Orc skin_17: -4577038807001249647
+      Female Orc skin_18: 9159248812469767134
+      Female Orc skin_19: -749736036871940800
+      Female Orc skin_1_0: 6169682036199191700
+      Female Orc skin_1_1: -5119743297739728383
+      Female Orc skin_1_2: -2066813929346580565
+      Female Orc skin_1_3: 3748806754890500099
+      Female Orc skin_1_4: 8429965158500313810
+      Female Orc skin_1_5: 3745142611404431577
+      Female Orc skin_1_6: 1571921717500327870
+      Female Orc skin_2: 6753691725073149780
+      Female Orc skin_20: -4159553117313452543
+      Female Orc skin_21: -1019604847353096308
+      Female Orc skin_22: 6559853009065738041
+      Female Orc skin_23: 5027233490049932083
+      Female Orc skin_24: -4649532760400249862
+      Female Orc skin_25: 7098785506715671742
+      Female Orc skin_26: -2475651486549776475
+      Female Orc skin_27: 5954425115793915255
+      Female Orc skin_28: -3882587747878238208
+      Female Orc skin_29: -4401461004499489354
+      Female Orc skin_2_0: 6014753747989026399
+      Female Orc skin_2_1: 7203536682542968612
+      Female Orc skin_2_2: -7324445086443590306
+      Female Orc skin_2_3: 8701570386126213199
+      Female Orc skin_2_4: 3567540811014174825
+      Female Orc skin_2_5: -8465603321277830666
+      Female Orc skin_2_6: -1839087053205440962
+      Female Orc skin_3: -831961904773764146
+      Female Orc skin_30: -4102079545882456675
+      Female Orc skin_31: -5291233422561288447
+      Female Orc skin_32: 6739452121056365295
+      Female Orc skin_33: 8787272829684454575
+      Female Orc skin_34: -7309652204117737216
+      Female Orc skin_35: -1490356381596193219
+      Female Orc skin_36: 5055412597909667874
+      Female Orc skin_37: -8808085742573852163
+      Female Orc skin_38: -1683844356364483171
+      Female Orc skin_39: -6579368289552260367
+      Female Orc skin_3_0: -827115517652096527
+      Female Orc skin_3_1: 8856494851982749686
+      Female Orc skin_3_2: -6730618199619881413
+      Female Orc skin_3_3: -2981948420340194949
+      Female Orc skin_3_4: 2099569425459712217
+      Female Orc skin_3_5: -484265137843151988
+      Female Orc skin_3_6: -5828427808851437323
+      Female Orc skin_4: 2626553353836585521
+      Female Orc skin_40: 8228381886534344636
+      Female Orc skin_41: 1167835673854339621
+      Female Orc skin_42: -321699270893705822
+      Female Orc skin_43: 5661547060536919692
+      Female Orc skin_44: 8734779602915446985
+      Female Orc skin_45: -118808680427929542
+      Female Orc skin_46: 8964687260388667411
+      Female Orc skin_47: 4773834454620118181
+      Female Orc skin_48: -1096990108130383108
+      Female Orc skin_49: 6992811101113543840
+      Female Orc skin_4_0: 236345461807378735
+      Female Orc skin_4_1: 3871639447023490633
+      Female Orc skin_4_2: -5333939425942307478
+      Female Orc skin_4_3: 2206478692540829318
+      Female Orc skin_4_4: 4230189884755049593
+      Female Orc skin_4_5: 4184617119575448477
+      Female Orc skin_4_6: 8621555496292182423
+      Female Orc skin_5: -7295388627645312732
+      Female Orc skin_50: -6834904711776237251
+      Female Orc skin_51: 1492844209386662708
+      Female Orc skin_52: -6464289751679959034
+      Female Orc skin_53: 7319640965325464687
+      Female Orc skin_54: 5810322922861444313
+      Female Orc skin_55: -3745661135868572993
+      Female Orc skin_56: 2183173374486715250
+      Female Orc skin_57: -1234848460732623269
+      Female Orc skin_58: 4320758550059984383
+      Female Orc skin_59: -402114304392491404
+      Female Orc skin_5_0: 1355666510350853361
+      Female Orc skin_5_1: -2612239951735144557
+      Female Orc skin_5_2: -1876099497615647082
+      Female Orc skin_5_3: 5487802647808010715
+      Female Orc skin_5_4: 4052230802130698114
+      Female Orc skin_5_5: -8873637156565121264
+      Female Orc skin_5_6: 8990685951953045581
+      Female Orc skin_6: -3901241179148461528
+      Female Orc skin_60: 8617339322947251130
+      Female Orc skin_61: -5501794603764757568
+      Female Orc skin_62: 3985554389542560373
+      Female Orc skin_63: -1189183978909754607
+      Female Orc skin_64: 852407933642241896
+      Female Orc skin_65: -7890863222225367899
+      Female Orc skin_66: -6894385711584248423
+      Female Orc skin_67: 1796740062813694185
+      Female Orc skin_68: -2902790799628542819
+      Female Orc skin_69: 7037234630506676918
+      Female Orc skin_6_0: -4068491018423900734
+      Female Orc skin_6_1: 5982249159429412538
+      Female Orc skin_6_2: 2691339080533292041
+      Female Orc skin_6_3: -5372994243502945338
+      Female Orc skin_6_4: -8638257689231980805
+      Female Orc skin_6_5: -3098800373884665694
+      Female Orc skin_6_6: -9196150592523257399
+      Female Orc skin_7: 7870570413089005579
+      Female Orc skin_7_0: 5656348522065508245
+      Female Orc skin_7_1: -4595905163097859622
+      Female Orc skin_7_2: -4596692316999924152
+      Female Orc skin_7_3: -141856748275124945
+      Female Orc skin_7_4: -2697127395176201087
+      Female Orc skin_7_5: -166517763442648932
+      Female Orc skin_7_6: -7476023058237875593
+      Female Orc skin_8: -4982648860974637952
+      Female Orc skin_8_0: 4728327835040085321
+      Female Orc skin_8_1: 6375870829316718071
+      Female Orc skin_8_2: -8609500632174311037
+      Female Orc skin_8_3: 6029608050171347880
+      Female Orc skin_8_4: 957732606336216467
+      Female Orc skin_8_5: -797607729651178315
+      Female Orc skin_8_6: 7581075207663208651
+      Female Orc skin_9: 5381501422829920373
+      Female Orc skin_9_0: -3325061902953997145
+      Female Orc skin_9_1: -5317854170371973326
+      Female Orc skin_9_2: 6292734122232053826
+      Female Orc skin_9_3: 7349814205600342089
+      Female Orc skin_9_4: -3304644634277687680
+      Female Orc skin_9_5: -4537843504628506912
+      Female Orc skin_9_6: 8792353505203254231
+      Female Orc skin_EMPTY_18: -8143263861391841284
+      Female Orc skin_EMPTY_19: 5867728758180731878
+      Female Orc skin_EMPTY_28: 514499249747822300
+      Female Orc skin_EMPTY_29: 4744881174495438206
+      Female Orc skin_EMPTY_34: -5852752423169777480
+      Female Orc skin_EMPTY_35: -9154655707543097079
+      Female Orc skin_EMPTY_36: -4876440434148060409
+      Female Orc skin_EMPTY_37: -4653560515480782825
+      Female Orc skin_EMPTY_38: 2381817940375368634
+      Female Orc skin_EMPTY_39: -2095290261631230033
+      Female Orc skin_EMPTY_44: -948192143020797252
+      Female Orc skin_EMPTY_45: 1284979382392444085
+      Female Orc skin_EMPTY_46: -3996572927980199797
+      Female Orc skin_EMPTY_47: -3352321124302799148
+      Female Orc skin_EMPTY_48: 7661641208451149504
+      Female Orc skin_EMPTY_49: 8297303987390145222
+      Female Orc skin_EMPTY_5: 8128010458761398729
+      Female Orc skin_EMPTY_56: 6754239167260390618
+      Female Orc skin_EMPTY_57: -6523646647829724642
+      Female Orc skin_EMPTY_58: -563079236629400567
+      Female Orc skin_EMPTY_59: -8173193369774503406
+      Female Orc skin_EMPTY_6: 7548998990649765029
+      Female Orc skin_EMPTY_7: -1061230290722474161
+      Female Orc skin_EMPTY_8: 1789036681642969249
+      Female Orc skin_EMPTY_9: 2992466743263752062
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

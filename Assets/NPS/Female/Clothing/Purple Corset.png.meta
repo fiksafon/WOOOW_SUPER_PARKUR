@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: 8f19cd3b6fb4f2b4aa336cb8ad5b1304
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6101736342148587569
+    second: Purple Corset_0
+  - first:
+      213: -1390672078881666238
+    second: Purple Corset_1
+  - first:
+      213: 6687705061650755971
+    second: Purple Corset_2
+  - first:
+      213: -941007158361989253
+    second: Purple Corset_3
+  - first:
+      213: 7611107522422045133
+    second: Purple Corset_4
+  - first:
+      213: -6378636350423963794
+    second: Purple Corset_5
+  - first:
+      213: 7381536151094298688
+    second: Purple Corset_6
+  - first:
+      213: -6859099752482558734
+    second: Purple Corset_7
+  - first:
+      213: 2248970034597624334
+    second: Purple Corset_8
+  - first:
+      213: -7239651813915355947
+    second: Purple Corset_9
+  - first:
+      213: -4988427160136500723
+    second: Purple Corset_10
+  - first:
+      213: 6753023059947249222
+    second: Purple Corset_11
+  - first:
+      213: -4127216357856277403
+    second: Purple Corset_12
+  - first:
+      213: -6658846528371554908
+    second: Purple Corset_13
+  - first:
+      213: 5504677656399641967
+    second: Purple Corset_14
+  - first:
+      213: -8093220927259230532
+    second: Purple Corset_15
+  - first:
+      213: 7287010647867354957
+    second: Purple Corset_16
+  - first:
+      213: 5671782586070489071
+    second: Purple Corset_17
+  - first:
+      213: -2268998542023878787
+    second: Purple Corset_18
+  - first:
+      213: 4793177375783866991
+    second: Purple Corset_19
+  - first:
+      213: -2445585929548830729
+    second: Purple Corset_20
+  - first:
+      213: 5137035667798202777
+    second: Purple Corset_21
+  - first:
+      213: -550219728400313581
+    second: Purple Corset_22
+  - first:
+      213: 6663496493732308486
+    second: Purple Corset_23
+  - first:
+      213: 8607275466314970873
+    second: Purple Corset_24
+  - first:
+      213: -6497761827833873965
+    second: Purple Corset_25
+  - first:
+      213: 6158940997807288205
+    second: Purple Corset_26
+  - first:
+      213: 2343160210408948878
+    second: Purple Corset_27
+  - first:
+      213: 298683833280348120
+    second: Purple Corset_28
+  - first:
+      213: -8456839344642132060
+    second: Purple Corset_29
+  - first:
+      213: 3565021957561745977
+    second: Purple Corset_30
+  - first:
+      213: -2049291017608481151
+    second: Purple Corset_31
+  - first:
+      213: -1219737871157199917
+    second: Purple Corset_32
+  - first:
+      213: -5279715432143499559
+    second: Purple Corset_33
+  - first:
+      213: 8054160088202953944
+    second: Purple Corset_34
+  - first:
+      213: 657163598580236917
+    second: Purple Corset_35
+  - first:
+      213: 3151029159921974156
+    second: Purple Corset_36
+  - first:
+      213: 4265229073937913278
+    second: Purple Corset_37
+  - first:
+      213: -489492898452044880
+    second: Purple Corset_38
+  - first:
+      213: 4369936075868496739
+    second: Purple Corset_39
+  - first:
+      213: 7911080896485870655
+    second: Purple Corset_40
+  - first:
+      213: -2600773776914130601
+    second: Purple Corset_41
+  - first:
+      213: 5105643970756668052
+    second: Purple Corset_42
+  - first:
+      213: 5265240632105468655
+    second: Purple Corset_43
+  - first:
+      213: 8422156261956971592
+    second: Purple Corset_44
+  - first:
+      213: -146088505754147442
+    second: Purple Corset_45
+  - first:
+      213: 1848730986607300583
+    second: Purple Corset_46
+  - first:
+      213: -8823826017932401610
+    second: Purple Corset_47
+  - first:
+      213: 4094747083271591612
+    second: Purple Corset_48
+  - first:
+      213: 7431316159522632912
+    second: Purple Corset_49
+  - first:
+      213: -562973245917369105
+    second: Purple Corset_50
+  - first:
+      213: 5941067239856532616
+    second: Purple Corset_51
+  - first:
+      213: 8626050388720088661
+    second: Purple Corset_52
+  - first:
+      213: 3723167567613878328
+    second: Purple Corset_53
+  - first:
+      213: 9040044980125072038
+    second: Purple Corset_0_6
+  - first:
+      213: 6851652833241208068
+    second: Purple Corset_1_6
+  - first:
+      213: 1684050430227071617
+    second: Purple Corset_2_6
+  - first:
+      213: -2591405593199945089
+    second: Purple Corset_3_6
+  - first:
+      213: 6499286415439240068
+    second: Purple Corset_4_6
+  - first:
+      213: 3015477328023567641
+    second: Purple Corset_5_6
+  - first:
+      213: 3031967528873432936
+    second: Purple Corset_6_6
+  - first:
+      213: -3319080607848853125
+    second: Purple Corset_7_6
+  - first:
+      213: 6980192166623898368
+    second: Purple Corset_8_6
+  - first:
+      213: -4768459833161192648
+    second: Purple Corset_9_6
+  - first:
+      213: -1627316475822978409
+    second: Purple Corset_0_5
+  - first:
+      213: -2015611166295028848
+    second: Purple Corset_1_5
+  - first:
+      213: 7266305738825966739
+    second: Purple Corset_2_5
+  - first:
+      213: -8067061942718708234
+    second: Purple Corset_3_5
+  - first:
+      213: -5096855266834703870
+    second: Purple Corset_4_5
+  - first:
+      213: -145037891269652763
+    second: Purple Corset_5_5
+  - first:
+      213: -1590688074480524158
+    second: Purple Corset_6_5
+  - first:
+      213: -1548793304621683965
+    second: Purple Corset_7_5
+  - first:
+      213: -2256113223281672822
+    second: Purple Corset_8_5
+  - first:
+      213: -1791515065735717667
+    second: Purple Corset_9_5
+  - first:
+      213: -1538315151908721503
+    second: Purple Corset_0_4
+  - first:
+      213: -7507533205179184270
+    second: Purple Corset_1_4
+  - first:
+      213: 8821285012079105208
+    second: Purple Corset_2_4
+  - first:
+      213: 4611821236344514895
+    second: Purple Corset_3_4
+  - first:
+      213: -6872113152301168839
+    second: Purple Corset_4_4
+  - first:
+      213: -2865702870990341764
+    second: Purple Corset_5_4
+  - first:
+      213: -8709499484095655637
+    second: Purple Corset_6_4
+  - first:
+      213: 1309391395514296190
+    second: Purple Corset_7_4
+  - first:
+      213: 4509257456248383745
+    second: Purple Corset_8_4
+  - first:
+      213: -876841237050622635
+    second: Purple Corset_9_4
+  - first:
+      213: -1599499617643818393
+    second: Purple Corset_0_3
+  - first:
+      213: 6160777539062075470
+    second: Purple Corset_1_3
+  - first:
+      213: 8908164189280776130
+    second: Purple Corset_2_3
+  - first:
+      213: 5888875103936716056
+    second: Purple Corset_3_3
+  - first:
+      213: 2358879000131169551
+    second: Purple Corset_4_3
+  - first:
+      213: -7547222984415562296
+    second: Purple Corset_5_3
+  - first:
+      213: 381383308968537629
+    second: Purple Corset_6_3
+  - first:
+      213: 7074569419708340422
+    second: Purple Corset_7_3
+  - first:
+      213: 5383468198171019759
+    second: Purple Corset_8_3
+  - first:
+      213: -7793397510555195800
+    second: Purple Corset_9_3
+  - first:
+      213: 8897719033884220854
+    second: Purple Corset_0_2
+  - first:
+      213: 403865055042668773
+    second: Purple Corset_1_2
+  - first:
+      213: -3023420655990199546
+    second: Purple Corset_2_2
+  - first:
+      213: -2019130524045789248
+    second: Purple Corset_3_2
+  - first:
+      213: -4158660917268080893
+    second: Purple Corset_4_2
+  - first:
+      213: 3541904634788395270
+    second: Purple Corset_5_2
+  - first:
+      213: 3870399934203941663
+    second: Purple Corset_6_2
+  - first:
+      213: -1228811852283171149
+    second: Purple Corset_7_2
+  - first:
+      213: 1264955921930316364
+    second: Purple Corset_8_2
+  - first:
+      213: 5424135489956645843
+    second: Purple Corset_9_2
+  - first:
+      213: 8732830761332556147
+    second: Purple Corset_0_1
+  - first:
+      213: -5270020585429738031
+    second: Purple Corset_1_1
+  - first:
+      213: -3734309020578509755
+    second: Purple Corset_2_1
+  - first:
+      213: -6643335724352300712
+    second: Purple Corset_3_1
+  - first:
+      213: 2753151201421364952
+    second: Purple Corset_4_1
+  - first:
+      213: -7455058881543421613
+    second: Purple Corset_5_1
+  - first:
+      213: 8309985385959029767
+    second: Purple Corset_6_1
+  - first:
+      213: -1359366039462413532
+    second: Purple Corset_7_1
+  - first:
+      213: 6575698772572658828
+    second: Purple Corset_8_1
+  - first:
+      213: -792975421350939373
+    second: Purple Corset_9_1
+  - first:
+      213: 525903242321205755
+    second: Purple Corset_0_0
+  - first:
+      213: 2474186208826830109
+    second: Purple Corset_1_0
+  - first:
+      213: 4808597281607955422
+    second: Purple Corset_2_0
+  - first:
+      213: -8796628902213184464
+    second: Purple Corset_3_0
+  - first:
+      213: -4823830601553971027
+    second: Purple Corset_4_0
+  - first:
+      213: 5956559512944482875
+    second: Purple Corset_5_0
+  - first:
+      213: 5035299742750483785
+    second: Purple Corset_6_0
+  - first:
+      213: -6925821794040796099
+    second: Purple Corset_7_0
+  - first:
+      213: 4038663224370670862
+    second: Purple Corset_8_0
+  - first:
+      213: 3936629049019103724
+    second: Purple Corset_9_0
+  - first:
+      213: -7838556187256715826
+    second: Purple Corset_EMPTY_5
+  - first:
+      213: 1801661253325842333
+    second: Purple Corset_EMPTY_6
+  - first:
+      213: -8354886342903794025
+    second: Purple Corset_EMPTY_7
+  - first:
+      213: -1697329576681977005
+    second: Purple Corset_EMPTY_8
+  - first:
+      213: 4415842296333029190
+    second: Purple Corset_EMPTY_9
+  - first:
+      213: 1345957957842225156
+    second: Purple Corset_EMPTY_18
+  - first:
+      213: -3088103774643751127
+    second: Purple Corset_EMPTY_19
+  - first:
+      213: -4883025084327096990
+    second: Purple Corset_EMPTY_28
+  - first:
+      213: -3246784817640318432
+    second: Purple Corset_EMPTY_29
+  - first:
+      213: 6823077523857526182
+    second: Purple Corset_EMPTY_34
+  - first:
+      213: -3864280428758795203
+    second: Purple Corset_EMPTY_35
+  - first:
+      213: -6617429485221940503
+    second: Purple Corset_EMPTY_36
+  - first:
+      213: 7481253389523985024
+    second: Purple Corset_EMPTY_37
+  - first:
+      213: -63162492014201080
+    second: Purple Corset_EMPTY_38
+  - first:
+      213: 2088845484645505684
+    second: Purple Corset_EMPTY_39
+  - first:
+      213: -7987903083596372023
+    second: Purple Corset_EMPTY_44
+  - first:
+      213: -4973627263503199313
+    second: Purple Corset_EMPTY_45
+  - first:
+      213: 6968097667250907803
+    second: Purple Corset_EMPTY_46
+  - first:
+      213: 7789920562096445585
+    second: Purple Corset_EMPTY_47
+  - first:
+      213: -5172492332942325337
+    second: Purple Corset_EMPTY_48
+  - first:
+      213: 1897683064634056002
+    second: Purple Corset_EMPTY_49
+  - first:
+      213: 3038299821708121551
+    second: Purple Corset_54
+  - first:
+      213: -1367897602178802337
+    second: Purple Corset_55
+  - first:
+      213: 1412943178107626112
+    second: Purple Corset_EMPTY_56
+  - first:
+      213: -6090047717828264857
+    second: Purple Corset_EMPTY_57
+  - first:
+      213: 5582545793414908421
+    second: Purple Corset_EMPTY_58
+  - first:
+      213: 5015375188525821113
+    second: Purple Corset_EMPTY_59
+  - first:
+      213: 3897018101164459592
+    second: Purple Corset_60
+  - first:
+      213: 2604506567805616050
+    second: Purple Corset_61
+  - first:
+      213: -4800180191162866752
+    second: Purple Corset_62
+  - first:
+      213: 3890342447474208677
+    second: Purple Corset_63
+  - first:
+      213: -6715060682567587578
+    second: Purple Corset_64
+  - first:
+      213: 9066956988348131007
+    second: Purple Corset_65
+  - first:
+      213: 1208472380228949621
+    second: Purple Corset_66
+  - first:
+      213: 6578733933483397736
+    second: Purple Corset_67
+  - first:
+      213: 3671709966424440155
+    second: Purple Corset_68
+  - first:
+      213: -1459210328225405230
+    second: Purple Corset_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Purple Corset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130abd2ffd8bda450800000000000000
+      internalID: 6101736342148587569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b4433cc1753bce0800000000000000
+      internalID: -1390672078881666238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381764212508fcc50800000000000000
+      internalID: 6687705061650755971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fdbb2a9fed0f2f0800000000000000
+      internalID: -941007158361989253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9f44d57f510a960800000000000000
+      internalID: 7611107522422045133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec58f9a9daad73390800000000000000
+      internalID: -7838556187256715826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9762124d59c00910800000000000000
+      internalID: 1801661253325842333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796f470232b7d0c80800000000000000
+      internalID: -8354886342903794025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b4b1b2ebfd178e0800000000000000
+      internalID: -1697329576681977005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f43112c29384d30800000000000000
+      internalID: 4415842296333029190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a372c7deb85cab0800000000000000
+      internalID: -4988427160136500723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e5d28a1be87bd50800000000000000
+      internalID: 6753023059947249222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c8bc6e69e29b6c0800000000000000
+      internalID: -4127216357856277403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5029ecc560793a0800000000000000
+      internalID: -6658846528371554908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dfab8d92b846c40800000000000000
+      internalID: 5504677656399641967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeb4f5427a1faf80800000000000000
+      internalID: -8093220927259230532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f6f947399a02560800000000000000
+      internalID: 7287010647867354957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe75afd263836be40800000000000000
+      internalID: 5671782586070489071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408cbc7a1adcda210800000000000000
+      internalID: 1345957957842225156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927f0da7af9d425d0800000000000000
+      internalID: -3088103774643751127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f76c89ed888f0ed0800000000000000
+      internalID: -2445585929548830729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9999f9109ba6a4740800000000000000
+      internalID: 5137035667798202777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313994c721a3d58f0800000000000000
+      internalID: -550219728400313581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606a9fe91ce797c50800000000000000
+      internalID: 6663496493732308486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f673adee6f237770800000000000000
+      internalID: 8607275466314970873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d97ed05b0053d5a0800000000000000
+      internalID: -6497761827833873965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fa4eeb434f87550800000000000000
+      internalID: 6158940997807288205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e844149fbc3948020800000000000000
+      internalID: 2343160210408948878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d8c53ae820c3cb0800000000000000
+      internalID: -4883025084327096990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ada6a196a11f2d0800000000000000
+      internalID: -3246784817640318432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9328fe40590897130800000000000000
+      internalID: 3565021957561745977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1863c065da47f83e0800000000000000
+      internalID: -2049291017608481151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db759e5ede921fe0800000000000000
+      internalID: -1219737871157199917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de40ff99ceaab6b0800000000000000
+      internalID: -5279715432143499559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adca749bd070be50800000000000000
+      internalID: 6823077523857526182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c76538c615f5ac0800000000000000
+      internalID: -3864280428758795203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2762f91fa2a24a0800000000000000
+      internalID: -6617429485221940503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082a3450250c2d760800000000000000
+      internalID: 7481253389523985024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8077d545c0a9f1ff0800000000000000
+      internalID: -63162492014201080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a59fea6e11dfc10800000000000000
+      internalID: 2088845484645505684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c4b60292ec9cd60800000000000000
+      internalID: 7911080896485870655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759d1e5870238ebd0800000000000000
+      internalID: -2600773776914130601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ae09af324ead640800000000000000
+      internalID: 5105643970756668052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2899d5574e11940800000000000000
+      internalID: 5265240632105468655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7adf99774452190800000000000000
+      internalID: -7987903083596372023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa391b1fa502afab0800000000000000
+      internalID: -4973627263503199313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ae7b8e8e7a3b060800000000000000
+      internalID: 6968097667250907803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198154c7a7b5b1c60800000000000000
+      internalID: 7789920562096445585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a98a83d0ad9738b0800000000000000
+      internalID: -5172492332942325337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d99c361bce55a10800000000000000
+      internalID: 1897683064634056002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feceb0bc0daef28f0800000000000000
+      internalID: -562973245917369105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ceb527d29e27250800000000000000
+      internalID: 5941067239856532616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556f7423023e5b770800000000000000
+      internalID: 8626050388720088661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83061e23d295ba330800000000000000
+      internalID: 3723167567613878328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc59b0a17953a2a20800000000000000
+      internalID: 3038299821708121551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d1605d060440de0800000000000000
+      internalID: -1367897602178802337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082aaea9558cb9310800000000000000
+      internalID: 1412943178107626112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cfaa9fdddcb7ba0800000000000000
+      internalID: -6090047717828264857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ac8de42df297d40800000000000000
+      internalID: 5582545793414908421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bca36f49213a9540800000000000000
+      internalID: 5015375188525821113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846cc23d05df41630800000000000000
+      internalID: 3897018101164459592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfb9359ce0152420800000000000000
+      internalID: 2604506567805616050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3eedf6c85526db0800000000000000
+      internalID: -4800180191162866752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afe25418d54df530800000000000000
+      internalID: 3890342447474208677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609ed5a13ef4fc2a0800000000000000
+      internalID: -6715060682567587578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb66c34975d44dd70800000000000000
+      internalID: 9066956988348131007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576da602a3b55c010800000000000000
+      internalID: 1208472380228949621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862161928ab5c4b50800000000000000
+      internalID: 6578733933483397736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d7dfac2c884f230800000000000000
+      internalID: 3671709966424440155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d62b8d00f7dfbbe0800000000000000
+      internalID: -1459210328225405230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Purple Corset_0: 6101736342148587569
+      Purple Corset_0_0: 525903242321205755
+      Purple Corset_0_1: 8732830761332556147
+      Purple Corset_0_2: 8897719033884220854
+      Purple Corset_0_3: -1599499617643818393
+      Purple Corset_0_4: -1538315151908721503
+      Purple Corset_0_5: -1627316475822978409
+      Purple Corset_0_6: 9040044980125072038
+      Purple Corset_1: -1390672078881666238
+      Purple Corset_10: -4988427160136500723
+      Purple Corset_11: 6753023059947249222
+      Purple Corset_12: -4127216357856277403
+      Purple Corset_13: -6658846528371554908
+      Purple Corset_14: 5504677656399641967
+      Purple Corset_15: -8093220927259230532
+      Purple Corset_16: 7287010647867354957
+      Purple Corset_17: 5671782586070489071
+      Purple Corset_18: -2268998542023878787
+      Purple Corset_19: 4793177375783866991
+      Purple Corset_1_0: 2474186208826830109
+      Purple Corset_1_1: -5270020585429738031
+      Purple Corset_1_2: 403865055042668773
+      Purple Corset_1_3: 6160777539062075470
+      Purple Corset_1_4: -7507533205179184270
+      Purple Corset_1_5: -2015611166295028848
+      Purple Corset_1_6: 6851652833241208068
+      Purple Corset_2: 6687705061650755971
+      Purple Corset_20: -2445585929548830729
+      Purple Corset_21: 5137035667798202777
+      Purple Corset_22: -550219728400313581
+      Purple Corset_23: 6663496493732308486
+      Purple Corset_24: 8607275466314970873
+      Purple Corset_25: -6497761827833873965
+      Purple Corset_26: 6158940997807288205
+      Purple Corset_27: 2343160210408948878
+      Purple Corset_28: 298683833280348120
+      Purple Corset_29: -8456839344642132060
+      Purple Corset_2_0: 4808597281607955422
+      Purple Corset_2_1: -3734309020578509755
+      Purple Corset_2_2: -3023420655990199546
+      Purple Corset_2_3: 8908164189280776130
+      Purple Corset_2_4: 8821285012079105208
+      Purple Corset_2_5: 7266305738825966739
+      Purple Corset_2_6: 1684050430227071617
+      Purple Corset_3: -941007158361989253
+      Purple Corset_30: 3565021957561745977
+      Purple Corset_31: -2049291017608481151
+      Purple Corset_32: -1219737871157199917
+      Purple Corset_33: -5279715432143499559
+      Purple Corset_34: 8054160088202953944
+      Purple Corset_35: 657163598580236917
+      Purple Corset_36: 3151029159921974156
+      Purple Corset_37: 4265229073937913278
+      Purple Corset_38: -489492898452044880
+      Purple Corset_39: 4369936075868496739
+      Purple Corset_3_0: -8796628902213184464
+      Purple Corset_3_1: -6643335724352300712
+      Purple Corset_3_2: -2019130524045789248
+      Purple Corset_3_3: 5888875103936716056
+      Purple Corset_3_4: 4611821236344514895
+      Purple Corset_3_5: -8067061942718708234
+      Purple Corset_3_6: -2591405593199945089
+      Purple Corset_4: 7611107522422045133
+      Purple Corset_40: 7911080896485870655
+      Purple Corset_41: -2600773776914130601
+      Purple Corset_42: 5105643970756668052
+      Purple Corset_43: 5265240632105468655
+      Purple Corset_44: 8422156261956971592
+      Purple Corset_45: -146088505754147442
+      Purple Corset_46: 1848730986607300583
+      Purple Corset_47: -8823826017932401610
+      Purple Corset_48: 4094747083271591612
+      Purple Corset_49: 7431316159522632912
+      Purple Corset_4_0: -4823830601553971027
+      Purple Corset_4_1: 2753151201421364952
+      Purple Corset_4_2: -4158660917268080893
+      Purple Corset_4_3: 2358879000131169551
+      Purple Corset_4_4: -6872113152301168839
+      Purple Corset_4_5: -5096855266834703870
+      Purple Corset_4_6: 6499286415439240068
+      Purple Corset_5: -6378636350423963794
+      Purple Corset_50: -562973245917369105
+      Purple Corset_51: 5941067239856532616
+      Purple Corset_52: 8626050388720088661
+      Purple Corset_53: 3723167567613878328
+      Purple Corset_54: 3038299821708121551
+      Purple Corset_55: -1367897602178802337
+      Purple Corset_5_0: 5956559512944482875
+      Purple Corset_5_1: -7455058881543421613
+      Purple Corset_5_2: 3541904634788395270
+      Purple Corset_5_3: -7547222984415562296
+      Purple Corset_5_4: -2865702870990341764
+      Purple Corset_5_5: -145037891269652763
+      Purple Corset_5_6: 3015477328023567641
+      Purple Corset_6: 7381536151094298688
+      Purple Corset_60: 3897018101164459592
+      Purple Corset_61: 2604506567805616050
+      Purple Corset_62: -4800180191162866752
+      Purple Corset_63: 3890342447474208677
+      Purple Corset_64: -6715060682567587578
+      Purple Corset_65: 9066956988348131007
+      Purple Corset_66: 1208472380228949621
+      Purple Corset_67: 6578733933483397736
+      Purple Corset_68: 3671709966424440155
+      Purple Corset_69: -1459210328225405230
+      Purple Corset_6_0: 5035299742750483785
+      Purple Corset_6_1: 8309985385959029767
+      Purple Corset_6_2: 3870399934203941663
+      Purple Corset_6_3: 381383308968537629
+      Purple Corset_6_4: -8709499484095655637
+      Purple Corset_6_5: -1590688074480524158
+      Purple Corset_6_6: 3031967528873432936
+      Purple Corset_7: -6859099752482558734
+      Purple Corset_7_0: -6925821794040796099
+      Purple Corset_7_1: -1359366039462413532
+      Purple Corset_7_2: -1228811852283171149
+      Purple Corset_7_3: 7074569419708340422
+      Purple Corset_7_4: 1309391395514296190
+      Purple Corset_7_5: -1548793304621683965
+      Purple Corset_7_6: -3319080607848853125
+      Purple Corset_8: 2248970034597624334
+      Purple Corset_8_0: 4038663224370670862
+      Purple Corset_8_1: 6575698772572658828
+      Purple Corset_8_2: 1264955921930316364
+      Purple Corset_8_3: 5383468198171019759
+      Purple Corset_8_4: 4509257456248383745
+      Purple Corset_8_5: -2256113223281672822
+      Purple Corset_8_6: 6980192166623898368
+      Purple Corset_9: -7239651813915355947
+      Purple Corset_9_0: 3936629049019103724
+      Purple Corset_9_1: -792975421350939373
+      Purple Corset_9_2: 5424135489956645843
+      Purple Corset_9_3: -7793397510555195800
+      Purple Corset_9_4: -876841237050622635
+      Purple Corset_9_5: -1791515065735717667
+      Purple Corset_9_6: -4768459833161192648
+      Purple Corset_EMPTY_18: 1345957957842225156
+      Purple Corset_EMPTY_19: -3088103774643751127
+      Purple Corset_EMPTY_28: -4883025084327096990
+      Purple Corset_EMPTY_29: -3246784817640318432
+      Purple Corset_EMPTY_34: 6823077523857526182
+      Purple Corset_EMPTY_35: -3864280428758795203
+      Purple Corset_EMPTY_36: -6617429485221940503
+      Purple Corset_EMPTY_37: 7481253389523985024
+      Purple Corset_EMPTY_38: -63162492014201080
+      Purple Corset_EMPTY_39: 2088845484645505684
+      Purple Corset_EMPTY_44: -7987903083596372023
+      Purple Corset_EMPTY_45: -4973627263503199313
+      Purple Corset_EMPTY_46: 6968097667250907803
+      Purple Corset_EMPTY_47: 7789920562096445585
+      Purple Corset_EMPTY_48: -5172492332942325337
+      Purple Corset_EMPTY_49: 1897683064634056002
+      Purple Corset_EMPTY_5: -7838556187256715826
+      Purple Corset_EMPTY_56: 1412943178107626112
+      Purple Corset_EMPTY_57: -6090047717828264857
+      Purple Corset_EMPTY_58: 5582545793414908421
+      Purple Corset_EMPTY_59: 5015375188525821113
+      Purple Corset_EMPTY_6: 1801661253325842333
+      Purple Corset_EMPTY_7: -8354886342903794025
+      Purple Corset_EMPTY_8: -1697329576681977005
+      Purple Corset_EMPTY_9: 4415842296333029190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

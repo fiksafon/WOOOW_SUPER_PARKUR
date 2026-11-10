@@ -1,0 +1,2299 @@
+fileFormatVersion: 2
+guid: 3bed673077f706e4483df6fc5180eca1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6641646230105007534
+    second: Purple Corset Long Sleeves_0
+  - first:
+      213: 934667230817789572
+    second: Purple Corset Long Sleeves_1
+  - first:
+      213: 3941036723183193198
+    second: Purple Corset Long Sleeves_2
+  - first:
+      213: -9076637714784754151
+    second: Purple Corset Long Sleeves_3
+  - first:
+      213: 1944695996131790284
+    second: Purple Corset Long Sleeves_4
+  - first:
+      213: -5413938500873210005
+    second: Purple Corset Long Sleeves_5
+  - first:
+      213: -7982913606474823495
+    second: Purple Corset Long Sleeves_6
+  - first:
+      213: 6546356748596662777
+    second: Purple Corset Long Sleeves_7
+  - first:
+      213: -9062591142651410629
+    second: Purple Corset Long Sleeves_8
+  - first:
+      213: 5062261231744904355
+    second: Purple Corset Long Sleeves_9
+  - first:
+      213: 2045848778681733297
+    second: Purple Corset Long Sleeves_10
+  - first:
+      213: 5566497606504585261
+    second: Purple Corset Long Sleeves_11
+  - first:
+      213: 2559590644481046371
+    second: Purple Corset Long Sleeves_12
+  - first:
+      213: -6598225728861123864
+    second: Purple Corset Long Sleeves_13
+  - first:
+      213: 7602519384551550074
+    second: Purple Corset Long Sleeves_14
+  - first:
+      213: 1656670297149860811
+    second: Purple Corset Long Sleeves_15
+  - first:
+      213: 3403885949213491593
+    second: Purple Corset Long Sleeves_16
+  - first:
+      213: 4967395931113973852
+    second: Purple Corset Long Sleeves_17
+  - first:
+      213: -7043136435077205141
+    second: Purple Corset Long Sleeves_18
+  - first:
+      213: 6141942373947158821
+    second: Purple Corset Long Sleeves_19
+  - first:
+      213: 4877089542151838142
+    second: Purple Corset Long Sleeves_20
+  - first:
+      213: -1429026444102009466
+    second: Purple Corset Long Sleeves_21
+  - first:
+      213: 7849668909668346442
+    second: Purple Corset Long Sleeves_22
+  - first:
+      213: 6351490485329421250
+    second: Purple Corset Long Sleeves_23
+  - first:
+      213: 1996185525842001272
+    second: Purple Corset Long Sleeves_24
+  - first:
+      213: -2428642380778958972
+    second: Purple Corset Long Sleeves_25
+  - first:
+      213: 4605048059457476635
+    second: Purple Corset Long Sleeves_26
+  - first:
+      213: -4204395367710224554
+    second: Purple Corset Long Sleeves_27
+  - first:
+      213: 1900495459170970165
+    second: Purple Corset Long Sleeves_28
+  - first:
+      213: 1568944697485209415
+    second: Purple Corset Long Sleeves_29
+  - first:
+      213: -53548598812542170
+    second: Purple Corset Long Sleeves_30
+  - first:
+      213: 764711189926198290
+    second: Purple Corset Long Sleeves_31
+  - first:
+      213: 726421580273357534
+    second: Purple Corset Long Sleeves_32
+  - first:
+      213: 5006030268009600451
+    second: Purple Corset Long Sleeves_33
+  - first:
+      213: -6793804877460538273
+    second: Purple Corset Long Sleeves_34
+  - first:
+      213: -3957511859871214152
+    second: Purple Corset Long Sleeves_35
+  - first:
+      213: 4338640553606899439
+    second: Purple Corset Long Sleeves_36
+  - first:
+      213: -690084786574563830
+    second: Purple Corset Long Sleeves_37
+  - first:
+      213: 7310830398262160036
+    second: Purple Corset Long Sleeves_38
+  - first:
+      213: 129719481635310770
+    second: Purple Corset Long Sleeves_39
+  - first:
+      213: 5796232316622307044
+    second: Purple Corset Long Sleeves_40
+  - first:
+      213: -1124443577328388471
+    second: Purple Corset Long Sleeves_41
+  - first:
+      213: 5100474946411776075
+    second: Purple Corset Long Sleeves_42
+  - first:
+      213: -4205919955719786690
+    second: Purple Corset Long Sleeves_43
+  - first:
+      213: 6518734978652468604
+    second: Purple Corset Long Sleeves_44
+  - first:
+      213: -8900649292276244461
+    second: Purple Corset Long Sleeves_45
+  - first:
+      213: 4527995612269803070
+    second: Purple Corset Long Sleeves_46
+  - first:
+      213: 6119671661472800997
+    second: Purple Corset Long Sleeves_47
+  - first:
+      213: 6264449993743751824
+    second: Purple Corset Long Sleeves_48
+  - first:
+      213: -6272851881766843637
+    second: Purple Corset Long Sleeves_0_6
+  - first:
+      213: 3295290002655304345
+    second: Purple Corset Long Sleeves_1_6
+  - first:
+      213: -1030822135792311761
+    second: Purple Corset Long Sleeves_2_6
+  - first:
+      213: 3064385588718366828
+    second: Purple Corset Long Sleeves_3_6
+  - first:
+      213: 9062671366084984623
+    second: Purple Corset Long Sleeves_4_6
+  - first:
+      213: -2551508667191732257
+    second: Purple Corset Long Sleeves_5_6
+  - first:
+      213: -9214336308811035256
+    second: Purple Corset Long Sleeves_6_6
+  - first:
+      213: -3651079057865131932
+    second: Purple Corset Long Sleeves_7_6
+  - first:
+      213: 428026546246097273
+    second: Purple Corset Long Sleeves_8_6
+  - first:
+      213: -7540529467812066042
+    second: Purple Corset Long Sleeves_9_6
+  - first:
+      213: 2260670528072847217
+    second: Purple Corset Long Sleeves_0_5
+  - first:
+      213: -1859987005498803104
+    second: Purple Corset Long Sleeves_1_5
+  - first:
+      213: 3601458921538410493
+    second: Purple Corset Long Sleeves_2_5
+  - first:
+      213: -2000351197429422905
+    second: Purple Corset Long Sleeves_3_5
+  - first:
+      213: -1538158055628317670
+    second: Purple Corset Long Sleeves_4_5
+  - first:
+      213: 1068665275241127427
+    second: Purple Corset Long Sleeves_5_5
+  - first:
+      213: -8664432739126742438
+    second: Purple Corset Long Sleeves_6_5
+  - first:
+      213: -7669112937834544506
+    second: Purple Corset Long Sleeves_7_5
+  - first:
+      213: 4371709579261142905
+    second: Purple Corset Long Sleeves_8_5
+  - first:
+      213: -762032294325013223
+    second: Purple Corset Long Sleeves_9_5
+  - first:
+      213: 5236816737116096809
+    second: Purple Corset Long Sleeves_0_4
+  - first:
+      213: 2150040113287616611
+    second: Purple Corset Long Sleeves_1_4
+  - first:
+      213: 8749254849547970630
+    second: Purple Corset Long Sleeves_2_4
+  - first:
+      213: 7640623177895138921
+    second: Purple Corset Long Sleeves_3_4
+  - first:
+      213: 5370332161650539627
+    second: Purple Corset Long Sleeves_4_4
+  - first:
+      213: -3469493856629632035
+    second: Purple Corset Long Sleeves_5_4
+  - first:
+      213: -1495045633957849508
+    second: Purple Corset Long Sleeves_6_4
+  - first:
+      213: -7228063463365087771
+    second: Purple Corset Long Sleeves_7_4
+  - first:
+      213: -4108021405223932845
+    second: Purple Corset Long Sleeves_8_4
+  - first:
+      213: 8979550847042841247
+    second: Purple Corset Long Sleeves_9_4
+  - first:
+      213: -6937238236817216075
+    second: Purple Corset Long Sleeves_0_3
+  - first:
+      213: 9067511662882204694
+    second: Purple Corset Long Sleeves_1_3
+  - first:
+      213: 405587799112345058
+    second: Purple Corset Long Sleeves_2_3
+  - first:
+      213: 568680858622715847
+    second: Purple Corset Long Sleeves_3_3
+  - first:
+      213: -327690029391198115
+    second: Purple Corset Long Sleeves_4_3
+  - first:
+      213: 4890011403949688987
+    second: Purple Corset Long Sleeves_5_3
+  - first:
+      213: 3079780117470837856
+    second: Purple Corset Long Sleeves_6_3
+  - first:
+      213: -5607909870885273509
+    second: Purple Corset Long Sleeves_7_3
+  - first:
+      213: -155736229022447222
+    second: Purple Corset Long Sleeves_8_3
+  - first:
+      213: -9209957985239330929
+    second: Purple Corset Long Sleeves_9_3
+  - first:
+      213: 2703589896883529006
+    second: Purple Corset Long Sleeves_0_2
+  - first:
+      213: -4491605103013627580
+    second: Purple Corset Long Sleeves_1_2
+  - first:
+      213: -5671210060679440472
+    second: Purple Corset Long Sleeves_2_2
+  - first:
+      213: 2455221709549144422
+    second: Purple Corset Long Sleeves_3_2
+  - first:
+      213: 3841076312065161814
+    second: Purple Corset Long Sleeves_4_2
+  - first:
+      213: -6507034989431958497
+    second: Purple Corset Long Sleeves_5_2
+  - first:
+      213: -6236239751713325756
+    second: Purple Corset Long Sleeves_6_2
+  - first:
+      213: 7679346401479348827
+    second: Purple Corset Long Sleeves_7_2
+  - first:
+      213: 5965860339892909556
+    second: Purple Corset Long Sleeves_8_2
+  - first:
+      213: 972358223919378226
+    second: Purple Corset Long Sleeves_9_2
+  - first:
+      213: 4961664083630078597
+    second: Purple Corset Long Sleeves_0_1
+  - first:
+      213: 6358339651062310697
+    second: Purple Corset Long Sleeves_1_1
+  - first:
+      213: -7028334896929885889
+    second: Purple Corset Long Sleeves_2_1
+  - first:
+      213: 7407360391235153331
+    second: Purple Corset Long Sleeves_3_1
+  - first:
+      213: 7496531474880775159
+    second: Purple Corset Long Sleeves_4_1
+  - first:
+      213: 6429024088741426447
+    second: Purple Corset Long Sleeves_5_1
+  - first:
+      213: 399803925766568257
+    second: Purple Corset Long Sleeves_6_1
+  - first:
+      213: 3039966431071430518
+    second: Purple Corset Long Sleeves_7_1
+  - first:
+      213: -90821375194982766
+    second: Purple Corset Long Sleeves_8_1
+  - first:
+      213: -4644607211918905864
+    second: Purple Corset Long Sleeves_9_1
+  - first:
+      213: 8674748412520783794
+    second: Purple Corset Long Sleeves_0_0
+  - first:
+      213: -2186845692093804681
+    second: Purple Corset Long Sleeves_1_0
+  - first:
+      213: -5738101415358454514
+    second: Purple Corset Long Sleeves_2_0
+  - first:
+      213: -9020972378161286235
+    second: Purple Corset Long Sleeves_3_0
+  - first:
+      213: -1170551867188168976
+    second: Purple Corset Long Sleeves_4_0
+  - first:
+      213: -2370421550027856774
+    second: Purple Corset Long Sleeves_5_0
+  - first:
+      213: 3878721299141476631
+    second: Purple Corset Long Sleeves_6_0
+  - first:
+      213: 8993473186488907800
+    second: Purple Corset Long Sleeves_7_0
+  - first:
+      213: -6246269048609229094
+    second: Purple Corset Long Sleeves_8_0
+  - first:
+      213: 3314733351626515436
+    second: Purple Corset Long Sleeves_9_0
+  - first:
+      213: -2654729340543900766
+    second: Purple Corset Long Sleeves_EMPTY_5
+  - first:
+      213: 4025350887493377211
+    second: Purple Corset Long Sleeves_EMPTY_6
+  - first:
+      213: 1465855936975453045
+    second: Purple Corset Long Sleeves_EMPTY_7
+  - first:
+      213: -2008410562212903930
+    second: Purple Corset Long Sleeves_EMPTY_8
+  - first:
+      213: 8619660019173373643
+    second: Purple Corset Long Sleeves_EMPTY_9
+  - first:
+      213: 1351447508707337404
+    second: Purple Corset Long Sleeves_EMPTY_18
+  - first:
+      213: 2583446458239621545
+    second: Purple Corset Long Sleeves_EMPTY_19
+  - first:
+      213: 4866044655614983660
+    second: Purple Corset Long Sleeves_EMPTY_28
+  - first:
+      213: -2256927327034913804
+    second: Purple Corset Long Sleeves_EMPTY_29
+  - first:
+      213: -3211408812412201193
+    second: Purple Corset Long Sleeves_EMPTY_34
+  - first:
+      213: -5456396404776920709
+    second: Purple Corset Long Sleeves_EMPTY_35
+  - first:
+      213: -1566929001673431021
+    second: Purple Corset Long Sleeves_EMPTY_36
+  - first:
+      213: -9031683757898828776
+    second: Purple Corset Long Sleeves_EMPTY_37
+  - first:
+      213: 843972810986676036
+    second: Purple Corset Long Sleeves_EMPTY_38
+  - first:
+      213: -4072817797759842862
+    second: Purple Corset Long Sleeves_EMPTY_39
+  - first:
+      213: -5232695982197221756
+    second: Purple Corset Long Sleeves_EMPTY_44
+  - first:
+      213: 6784308441827252220
+    second: Purple Corset Long Sleeves_EMPTY_45
+  - first:
+      213: 231740012270520144
+    second: Purple Corset Long Sleeves_EMPTY_46
+  - first:
+      213: 691450519286626687
+    second: Purple Corset Long Sleeves_EMPTY_47
+  - first:
+      213: -3618086625755326677
+    second: Purple Corset Long Sleeves_EMPTY_48
+  - first:
+      213: 7265295012237810481
+    second: Purple Corset Long Sleeves_EMPTY_49
+  - first:
+      213: -1065886748944350108
+    second: Purple Corset Long Sleeves_50
+  - first:
+      213: -2317957421149958104
+    second: Purple Corset Long Sleeves_51
+  - first:
+      213: 515287943504589911
+    second: Purple Corset Long Sleeves_52
+  - first:
+      213: 2546415561897846429
+    second: Purple Corset Long Sleeves_53
+  - first:
+      213: 9133919414925071291
+    second: Purple Corset Long Sleeves_54
+  - first:
+      213: -4681768132607119243
+    second: Purple Corset Long Sleeves_55
+  - first:
+      213: -6266668534626568561
+    second: Purple Corset Long Sleeves_EMPTY_56
+  - first:
+      213: 8760046959480049565
+    second: Purple Corset Long Sleeves_EMPTY_57
+  - first:
+      213: -1982529199279661655
+    second: Purple Corset Long Sleeves_EMPTY_58
+  - first:
+      213: 8568948380594993765
+    second: Purple Corset Long Sleeves_EMPTY_59
+  - first:
+      213: -8278417383954634742
+    second: Purple Corset Long Sleeves_60
+  - first:
+      213: 5508907281479907830
+    second: Purple Corset Long Sleeves_61
+  - first:
+      213: -291425449820148561
+    second: Purple Corset Long Sleeves_62
+  - first:
+      213: -6140135215892648247
+    second: Purple Corset Long Sleeves_63
+  - first:
+      213: 5560983058536531142
+    second: Purple Corset Long Sleeves_64
+  - first:
+      213: -1970762356453014161
+    second: Purple Corset Long Sleeves_65
+  - first:
+      213: 9202706721261332111
+    second: Purple Corset Long Sleeves_66
+  - first:
+      213: -8983206966284045780
+    second: Purple Corset Long Sleeves_67
+  - first:
+      213: -7009760858314506822
+    second: Purple Corset Long Sleeves_68
+  - first:
+      213: 9057999718882436027
+    second: Purple Corset Long Sleeves_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a57c251f124d3a0800000000000000
+      internalID: -6641646230105007534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486a714f4ea98fc00800000000000000
+      internalID: 934667230817789572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c8a1ce40061b630800000000000000
+      internalID: 3941036723183193198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9166757a61e490280800000000000000
+      internalID: -9076637714784754151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd4f8d74b2fcfa10800000000000000
+      internalID: 1944695996131790284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3e21aeab1882bd0800000000000000
+      internalID: -2654729340543900766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc98511e4becd730800000000000000
+      internalID: 4025350887493377211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bb15f4534c75410800000000000000
+      internalID: 1465855936975453045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60448241c31b024e0800000000000000
+      internalID: -2008410562212903930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc637775e1f2f9770800000000000000
+      internalID: 8619660019173373643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0dd75ff90546c10800000000000000
+      internalID: 2045848778681733297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2894ce941c204d40800000000000000
+      internalID: 5566497606504585261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367b4be312e758320800000000000000
+      internalID: 2559590644481046371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eac36398a46e64a0800000000000000
+      internalID: -6598225728861123864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c6732b913918960800000000000000
+      internalID: 7602519384551550074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbee8b9bdcadf610800000000000000
+      internalID: 1656670297149860811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98140da7c380d3f20800000000000000
+      internalID: 3403885949213491593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58e4cce74cbfe440800000000000000
+      internalID: 4967395931113973852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb46611595e41c210800000000000000
+      internalID: 1351447508707337404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a91d97bdde3ad320800000000000000
+      internalID: 2583446458239621545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb99bb14917eea340800000000000000
+      internalID: 4877089542151838142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68df8a835041b2ce0800000000000000
+      internalID: -1429026444102009466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4aa535b840afec60800000000000000
+      internalID: 7849668909668346442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3655cd1f6052850800000000000000
+      internalID: 6351490485329421250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87db695d820e3bb10800000000000000
+      internalID: 1996185525842001272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f06374f9abb4ed0800000000000000
+      internalID: -2428642380778958972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18909dbfca68ef30800000000000000
+      internalID: 4605048059457476635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f855c50bcf6a5c0800000000000000
+      internalID: -4204395367710224554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced7e1735d9a78340800000000000000
+      internalID: 4866044655614983660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb4634cd88cda0e0800000000000000
+      internalID: -2256927327034913804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bfe8545d1c14ff0800000000000000
+      internalID: -53548598812542170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c315f86cccc9a00800000000000000
+      internalID: 764711189926198290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed21f591494c41a00800000000000000
+      internalID: 726421580273357534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5d093710ef87540800000000000000
+      internalID: 5006030268009600451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7179c9b23b8ce63d0800000000000000
+      internalID: -3211408812412201193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b799d8b016cf644b0800000000000000
+      internalID: -5456396404776920709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3186ffaff56214ae0800000000000000
+      internalID: -1566929001673431021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81476ce597309a280800000000000000
+      internalID: -9031683757898828776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fd2feccc466bb00800000000000000
+      internalID: 843972810986676036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5c2a9aac17a77c0800000000000000
+      internalID: -4072817797759842862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee79eb059a507050800000000000000
+      internalID: 5796232316622307044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9863f53268c2560f0800000000000000
+      internalID: -1124443577328388471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4847a6b0f688c640800000000000000
+      internalID: 5100474946411776075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f689d851291a5c0800000000000000
+      internalID: -4205919955719786690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486558b6abab167b0800000000000000
+      internalID: -5232695982197221756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf71cc14594b62e50800000000000000
+      internalID: 6784308441827252220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05701a7305e473300800000000000000
+      internalID: 231740012270520144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79b6d57596889900800000000000000
+      internalID: 691450519286626687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2713412269f9cdc0800000000000000
+      internalID: -3618086625755326677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b1ad8025383d460800000000000000
+      internalID: 7265295012237810481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464406e26a53531f0800000000000000
+      internalID: -1065886748944350108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82050eba106f4dfd0800000000000000
+      internalID: -2317957421149958104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754f1ad87aba62700800000000000000
+      internalID: 515287943504589911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96a279467fa65320800000000000000
+      internalID: 2546415561897846429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb317a5705332ce70800000000000000
+      internalID: 9133919414925071291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570753f30b4070fb0800000000000000
+      internalID: -4681768132607119243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8637748b225809a0800000000000000
+      internalID: -6266668534626568561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f8c830c40f19970800000000000000
+      internalID: 8760046959480049565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad98187234ac74e0800000000000000
+      internalID: -1982529199279661655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56af504e6250be670800000000000000
+      internalID: 8568948380594993765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0827fe00472d1d80800000000000000
+      internalID: -8278417383954634742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f93c2d2cf1937c40800000000000000
+      internalID: 5508907281479907830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac26f0f816a4fbf0800000000000000
+      internalID: -291425449820148561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce2adf8d8bd9caa0800000000000000
+      internalID: -6140135215892648247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4090ed0a49c2d40800000000000000
+      internalID: 5560983058536531142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6508ee041276a4e0800000000000000
+      internalID: -1970762356453014161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86a1e4410596bf70800000000000000
+      internalID: 9202706721261332111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2233d6fbdc355380800000000000000
+      internalID: -8983206966284045780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdf9bf73a358be90800000000000000
+      internalID: -7009760858314506822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Corset Long Sleeves_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb36393c0ca74bd70800000000000000
+      internalID: 9057999718882436027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Purple Corset Long Sleeves_0: -6641646230105007534
+      Purple Corset Long Sleeves_0_0: 8674748412520783794
+      Purple Corset Long Sleeves_0_1: 4961664083630078597
+      Purple Corset Long Sleeves_0_2: 2703589896883529006
+      Purple Corset Long Sleeves_0_3: -6937238236817216075
+      Purple Corset Long Sleeves_0_4: 5236816737116096809
+      Purple Corset Long Sleeves_0_5: 2260670528072847217
+      Purple Corset Long Sleeves_0_6: -6272851881766843637
+      Purple Corset Long Sleeves_1: 934667230817789572
+      Purple Corset Long Sleeves_10: 2045848778681733297
+      Purple Corset Long Sleeves_11: 5566497606504585261
+      Purple Corset Long Sleeves_12: 2559590644481046371
+      Purple Corset Long Sleeves_13: -6598225728861123864
+      Purple Corset Long Sleeves_14: 7602519384551550074
+      Purple Corset Long Sleeves_15: 1656670297149860811
+      Purple Corset Long Sleeves_16: 3403885949213491593
+      Purple Corset Long Sleeves_17: 4967395931113973852
+      Purple Corset Long Sleeves_18: -7043136435077205141
+      Purple Corset Long Sleeves_19: 6141942373947158821
+      Purple Corset Long Sleeves_1_0: -2186845692093804681
+      Purple Corset Long Sleeves_1_1: 6358339651062310697
+      Purple Corset Long Sleeves_1_2: -4491605103013627580
+      Purple Corset Long Sleeves_1_3: 9067511662882204694
+      Purple Corset Long Sleeves_1_4: 2150040113287616611
+      Purple Corset Long Sleeves_1_5: -1859987005498803104
+      Purple Corset Long Sleeves_1_6: 3295290002655304345
+      Purple Corset Long Sleeves_2: 3941036723183193198
+      Purple Corset Long Sleeves_20: 4877089542151838142
+      Purple Corset Long Sleeves_21: -1429026444102009466
+      Purple Corset Long Sleeves_22: 7849668909668346442
+      Purple Corset Long Sleeves_23: 6351490485329421250
+      Purple Corset Long Sleeves_24: 1996185525842001272
+      Purple Corset Long Sleeves_25: -2428642380778958972
+      Purple Corset Long Sleeves_26: 4605048059457476635
+      Purple Corset Long Sleeves_27: -4204395367710224554
+      Purple Corset Long Sleeves_28: 1900495459170970165
+      Purple Corset Long Sleeves_29: 1568944697485209415
+      Purple Corset Long Sleeves_2_0: -5738101415358454514
+      Purple Corset Long Sleeves_2_1: -7028334896929885889
+      Purple Corset Long Sleeves_2_2: -5671210060679440472
+      Purple Corset Long Sleeves_2_3: 405587799112345058
+      Purple Corset Long Sleeves_2_4: 8749254849547970630
+      Purple Corset Long Sleeves_2_5: 3601458921538410493
+      Purple Corset Long Sleeves_2_6: -1030822135792311761
+      Purple Corset Long Sleeves_3: -9076637714784754151
+      Purple Corset Long Sleeves_30: -53548598812542170
+      Purple Corset Long Sleeves_31: 764711189926198290
+      Purple Corset Long Sleeves_32: 726421580273357534
+      Purple Corset Long Sleeves_33: 5006030268009600451
+      Purple Corset Long Sleeves_34: -6793804877460538273
+      Purple Corset Long Sleeves_35: -3957511859871214152
+      Purple Corset Long Sleeves_36: 4338640553606899439
+      Purple Corset Long Sleeves_37: -690084786574563830
+      Purple Corset Long Sleeves_38: 7310830398262160036
+      Purple Corset Long Sleeves_39: 129719481635310770
+      Purple Corset Long Sleeves_3_0: -9020972378161286235
+      Purple Corset Long Sleeves_3_1: 7407360391235153331
+      Purple Corset Long Sleeves_3_2: 2455221709549144422
+      Purple Corset Long Sleeves_3_3: 568680858622715847
+      Purple Corset Long Sleeves_3_4: 7640623177895138921
+      Purple Corset Long Sleeves_3_5: -2000351197429422905
+      Purple Corset Long Sleeves_3_6: 3064385588718366828
+      Purple Corset Long Sleeves_4: 1944695996131790284
+      Purple Corset Long Sleeves_40: 5796232316622307044
+      Purple Corset Long Sleeves_41: -1124443577328388471
+      Purple Corset Long Sleeves_42: 5100474946411776075
+      Purple Corset Long Sleeves_43: -4205919955719786690
+      Purple Corset Long Sleeves_44: 6518734978652468604
+      Purple Corset Long Sleeves_45: -8900649292276244461
+      Purple Corset Long Sleeves_46: 4527995612269803070
+      Purple Corset Long Sleeves_47: 6119671661472800997
+      Purple Corset Long Sleeves_48: 6264449993743751824
+      Purple Corset Long Sleeves_4_0: -1170551867188168976
+      Purple Corset Long Sleeves_4_1: 7496531474880775159
+      Purple Corset Long Sleeves_4_2: 3841076312065161814
+      Purple Corset Long Sleeves_4_3: -327690029391198115
+      Purple Corset Long Sleeves_4_4: 5370332161650539627
+      Purple Corset Long Sleeves_4_5: -1538158055628317670
+      Purple Corset Long Sleeves_4_6: 9062671366084984623
+      Purple Corset Long Sleeves_5: -5413938500873210005
+      Purple Corset Long Sleeves_50: -1065886748944350108
+      Purple Corset Long Sleeves_51: -2317957421149958104
+      Purple Corset Long Sleeves_52: 515287943504589911
+      Purple Corset Long Sleeves_53: 2546415561897846429
+      Purple Corset Long Sleeves_54: 9133919414925071291
+      Purple Corset Long Sleeves_55: -4681768132607119243
+      Purple Corset Long Sleeves_5_0: -2370421550027856774
+      Purple Corset Long Sleeves_5_1: 6429024088741426447
+      Purple Corset Long Sleeves_5_2: -6507034989431958497
+      Purple Corset Long Sleeves_5_3: 4890011403949688987
+      Purple Corset Long Sleeves_5_4: -3469493856629632035
+      Purple Corset Long Sleeves_5_5: 1068665275241127427
+      Purple Corset Long Sleeves_5_6: -2551508667191732257
+      Purple Corset Long Sleeves_6: -7982913606474823495
+      Purple Corset Long Sleeves_60: -8278417383954634742
+      Purple Corset Long Sleeves_61: 5508907281479907830
+      Purple Corset Long Sleeves_62: -291425449820148561
+      Purple Corset Long Sleeves_63: -6140135215892648247
+      Purple Corset Long Sleeves_64: 5560983058536531142
+      Purple Corset Long Sleeves_65: -1970762356453014161
+      Purple Corset Long Sleeves_66: 9202706721261332111
+      Purple Corset Long Sleeves_67: -8983206966284045780
+      Purple Corset Long Sleeves_68: -7009760858314506822
+      Purple Corset Long Sleeves_69: 9057999718882436027
+      Purple Corset Long Sleeves_6_0: 3878721299141476631
+      Purple Corset Long Sleeves_6_1: 399803925766568257
+      Purple Corset Long Sleeves_6_2: -6236239751713325756
+      Purple Corset Long Sleeves_6_3: 3079780117470837856
+      Purple Corset Long Sleeves_6_4: -1495045633957849508
+      Purple Corset Long Sleeves_6_5: -8664432739126742438
+      Purple Corset Long Sleeves_6_6: -9214336308811035256
+      Purple Corset Long Sleeves_7: 6546356748596662777
+      Purple Corset Long Sleeves_7_0: 8993473186488907800
+      Purple Corset Long Sleeves_7_1: 3039966431071430518
+      Purple Corset Long Sleeves_7_2: 7679346401479348827
+      Purple Corset Long Sleeves_7_3: -5607909870885273509
+      Purple Corset Long Sleeves_7_4: -7228063463365087771
+      Purple Corset Long Sleeves_7_5: -7669112937834544506
+      Purple Corset Long Sleeves_7_6: -3651079057865131932
+      Purple Corset Long Sleeves_8: -9062591142651410629
+      Purple Corset Long Sleeves_8_0: -6246269048609229094
+      Purple Corset Long Sleeves_8_1: -90821375194982766
+      Purple Corset Long Sleeves_8_2: 5965860339892909556
+      Purple Corset Long Sleeves_8_3: -155736229022447222
+      Purple Corset Long Sleeves_8_4: -4108021405223932845
+      Purple Corset Long Sleeves_8_5: 4371709579261142905
+      Purple Corset Long Sleeves_8_6: 428026546246097273
+      Purple Corset Long Sleeves_9: 5062261231744904355
+      Purple Corset Long Sleeves_9_0: 3314733351626515436
+      Purple Corset Long Sleeves_9_1: -4644607211918905864
+      Purple Corset Long Sleeves_9_2: 972358223919378226
+      Purple Corset Long Sleeves_9_3: -9209957985239330929
+      Purple Corset Long Sleeves_9_4: 8979550847042841247
+      Purple Corset Long Sleeves_9_5: -762032294325013223
+      Purple Corset Long Sleeves_9_6: -7540529467812066042
+      Purple Corset Long Sleeves_EMPTY_18: 1351447508707337404
+      Purple Corset Long Sleeves_EMPTY_19: 2583446458239621545
+      Purple Corset Long Sleeves_EMPTY_28: 4866044655614983660
+      Purple Corset Long Sleeves_EMPTY_29: -2256927327034913804
+      Purple Corset Long Sleeves_EMPTY_34: -3211408812412201193
+      Purple Corset Long Sleeves_EMPTY_35: -5456396404776920709
+      Purple Corset Long Sleeves_EMPTY_36: -1566929001673431021
+      Purple Corset Long Sleeves_EMPTY_37: -9031683757898828776
+      Purple Corset Long Sleeves_EMPTY_38: 843972810986676036
+      Purple Corset Long Sleeves_EMPTY_39: -4072817797759842862
+      Purple Corset Long Sleeves_EMPTY_44: -5232695982197221756
+      Purple Corset Long Sleeves_EMPTY_45: 6784308441827252220
+      Purple Corset Long Sleeves_EMPTY_46: 231740012270520144
+      Purple Corset Long Sleeves_EMPTY_47: 691450519286626687
+      Purple Corset Long Sleeves_EMPTY_48: -3618086625755326677
+      Purple Corset Long Sleeves_EMPTY_49: 7265295012237810481
+      Purple Corset Long Sleeves_EMPTY_5: -2654729340543900766
+      Purple Corset Long Sleeves_EMPTY_56: -6266668534626568561
+      Purple Corset Long Sleeves_EMPTY_57: 8760046959480049565
+      Purple Corset Long Sleeves_EMPTY_58: -1982529199279661655
+      Purple Corset Long Sleeves_EMPTY_59: 8568948380594993765
+      Purple Corset Long Sleeves_EMPTY_6: 4025350887493377211
+      Purple Corset Long Sleeves_EMPTY_7: 1465855936975453045
+      Purple Corset Long Sleeves_EMPTY_8: -2008410562212903930
+      Purple Corset Long Sleeves_EMPTY_9: 8619660019173373643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

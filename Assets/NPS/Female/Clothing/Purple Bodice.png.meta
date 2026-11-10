@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: 57e1d6905b8eb8b458e711ef0415d1b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5290517995234168745
+    second: Purple Bodice_0
+  - first:
+      213: -8157819275705807725
+    second: Purple Bodice_1
+  - first:
+      213: 4858425384690885381
+    second: Purple Bodice_2
+  - first:
+      213: 6702413310835369189
+    second: Purple Bodice_3
+  - first:
+      213: 3414541235006801425
+    second: Purple Bodice_4
+  - first:
+      213: 6929074742977808036
+    second: Purple Bodice_5
+  - first:
+      213: -7530259229874576533
+    second: Purple Bodice_6
+  - first:
+      213: 7728200982601217933
+    second: Purple Bodice_7
+  - first:
+      213: -8050065466328021943
+    second: Purple Bodice_8
+  - first:
+      213: -9186964379628208713
+    second: Purple Bodice_9
+  - first:
+      213: 1581501137566790712
+    second: Purple Bodice_10
+  - first:
+      213: 1716044212912524550
+    second: Purple Bodice_11
+  - first:
+      213: 3715102864550111127
+    second: Purple Bodice_12
+  - first:
+      213: 9130410950684007362
+    second: Purple Bodice_13
+  - first:
+      213: -6706148457729068187
+    second: Purple Bodice_14
+  - first:
+      213: -1974118773921626142
+    second: Purple Bodice_15
+  - first:
+      213: -6642476975029169849
+    second: Purple Bodice_16
+  - first:
+      213: 472586758805331713
+    second: Purple Bodice_17
+  - first:
+      213: -672092650914177854
+    second: Purple Bodice_18
+  - first:
+      213: 3158191675932418471
+    second: Purple Bodice_19
+  - first:
+      213: -8612527677672191111
+    second: Purple Bodice_20
+  - first:
+      213: 1761112876381075603
+    second: Purple Bodice_21
+  - first:
+      213: -7700777128988571333
+    second: Purple Bodice_22
+  - first:
+      213: -5823797417087693672
+    second: Purple Bodice_23
+  - first:
+      213: -7468702349422583925
+    second: Purple Bodice_24
+  - first:
+      213: -4412592277540463485
+    second: Purple Bodice_25
+  - first:
+      213: -1042913768958593503
+    second: Purple Bodice_26
+  - first:
+      213: 2086090281844173379
+    second: Purple Bodice_27
+  - first:
+      213: 5826996840613006476
+    second: Purple Bodice_28
+  - first:
+      213: -7469829410948456594
+    second: Purple Bodice_29
+  - first:
+      213: 5242135213010530696
+    second: Purple Bodice_30
+  - first:
+      213: 441985757577651716
+    second: Purple Bodice_31
+  - first:
+      213: 6031436396058644782
+    second: Purple Bodice_32
+  - first:
+      213: -3040628423830108278
+    second: Purple Bodice_33
+  - first:
+      213: -419230398225531499
+    second: Purple Bodice_34
+  - first:
+      213: -7979907341415003173
+    second: Purple Bodice_35
+  - first:
+      213: 5496992762752092116
+    second: Purple Bodice_36
+  - first:
+      213: 2393875212820746282
+    second: Purple Bodice_37
+  - first:
+      213: 1641238135368275413
+    second: Purple Bodice_38
+  - first:
+      213: -735058753519313455
+    second: Purple Bodice_39
+  - first:
+      213: 3719866577392005306
+    second: Purple Bodice_40
+  - first:
+      213: 6224915837262929670
+    second: Purple Bodice_41
+  - first:
+      213: -3406506593814112998
+    second: Purple Bodice_42
+  - first:
+      213: 4852913586266261127
+    second: Purple Bodice_43
+  - first:
+      213: 4843524056693254652
+    second: Purple Bodice_44
+  - first:
+      213: 629490283974607953
+    second: Purple Bodice_45
+  - first:
+      213: 3462497343243469633
+    second: Purple Bodice_46
+  - first:
+      213: 3906025217983471800
+    second: Purple Bodice_47
+  - first:
+      213: -2949393549982498145
+    second: Purple Bodice_48
+  - first:
+      213: -6748625865323394862
+    second: Purple Bodice_49
+  - first:
+      213: -7804173757487824184
+    second: Purple Bodice_50
+  - first:
+      213: -361595966512107600
+    second: Purple Bodice_51
+  - first:
+      213: -8926882842359064933
+    second: Purple Bodice_0_6
+  - first:
+      213: 523976573064625033
+    second: Purple Bodice_1_6
+  - first:
+      213: 3691718023650802389
+    second: Purple Bodice_2_6
+  - first:
+      213: -2429318310858945200
+    second: Purple Bodice_3_6
+  - first:
+      213: 436103683454509691
+    second: Purple Bodice_4_6
+  - first:
+      213: -5723465566381541279
+    second: Purple Bodice_5_6
+  - first:
+      213: -5315616908164005325
+    second: Purple Bodice_6_6
+  - first:
+      213: 2823971928696347291
+    second: Purple Bodice_7_6
+  - first:
+      213: 8859058900891606745
+    second: Purple Bodice_8_6
+  - first:
+      213: 3357285708102980737
+    second: Purple Bodice_9_6
+  - first:
+      213: 979918387335709668
+    second: Purple Bodice_0_5
+  - first:
+      213: 9022258356752021970
+    second: Purple Bodice_1_5
+  - first:
+      213: -9058489121922090319
+    second: Purple Bodice_2_5
+  - first:
+      213: 4773509189313830337
+    second: Purple Bodice_3_5
+  - first:
+      213: 2601643527551318674
+    second: Purple Bodice_4_5
+  - first:
+      213: 7021665822120007232
+    second: Purple Bodice_5_5
+  - first:
+      213: 6190032659845803103
+    second: Purple Bodice_6_5
+  - first:
+      213: -8195154233659584042
+    second: Purple Bodice_7_5
+  - first:
+      213: 6779003542764843906
+    second: Purple Bodice_8_5
+  - first:
+      213: -5471722808835816404
+    second: Purple Bodice_9_5
+  - first:
+      213: 5516467825815914493
+    second: Purple Bodice_0_4
+  - first:
+      213: -1032764935324475585
+    second: Purple Bodice_1_4
+  - first:
+      213: 138894288424069543
+    second: Purple Bodice_2_4
+  - first:
+      213: -5019213715280140094
+    second: Purple Bodice_3_4
+  - first:
+      213: 4510408456956678304
+    second: Purple Bodice_4_4
+  - first:
+      213: 6342854646574467399
+    second: Purple Bodice_5_4
+  - first:
+      213: -2062019180497039050
+    second: Purple Bodice_6_4
+  - first:
+      213: 793919433421756385
+    second: Purple Bodice_7_4
+  - first:
+      213: -671680053599570539
+    second: Purple Bodice_8_4
+  - first:
+      213: -7010983039982070964
+    second: Purple Bodice_9_4
+  - first:
+      213: -5440978214603817916
+    second: Purple Bodice_0_3
+  - first:
+      213: -149180986508477213
+    second: Purple Bodice_1_3
+  - first:
+      213: 3040405411947615642
+    second: Purple Bodice_2_3
+  - first:
+      213: -3246100308077366462
+    second: Purple Bodice_3_3
+  - first:
+      213: 1549802113218495879
+    second: Purple Bodice_4_3
+  - first:
+      213: -8214621308848715537
+    second: Purple Bodice_5_3
+  - first:
+      213: 7035690046975424827
+    second: Purple Bodice_6_3
+  - first:
+      213: 4027873209792460084
+    second: Purple Bodice_7_3
+  - first:
+      213: 2092203061647619807
+    second: Purple Bodice_8_3
+  - first:
+      213: -1274582067614365655
+    second: Purple Bodice_9_3
+  - first:
+      213: 7630969879888313555
+    second: Purple Bodice_0_2
+  - first:
+      213: -2929780227777594515
+    second: Purple Bodice_1_2
+  - first:
+      213: -1001797898156153498
+    second: Purple Bodice_2_2
+  - first:
+      213: 2280554479329834035
+    second: Purple Bodice_3_2
+  - first:
+      213: -8485635627344726567
+    second: Purple Bodice_4_2
+  - first:
+      213: 5305941713796731304
+    second: Purple Bodice_5_2
+  - first:
+      213: -8188779005209676531
+    second: Purple Bodice_6_2
+  - first:
+      213: -8974382572646863569
+    second: Purple Bodice_7_2
+  - first:
+      213: -2685269519768636298
+    second: Purple Bodice_8_2
+  - first:
+      213: 6521039782201691696
+    second: Purple Bodice_9_2
+  - first:
+      213: -107006525153015577
+    second: Purple Bodice_0_1
+  - first:
+      213: -158545682449011007
+    second: Purple Bodice_1_1
+  - first:
+      213: -8041739660247415590
+    second: Purple Bodice_2_1
+  - first:
+      213: -5316477250174441954
+    second: Purple Bodice_3_1
+  - first:
+      213: 886847433973996205
+    second: Purple Bodice_4_1
+  - first:
+      213: -6882128191708723680
+    second: Purple Bodice_5_1
+  - first:
+      213: -7273933871996458348
+    second: Purple Bodice_6_1
+  - first:
+      213: -2278459361588502743
+    second: Purple Bodice_7_1
+  - first:
+      213: -2448053920270164552
+    second: Purple Bodice_8_1
+  - first:
+      213: -6359707230978759843
+    second: Purple Bodice_9_1
+  - first:
+      213: -1609118794854593148
+    second: Purple Bodice_0_0
+  - first:
+      213: 2186490108414508289
+    second: Purple Bodice_1_0
+  - first:
+      213: -782169815114229139
+    second: Purple Bodice_2_0
+  - first:
+      213: -3647629523963759315
+    second: Purple Bodice_3_0
+  - first:
+      213: 7195566325057678707
+    second: Purple Bodice_4_0
+  - first:
+      213: -8454664687372164745
+    second: Purple Bodice_5_0
+  - first:
+      213: -549919892172902783
+    second: Purple Bodice_6_0
+  - first:
+      213: 5576155090157403555
+    second: Purple Bodice_7_0
+  - first:
+      213: -5658218461392239627
+    second: Purple Bodice_8_0
+  - first:
+      213: -5264576732365769426
+    second: Purple Bodice_9_0
+  - first:
+      213: -8676747297860919462
+    second: Purple Bodice_EMPTY_5
+  - first:
+      213: 7316217742397633165
+    second: Purple Bodice_EMPTY_6
+  - first:
+      213: -1020390984487193973
+    second: Purple Bodice_EMPTY_7
+  - first:
+      213: -6768268016681474558
+    second: Purple Bodice_EMPTY_8
+  - first:
+      213: -3738627546287777074
+    second: Purple Bodice_EMPTY_9
+  - first:
+      213: -606310457111382528
+    second: Purple Bodice_EMPTY_18
+  - first:
+      213: -7719435942571679497
+    second: Purple Bodice_EMPTY_19
+  - first:
+      213: 8115892778334103530
+    second: Purple Bodice_EMPTY_28
+  - first:
+      213: -1497169078396214459
+    second: Purple Bodice_EMPTY_29
+  - first:
+      213: 111062751771810621
+    second: Purple Bodice_EMPTY_34
+  - first:
+      213: 7322007285368209104
+    second: Purple Bodice_EMPTY_35
+  - first:
+      213: 8457156753691766084
+    second: Purple Bodice_EMPTY_36
+  - first:
+      213: 7756443706280212845
+    second: Purple Bodice_EMPTY_37
+  - first:
+      213: 1814797258070157437
+    second: Purple Bodice_EMPTY_38
+  - first:
+      213: -1155745200596125936
+    second: Purple Bodice_EMPTY_39
+  - first:
+      213: -889920266972683609
+    second: Purple Bodice_EMPTY_44
+  - first:
+      213: -7307725945587638089
+    second: Purple Bodice_EMPTY_45
+  - first:
+      213: 1031106081694479822
+    second: Purple Bodice_EMPTY_46
+  - first:
+      213: -6045862615500015738
+    second: Purple Bodice_EMPTY_47
+  - first:
+      213: 2959678477730446879
+    second: Purple Bodice_EMPTY_48
+  - first:
+      213: 3339834449263391550
+    second: Purple Bodice_EMPTY_49
+  - first:
+      213: 1357988833657389945
+    second: Purple Bodice_52
+  - first:
+      213: -450755118751652568
+    second: Purple Bodice_53
+  - first:
+      213: 4555526847225717620
+    second: Purple Bodice_54
+  - first:
+      213: 6785446078346432797
+    second: Purple Bodice_55
+  - first:
+      213: 8704185694076056834
+    second: Purple Bodice_EMPTY_56
+  - first:
+      213: -7801605861947646829
+    second: Purple Bodice_EMPTY_57
+  - first:
+      213: 6777105526480585929
+    second: Purple Bodice_EMPTY_58
+  - first:
+      213: -2442987276627083221
+    second: Purple Bodice_EMPTY_59
+  - first:
+      213: 7031845996489728272
+    second: Purple Bodice_60
+  - first:
+      213: 3500146887614046617
+    second: Purple Bodice_61
+  - first:
+      213: 8169150093614302013
+    second: Purple Bodice_62
+  - first:
+      213: 3231804982134841864
+    second: Purple Bodice_63
+  - first:
+      213: -252344709290105318
+    second: Purple Bodice_64
+  - first:
+      213: -1908435753937807199
+    second: Purple Bodice_65
+  - first:
+      213: -7273930480384616207
+    second: Purple Bodice_66
+  - first:
+      213: 3560731239563720809
+    second: Purple Bodice_67
+  - first:
+      213: 1018880338513633514
+    second: Purple Bodice_68
+  - first:
+      213: -3598139389046219370
+    second: Purple Bodice_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Purple Bodice_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af8eb71612bb6940800000000000000
+      internalID: 5290517995234168745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c88b9379a99ce80800000000000000
+      internalID: -8157819275705807725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503ad3675289c6340800000000000000
+      internalID: 4858425384690885381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e421323561c30d50800000000000000
+      internalID: 6702413310835369189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11601878923e26f20800000000000000
+      internalID: 3414541235006801425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f5b21dd40069780800000000000000
+      internalID: -8676747297860919462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d827503164d688560800000000000000
+      internalID: 7316217742397633165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8231ad4ec7d6d1f0800000000000000
+      internalID: -1020390984487193973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206201149184212a0800000000000000
+      internalID: -6768268016681474558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecad6040e0abd1cc0800000000000000
+      internalID: -3738627546287777074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8347b8cc7ee92f510800000000000000
+      internalID: 1581501137566790712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d0481ae1d90d710800000000000000
+      internalID: 1716044212912524550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797ab813f52be8330800000000000000
+      internalID: 3715102864550111127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb5bd8726cb5be70800000000000000
+      internalID: 9130410950684007362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56376062289fee2a0800000000000000
+      internalID: -6706148457729068187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7c8f73f658a94e0800000000000000
+      internalID: -1974118773921626142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741dca2726e21d3a0800000000000000
+      internalID: -6642476975029169849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f152c3727fe8600800000000000000
+      internalID: 472586758805331713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00675440ad3f597f0800000000000000
+      internalID: -606310457111382528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0e1a8d8ed0fd490800000000000000
+      internalID: -7719435942571679497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b012255b72a7880800000000000000
+      internalID: -8612527677672191111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3987f0e84dab07810800000000000000
+      internalID: 1761112876381075603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b390f2c6008512590800000000000000
+      internalID: -7700777128988571333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c86aeda17bd2fa0800000000000000
+      internalID: -5823797417087693672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f9a89b8c6d95890800000000000000
+      internalID: -7468702349422583925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c9196d3b253c2c0800000000000000
+      internalID: -4412592277540463485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126fbd5e373d681f0800000000000000
+      internalID: -1042913768958593503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a67ba0f0843fc10800000000000000
+      internalID: 2086090281844173379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae723c76b7171a070800000000000000
+      internalID: 8115892778334103530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543ae71d7acf83be0800000000000000
+      internalID: -1497169078396214459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8813f04c33ecfb840800000000000000
+      internalID: 5242135213010530696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406a23c64bf322600800000000000000
+      internalID: 441985757577651716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2110704277f3b350800000000000000
+      internalID: 6031436396058644782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8786a7fe848dc5d0800000000000000
+      internalID: -3040628423830108278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bd22bfbf29a8100800000000000000
+      internalID: 111062751771810621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0deb13715defc9560800000000000000
+      internalID: 7322007285368209104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44de791724bdd5570800000000000000
+      internalID: 8457156753691766084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d697529947c64ab60800000000000000
+      internalID: 7756443706280212845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78ef92bd747f2910800000000000000
+      internalID: 1814797258070157437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017fa9b0dd7f5ffe0800000000000000
+      internalID: -1155745200596125936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab07c4581fe9f9330800000000000000
+      internalID: 3719866577392005306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f92c419f7536650800000000000000
+      internalID: 6224915837262929670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a151fa62d48a9b0d0800000000000000
+      internalID: -3406506593814112998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7864113e133095340800000000000000
+      internalID: 4852913586266261127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a22ca07b3e56a3f0800000000000000
+      internalID: -889920266972683609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0e75178fdb59a90800000000000000
+      internalID: -7307725945587638089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5f42da4893f4e00800000000000000
+      internalID: 1031106081694479822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687be4acbf7c81ca0800000000000000
+      internalID: -6045862615500015738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1efd7af4e3e21920800000000000000
+      internalID: 2959678477730446879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33f4f48cb9795e20800000000000000
+      internalID: 3339834449263391550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2438bd05102b390800000000000000
+      internalID: -7804173757487824184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfe4df526a5bfaf0800000000000000
+      internalID: -361595966512107600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973881736ab88d210800000000000000
+      internalID: 1357988833657389945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8256e129b989eb9f0800000000000000
+      internalID: -450755118751652568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473e4a5088b783f30800000000000000
+      internalID: 4555526847225717620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d111866e14fba2e50800000000000000
+      internalID: 6785446078346432797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205b072a5ca7bc870800000000000000
+      internalID: 8704185694076056834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c5101adc02bb390800000000000000
+      internalID: -7801605861947646829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c44637d19d1d0e50800000000000000
+      internalID: 6777105526480585929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2008d1f304c81ed0800000000000000
+      internalID: -2442987276627083221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011e5007da2269160800000000000000
+      internalID: 7031845996489728272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991ace9bc05039030800000000000000
+      internalID: 3500146887614046617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33cab66ab6ae5170800000000000000
+      internalID: 8169150093614302013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8022c77228da9dc20800000000000000
+      internalID: 3231804982134841864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1660d9e2dd7f7cf0800000000000000
+      internalID: -252344709290105318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8d1e90bcfd385e0800000000000000
+      internalID: -1908435753937807199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8d9cb54cecd0b90800000000000000
+      internalID: -7273930480384616207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968f4d262324a6130800000000000000
+      internalID: 3560731239563720809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae02cb5054ac32e00800000000000000
+      internalID: 1018880338513633514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d1f871a47d01ec0800000000000000
+      internalID: -3598139389046219370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Purple Bodice_0: 5290517995234168745
+      Purple Bodice_0_0: -1609118794854593148
+      Purple Bodice_0_1: -107006525153015577
+      Purple Bodice_0_2: 7630969879888313555
+      Purple Bodice_0_3: -5440978214603817916
+      Purple Bodice_0_4: 5516467825815914493
+      Purple Bodice_0_5: 979918387335709668
+      Purple Bodice_0_6: -8926882842359064933
+      Purple Bodice_1: -8157819275705807725
+      Purple Bodice_10: 1581501137566790712
+      Purple Bodice_11: 1716044212912524550
+      Purple Bodice_12: 3715102864550111127
+      Purple Bodice_13: 9130410950684007362
+      Purple Bodice_14: -6706148457729068187
+      Purple Bodice_15: -1974118773921626142
+      Purple Bodice_16: -6642476975029169849
+      Purple Bodice_17: 472586758805331713
+      Purple Bodice_18: -672092650914177854
+      Purple Bodice_19: 3158191675932418471
+      Purple Bodice_1_0: 2186490108414508289
+      Purple Bodice_1_1: -158545682449011007
+      Purple Bodice_1_2: -2929780227777594515
+      Purple Bodice_1_3: -149180986508477213
+      Purple Bodice_1_4: -1032764935324475585
+      Purple Bodice_1_5: 9022258356752021970
+      Purple Bodice_1_6: 523976573064625033
+      Purple Bodice_2: 4858425384690885381
+      Purple Bodice_20: -8612527677672191111
+      Purple Bodice_21: 1761112876381075603
+      Purple Bodice_22: -7700777128988571333
+      Purple Bodice_23: -5823797417087693672
+      Purple Bodice_24: -7468702349422583925
+      Purple Bodice_25: -4412592277540463485
+      Purple Bodice_26: -1042913768958593503
+      Purple Bodice_27: 2086090281844173379
+      Purple Bodice_28: 5826996840613006476
+      Purple Bodice_29: -7469829410948456594
+      Purple Bodice_2_0: -782169815114229139
+      Purple Bodice_2_1: -8041739660247415590
+      Purple Bodice_2_2: -1001797898156153498
+      Purple Bodice_2_3: 3040405411947615642
+      Purple Bodice_2_4: 138894288424069543
+      Purple Bodice_2_5: -9058489121922090319
+      Purple Bodice_2_6: 3691718023650802389
+      Purple Bodice_3: 6702413310835369189
+      Purple Bodice_30: 5242135213010530696
+      Purple Bodice_31: 441985757577651716
+      Purple Bodice_32: 6031436396058644782
+      Purple Bodice_33: -3040628423830108278
+      Purple Bodice_34: -419230398225531499
+      Purple Bodice_35: -7979907341415003173
+      Purple Bodice_36: 5496992762752092116
+      Purple Bodice_37: 2393875212820746282
+      Purple Bodice_38: 1641238135368275413
+      Purple Bodice_39: -735058753519313455
+      Purple Bodice_3_0: -3647629523963759315
+      Purple Bodice_3_1: -5316477250174441954
+      Purple Bodice_3_2: 2280554479329834035
+      Purple Bodice_3_3: -3246100308077366462
+      Purple Bodice_3_4: -5019213715280140094
+      Purple Bodice_3_5: 4773509189313830337
+      Purple Bodice_3_6: -2429318310858945200
+      Purple Bodice_4: 3414541235006801425
+      Purple Bodice_40: 3719866577392005306
+      Purple Bodice_41: 6224915837262929670
+      Purple Bodice_42: -3406506593814112998
+      Purple Bodice_43: 4852913586266261127
+      Purple Bodice_44: 4843524056693254652
+      Purple Bodice_45: 629490283974607953
+      Purple Bodice_46: 3462497343243469633
+      Purple Bodice_47: 3906025217983471800
+      Purple Bodice_48: -2949393549982498145
+      Purple Bodice_49: -6748625865323394862
+      Purple Bodice_4_0: 7195566325057678707
+      Purple Bodice_4_1: 886847433973996205
+      Purple Bodice_4_2: -8485635627344726567
+      Purple Bodice_4_3: 1549802113218495879
+      Purple Bodice_4_4: 4510408456956678304
+      Purple Bodice_4_5: 2601643527551318674
+      Purple Bodice_4_6: 436103683454509691
+      Purple Bodice_5: 6929074742977808036
+      Purple Bodice_50: -7804173757487824184
+      Purple Bodice_51: -361595966512107600
+      Purple Bodice_52: 1357988833657389945
+      Purple Bodice_53: -450755118751652568
+      Purple Bodice_54: 4555526847225717620
+      Purple Bodice_55: 6785446078346432797
+      Purple Bodice_5_0: -8454664687372164745
+      Purple Bodice_5_1: -6882128191708723680
+      Purple Bodice_5_2: 5305941713796731304
+      Purple Bodice_5_3: -8214621308848715537
+      Purple Bodice_5_4: 6342854646574467399
+      Purple Bodice_5_5: 7021665822120007232
+      Purple Bodice_5_6: -5723465566381541279
+      Purple Bodice_6: -7530259229874576533
+      Purple Bodice_60: 7031845996489728272
+      Purple Bodice_61: 3500146887614046617
+      Purple Bodice_62: 8169150093614302013
+      Purple Bodice_63: 3231804982134841864
+      Purple Bodice_64: -252344709290105318
+      Purple Bodice_65: -1908435753937807199
+      Purple Bodice_66: -7273930480384616207
+      Purple Bodice_67: 3560731239563720809
+      Purple Bodice_68: 1018880338513633514
+      Purple Bodice_69: -3598139389046219370
+      Purple Bodice_6_0: -549919892172902783
+      Purple Bodice_6_1: -7273933871996458348
+      Purple Bodice_6_2: -8188779005209676531
+      Purple Bodice_6_3: 7035690046975424827
+      Purple Bodice_6_4: -2062019180497039050
+      Purple Bodice_6_5: 6190032659845803103
+      Purple Bodice_6_6: -5315616908164005325
+      Purple Bodice_7: 7728200982601217933
+      Purple Bodice_7_0: 5576155090157403555
+      Purple Bodice_7_1: -2278459361588502743
+      Purple Bodice_7_2: -8974382572646863569
+      Purple Bodice_7_3: 4027873209792460084
+      Purple Bodice_7_4: 793919433421756385
+      Purple Bodice_7_5: -8195154233659584042
+      Purple Bodice_7_6: 2823971928696347291
+      Purple Bodice_8: -8050065466328021943
+      Purple Bodice_8_0: -5658218461392239627
+      Purple Bodice_8_1: -2448053920270164552
+      Purple Bodice_8_2: -2685269519768636298
+      Purple Bodice_8_3: 2092203061647619807
+      Purple Bodice_8_4: -671680053599570539
+      Purple Bodice_8_5: 6779003542764843906
+      Purple Bodice_8_6: 8859058900891606745
+      Purple Bodice_9: -9186964379628208713
+      Purple Bodice_9_0: -5264576732365769426
+      Purple Bodice_9_1: -6359707230978759843
+      Purple Bodice_9_2: 6521039782201691696
+      Purple Bodice_9_3: -1274582067614365655
+      Purple Bodice_9_4: -7010983039982070964
+      Purple Bodice_9_5: -5471722808835816404
+      Purple Bodice_9_6: 3357285708102980737
+      Purple Bodice_EMPTY_18: -606310457111382528
+      Purple Bodice_EMPTY_19: -7719435942571679497
+      Purple Bodice_EMPTY_28: 8115892778334103530
+      Purple Bodice_EMPTY_29: -1497169078396214459
+      Purple Bodice_EMPTY_34: 111062751771810621
+      Purple Bodice_EMPTY_35: 7322007285368209104
+      Purple Bodice_EMPTY_36: 8457156753691766084
+      Purple Bodice_EMPTY_37: 7756443706280212845
+      Purple Bodice_EMPTY_38: 1814797258070157437
+      Purple Bodice_EMPTY_39: -1155745200596125936
+      Purple Bodice_EMPTY_44: -889920266972683609
+      Purple Bodice_EMPTY_45: -7307725945587638089
+      Purple Bodice_EMPTY_46: 1031106081694479822
+      Purple Bodice_EMPTY_47: -6045862615500015738
+      Purple Bodice_EMPTY_48: 2959678477730446879
+      Purple Bodice_EMPTY_49: 3339834449263391550
+      Purple Bodice_EMPTY_5: -8676747297860919462
+      Purple Bodice_EMPTY_56: 8704185694076056834
+      Purple Bodice_EMPTY_57: -7801605861947646829
+      Purple Bodice_EMPTY_58: 6777105526480585929
+      Purple Bodice_EMPTY_59: -2442987276627083221
+      Purple Bodice_EMPTY_6: 7316217742397633165
+      Purple Bodice_EMPTY_7: -1020390984487193973
+      Purple Bodice_EMPTY_8: -6768268016681474558
+      Purple Bodice_EMPTY_9: -3738627546287777074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

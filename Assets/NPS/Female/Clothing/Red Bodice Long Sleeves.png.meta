@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: 5ec4b0b8b3bdd0f40aa01b66b591e8fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1263473597609670074
+    second: Red Bodice Long Sleeves_0
+  - first:
+      213: 6205234998056331691
+    second: Red Bodice Long Sleeves_1
+  - first:
+      213: 1388638509948528357
+    second: Red Bodice Long Sleeves_2
+  - first:
+      213: -5809390169004614906
+    second: Red Bodice Long Sleeves_3
+  - first:
+      213: 2555779203198262906
+    second: Red Bodice Long Sleeves_4
+  - first:
+      213: -4176100628160977766
+    second: Red Bodice Long Sleeves_5
+  - first:
+      213: -5701528047965082884
+    second: Red Bodice Long Sleeves_6
+  - first:
+      213: 7111088698832373141
+    second: Red Bodice Long Sleeves_7
+  - first:
+      213: 6223582423666707116
+    second: Red Bodice Long Sleeves_8
+  - first:
+      213: -5080657745899671424
+    second: Red Bodice Long Sleeves_9
+  - first:
+      213: 6171261703511056821
+    second: Red Bodice Long Sleeves_10
+  - first:
+      213: -313514555917456897
+    second: Red Bodice Long Sleeves_11
+  - first:
+      213: 1713015120327809278
+    second: Red Bodice Long Sleeves_12
+  - first:
+      213: -5875855891707851029
+    second: Red Bodice Long Sleeves_13
+  - first:
+      213: -1262214700498994559
+    second: Red Bodice Long Sleeves_14
+  - first:
+      213: 7120010309365233592
+    second: Red Bodice Long Sleeves_15
+  - first:
+      213: 5445190836829062265
+    second: Red Bodice Long Sleeves_16
+  - first:
+      213: -2533104214891472997
+    second: Red Bodice Long Sleeves_17
+  - first:
+      213: 4283042292520372331
+    second: Red Bodice Long Sleeves_18
+  - first:
+      213: -6036620484855965554
+    second: Red Bodice Long Sleeves_19
+  - first:
+      213: -5282000330407315027
+    second: Red Bodice Long Sleeves_20
+  - first:
+      213: -880138966346939309
+    second: Red Bodice Long Sleeves_21
+  - first:
+      213: -9155554159738514960
+    second: Red Bodice Long Sleeves_22
+  - first:
+      213: -2734693762003142715
+    second: Red Bodice Long Sleeves_23
+  - first:
+      213: 8479989870033253991
+    second: Red Bodice Long Sleeves_24
+  - first:
+      213: -7093258422433572949
+    second: Red Bodice Long Sleeves_25
+  - first:
+      213: -6698655420174635854
+    second: Red Bodice Long Sleeves_26
+  - first:
+      213: -8895670904174894115
+    second: Red Bodice Long Sleeves_27
+  - first:
+      213: 7632620305722344573
+    second: Red Bodice Long Sleeves_28
+  - first:
+      213: -5789756575550139386
+    second: Red Bodice Long Sleeves_29
+  - first:
+      213: 6802890049321600822
+    second: Red Bodice Long Sleeves_30
+  - first:
+      213: -2389266375800459849
+    second: Red Bodice Long Sleeves_31
+  - first:
+      213: 8898235274369682961
+    second: Red Bodice Long Sleeves_32
+  - first:
+      213: 527710902201873086
+    second: Red Bodice Long Sleeves_33
+  - first:
+      213: 1662799496215672422
+    second: Red Bodice Long Sleeves_34
+  - first:
+      213: -6590336693597928020
+    second: Red Bodice Long Sleeves_35
+  - first:
+      213: 6866413425995984405
+    second: Red Bodice Long Sleeves_36
+  - first:
+      213: -5831681056362769237
+    second: Red Bodice Long Sleeves_37
+  - first:
+      213: -4847086882666904387
+    second: Red Bodice Long Sleeves_38
+  - first:
+      213: -5074036230533167407
+    second: Red Bodice Long Sleeves_39
+  - first:
+      213: 2568842604394799205
+    second: Red Bodice Long Sleeves_40
+  - first:
+      213: -3375904636010199729
+    second: Red Bodice Long Sleeves_41
+  - first:
+      213: -7889800127305678378
+    second: Red Bodice Long Sleeves_42
+  - first:
+      213: -7684782582306829836
+    second: Red Bodice Long Sleeves_43
+  - first:
+      213: -874399489320550216
+    second: Red Bodice Long Sleeves_44
+  - first:
+      213: 3085827183011336212
+    second: Red Bodice Long Sleeves_0_6
+  - first:
+      213: 5030775673440658500
+    second: Red Bodice Long Sleeves_1_6
+  - first:
+      213: 4620548052712260693
+    second: Red Bodice Long Sleeves_2_6
+  - first:
+      213: 3745555337154109012
+    second: Red Bodice Long Sleeves_3_6
+  - first:
+      213: -6911958721378451474
+    second: Red Bodice Long Sleeves_4_6
+  - first:
+      213: -6916018556091417476
+    second: Red Bodice Long Sleeves_5_6
+  - first:
+      213: -6917427847186355917
+    second: Red Bodice Long Sleeves_6_6
+  - first:
+      213: 2475740886526899331
+    second: Red Bodice Long Sleeves_7_6
+  - first:
+      213: 8524197398585462968
+    second: Red Bodice Long Sleeves_8_6
+  - first:
+      213: -926704855000282559
+    second: Red Bodice Long Sleeves_9_6
+  - first:
+      213: 6975611641710857820
+    second: Red Bodice Long Sleeves_0_5
+  - first:
+      213: -1823025129433949727
+    second: Red Bodice Long Sleeves_1_5
+  - first:
+      213: -6629352212194324692
+    second: Red Bodice Long Sleeves_2_5
+  - first:
+      213: -2946323530258147255
+    second: Red Bodice Long Sleeves_3_5
+  - first:
+      213: 990364539673807421
+    second: Red Bodice Long Sleeves_4_5
+  - first:
+      213: -8394714867311635331
+    second: Red Bodice Long Sleeves_5_5
+  - first:
+      213: -3771628926116827371
+    second: Red Bodice Long Sleeves_6_5
+  - first:
+      213: 5945054216062921157
+    second: Red Bodice Long Sleeves_7_5
+  - first:
+      213: -2813454889469780781
+    second: Red Bodice Long Sleeves_8_5
+  - first:
+      213: 2533997454931167770
+    second: Red Bodice Long Sleeves_9_5
+  - first:
+      213: 3277004266518274708
+    second: Red Bodice Long Sleeves_0_4
+  - first:
+      213: 4208724376638724105
+    second: Red Bodice Long Sleeves_1_4
+  - first:
+      213: -1822683200181083177
+    second: Red Bodice Long Sleeves_2_4
+  - first:
+      213: 9008235203094807147
+    second: Red Bodice Long Sleeves_3_4
+  - first:
+      213: 6350769672198556892
+    second: Red Bodice Long Sleeves_4_4
+  - first:
+      213: -7114695529514667772
+    second: Red Bodice Long Sleeves_5_4
+  - first:
+      213: -2060246529569451737
+    second: Red Bodice Long Sleeves_6_4
+  - first:
+      213: -755921570554069840
+    second: Red Bodice Long Sleeves_7_4
+  - first:
+      213: -7677764088428475446
+    second: Red Bodice Long Sleeves_8_4
+  - first:
+      213: -9213401801465068974
+    second: Red Bodice Long Sleeves_9_4
+  - first:
+      213: -1712017490854938338
+    second: Red Bodice Long Sleeves_0_3
+  - first:
+      213: -9010575972214042933
+    second: Red Bodice Long Sleeves_1_3
+  - first:
+      213: 6178078652990260154
+    second: Red Bodice Long Sleeves_2_3
+  - first:
+      213: 4208907476611852456
+    second: Red Bodice Long Sleeves_3_3
+  - first:
+      213: -5178184840323451875
+    second: Red Bodice Long Sleeves_4_3
+  - first:
+      213: 2967281763878935840
+    second: Red Bodice Long Sleeves_5_3
+  - first:
+      213: -771236936538282305
+    second: Red Bodice Long Sleeves_6_3
+  - first:
+      213: 7990082843096116224
+    second: Red Bodice Long Sleeves_7_3
+  - first:
+      213: 646252636302229710
+    second: Red Bodice Long Sleeves_8_3
+  - first:
+      213: 3636586806483230065
+    second: Red Bodice Long Sleeves_9_3
+  - first:
+      213: -3925301086593303187
+    second: Red Bodice Long Sleeves_0_2
+  - first:
+      213: -690260157449058933
+    second: Red Bodice Long Sleeves_1_2
+  - first:
+      213: -169128578081257160
+    second: Red Bodice Long Sleeves_2_2
+  - first:
+      213: -5534789089092100385
+    second: Red Bodice Long Sleeves_3_2
+  - first:
+      213: -2493392830648326819
+    second: Red Bodice Long Sleeves_4_2
+  - first:
+      213: -2457882697770142781
+    second: Red Bodice Long Sleeves_5_2
+  - first:
+      213: 6164892941457384053
+    second: Red Bodice Long Sleeves_6_2
+  - first:
+      213: 1553042166037255208
+    second: Red Bodice Long Sleeves_7_2
+  - first:
+      213: 5796443583834740757
+    second: Red Bodice Long Sleeves_8_2
+  - first:
+      213: 1297364514941992836
+    second: Red Bodice Long Sleeves_9_2
+  - first:
+      213: 1583018832996518388
+    second: Red Bodice Long Sleeves_0_1
+  - first:
+      213: 5315437965077904521
+    second: Red Bodice Long Sleeves_1_1
+  - first:
+      213: 9056899123367423446
+    second: Red Bodice Long Sleeves_2_1
+  - first:
+      213: 9147101235327423578
+    second: Red Bodice Long Sleeves_3_1
+  - first:
+      213: 327489853161443046
+    second: Red Bodice Long Sleeves_4_1
+  - first:
+      213: -180432068182399109
+    second: Red Bodice Long Sleeves_5_1
+  - first:
+      213: -5852976344964519924
+    second: Red Bodice Long Sleeves_6_1
+  - first:
+      213: -6846511632345683684
+    second: Red Bodice Long Sleeves_7_1
+  - first:
+      213: -3643794012199664882
+    second: Red Bodice Long Sleeves_8_1
+  - first:
+      213: 8471277632477501900
+    second: Red Bodice Long Sleeves_9_1
+  - first:
+      213: -7622349435790998785
+    second: Red Bodice Long Sleeves_0_0
+  - first:
+      213: 5654491109672242179
+    second: Red Bodice Long Sleeves_1_0
+  - first:
+      213: 6826979267354723068
+    second: Red Bodice Long Sleeves_2_0
+  - first:
+      213: -6823684439435736958
+    second: Red Bodice Long Sleeves_3_0
+  - first:
+      213: -8557087499542304630
+    second: Red Bodice Long Sleeves_4_0
+  - first:
+      213: -9180688434900559271
+    second: Red Bodice Long Sleeves_5_0
+  - first:
+      213: 5807949783973271276
+    second: Red Bodice Long Sleeves_6_0
+  - first:
+      213: 619441630290745053
+    second: Red Bodice Long Sleeves_7_0
+  - first:
+      213: -6743958390005497874
+    second: Red Bodice Long Sleeves_8_0
+  - first:
+      213: 4371070556580253069
+    second: Red Bodice Long Sleeves_9_0
+  - first:
+      213: 1337279790409408595
+    second: Red Bodice Long Sleeves_EMPTY_5
+  - first:
+      213: -2437287672920476977
+    second: Red Bodice Long Sleeves_EMPTY_6
+  - first:
+      213: 899372169326164843
+    second: Red Bodice Long Sleeves_EMPTY_7
+  - first:
+      213: 3864960964977449979
+    second: Red Bodice Long Sleeves_EMPTY_8
+  - first:
+      213: -5545677817852016659
+    second: Red Bodice Long Sleeves_EMPTY_9
+  - first:
+      213: -3374682382835233632
+    second: Red Bodice Long Sleeves_EMPTY_18
+  - first:
+      213: -4849219140582173912
+    second: Red Bodice Long Sleeves_EMPTY_19
+  - first:
+      213: -1867729805747932577
+    second: Red Bodice Long Sleeves_EMPTY_28
+  - first:
+      213: -1753390439424125676
+    second: Red Bodice Long Sleeves_EMPTY_29
+  - first:
+      213: 2675741292635528545
+    second: Red Bodice Long Sleeves_EMPTY_34
+  - first:
+      213: 6775380336556435474
+    second: Red Bodice Long Sleeves_EMPTY_35
+  - first:
+      213: 3755363071034696890
+    second: Red Bodice Long Sleeves_EMPTY_36
+  - first:
+      213: -1296179479131274107
+    second: Red Bodice Long Sleeves_EMPTY_37
+  - first:
+      213: 5847622537332547119
+    second: Red Bodice Long Sleeves_EMPTY_38
+  - first:
+      213: -4014446197659445613
+    second: Red Bodice Long Sleeves_EMPTY_39
+  - first:
+      213: 3275928653596862080
+    second: Red Bodice Long Sleeves_EMPTY_44
+  - first:
+      213: -7868683163119524698
+    second: Red Bodice Long Sleeves_EMPTY_45
+  - first:
+      213: 143428639763040141
+    second: Red Bodice Long Sleeves_EMPTY_46
+  - first:
+      213: 2471921874623894642
+    second: Red Bodice Long Sleeves_EMPTY_47
+  - first:
+      213: -419489128024350792
+    second: Red Bodice Long Sleeves_EMPTY_48
+  - first:
+      213: -1628483015961607763
+    second: Red Bodice Long Sleeves_EMPTY_49
+  - first:
+      213: 2050080386894733671
+    second: Red Bodice Long Sleeves_50
+  - first:
+      213: -7598966627364370069
+    second: Red Bodice Long Sleeves_51
+  - first:
+      213: 4644385813057983582
+    second: Red Bodice Long Sleeves_52
+  - first:
+      213: -6556745407528340915
+    second: Red Bodice Long Sleeves_53
+  - first:
+      213: 5933280472187938086
+    second: Red Bodice Long Sleeves_54
+  - first:
+      213: 4587152591574415449
+    second: Red Bodice Long Sleeves_55
+  - first:
+      213: 7671440296924660396
+    second: Red Bodice Long Sleeves_EMPTY_56
+  - first:
+      213: 4504657730891625701
+    second: Red Bodice Long Sleeves_EMPTY_57
+  - first:
+      213: 2227514301583484427
+    second: Red Bodice Long Sleeves_EMPTY_58
+  - first:
+      213: 6066496647849320235
+    second: Red Bodice Long Sleeves_EMPTY_59
+  - first:
+      213: 3259108703460538882
+    second: Red Bodice Long Sleeves_60
+  - first:
+      213: -2802186636150326970
+    second: Red Bodice Long Sleeves_61
+  - first:
+      213: 5766803983563278339
+    second: Red Bodice Long Sleeves_62
+  - first:
+      213: 556342148311347159
+    second: Red Bodice Long Sleeves_63
+  - first:
+      213: -240341497736687422
+    second: Red Bodice Long Sleeves_64
+  - first:
+      213: 4584433826046883818
+    second: Red Bodice Long Sleeves_65
+  - first:
+      213: 2278721126337914308
+    second: Red Bodice Long Sleeves_66
+  - first:
+      213: -530422064032230970
+    second: Red Bodice Long Sleeves_67
+  - first:
+      213: 9046771588341385637
+    second: Red Bodice Long Sleeves_68
+  - first:
+      213: 1583587386828469069
+    second: Red Bodice Long Sleeves_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a0467057d377ee0800000000000000
+      internalID: -1263473597609670074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba928fe9a5c6d1650800000000000000
+      internalID: 6205234998056331691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6e8e21e5f654310800000000000000
+      internalID: 1388638509948528357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b55d6bb66e06fa0800000000000000
+      internalID: -5809390169004614906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e96fae4a3f77320800000000000000
+      internalID: 2555779203198262906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35069a852e8fe8210800000000000000
+      internalID: 1337279790409408595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2f22856c30d2ed0800000000000000
+      internalID: -2437287672920476977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bfe8119363b7c00800000000000000
+      internalID: 899372169326164843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb5b3c258913a530800000000000000
+      internalID: 3864960964977449979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7ca2c286bc903b0800000000000000
+      internalID: -5545677817852016659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1afb592d9b4a550800000000000000
+      internalID: 6171261703511056821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff920a62c2c26abf0800000000000000
+      internalID: -313514555917456897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8130e0d2ad5c710800000000000000
+      internalID: 1713015120327809278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee0e57b234c47ea0800000000000000
+      internalID: -5875855891707851029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a3b7ada66bb7ee0800000000000000
+      internalID: -1262214700498994559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b775d627ab5fc260800000000000000
+      internalID: 7120010309365233592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974886b5734319b40800000000000000
+      internalID: 5445190836829062265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b975954332b98dcd0800000000000000
+      internalID: -2533104214891472997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac465da048ba21d0800000000000000
+      internalID: -3374682382835233632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823139742ec14bcb0800000000000000
+      internalID: -4849219140582173912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9739a4fa092b6b0800000000000000
+      internalID: -5282000330407315027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35449e5f54e19c3f0800000000000000
+      internalID: -880138966346939309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f19feaffffe0f080800000000000000
+      internalID: -9155554159738514960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c77352338a6c0ad0800000000000000
+      internalID: -2734693762003142715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7663e3e9bd9fea570800000000000000
+      internalID: 8479989870033253991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba79cc6eb0faf8d90800000000000000
+      internalID: -7093258422433572949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bceeb7e2689903a0800000000000000
+      internalID: -6698655420174635854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3a0e5a17a3c8480800000000000000
+      internalID: -8895670904174894115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f523cf723ad7416e0800000000000000
+      internalID: -1867729805747932577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4151f896fa4baa7e0800000000000000
+      internalID: -1753390439424125676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6378ad3e478b86e50800000000000000
+      internalID: 6802890049321600822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bde0acd3ee97ded0800000000000000
+      internalID: -2389266375800459849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ec7a056d1ec7b70800000000000000
+      internalID: 8898235274369682961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2f7d5054ec25700800000000000000
+      internalID: 527710902201873086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d926a6784222520800000000000000
+      internalID: 2675741292635528545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218ec92c48cf60e50800000000000000
+      internalID: 6775380336556435474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4a4abf0dabd1430800000000000000
+      internalID: 3755363071034696890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584ca3591ab030ee0800000000000000
+      internalID: -1296179479131274107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e564637bde62150800000000000000
+      internalID: 5847622537332547119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3965792e372d948c0800000000000000
+      internalID: -4014446197659445613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56067d60dbc56a320800000000000000
+      internalID: 2568842604394799205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45840fae906621d0800000000000000
+      internalID: -3375904636010199729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d10d1f069cc18290800000000000000
+      internalID: -7889800127305678378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f90e7505fa2a5590800000000000000
+      internalID: -7684782582306829836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0862a2bf0cf667d20800000000000000
+      internalID: 3275928653596862080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4e92c6a52dcc290800000000000000
+      internalID: -7868683163119524698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8781b3869f8df100800000000000000
+      internalID: 143428639763040141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274997129d70e4220800000000000000
+      internalID: 2471921874623894642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf58f05cdcad2af0800000000000000
+      internalID: -419489128024350792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da10ad633577669e0800000000000000
+      internalID: -1628483015961607763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7612bd50049537c10800000000000000
+      internalID: 2050080386894733671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6906eb0d1c0b8690800000000000000
+      internalID: -7598966627364370069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e545f2b3a4c247040800000000000000
+      internalID: 4644385813057983582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42799d7ac2c105a0800000000000000
+      internalID: -6556745407528340915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6252681572f375250800000000000000
+      internalID: 5933280472187938086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9583e4f6af6d8af30800000000000000
+      internalID: 4587152591574415449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2cfc51e4e667a60800000000000000
+      internalID: 7671440296924660396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4338ce652c38e30800000000000000
+      internalID: 4504657730891625701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b066cf59478b9ee10800000000000000
+      internalID: 2227514301583484427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f182e3f86803450800000000000000
+      internalID: 6066496647849320235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a362a291eaa3d20800000000000000
+      internalID: 3259108703460538882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649b9edd912ac19d0800000000000000
+      internalID: -2802186636150326970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308c8915badc70050800000000000000
+      internalID: 5766803983563278339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfecab7c3688b700800000000000000
+      internalID: 556342148311347159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c09e926ea22aacf0800000000000000
+      internalID: -240341497736687422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae73fc1864e2f9f30800000000000000
+      internalID: 4584433826046883818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5ac8d8ac4af9f10800000000000000
+      internalID: 2278721126337914308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1545c61ff83a8f0800000000000000
+      internalID: -530422064032230970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a94f27e3d69c8d70800000000000000
+      internalID: 9046771588341385637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Long Sleeves_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4333be86580af510800000000000000
+      internalID: 1583587386828469069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red Bodice Long Sleeves_0: -1263473597609670074
+      Red Bodice Long Sleeves_0_0: -7622349435790998785
+      Red Bodice Long Sleeves_0_1: 1583018832996518388
+      Red Bodice Long Sleeves_0_2: -3925301086593303187
+      Red Bodice Long Sleeves_0_3: -1712017490854938338
+      Red Bodice Long Sleeves_0_4: 3277004266518274708
+      Red Bodice Long Sleeves_0_5: 6975611641710857820
+      Red Bodice Long Sleeves_0_6: 3085827183011336212
+      Red Bodice Long Sleeves_1: 6205234998056331691
+      Red Bodice Long Sleeves_10: 6171261703511056821
+      Red Bodice Long Sleeves_11: -313514555917456897
+      Red Bodice Long Sleeves_12: 1713015120327809278
+      Red Bodice Long Sleeves_13: -5875855891707851029
+      Red Bodice Long Sleeves_14: -1262214700498994559
+      Red Bodice Long Sleeves_15: 7120010309365233592
+      Red Bodice Long Sleeves_16: 5445190836829062265
+      Red Bodice Long Sleeves_17: -2533104214891472997
+      Red Bodice Long Sleeves_18: 4283042292520372331
+      Red Bodice Long Sleeves_19: -6036620484855965554
+      Red Bodice Long Sleeves_1_0: 5654491109672242179
+      Red Bodice Long Sleeves_1_1: 5315437965077904521
+      Red Bodice Long Sleeves_1_2: -690260157449058933
+      Red Bodice Long Sleeves_1_3: -9010575972214042933
+      Red Bodice Long Sleeves_1_4: 4208724376638724105
+      Red Bodice Long Sleeves_1_5: -1823025129433949727
+      Red Bodice Long Sleeves_1_6: 5030775673440658500
+      Red Bodice Long Sleeves_2: 1388638509948528357
+      Red Bodice Long Sleeves_20: -5282000330407315027
+      Red Bodice Long Sleeves_21: -880138966346939309
+      Red Bodice Long Sleeves_22: -9155554159738514960
+      Red Bodice Long Sleeves_23: -2734693762003142715
+      Red Bodice Long Sleeves_24: 8479989870033253991
+      Red Bodice Long Sleeves_25: -7093258422433572949
+      Red Bodice Long Sleeves_26: -6698655420174635854
+      Red Bodice Long Sleeves_27: -8895670904174894115
+      Red Bodice Long Sleeves_28: 7632620305722344573
+      Red Bodice Long Sleeves_29: -5789756575550139386
+      Red Bodice Long Sleeves_2_0: 6826979267354723068
+      Red Bodice Long Sleeves_2_1: 9056899123367423446
+      Red Bodice Long Sleeves_2_2: -169128578081257160
+      Red Bodice Long Sleeves_2_3: 6178078652990260154
+      Red Bodice Long Sleeves_2_4: -1822683200181083177
+      Red Bodice Long Sleeves_2_5: -6629352212194324692
+      Red Bodice Long Sleeves_2_6: 4620548052712260693
+      Red Bodice Long Sleeves_3: -5809390169004614906
+      Red Bodice Long Sleeves_30: 6802890049321600822
+      Red Bodice Long Sleeves_31: -2389266375800459849
+      Red Bodice Long Sleeves_32: 8898235274369682961
+      Red Bodice Long Sleeves_33: 527710902201873086
+      Red Bodice Long Sleeves_34: 1662799496215672422
+      Red Bodice Long Sleeves_35: -6590336693597928020
+      Red Bodice Long Sleeves_36: 6866413425995984405
+      Red Bodice Long Sleeves_37: -5831681056362769237
+      Red Bodice Long Sleeves_38: -4847086882666904387
+      Red Bodice Long Sleeves_39: -5074036230533167407
+      Red Bodice Long Sleeves_3_0: -6823684439435736958
+      Red Bodice Long Sleeves_3_1: 9147101235327423578
+      Red Bodice Long Sleeves_3_2: -5534789089092100385
+      Red Bodice Long Sleeves_3_3: 4208907476611852456
+      Red Bodice Long Sleeves_3_4: 9008235203094807147
+      Red Bodice Long Sleeves_3_5: -2946323530258147255
+      Red Bodice Long Sleeves_3_6: 3745555337154109012
+      Red Bodice Long Sleeves_4: 2555779203198262906
+      Red Bodice Long Sleeves_40: 2568842604394799205
+      Red Bodice Long Sleeves_41: -3375904636010199729
+      Red Bodice Long Sleeves_42: -7889800127305678378
+      Red Bodice Long Sleeves_43: -7684782582306829836
+      Red Bodice Long Sleeves_44: -874399489320550216
+      Red Bodice Long Sleeves_4_0: -8557087499542304630
+      Red Bodice Long Sleeves_4_1: 327489853161443046
+      Red Bodice Long Sleeves_4_2: -2493392830648326819
+      Red Bodice Long Sleeves_4_3: -5178184840323451875
+      Red Bodice Long Sleeves_4_4: 6350769672198556892
+      Red Bodice Long Sleeves_4_5: 990364539673807421
+      Red Bodice Long Sleeves_4_6: -6911958721378451474
+      Red Bodice Long Sleeves_5: -4176100628160977766
+      Red Bodice Long Sleeves_50: 2050080386894733671
+      Red Bodice Long Sleeves_51: -7598966627364370069
+      Red Bodice Long Sleeves_52: 4644385813057983582
+      Red Bodice Long Sleeves_53: -6556745407528340915
+      Red Bodice Long Sleeves_54: 5933280472187938086
+      Red Bodice Long Sleeves_55: 4587152591574415449
+      Red Bodice Long Sleeves_5_0: -9180688434900559271
+      Red Bodice Long Sleeves_5_1: -180432068182399109
+      Red Bodice Long Sleeves_5_2: -2457882697770142781
+      Red Bodice Long Sleeves_5_3: 2967281763878935840
+      Red Bodice Long Sleeves_5_4: -7114695529514667772
+      Red Bodice Long Sleeves_5_5: -8394714867311635331
+      Red Bodice Long Sleeves_5_6: -6916018556091417476
+      Red Bodice Long Sleeves_6: -5701528047965082884
+      Red Bodice Long Sleeves_60: 3259108703460538882
+      Red Bodice Long Sleeves_61: -2802186636150326970
+      Red Bodice Long Sleeves_62: 5766803983563278339
+      Red Bodice Long Sleeves_63: 556342148311347159
+      Red Bodice Long Sleeves_64: -240341497736687422
+      Red Bodice Long Sleeves_65: 4584433826046883818
+      Red Bodice Long Sleeves_66: 2278721126337914308
+      Red Bodice Long Sleeves_67: -530422064032230970
+      Red Bodice Long Sleeves_68: 9046771588341385637
+      Red Bodice Long Sleeves_69: 1583587386828469069
+      Red Bodice Long Sleeves_6_0: 5807949783973271276
+      Red Bodice Long Sleeves_6_1: -5852976344964519924
+      Red Bodice Long Sleeves_6_2: 6164892941457384053
+      Red Bodice Long Sleeves_6_3: -771236936538282305
+      Red Bodice Long Sleeves_6_4: -2060246529569451737
+      Red Bodice Long Sleeves_6_5: -3771628926116827371
+      Red Bodice Long Sleeves_6_6: -6917427847186355917
+      Red Bodice Long Sleeves_7: 7111088698832373141
+      Red Bodice Long Sleeves_7_0: 619441630290745053
+      Red Bodice Long Sleeves_7_1: -6846511632345683684
+      Red Bodice Long Sleeves_7_2: 1553042166037255208
+      Red Bodice Long Sleeves_7_3: 7990082843096116224
+      Red Bodice Long Sleeves_7_4: -755921570554069840
+      Red Bodice Long Sleeves_7_5: 5945054216062921157
+      Red Bodice Long Sleeves_7_6: 2475740886526899331
+      Red Bodice Long Sleeves_8: 6223582423666707116
+      Red Bodice Long Sleeves_8_0: -6743958390005497874
+      Red Bodice Long Sleeves_8_1: -3643794012199664882
+      Red Bodice Long Sleeves_8_2: 5796443583834740757
+      Red Bodice Long Sleeves_8_3: 646252636302229710
+      Red Bodice Long Sleeves_8_4: -7677764088428475446
+      Red Bodice Long Sleeves_8_5: -2813454889469780781
+      Red Bodice Long Sleeves_8_6: 8524197398585462968
+      Red Bodice Long Sleeves_9: -5080657745899671424
+      Red Bodice Long Sleeves_9_0: 4371070556580253069
+      Red Bodice Long Sleeves_9_1: 8471277632477501900
+      Red Bodice Long Sleeves_9_2: 1297364514941992836
+      Red Bodice Long Sleeves_9_3: 3636586806483230065
+      Red Bodice Long Sleeves_9_4: -9213401801465068974
+      Red Bodice Long Sleeves_9_5: 2533997454931167770
+      Red Bodice Long Sleeves_9_6: -926704855000282559
+      Red Bodice Long Sleeves_EMPTY_18: -3374682382835233632
+      Red Bodice Long Sleeves_EMPTY_19: -4849219140582173912
+      Red Bodice Long Sleeves_EMPTY_28: -1867729805747932577
+      Red Bodice Long Sleeves_EMPTY_29: -1753390439424125676
+      Red Bodice Long Sleeves_EMPTY_34: 2675741292635528545
+      Red Bodice Long Sleeves_EMPTY_35: 6775380336556435474
+      Red Bodice Long Sleeves_EMPTY_36: 3755363071034696890
+      Red Bodice Long Sleeves_EMPTY_37: -1296179479131274107
+      Red Bodice Long Sleeves_EMPTY_38: 5847622537332547119
+      Red Bodice Long Sleeves_EMPTY_39: -4014446197659445613
+      Red Bodice Long Sleeves_EMPTY_44: 3275928653596862080
+      Red Bodice Long Sleeves_EMPTY_45: -7868683163119524698
+      Red Bodice Long Sleeves_EMPTY_46: 143428639763040141
+      Red Bodice Long Sleeves_EMPTY_47: 2471921874623894642
+      Red Bodice Long Sleeves_EMPTY_48: -419489128024350792
+      Red Bodice Long Sleeves_EMPTY_49: -1628483015961607763
+      Red Bodice Long Sleeves_EMPTY_5: 1337279790409408595
+      Red Bodice Long Sleeves_EMPTY_56: 7671440296924660396
+      Red Bodice Long Sleeves_EMPTY_57: 4504657730891625701
+      Red Bodice Long Sleeves_EMPTY_58: 2227514301583484427
+      Red Bodice Long Sleeves_EMPTY_59: 6066496647849320235
+      Red Bodice Long Sleeves_EMPTY_6: -2437287672920476977
+      Red Bodice Long Sleeves_EMPTY_7: 899372169326164843
+      Red Bodice Long Sleeves_EMPTY_8: 3864960964977449979
+      Red Bodice Long Sleeves_EMPTY_9: -5545677817852016659
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1769 @@
+fileFormatVersion: 2
+guid: f1b702b2536f5434692e95711ad7f859
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4213646295307093052
+    second: Female Zombie skin_0
+  - first:
+      213: 3408481763077437809
+    second: Female Zombie skin_1
+  - first:
+      213: -145121536248141691
+    second: Female Zombie skin_2
+  - first:
+      213: -4595679117253704576
+    second: Female Zombie skin_3
+  - first:
+      213: 1114913517082460298
+    second: Female Zombie skin_4
+  - first:
+      213: -5725876961370804835
+    second: Female Zombie skin_5
+  - first:
+      213: 3829782895254767321
+    second: Female Zombie skin_6
+  - first:
+      213: 2571460690968061342
+    second: Female Zombie skin_7
+  - first:
+      213: -4495658283553067237
+    second: Female Zombie skin_8
+  - first:
+      213: 157529059365523988
+    second: Female Zombie skin_9
+  - first:
+      213: -6137050534119062100
+    second: Female Zombie skin_10
+  - first:
+      213: -2137618157025427610
+    second: Female Zombie skin_11
+  - first:
+      213: -5595766891132606292
+    second: Female Zombie skin_12
+  - first:
+      213: 1557084103965541917
+    second: Female Zombie skin_13
+  - first:
+      213: 3934708536541875651
+    second: Female Zombie skin_14
+  - first:
+      213: -7598467051144787325
+    second: Female Zombie skin_15
+  - first:
+      213: 8784319556547161393
+    second: Female Zombie skin_16
+  - first:
+      213: 6868233804661321412
+    second: Female Zombie skin_17
+  - first:
+      213: 6237261763138459444
+    second: Female Zombie skin_18
+  - first:
+      213: -846609629195280235
+    second: Female Zombie skin_19
+  - first:
+      213: -2194351754947001849
+    second: Female Zombie skin_20
+  - first:
+      213: -2531537551695118724
+    second: Female Zombie skin_21
+  - first:
+      213: 9193068709010649040
+    second: Female Zombie skin_22
+  - first:
+      213: -8543173310941129957
+    second: Female Zombie skin_23
+  - first:
+      213: 1998788261911555468
+    second: Female Zombie skin_24
+  - first:
+      213: -7352602530082565497
+    second: Female Zombie skin_25
+  - first:
+      213: 2262721343423082105
+    second: Female Zombie skin_26
+  - first:
+      213: -4003514457663085857
+    second: Female Zombie skin_27
+  - first:
+      213: -3431020541143418320
+    second: Female Zombie skin_28
+  - first:
+      213: 8659784274018994222
+    second: Female Zombie skin_29
+  - first:
+      213: -5902133557141538132
+    second: Female Zombie skin_30
+  - first:
+      213: 6606704456463165681
+    second: Female Zombie skin_31
+  - first:
+      213: 705903957770118183
+    second: Female Zombie skin_32
+  - first:
+      213: 7345598889289756303
+    second: Female Zombie skin_33
+  - first:
+      213: -582706061372916375
+    second: Female Zombie skin_34
+  - first:
+      213: -8238469890530177642
+    second: Female Zombie skin_35
+  - first:
+      213: -1748641106382012115
+    second: Female Zombie skin_36
+  - first:
+      213: 4517849368213306152
+    second: Female Zombie skin_37
+  - first:
+      213: 170988422816858959
+    second: Female Zombie skin_38
+  - first:
+      213: -4531766163097894294
+    second: Female Zombie skin_39
+  - first:
+      213: -7818019402789494683
+    second: Female Zombie skin_40
+  - first:
+      213: 2135366559065832287
+    second: Female Zombie skin_41
+  - first:
+      213: -9157763823311479016
+    second: Female Zombie skin_42
+  - first:
+      213: -2134597388423838909
+    second: Female Zombie skin_43
+  - first:
+      213: 6856221815141344283
+    second: Female Zombie skin_44
+  - first:
+      213: -5634668711018778042
+    second: Female Zombie skin_0_6
+  - first:
+      213: -6230120684990034165
+    second: Female Zombie skin_1_6
+  - first:
+      213: -6612100879195594793
+    second: Female Zombie skin_2_6
+  - first:
+      213: -4834123547385597801
+    second: Female Zombie skin_3_6
+  - first:
+      213: 2714900764778993227
+    second: Female Zombie skin_4_6
+  - first:
+      213: 802181813795049744
+    second: Female Zombie skin_5_6
+  - first:
+      213: 1904135772712506717
+    second: Female Zombie skin_6_6
+  - first:
+      213: 6900462741840256063
+    second: Female Zombie skin_7_6
+  - first:
+      213: 7682008343615594258
+    second: Female Zombie skin_8_6
+  - first:
+      213: -8744554270323522248
+    second: Female Zombie skin_9_6
+  - first:
+      213: -6496198394746479134
+    second: Female Zombie skin_0_5
+  - first:
+      213: 5102591363615757966
+    second: Female Zombie skin_1_5
+  - first:
+      213: -3111720776874919869
+    second: Female Zombie skin_2_5
+  - first:
+      213: -1086255503266203645
+    second: Female Zombie skin_3_5
+  - first:
+      213: 280785032934360368
+    second: Female Zombie skin_4_5
+  - first:
+      213: -5833054113895602450
+    second: Female Zombie skin_5_5
+  - first:
+      213: 2725328207851075785
+    second: Female Zombie skin_6_5
+  - first:
+      213: 4467033405399011545
+    second: Female Zombie skin_7_5
+  - first:
+      213: -6283895776082510039
+    second: Female Zombie skin_8_5
+  - first:
+      213: -7007043038126126743
+    second: Female Zombie skin_9_5
+  - first:
+      213: -67731871690080093
+    second: Female Zombie skin_0_4
+  - first:
+      213: -3624056783998815367
+    second: Female Zombie skin_1_4
+  - first:
+      213: 3375734979998993477
+    second: Female Zombie skin_2_4
+  - first:
+      213: 5781023735924656618
+    second: Female Zombie skin_3_4
+  - first:
+      213: 2526674911943428463
+    second: Female Zombie skin_4_4
+  - first:
+      213: -2075844121353707196
+    second: Female Zombie skin_5_4
+  - first:
+      213: 4242723245134108416
+    second: Female Zombie skin_6_4
+  - first:
+      213: -485115110685903998
+    second: Female Zombie skin_7_4
+  - first:
+      213: -6801101333916680621
+    second: Female Zombie skin_8_4
+  - first:
+      213: 2166980601948127000
+    second: Female Zombie skin_9_4
+  - first:
+      213: -926585207047211551
+    second: Female Zombie skin_0_3
+  - first:
+      213: -3452821224411830857
+    second: Female Zombie skin_1_3
+  - first:
+      213: 5196393769551632654
+    second: Female Zombie skin_2_3
+  - first:
+      213: -6660058631376341192
+    second: Female Zombie skin_3_3
+  - first:
+      213: 6726446328251460801
+    second: Female Zombie skin_4_3
+  - first:
+      213: -1186351648420251045
+    second: Female Zombie skin_5_3
+  - first:
+      213: 4122545047592611633
+    second: Female Zombie skin_6_3
+  - first:
+      213: 6558264609401647358
+    second: Female Zombie skin_7_3
+  - first:
+      213: -1195374884286029352
+    second: Female Zombie skin_8_3
+  - first:
+      213: 3631848965853678972
+    second: Female Zombie skin_9_3
+  - first:
+      213: -765214374882377583
+    second: Female Zombie skin_0_2
+  - first:
+      213: -5988354201907823425
+    second: Female Zombie skin_1_2
+  - first:
+      213: -1142260900108365753
+    second: Female Zombie skin_2_2
+  - first:
+      213: -3381147186429464226
+    second: Female Zombie skin_3_2
+  - first:
+      213: -2968211370348175940
+    second: Female Zombie skin_4_2
+  - first:
+      213: -7622938887439164789
+    second: Female Zombie skin_5_2
+  - first:
+      213: -4277819858166591089
+    second: Female Zombie skin_6_2
+  - first:
+      213: -3799076150874952867
+    second: Female Zombie skin_7_2
+  - first:
+      213: -7303801204308609916
+    second: Female Zombie skin_8_2
+  - first:
+      213: -1524433336761392993
+    second: Female Zombie skin_9_2
+  - first:
+      213: 7669750792777416831
+    second: Female Zombie skin_0_1
+  - first:
+      213: -3404995031139493604
+    second: Female Zombie skin_1_1
+  - first:
+      213: 7105775367729787430
+    second: Female Zombie skin_2_1
+  - first:
+      213: -9220274503507591486
+    second: Female Zombie skin_3_1
+  - first:
+      213: -3946145895001835535
+    second: Female Zombie skin_4_1
+  - first:
+      213: -7141511883583452788
+    second: Female Zombie skin_5_1
+  - first:
+      213: -4915256864979093669
+    second: Female Zombie skin_6_1
+  - first:
+      213: -2861607011462957492
+    second: Female Zombie skin_7_1
+  - first:
+      213: 3489738145062807948
+    second: Female Zombie skin_8_1
+  - first:
+      213: -1871302426399617059
+    second: Female Zombie skin_9_1
+  - first:
+      213: -784879920928920449
+    second: Female Zombie skin_0_0
+  - first:
+      213: -3433836508031469485
+    second: Female Zombie skin_1_0
+  - first:
+      213: -618579439631192376
+    second: Female Zombie skin_2_0
+  - first:
+      213: 6255436490547479361
+    second: Female Zombie skin_3_0
+  - first:
+      213: 3922419096135935794
+    second: Female Zombie skin_4_0
+  - first:
+      213: 5006889937926890310
+    second: Female Zombie skin_5_0
+  - first:
+      213: -2804150638666412212
+    second: Female Zombie skin_6_0
+  - first:
+      213: 5857855463630865668
+    second: Female Zombie skin_7_0
+  - first:
+      213: -1228401875966267503
+    second: Female Zombie skin_8_0
+  - first:
+      213: 1460617169540752382
+    second: Female Zombie skin_9_0
+  - first:
+      213: -7703881673296498710
+    second: Female Zombie skin_45
+  - first:
+      213: 4034792166642329148
+    second: Female Zombie skin_46
+  - first:
+      213: -1731977590543737873
+    second: Female Zombie skin_47
+  - first:
+      213: 3663246818652456672
+    second: Female Zombie skin_48
+  - first:
+      213: 4793551596416075344
+    second: Female Zombie skin_49
+  - first:
+      213: 6955371663494940535
+    second: Female Zombie skin_50
+  - first:
+      213: -4266624998980919793
+    second: Female Zombie skin_51
+  - first:
+      213: -6813657320126249676
+    second: Female Zombie skin_52
+  - first:
+      213: 1239896622312204513
+    second: Female Zombie skin_53
+  - first:
+      213: -750161476493849571
+    second: Female Zombie skin_54
+  - first:
+      213: 5942207447350309499
+    second: Female Zombie skin_55
+  - first:
+      213: -1358929527492127411
+    second: Female Zombie skin_56
+  - first:
+      213: -7016227608424683167
+    second: Female Zombie skin_57
+  - first:
+      213: -2433333270976320511
+    second: Female Zombie skin_58
+  - first:
+      213: -3823629861021621664
+    second: Female Zombie skin_59
+  - first:
+      213: -5238676601512998146
+    second: Female Zombie skin_60
+  - first:
+      213: -6227956359456676203
+    second: Female Zombie skin_61
+  - first:
+      213: 5668302283946962836
+    second: Female Zombie skin_62
+  - first:
+      213: -6820177091856511206
+    second: Female Zombie skin_63
+  - first:
+      213: 8429096709078594492
+    second: Female Zombie skin_64
+  - first:
+      213: -1803650321522614383
+    second: Female Zombie skin_65
+  - first:
+      213: -7510324960486933597
+    second: Female Zombie skin_66
+  - first:
+      213: -875608987110879582
+    second: Female Zombie skin_67
+  - first:
+      213: -2867973099050447763
+    second: Female Zombie skin_68
+  - first:
+      213: 8368654942211780523
+    second: Female Zombie skin_69
+  - first:
+      213: -2742489369545044567
+    second: Female Zombie skin_EMPTY_5
+  - first:
+      213: 4613620772942558796
+    second: Female Zombie skin_EMPTY_6
+  - first:
+      213: -6056292346209407811
+    second: Female Zombie skin_EMPTY_7
+  - first:
+      213: 2446933239901712920
+    second: Female Zombie skin_EMPTY_8
+  - first:
+      213: 1555623321489539941
+    second: Female Zombie skin_EMPTY_9
+  - first:
+      213: 564710513879597114
+    second: Female Zombie skin_EMPTY_18
+  - first:
+      213: -4270303354309910498
+    second: Female Zombie skin_EMPTY_19
+  - first:
+      213: -7447554852487224509
+    second: Female Zombie skin_EMPTY_28
+  - first:
+      213: -659179185940936020
+    second: Female Zombie skin_EMPTY_29
+  - first:
+      213: 8741273272466205470
+    second: Female Zombie skin_EMPTY_34
+  - first:
+      213: -8386800191362438387
+    second: Female Zombie skin_EMPTY_35
+  - first:
+      213: 6868280172290083959
+    second: Female Zombie skin_EMPTY_36
+  - first:
+      213: -2263910426469722066
+    second: Female Zombie skin_EMPTY_37
+  - first:
+      213: 6733974505090104100
+    second: Female Zombie skin_EMPTY_38
+  - first:
+      213: -4070702777041562668
+    second: Female Zombie skin_EMPTY_39
+  - first:
+      213: 4094794857425436694
+    second: Female Zombie skin_EMPTY_44
+  - first:
+      213: -3151664286603380795
+    second: Female Zombie skin_EMPTY_45
+  - first:
+      213: 1068353787507120664
+    second: Female Zombie skin_EMPTY_46
+  - first:
+      213: -714090750688348132
+    second: Female Zombie skin_EMPTY_47
+  - first:
+      213: -4370101699098776239
+    second: Female Zombie skin_EMPTY_48
+  - first:
+      213: -7872769861215031767
+    second: Female Zombie skin_EMPTY_49
+  - first:
+      213: -3416869178171544134
+    second: Female Zombie skin_EMPTY_56
+  - first:
+      213: 3286670033813696841
+    second: Female Zombie skin_EMPTY_57
+  - first:
+      213: -5770468980532987283
+    second: Female Zombie skin_EMPTY_58
+  - first:
+      213: 529961886064849553
+    second: Female Zombie skin_EMPTY_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female Zombie skin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c348be01bf0e97a30800000000000000
+      internalID: 4213646295307093052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179b0a7ca1c5d4f20800000000000000
+      internalID: 3408481763077437809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588abae4bbc6cfdf0800000000000000
+      internalID: -145121536248141691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084896a113ed830c0800000000000000
+      internalID: -4595679117253704576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a804bfccfe7f87f00800000000000000
+      internalID: 1114913517082460298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d66e99d399980b0800000000000000
+      internalID: -5725876961370804835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6078e804f162530800000000000000
+      internalID: 3829782895254767321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95280fcfd9afa320800000000000000
+      internalID: 2571460690968061342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fe6413c963c91c0800000000000000
+      internalID: -4495658283553067237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412984948d7af2200800000000000000
+      internalID: 157529059365523988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca546310e01d4daa0800000000000000
+      internalID: -6137050534119062100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ff21d9c97a552e0800000000000000
+      internalID: -2137618157025427610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_12
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8262009a7d752b0800000000000000
+      internalID: -5595766891132606292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1606462ebfdb9510800000000000000
+      internalID: 1557084103965541917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd86472194ea9630800000000000000
+      internalID: 3934708536541875651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a4103b972dc8690800000000000000
+      internalID: -7598467051144787325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13da289681c28e970800000000000000
+      internalID: 8784319556547161393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceea21814ed05f50800000000000000
+      internalID: 6868233804661321412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4379ef2f6843f8650800000000000000
+      internalID: 6237261763138459444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590e36c170d3044f0800000000000000
+      internalID: -846609629195280235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_20
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702012e74b81c81e0800000000000000
+      internalID: -2194351754947001849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e76a7620c2edcd0800000000000000
+      internalID: -2531537551695118724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfa65ca847549f70800000000000000
+      internalID: 9193068709010649040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1391ca232d807980800000000000000
+      internalID: -8543173310941129957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d657c855f1dbb10800000000000000
+      internalID: 1998788261911555468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7825ac364fe46f990800000000000000
+      internalID: -7352602530082565497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e6d6cc21dc66f10800000000000000
+      internalID: 2262721343423082105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2e9d1ffc8a078c0800000000000000
+      internalID: -4003514457663085857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03af3140ff09260d0800000000000000
+      internalID: -3431020541143418320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e288a6c6aebbd2870800000000000000
+      internalID: 8659784274018994222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa7aa5fcc8671ea0800000000000000
+      internalID: -5902133557141538132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f82a7703babfab50800000000000000
+      internalID: 6606704456463165681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7242e68d8efdbc900800000000000000
+      internalID: 705903957770118183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eae9a654fc0f560800000000000000
+      internalID: 7345598889289756303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d766bacefc9e7f0800000000000000
+      internalID: -582706061372916375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d823aa8431bad80800000000000000
+      internalID: -8238469890530177642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21447ead249bb7e0800000000000000
+      internalID: -1748641106382012115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bb3155010a2be30800000000000000
+      internalID: 4517849368213306152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4304ba80197f5200800000000000000
+      internalID: 170988422816858959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a624a6b5faeeb11c0800000000000000
+      internalID: -4531766163097894294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560ee9956c0d08390800000000000000
+      internalID: -7818019402789494683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bfd52629852ad10800000000000000
+      internalID: 2135366559065832287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_42
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f9896925619e080800000000000000
+      internalID: -9157763823311479016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343458c1cf26062e0800000000000000
+      internalID: -2134597388423838909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Zombie skin_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14a8c04a61362f50800000000000000
+      internalID: 6856221815141344283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Female Zombie skin_0: 4213646295307093052
+      Female Zombie skin_0_0: -784879920928920449
+      Female Zombie skin_0_1: 7669750792777416831
+      Female Zombie skin_0_2: -765214374882377583
+      Female Zombie skin_0_3: -926585207047211551
+      Female Zombie skin_0_4: -67731871690080093
+      Female Zombie skin_0_5: -6496198394746479134
+      Female Zombie skin_0_6: -5634668711018778042
+      Female Zombie skin_1: 3408481763077437809
+      Female Zombie skin_10: -6137050534119062100
+      Female Zombie skin_11: -2137618157025427610
+      Female Zombie skin_12: -5595766891132606292
+      Female Zombie skin_13: 1557084103965541917
+      Female Zombie skin_14: 3934708536541875651
+      Female Zombie skin_15: -7598467051144787325
+      Female Zombie skin_16: 8784319556547161393
+      Female Zombie skin_17: 6868233804661321412
+      Female Zombie skin_18: 6237261763138459444
+      Female Zombie skin_19: -846609629195280235
+      Female Zombie skin_1_0: -3433836508031469485
+      Female Zombie skin_1_1: -3404995031139493604
+      Female Zombie skin_1_2: -5988354201907823425
+      Female Zombie skin_1_3: -3452821224411830857
+      Female Zombie skin_1_4: -3624056783998815367
+      Female Zombie skin_1_5: 5102591363615757966
+      Female Zombie skin_1_6: -6230120684990034165
+      Female Zombie skin_2: -145121536248141691
+      Female Zombie skin_20: -2194351754947001849
+      Female Zombie skin_21: -2531537551695118724
+      Female Zombie skin_22: 9193068709010649040
+      Female Zombie skin_23: -8543173310941129957
+      Female Zombie skin_24: 1998788261911555468
+      Female Zombie skin_25: -7352602530082565497
+      Female Zombie skin_26: 2262721343423082105
+      Female Zombie skin_27: -4003514457663085857
+      Female Zombie skin_28: -3431020541143418320
+      Female Zombie skin_29: 8659784274018994222
+      Female Zombie skin_2_0: -618579439631192376
+      Female Zombie skin_2_1: 7105775367729787430
+      Female Zombie skin_2_2: -1142260900108365753
+      Female Zombie skin_2_3: 5196393769551632654
+      Female Zombie skin_2_4: 3375734979998993477
+      Female Zombie skin_2_5: -3111720776874919869
+      Female Zombie skin_2_6: -6612100879195594793
+      Female Zombie skin_3: -4595679117253704576
+      Female Zombie skin_30: -5902133557141538132
+      Female Zombie skin_31: 6606704456463165681
+      Female Zombie skin_32: 705903957770118183
+      Female Zombie skin_33: 7345598889289756303
+      Female Zombie skin_34: -582706061372916375
+      Female Zombie skin_35: -8238469890530177642
+      Female Zombie skin_36: -1748641106382012115
+      Female Zombie skin_37: 4517849368213306152
+      Female Zombie skin_38: 170988422816858959
+      Female Zombie skin_39: -4531766163097894294
+      Female Zombie skin_3_0: 6255436490547479361
+      Female Zombie skin_3_1: -9220274503507591486
+      Female Zombie skin_3_2: -3381147186429464226
+      Female Zombie skin_3_3: -6660058631376341192
+      Female Zombie skin_3_4: 5781023735924656618
+      Female Zombie skin_3_5: -1086255503266203645
+      Female Zombie skin_3_6: -4834123547385597801
+      Female Zombie skin_4: 1114913517082460298
+      Female Zombie skin_40: -7818019402789494683
+      Female Zombie skin_41: 2135366559065832287
+      Female Zombie skin_42: -9157763823311479016
+      Female Zombie skin_43: -2134597388423838909
+      Female Zombie skin_44: 6856221815141344283
+      Female Zombie skin_45: -7703881673296498710
+      Female Zombie skin_46: 4034792166642329148
+      Female Zombie skin_47: -1731977590543737873
+      Female Zombie skin_48: 3663246818652456672
+      Female Zombie skin_49: 4793551596416075344
+      Female Zombie skin_4_0: 3922419096135935794
+      Female Zombie skin_4_1: -3946145895001835535
+      Female Zombie skin_4_2: -2968211370348175940
+      Female Zombie skin_4_3: 6726446328251460801
+      Female Zombie skin_4_4: 2526674911943428463
+      Female Zombie skin_4_5: 280785032934360368
+      Female Zombie skin_4_6: 2714900764778993227
+      Female Zombie skin_5: -5725876961370804835
+      Female Zombie skin_50: 6955371663494940535
+      Female Zombie skin_51: -4266624998980919793
+      Female Zombie skin_52: -6813657320126249676
+      Female Zombie skin_53: 1239896622312204513
+      Female Zombie skin_54: -750161476493849571
+      Female Zombie skin_55: 5942207447350309499
+      Female Zombie skin_56: -1358929527492127411
+      Female Zombie skin_57: -7016227608424683167
+      Female Zombie skin_58: -2433333270976320511
+      Female Zombie skin_59: -3823629861021621664
+      Female Zombie skin_5_0: 5006889937926890310
+      Female Zombie skin_5_1: -7141511883583452788
+      Female Zombie skin_5_2: -7622938887439164789
+      Female Zombie skin_5_3: -1186351648420251045
+      Female Zombie skin_5_4: -2075844121353707196
+      Female Zombie skin_5_5: -5833054113895602450
+      Female Zombie skin_5_6: 802181813795049744
+      Female Zombie skin_6: 3829782895254767321
+      Female Zombie skin_60: -5238676601512998146
+      Female Zombie skin_61: -6227956359456676203
+      Female Zombie skin_62: 5668302283946962836
+      Female Zombie skin_63: -6820177091856511206
+      Female Zombie skin_64: 8429096709078594492
+      Female Zombie skin_65: -1803650321522614383
+      Female Zombie skin_66: -7510324960486933597
+      Female Zombie skin_67: -875608987110879582
+      Female Zombie skin_68: -2867973099050447763
+      Female Zombie skin_69: 8368654942211780523
+      Female Zombie skin_6_0: -2804150638666412212
+      Female Zombie skin_6_1: -4915256864979093669
+      Female Zombie skin_6_2: -4277819858166591089
+      Female Zombie skin_6_3: 4122545047592611633
+      Female Zombie skin_6_4: 4242723245134108416
+      Female Zombie skin_6_5: 2725328207851075785
+      Female Zombie skin_6_6: 1904135772712506717
+      Female Zombie skin_7: 2571460690968061342
+      Female Zombie skin_7_0: 5857855463630865668
+      Female Zombie skin_7_1: -2861607011462957492
+      Female Zombie skin_7_2: -3799076150874952867
+      Female Zombie skin_7_3: 6558264609401647358
+      Female Zombie skin_7_4: -485115110685903998
+      Female Zombie skin_7_5: 4467033405399011545
+      Female Zombie skin_7_6: 6900462741840256063
+      Female Zombie skin_8: -4495658283553067237
+      Female Zombie skin_8_0: -1228401875966267503
+      Female Zombie skin_8_1: 3489738145062807948
+      Female Zombie skin_8_2: -7303801204308609916
+      Female Zombie skin_8_3: -1195374884286029352
+      Female Zombie skin_8_4: -6801101333916680621
+      Female Zombie skin_8_5: -6283895776082510039
+      Female Zombie skin_8_6: 7682008343615594258
+      Female Zombie skin_9: 157529059365523988
+      Female Zombie skin_9_0: 1460617169540752382
+      Female Zombie skin_9_1: -1871302426399617059
+      Female Zombie skin_9_2: -1524433336761392993
+      Female Zombie skin_9_3: 3631848965853678972
+      Female Zombie skin_9_4: 2166980601948127000
+      Female Zombie skin_9_5: -7007043038126126743
+      Female Zombie skin_9_6: -8744554270323522248
+      Female Zombie skin_EMPTY_18: 564710513879597114
+      Female Zombie skin_EMPTY_19: -4270303354309910498
+      Female Zombie skin_EMPTY_28: -7447554852487224509
+      Female Zombie skin_EMPTY_29: -659179185940936020
+      Female Zombie skin_EMPTY_34: 8741273272466205470
+      Female Zombie skin_EMPTY_35: -8386800191362438387
+      Female Zombie skin_EMPTY_36: 6868280172290083959
+      Female Zombie skin_EMPTY_37: -2263910426469722066
+      Female Zombie skin_EMPTY_38: 6733974505090104100
+      Female Zombie skin_EMPTY_39: -4070702777041562668
+      Female Zombie skin_EMPTY_44: 4094794857425436694
+      Female Zombie skin_EMPTY_45: -3151664286603380795
+      Female Zombie skin_EMPTY_46: 1068353787507120664
+      Female Zombie skin_EMPTY_47: -714090750688348132
+      Female Zombie skin_EMPTY_48: -4370101699098776239
+      Female Zombie skin_EMPTY_49: -7872769861215031767
+      Female Zombie skin_EMPTY_5: -2742489369545044567
+      Female Zombie skin_EMPTY_56: -3416869178171544134
+      Female Zombie skin_EMPTY_57: 3286670033813696841
+      Female Zombie skin_EMPTY_58: -5770468980532987283
+      Female Zombie skin_EMPTY_59: 529961886064849553
+      Female Zombie skin_EMPTY_6: 4613620772942558796
+      Female Zombie skin_EMPTY_7: -6056292346209407811
+      Female Zombie skin_EMPTY_8: 2446933239901712920
+      Female Zombie skin_EMPTY_9: 1555623321489539941
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

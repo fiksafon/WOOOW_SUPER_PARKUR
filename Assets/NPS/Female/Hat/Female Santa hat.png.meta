@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: 3a225e8c2b5603a41a9458a2cb749ec2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9157473318920907483
+    second: Female Santa hat_0
+  - first:
+      213: -3981869573410516171
+    second: Female Santa hat_1
+  - first:
+      213: -167565674243703615
+    second: Female Santa hat_2
+  - first:
+      213: -3185456628972628479
+    second: Female Santa hat_3
+  - first:
+      213: 8514649861736964987
+    second: Female Santa hat_4
+  - first:
+      213: -3569764609600326244
+    second: Female Santa hat_5
+  - first:
+      213: 3290104351475990015
+    second: Female Santa hat_6
+  - first:
+      213: -7139737734571495116
+    second: Female Santa hat_7
+  - first:
+      213: -4977632594976294147
+    second: Female Santa hat_8
+  - first:
+      213: -4717878476166479492
+    second: Female Santa hat_9
+  - first:
+      213: -4013627772108585198
+    second: Female Santa hat_10
+  - first:
+      213: 2872441766485581643
+    second: Female Santa hat_11
+  - first:
+      213: 1019954149038038712
+    second: Female Santa hat_12
+  - first:
+      213: -1228281916162833831
+    second: Female Santa hat_13
+  - first:
+      213: 4366260796751710440
+    second: Female Santa hat_14
+  - first:
+      213: 7573442738549626999
+    second: Female Santa hat_15
+  - first:
+      213: -8157361429842004203
+    second: Female Santa hat_16
+  - first:
+      213: 3889720957625972301
+    second: Female Santa hat_17
+  - first:
+      213: -8216625780869394948
+    second: Female Santa hat_18
+  - first:
+      213: -8938490964094038796
+    second: Female Santa hat_19
+  - first:
+      213: 2885819665751853295
+    second: Female Santa hat_20
+  - first:
+      213: 76392557584177583
+    second: Female Santa hat_21
+  - first:
+      213: -3952438168924486543
+    second: Female Santa hat_22
+  - first:
+      213: 264915642833074325
+    second: Female Santa hat_23
+  - first:
+      213: 5701230287060967592
+    second: Female Santa hat_24
+  - first:
+      213: -7464646792995448886
+    second: Female Santa hat_25
+  - first:
+      213: -8541224704255384072
+    second: Female Santa hat_26
+  - first:
+      213: -2907818682953995255
+    second: Female Santa hat_27
+  - first:
+      213: 5522592357334399804
+    second: Female Santa hat_28
+  - first:
+      213: -234182228760679235
+    second: Female Santa hat_29
+  - first:
+      213: -4452918378198260347
+    second: Female Santa hat_30
+  - first:
+      213: 6504110241373106679
+    second: Female Santa hat_31
+  - first:
+      213: -2970282122761656760
+    second: Female Santa hat_32
+  - first:
+      213: -5669705556046999243
+    second: Female Santa hat_33
+  - first:
+      213: 3484951292787792753
+    second: Female Santa hat_34
+  - first:
+      213: -4162304920874475133
+    second: Female Santa hat_35
+  - first:
+      213: -2951147071043022690
+    second: Female Santa hat_36
+  - first:
+      213: -5658344918241576428
+    second: Female Santa hat_37
+  - first:
+      213: -3175768944532976635
+    second: Female Santa hat_38
+  - first:
+      213: -4951752347424885936
+    second: Female Santa hat_39
+  - first:
+      213: -5990464247155668197
+    second: Female Santa hat_40
+  - first:
+      213: 3065043332613934210
+    second: Female Santa hat_41
+  - first:
+      213: 6065867161587973105
+    second: Female Santa hat_42
+  - first:
+      213: 5978450793990401825
+    second: Female Santa hat_43
+  - first:
+      213: -1450722453574429702
+    second: Female Santa hat_44
+  - first:
+      213: -6302248168367423322
+    second: Female Santa hat_0_6
+  - first:
+      213: -8070949057755517450
+    second: Female Santa hat_1_6
+  - first:
+      213: 5338579876367652354
+    second: Female Santa hat_2_6
+  - first:
+      213: 2466186911210954438
+    second: Female Santa hat_3_6
+  - first:
+      213: 1483141449986546055
+    second: Female Santa hat_4_6
+  - first:
+      213: -6929183651247277000
+    second: Female Santa hat_5_6
+  - first:
+      213: 2282959413111242511
+    second: Female Santa hat_6_6
+  - first:
+      213: -6763600205936546659
+    second: Female Santa hat_7_6
+  - first:
+      213: 7322805870682853414
+    second: Female Santa hat_8_6
+  - first:
+      213: 3773187926933920195
+    second: Female Santa hat_9_6
+  - first:
+      213: 7321637489788294533
+    second: Female Santa hat_0_5
+  - first:
+      213: 3107453675501685003
+    second: Female Santa hat_1_5
+  - first:
+      213: -6936605510914494797
+    second: Female Santa hat_2_5
+  - first:
+      213: 1968106005617845215
+    second: Female Santa hat_3_5
+  - first:
+      213: -451507003482961396
+    second: Female Santa hat_4_5
+  - first:
+      213: 1190296581893228378
+    second: Female Santa hat_5_5
+  - first:
+      213: -107248209696216097
+    second: Female Santa hat_6_5
+  - first:
+      213: 561633304406099121
+    second: Female Santa hat_7_5
+  - first:
+      213: 983363490380810982
+    second: Female Santa hat_8_5
+  - first:
+      213: 4829603123364984435
+    second: Female Santa hat_9_5
+  - first:
+      213: 5696393395079877073
+    second: Female Santa hat_0_4
+  - first:
+      213: -6937022446554510645
+    second: Female Santa hat_1_4
+  - first:
+      213: -5764262286671837172
+    second: Female Santa hat_2_4
+  - first:
+      213: -2651362882299028986
+    second: Female Santa hat_3_4
+  - first:
+      213: 5203586483351838867
+    second: Female Santa hat_4_4
+  - first:
+      213: 4135870756408970935
+    second: Female Santa hat_5_4
+  - first:
+      213: 1041761781358073927
+    second: Female Santa hat_6_4
+  - first:
+      213: -3806437565316618782
+    second: Female Santa hat_7_4
+  - first:
+      213: -326714725669793106
+    second: Female Santa hat_8_4
+  - first:
+      213: -6121795836470358759
+    second: Female Santa hat_9_4
+  - first:
+      213: -8537058591661578332
+    second: Female Santa hat_0_3
+  - first:
+      213: 277932186915468108
+    second: Female Santa hat_1_3
+  - first:
+      213: -357633999194669035
+    second: Female Santa hat_2_3
+  - first:
+      213: -4444209438749891204
+    second: Female Santa hat_3_3
+  - first:
+      213: 5229517397387005245
+    second: Female Santa hat_4_3
+  - first:
+      213: 9134298769943368936
+    second: Female Santa hat_5_3
+  - first:
+      213: -2471059098657255006
+    second: Female Santa hat_6_3
+  - first:
+      213: 3780453383029321032
+    second: Female Santa hat_7_3
+  - first:
+      213: 7864311446887456068
+    second: Female Santa hat_8_3
+  - first:
+      213: -9172376609450951581
+    second: Female Santa hat_9_3
+  - first:
+      213: -7058905797471838847
+    second: Female Santa hat_0_2
+  - first:
+      213: 8458026978746202609
+    second: Female Santa hat_1_2
+  - first:
+      213: -45187943121235805
+    second: Female Santa hat_2_2
+  - first:
+      213: -2558037335475294485
+    second: Female Santa hat_3_2
+  - first:
+      213: -8711546310622940645
+    second: Female Santa hat_4_2
+  - first:
+      213: 7654497891865988543
+    second: Female Santa hat_5_2
+  - first:
+      213: -6130870947770477459
+    second: Female Santa hat_6_2
+  - first:
+      213: -2995787650941174723
+    second: Female Santa hat_7_2
+  - first:
+      213: -5296697277743194750
+    second: Female Santa hat_8_2
+  - first:
+      213: 5931168706091838050
+    second: Female Santa hat_9_2
+  - first:
+      213: 8398161875841883208
+    second: Female Santa hat_0_1
+  - first:
+      213: 938257759254154104
+    second: Female Santa hat_1_1
+  - first:
+      213: 4739683732715031945
+    second: Female Santa hat_2_1
+  - first:
+      213: 2189550999412690385
+    second: Female Santa hat_3_1
+  - first:
+      213: 8745089975703469132
+    second: Female Santa hat_4_1
+  - first:
+      213: -2581656276669163238
+    second: Female Santa hat_5_1
+  - first:
+      213: 2621441404010235661
+    second: Female Santa hat_6_1
+  - first:
+      213: 8372904713482627403
+    second: Female Santa hat_7_1
+  - first:
+      213: 1462293601937438093
+    second: Female Santa hat_8_1
+  - first:
+      213: -3634545847974126337
+    second: Female Santa hat_9_1
+  - first:
+      213: 3276662514740149901
+    second: Female Santa hat_0_0
+  - first:
+      213: 3164682417466956737
+    second: Female Santa hat_1_0
+  - first:
+      213: 6476671820609119022
+    second: Female Santa hat_2_0
+  - first:
+      213: -4590209992110489439
+    second: Female Santa hat_3_0
+  - first:
+      213: 1819240628461555724
+    second: Female Santa hat_4_0
+  - first:
+      213: -1389908958916612540
+    second: Female Santa hat_5_0
+  - first:
+      213: -421926232835707896
+    second: Female Santa hat_6_0
+  - first:
+      213: -7314433806158184729
+    second: Female Santa hat_7_0
+  - first:
+      213: -1776015624300563775
+    second: Female Santa hat_8_0
+  - first:
+      213: -266867367464818301
+    second: Female Santa hat_9_0
+  - first:
+      213: 121020092728079152
+    second: Female Santa hat_EMPTY_5
+  - first:
+      213: 2574717589967483918
+    second: Female Santa hat_EMPTY_6
+  - first:
+      213: 4932250340622346030
+    second: Female Santa hat_EMPTY_7
+  - first:
+      213: -2097184904134074599
+    second: Female Santa hat_EMPTY_8
+  - first:
+      213: 6953836478625268509
+    second: Female Santa hat_EMPTY_9
+  - first:
+      213: 2111443154557093123
+    second: Female Santa hat_EMPTY_18
+  - first:
+      213: 4696317267722449351
+    second: Female Santa hat_EMPTY_19
+  - first:
+      213: 7840228657905904713
+    second: Female Santa hat_EMPTY_28
+  - first:
+      213: 8495766739947635451
+    second: Female Santa hat_EMPTY_29
+  - first:
+      213: 3790704938503683825
+    second: Female Santa hat_EMPTY_34
+  - first:
+      213: -7914013964551732824
+    second: Female Santa hat_EMPTY_35
+  - first:
+      213: 1795582835904561933
+    second: Female Santa hat_EMPTY_36
+  - first:
+      213: -6585687403622800489
+    second: Female Santa hat_EMPTY_37
+  - first:
+      213: 4898953625948428712
+    second: Female Santa hat_EMPTY_38
+  - first:
+      213: 6689323849340361753
+    second: Female Santa hat_EMPTY_39
+  - first:
+      213: 3719808678217258635
+    second: Female Santa hat_EMPTY_44
+  - first:
+      213: -7127820575471498211
+    second: Female Santa hat_EMPTY_45
+  - first:
+      213: 2228550918644635800
+    second: Female Santa hat_EMPTY_46
+  - first:
+      213: -3404570331158304141
+    second: Female Santa hat_EMPTY_47
+  - first:
+      213: -2082566359835134566
+    second: Female Santa hat_EMPTY_48
+  - first:
+      213: -1843495090442219335
+    second: Female Santa hat_EMPTY_49
+  - first:
+      213: -1094166632894891797
+    second: Female Santa hat_50
+  - first:
+      213: -5646280568277070118
+    second: Female Santa hat_51
+  - first:
+      213: 6231833405096859374
+    second: Female Santa hat_52
+  - first:
+      213: -3099478642558171219
+    second: Female Santa hat_53
+  - first:
+      213: 6872814054174631501
+    second: Female Santa hat_54
+  - first:
+      213: 7366025519622333385
+    second: Female Santa hat_55
+  - first:
+      213: 4626137560910615939
+    second: Female Santa hat_EMPTY_56
+  - first:
+      213: 486293941807142189
+    second: Female Santa hat_EMPTY_57
+  - first:
+      213: 6617238415681452251
+    second: Female Santa hat_EMPTY_58
+  - first:
+      213: 1350368134149781014
+    second: Female Santa hat_EMPTY_59
+  - first:
+      213: -6309073616396019591
+    second: Female Santa hat_60
+  - first:
+      213: 2088089835616037857
+    second: Female Santa hat_61
+  - first:
+      213: -2942046624443533549
+    second: Female Santa hat_62
+  - first:
+      213: 8307173827709706067
+    second: Female Santa hat_63
+  - first:
+      213: -3288363632557875662
+    second: Female Santa hat_64
+  - first:
+      213: 1959730750311142000
+    second: Female Santa hat_65
+  - first:
+      213: 199525853622812800
+    second: Female Santa hat_66
+  - first:
+      213: -5785721470910552719
+    second: Female Santa hat_67
+  - first:
+      213: 4012794993226029885
+    second: Female Santa hat_68
+  - first:
+      213: 9100665097451068019
+    second: Female Santa hat_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female Santa hat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdae5661771e51f70800000000000000
+      internalID: 9157473318920907483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5331ee648be8db8c0800000000000000
+      internalID: -3981869573410516171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccb72638efacadf0800000000000000
+      internalID: -167565674243703615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1065caeb21cfac3d0800000000000000
+      internalID: -3185456628972628479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7329abcfec1a2670800000000000000
+      internalID: 8514649861736964987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033fdb51223fda100800000000000000
+      internalID: 121020092728079152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0436f2b10c3bb320800000000000000
+      internalID: 2574717589967483918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2728187d8fd27440800000000000000
+      internalID: 4932250340622346030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fd6c8e07d45e2e0800000000000000
+      internalID: -2097184904134074599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13cc9e2f6df08060800000000000000
+      internalID: 6953836478625268509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21743de6ecabc48c0800000000000000
+      internalID: -4013627772108585198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f5e595196fcd720800000000000000
+      internalID: 2872441766485581643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be199405ea972e00800000000000000
+      internalID: 1019954149038038712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952041fda1444fee0800000000000000
+      internalID: -1228281916162833831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8891baf03189c30800000000000000
+      internalID: 4366260796751710440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778130e7b064a1960800000000000000
+      internalID: 7573442738549626999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5177bc5cffa3bce80800000000000000
+      internalID: -8157361429842004203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4630b23a901bf530800000000000000
+      internalID: 3889720957625972301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3054ec6bc5a5d4d10800000000000000
+      internalID: 2111443154557093123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1312f3cabac2140800000000000000
+      internalID: 4696317267722449351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8c9fe32bd7c0820800000000000000
+      internalID: 2885819665751853295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9d94a50a66f0100800000000000000
+      internalID: 76392557584177583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1748f802d6e1629c0800000000000000
+      internalID: -3952438168924486543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5987282af5b2da300800000000000000
+      internalID: 264915642833074325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0a7fa5db6de1f40800000000000000
+      internalID: 5701230287060967592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac75fb98a4f386890800000000000000
+      internalID: -7464646792995448886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f521148269777980800000000000000
+      internalID: -8541224704255384072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c684b605a55a7d0800000000000000
+      internalID: -2907818682953995255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ca150dc661ecc60800000000000000
+      internalID: 7840228657905904713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2482566d607e570800000000000000
+      internalID: 8495766739947635451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5852fadd35e0432c0800000000000000
+      internalID: -4452918378198260347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f13605edcd334a50800000000000000
+      internalID: 6504110241373106679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8462916852077c6d0800000000000000
+      internalID: -2970282122761656760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53192ce06d82151b0800000000000000
+      internalID: -5669705556046999243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feb4dbbe0a4b9430800000000000000
+      internalID: 3790704938503683825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1c96fba36cb2290800000000000000
+      internalID: -7914013964551732824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0341ea63113be810800000000000000
+      internalID: 1795582835904561933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7936c49e230fa94a0800000000000000
+      internalID: -6585687403622800489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a994c5fd549cf340800000000000000
+      internalID: 4898953625948428712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c1b73799045dc50800000000000000
+      internalID: 6689323849340361753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bcb9c81889ddca0800000000000000
+      internalID: -5990464247155668197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c02a5fba8398a20800000000000000
+      internalID: 3065043332613934210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb782d8b0a4e2450800000000000000
+      internalID: 6065867161587973105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f23fa6259b7f250800000000000000
+      internalID: 5978450793990401825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b861e81d84a6f9330800000000000000
+      internalID: 3719808678217258635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c0d4093f4e41d90800000000000000
+      internalID: -7127820575471498211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8981fadc0476dee10800000000000000
+      internalID: 2228550918644635800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aa97e625980c0d0800000000000000
+      internalID: -3404570331158304141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9539dcfdec3913e0800000000000000
+      internalID: -2082566359835134566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0d3058bf69a66e0800000000000000
+      internalID: -1843495090442219335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8f6399e3db0d0f0800000000000000
+      internalID: -1094166632894891797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade87a90db164a1b0800000000000000
+      internalID: -5646280568277070118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6163ad67beb7650800000000000000
+      internalID: 6231833405096859374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da70969a8907cf4d0800000000000000
+      internalID: -3099478642558171219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d462462f7f3216f50800000000000000
+      internalID: 6872814054174631501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c32d87ee21693660800000000000000
+      internalID: 7366025519622333385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3855b20f997533040800000000000000
+      internalID: 4626137560910615939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25d6d973c9afb600800000000000000
+      internalID: 486293941807142189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8f2c8874725db50800000000000000
+      internalID: 6617238415681452251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6163108d9a87db210800000000000000
+      internalID: 1350368134149781014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9781de809faa178a0800000000000000
+      internalID: -6309073616396019591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb6ffe64a26afc10800000000000000
+      internalID: 2088089835616037857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317f765ce20cb27d0800000000000000
+      internalID: -2942046624443533549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f1f004592094370800000000000000
+      internalID: 8307173827709706067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e131dd2b26d52d0800000000000000
+      internalID: -3288363632557875662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07294bbfbbc523b10800000000000000
+      internalID: 1959730750311142000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080c1bce4bbd4c200800000000000000
+      internalID: 199525853622812800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175a60de9fcf4bfa0800000000000000
+      internalID: -5785721470910552719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b14bf19cf40b730800000000000000
+      internalID: 4012794993226029885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Santa hat_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37add5150be0c4e70800000000000000
+      internalID: 9100665097451068019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Female Santa hat_0: 9157473318920907483
+      Female Santa hat_0_0: 3276662514740149901
+      Female Santa hat_0_1: 8398161875841883208
+      Female Santa hat_0_2: -7058905797471838847
+      Female Santa hat_0_3: -8537058591661578332
+      Female Santa hat_0_4: 5696393395079877073
+      Female Santa hat_0_5: 7321637489788294533
+      Female Santa hat_0_6: -6302248168367423322
+      Female Santa hat_1: -3981869573410516171
+      Female Santa hat_10: -4013627772108585198
+      Female Santa hat_11: 2872441766485581643
+      Female Santa hat_12: 1019954149038038712
+      Female Santa hat_13: -1228281916162833831
+      Female Santa hat_14: 4366260796751710440
+      Female Santa hat_15: 7573442738549626999
+      Female Santa hat_16: -8157361429842004203
+      Female Santa hat_17: 3889720957625972301
+      Female Santa hat_18: -8216625780869394948
+      Female Santa hat_19: -8938490964094038796
+      Female Santa hat_1_0: 3164682417466956737
+      Female Santa hat_1_1: 938257759254154104
+      Female Santa hat_1_2: 8458026978746202609
+      Female Santa hat_1_3: 277932186915468108
+      Female Santa hat_1_4: -6937022446554510645
+      Female Santa hat_1_5: 3107453675501685003
+      Female Santa hat_1_6: -8070949057755517450
+      Female Santa hat_2: -167565674243703615
+      Female Santa hat_20: 2885819665751853295
+      Female Santa hat_21: 76392557584177583
+      Female Santa hat_22: -3952438168924486543
+      Female Santa hat_23: 264915642833074325
+      Female Santa hat_24: 5701230287060967592
+      Female Santa hat_25: -7464646792995448886
+      Female Santa hat_26: -8541224704255384072
+      Female Santa hat_27: -2907818682953995255
+      Female Santa hat_28: 5522592357334399804
+      Female Santa hat_29: -234182228760679235
+      Female Santa hat_2_0: 6476671820609119022
+      Female Santa hat_2_1: 4739683732715031945
+      Female Santa hat_2_2: -45187943121235805
+      Female Santa hat_2_3: -357633999194669035
+      Female Santa hat_2_4: -5764262286671837172
+      Female Santa hat_2_5: -6936605510914494797
+      Female Santa hat_2_6: 5338579876367652354
+      Female Santa hat_3: -3185456628972628479
+      Female Santa hat_30: -4452918378198260347
+      Female Santa hat_31: 6504110241373106679
+      Female Santa hat_32: -2970282122761656760
+      Female Santa hat_33: -5669705556046999243
+      Female Santa hat_34: 3484951292787792753
+      Female Santa hat_35: -4162304920874475133
+      Female Santa hat_36: -2951147071043022690
+      Female Santa hat_37: -5658344918241576428
+      Female Santa hat_38: -3175768944532976635
+      Female Santa hat_39: -4951752347424885936
+      Female Santa hat_3_0: -4590209992110489439
+      Female Santa hat_3_1: 2189550999412690385
+      Female Santa hat_3_2: -2558037335475294485
+      Female Santa hat_3_3: -4444209438749891204
+      Female Santa hat_3_4: -2651362882299028986
+      Female Santa hat_3_5: 1968106005617845215
+      Female Santa hat_3_6: 2466186911210954438
+      Female Santa hat_4: 8514649861736964987
+      Female Santa hat_40: -5990464247155668197
+      Female Santa hat_41: 3065043332613934210
+      Female Santa hat_42: 6065867161587973105
+      Female Santa hat_43: 5978450793990401825
+      Female Santa hat_44: -1450722453574429702
+      Female Santa hat_4_0: 1819240628461555724
+      Female Santa hat_4_1: 8745089975703469132
+      Female Santa hat_4_2: -8711546310622940645
+      Female Santa hat_4_3: 5229517397387005245
+      Female Santa hat_4_4: 5203586483351838867
+      Female Santa hat_4_5: -451507003482961396
+      Female Santa hat_4_6: 1483141449986546055
+      Female Santa hat_5: -3569764609600326244
+      Female Santa hat_50: -1094166632894891797
+      Female Santa hat_51: -5646280568277070118
+      Female Santa hat_52: 6231833405096859374
+      Female Santa hat_53: -3099478642558171219
+      Female Santa hat_54: 6872814054174631501
+      Female Santa hat_55: 7366025519622333385
+      Female Santa hat_5_0: -1389908958916612540
+      Female Santa hat_5_1: -2581656276669163238
+      Female Santa hat_5_2: 7654497891865988543
+      Female Santa hat_5_3: 9134298769943368936
+      Female Santa hat_5_4: 4135870756408970935
+      Female Santa hat_5_5: 1190296581893228378
+      Female Santa hat_5_6: -6929183651247277000
+      Female Santa hat_6: 3290104351475990015
+      Female Santa hat_60: -6309073616396019591
+      Female Santa hat_61: 2088089835616037857
+      Female Santa hat_62: -2942046624443533549
+      Female Santa hat_63: 8307173827709706067
+      Female Santa hat_64: -3288363632557875662
+      Female Santa hat_65: 1959730750311142000
+      Female Santa hat_66: 199525853622812800
+      Female Santa hat_67: -5785721470910552719
+      Female Santa hat_68: 4012794993226029885
+      Female Santa hat_69: 9100665097451068019
+      Female Santa hat_6_0: -421926232835707896
+      Female Santa hat_6_1: 2621441404010235661
+      Female Santa hat_6_2: -6130870947770477459
+      Female Santa hat_6_3: -2471059098657255006
+      Female Santa hat_6_4: 1041761781358073927
+      Female Santa hat_6_5: -107248209696216097
+      Female Santa hat_6_6: 2282959413111242511
+      Female Santa hat_7: -7139737734571495116
+      Female Santa hat_7_0: -7314433806158184729
+      Female Santa hat_7_1: 8372904713482627403
+      Female Santa hat_7_2: -2995787650941174723
+      Female Santa hat_7_3: 3780453383029321032
+      Female Santa hat_7_4: -3806437565316618782
+      Female Santa hat_7_5: 561633304406099121
+      Female Santa hat_7_6: -6763600205936546659
+      Female Santa hat_8: -4977632594976294147
+      Female Santa hat_8_0: -1776015624300563775
+      Female Santa hat_8_1: 1462293601937438093
+      Female Santa hat_8_2: -5296697277743194750
+      Female Santa hat_8_3: 7864311446887456068
+      Female Santa hat_8_4: -326714725669793106
+      Female Santa hat_8_5: 983363490380810982
+      Female Santa hat_8_6: 7322805870682853414
+      Female Santa hat_9: -4717878476166479492
+      Female Santa hat_9_0: -266867367464818301
+      Female Santa hat_9_1: -3634545847974126337
+      Female Santa hat_9_2: 5931168706091838050
+      Female Santa hat_9_3: -9172376609450951581
+      Female Santa hat_9_4: -6121795836470358759
+      Female Santa hat_9_5: 4829603123364984435
+      Female Santa hat_9_6: 3773187926933920195
+      Female Santa hat_EMPTY_18: 2111443154557093123
+      Female Santa hat_EMPTY_19: 4696317267722449351
+      Female Santa hat_EMPTY_28: 7840228657905904713
+      Female Santa hat_EMPTY_29: 8495766739947635451
+      Female Santa hat_EMPTY_34: 3790704938503683825
+      Female Santa hat_EMPTY_35: -7914013964551732824
+      Female Santa hat_EMPTY_36: 1795582835904561933
+      Female Santa hat_EMPTY_37: -6585687403622800489
+      Female Santa hat_EMPTY_38: 4898953625948428712
+      Female Santa hat_EMPTY_39: 6689323849340361753
+      Female Santa hat_EMPTY_44: 3719808678217258635
+      Female Santa hat_EMPTY_45: -7127820575471498211
+      Female Santa hat_EMPTY_46: 2228550918644635800
+      Female Santa hat_EMPTY_47: -3404570331158304141
+      Female Santa hat_EMPTY_48: -2082566359835134566
+      Female Santa hat_EMPTY_49: -1843495090442219335
+      Female Santa hat_EMPTY_5: 121020092728079152
+      Female Santa hat_EMPTY_56: 4626137560910615939
+      Female Santa hat_EMPTY_57: 486293941807142189
+      Female Santa hat_EMPTY_58: 6617238415681452251
+      Female Santa hat_EMPTY_59: 1350368134149781014
+      Female Santa hat_EMPTY_6: 2574717589967483918
+      Female Santa hat_EMPTY_7: 4932250340622346030
+      Female Santa hat_EMPTY_8: -2097184904134074599
+      Female Santa hat_EMPTY_9: 6953836478625268509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: 8ac13e5b18d74c243ac05c6cf81bbf03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8666471141821985070
+    second: Fancy Blue Dress_0
+  - first:
+      213: -4337390201967332526
+    second: Fancy Blue Dress_1
+  - first:
+      213: 7629756076450395346
+    second: Fancy Blue Dress_2
+  - first:
+      213: 222794010325266655
+    second: Fancy Blue Dress_3
+  - first:
+      213: -1321271582356169825
+    second: Fancy Blue Dress_4
+  - first:
+      213: 3073956757300409764
+    second: Fancy Blue Dress_5
+  - first:
+      213: -3005227571023157408
+    second: Fancy Blue Dress_6
+  - first:
+      213: 2068325682888732109
+    second: Fancy Blue Dress_7
+  - first:
+      213: -1014327169042099468
+    second: Fancy Blue Dress_8
+  - first:
+      213: 4656685115773036194
+    second: Fancy Blue Dress_9
+  - first:
+      213: 6029311261936374316
+    second: Fancy Blue Dress_10
+  - first:
+      213: 6796918735197406350
+    second: Fancy Blue Dress_11
+  - first:
+      213: -4622216825121056588
+    second: Fancy Blue Dress_12
+  - first:
+      213: -378106269967042401
+    second: Fancy Blue Dress_13
+  - first:
+      213: 8340662085376259071
+    second: Fancy Blue Dress_14
+  - first:
+      213: 1818843909376789733
+    second: Fancy Blue Dress_15
+  - first:
+      213: -8008158332199105123
+    second: Fancy Blue Dress_16
+  - first:
+      213: 649916884461512721
+    second: Fancy Blue Dress_17
+  - first:
+      213: -7146283912453379663
+    second: Fancy Blue Dress_18
+  - first:
+      213: 6859015171552165063
+    second: Fancy Blue Dress_19
+  - first:
+      213: 7851573353201905165
+    second: Fancy Blue Dress_20
+  - first:
+      213: 21975009277638036
+    second: Fancy Blue Dress_21
+  - first:
+      213: 5874175186121228025
+    second: Fancy Blue Dress_22
+  - first:
+      213: -1795859060214891813
+    second: Fancy Blue Dress_23
+  - first:
+      213: 5191043273798430816
+    second: Fancy Blue Dress_24
+  - first:
+      213: -8951269579793061370
+    second: Fancy Blue Dress_25
+  - first:
+      213: 7803056669647075751
+    second: Fancy Blue Dress_26
+  - first:
+      213: -4153612589896456330
+    second: Fancy Blue Dress_27
+  - first:
+      213: -7967039682004238225
+    second: Fancy Blue Dress_28
+  - first:
+      213: -2063733220968422966
+    second: Fancy Blue Dress_29
+  - first:
+      213: 6222069437970241541
+    second: Fancy Blue Dress_30
+  - first:
+      213: -6153938202730627553
+    second: Fancy Blue Dress_31
+  - first:
+      213: 3945804712844319995
+    second: Fancy Blue Dress_32
+  - first:
+      213: 6828114768422563407
+    second: Fancy Blue Dress_33
+  - first:
+      213: 3656645231900297067
+    second: Fancy Blue Dress_34
+  - first:
+      213: 3873776691580695166
+    second: Fancy Blue Dress_35
+  - first:
+      213: 8916347949465990998
+    second: Fancy Blue Dress_36
+  - first:
+      213: -3583992921076313257
+    second: Fancy Blue Dress_37
+  - first:
+      213: 4828126237874195034
+    second: Fancy Blue Dress_38
+  - first:
+      213: -6801258414088051345
+    second: Fancy Blue Dress_39
+  - first:
+      213: 4055812137896764625
+    second: Fancy Blue Dress_40
+  - first:
+      213: 8982868096391100145
+    second: Fancy Blue Dress_41
+  - first:
+      213: -8457541298806146038
+    second: Fancy Blue Dress_42
+  - first:
+      213: 4751354952751499843
+    second: Fancy Blue Dress_43
+  - first:
+      213: 6770701679573616019
+    second: Fancy Blue Dress_44
+  - first:
+      213: -294294951800750068
+    second: Fancy Blue Dress_45
+  - first:
+      213: 7252235411183048348
+    second: Fancy Blue Dress_46
+  - first:
+      213: 7349758841337601762
+    second: Fancy Blue Dress_47
+  - first:
+      213: -4167899840041118888
+    second: Fancy Blue Dress_48
+  - first:
+      213: 2559359344854878031
+    second: Fancy Blue Dress_49
+  - first:
+      213: 1617945249978906090
+    second: Fancy Blue Dress_0_6
+  - first:
+      213: -1361932856548989694
+    second: Fancy Blue Dress_1_6
+  - first:
+      213: -8330052556034398428
+    second: Fancy Blue Dress_2_6
+  - first:
+      213: -8454929109802136857
+    second: Fancy Blue Dress_3_6
+  - first:
+      213: 2604086182467351493
+    second: Fancy Blue Dress_4_6
+  - first:
+      213: -1762079438376931796
+    second: Fancy Blue Dress_5_6
+  - first:
+      213: -8643004913905852101
+    second: Fancy Blue Dress_6_6
+  - first:
+      213: -8327811439218836151
+    second: Fancy Blue Dress_7_6
+  - first:
+      213: -8828050451592446521
+    second: Fancy Blue Dress_8_6
+  - first:
+      213: 4549985036177780287
+    second: Fancy Blue Dress_9_6
+  - first:
+      213: -4686823595069316638
+    second: Fancy Blue Dress_0_5
+  - first:
+      213: -5202189634159054013
+    second: Fancy Blue Dress_1_5
+  - first:
+      213: 6753715386354284138
+    second: Fancy Blue Dress_2_5
+  - first:
+      213: -1951408465360666553
+    second: Fancy Blue Dress_3_5
+  - first:
+      213: -8564676128446527295
+    second: Fancy Blue Dress_4_5
+  - first:
+      213: -3797056238233806457
+    second: Fancy Blue Dress_5_5
+  - first:
+      213: -7180688864561486854
+    second: Fancy Blue Dress_6_5
+  - first:
+      213: 1576992914203967357
+    second: Fancy Blue Dress_7_5
+  - first:
+      213: -2252344108820519822
+    second: Fancy Blue Dress_8_5
+  - first:
+      213: 2632911940033230053
+    second: Fancy Blue Dress_9_5
+  - first:
+      213: -2183835903600993948
+    second: Fancy Blue Dress_0_4
+  - first:
+      213: 7985884272562850195
+    second: Fancy Blue Dress_1_4
+  - first:
+      213: 7999097108792759431
+    second: Fancy Blue Dress_2_4
+  - first:
+      213: 1702577429833597367
+    second: Fancy Blue Dress_3_4
+  - first:
+      213: -6450267617273911174
+    second: Fancy Blue Dress_4_4
+  - first:
+      213: -2314132248238855744
+    second: Fancy Blue Dress_5_4
+  - first:
+      213: 6512637946460849399
+    second: Fancy Blue Dress_6_4
+  - first:
+      213: 5496371448356514317
+    second: Fancy Blue Dress_7_4
+  - first:
+      213: 1381952416593175486
+    second: Fancy Blue Dress_8_4
+  - first:
+      213: 4172698051128343563
+    second: Fancy Blue Dress_9_4
+  - first:
+      213: -1634106698374991790
+    second: Fancy Blue Dress_0_3
+  - first:
+      213: -776962324879402576
+    second: Fancy Blue Dress_1_3
+  - first:
+      213: 137779397434137751
+    second: Fancy Blue Dress_2_3
+  - first:
+      213: -6958358678840797413
+    second: Fancy Blue Dress_3_3
+  - first:
+      213: -6897413586705561506
+    second: Fancy Blue Dress_4_3
+  - first:
+      213: 4737232419639460624
+    second: Fancy Blue Dress_5_3
+  - first:
+      213: -596873550363115313
+    second: Fancy Blue Dress_6_3
+  - first:
+      213: -3683711975652519401
+    second: Fancy Blue Dress_7_3
+  - first:
+      213: -6005611390509212720
+    second: Fancy Blue Dress_8_3
+  - first:
+      213: -8163666416014871132
+    second: Fancy Blue Dress_9_3
+  - first:
+      213: 945016929164713481
+    second: Fancy Blue Dress_0_2
+  - first:
+      213: 2474332687471739042
+    second: Fancy Blue Dress_1_2
+  - first:
+      213: -8274610020080644172
+    second: Fancy Blue Dress_2_2
+  - first:
+      213: -8260276585504574484
+    second: Fancy Blue Dress_3_2
+  - first:
+      213: -6310486240380644906
+    second: Fancy Blue Dress_4_2
+  - first:
+      213: 3688201182380457578
+    second: Fancy Blue Dress_5_2
+  - first:
+      213: 454193397881440680
+    second: Fancy Blue Dress_6_2
+  - first:
+      213: -3342055025672643371
+    second: Fancy Blue Dress_7_2
+  - first:
+      213: -2089066250374797796
+    second: Fancy Blue Dress_8_2
+  - first:
+      213: 2965359622888686455
+    second: Fancy Blue Dress_9_2
+  - first:
+      213: 5356454428703262580
+    second: Fancy Blue Dress_0_1
+  - first:
+      213: 7909103025631616159
+    second: Fancy Blue Dress_1_1
+  - first:
+      213: 3165059970335805321
+    second: Fancy Blue Dress_2_1
+  - first:
+      213: -8820604418105627385
+    second: Fancy Blue Dress_3_1
+  - first:
+      213: 3867361464971385588
+    second: Fancy Blue Dress_4_1
+  - first:
+      213: -7824508388401994440
+    second: Fancy Blue Dress_5_1
+  - first:
+      213: 2338372735583342782
+    second: Fancy Blue Dress_6_1
+  - first:
+      213: 436789603524180506
+    second: Fancy Blue Dress_7_1
+  - first:
+      213: 1084037931754468931
+    second: Fancy Blue Dress_8_1
+  - first:
+      213: -6578700990631975927
+    second: Fancy Blue Dress_9_1
+  - first:
+      213: 588369298586364519
+    second: Fancy Blue Dress_0_0
+  - first:
+      213: 329374598458758576
+    second: Fancy Blue Dress_1_0
+  - first:
+      213: -5144972356288913826
+    second: Fancy Blue Dress_2_0
+  - first:
+      213: -3276454576309209753
+    second: Fancy Blue Dress_3_0
+  - first:
+      213: 8870654264001043657
+    second: Fancy Blue Dress_4_0
+  - first:
+      213: 224520852698716751
+    second: Fancy Blue Dress_5_0
+  - first:
+      213: -6855077032087176970
+    second: Fancy Blue Dress_6_0
+  - first:
+      213: -1913462125703371527
+    second: Fancy Blue Dress_7_0
+  - first:
+      213: 1076792735695591699
+    second: Fancy Blue Dress_8_0
+  - first:
+      213: 7773856991410244091
+    second: Fancy Blue Dress_9_0
+  - first:
+      213: 6646155587996874757
+    second: Fancy Blue Dress_EMPTY_5
+  - first:
+      213: 6348172228746886789
+    second: Fancy Blue Dress_EMPTY_6
+  - first:
+      213: 2391928522227908275
+    second: Fancy Blue Dress_EMPTY_7
+  - first:
+      213: 68624895439969422
+    second: Fancy Blue Dress_EMPTY_8
+  - first:
+      213: 5799045094991675974
+    second: Fancy Blue Dress_EMPTY_9
+  - first:
+      213: -1669526086141261987
+    second: Fancy Blue Dress_EMPTY_18
+  - first:
+      213: -5429023995755185493
+    second: Fancy Blue Dress_EMPTY_19
+  - first:
+      213: 7033490788150219055
+    second: Fancy Blue Dress_EMPTY_28
+  - first:
+      213: -6165485758309814801
+    second: Fancy Blue Dress_EMPTY_29
+  - first:
+      213: 1575567892446198559
+    second: Fancy Blue Dress_EMPTY_34
+  - first:
+      213: 9179138329657723250
+    second: Fancy Blue Dress_EMPTY_35
+  - first:
+      213: -9154267908492410834
+    second: Fancy Blue Dress_EMPTY_36
+  - first:
+      213: -511267495170042610
+    second: Fancy Blue Dress_EMPTY_37
+  - first:
+      213: -4185195458962481335
+    second: Fancy Blue Dress_EMPTY_38
+  - first:
+      213: 2105368034307688022
+    second: Fancy Blue Dress_EMPTY_39
+  - first:
+      213: -3868230854724750831
+    second: Fancy Blue Dress_EMPTY_44
+  - first:
+      213: -5896249692495190796
+    second: Fancy Blue Dress_EMPTY_45
+  - first:
+      213: 8791864493617616325
+    second: Fancy Blue Dress_EMPTY_46
+  - first:
+      213: -6953587545426721450
+    second: Fancy Blue Dress_EMPTY_47
+  - first:
+      213: -8222741849138895335
+    second: Fancy Blue Dress_EMPTY_48
+  - first:
+      213: -2418256074237838481
+    second: Fancy Blue Dress_EMPTY_49
+  - first:
+      213: -7988507413506478274
+    second: Fancy Blue Dress_50
+  - first:
+      213: -5989409007016265800
+    second: Fancy Blue Dress_51
+  - first:
+      213: 5611300733240855837
+    second: Fancy Blue Dress_52
+  - first:
+      213: 3431370173485840943
+    second: Fancy Blue Dress_53
+  - first:
+      213: 1812539609213724657
+    second: Fancy Blue Dress_54
+  - first:
+      213: -7622953395810068672
+    second: Fancy Blue Dress_55
+  - first:
+      213: 1755129397987633390
+    second: Fancy Blue Dress_EMPTY_56
+  - first:
+      213: 3564394664781074289
+    second: Fancy Blue Dress_EMPTY_57
+  - first:
+      213: 1031403955213387834
+    second: Fancy Blue Dress_EMPTY_58
+  - first:
+      213: 754665923527890533
+    second: Fancy Blue Dress_EMPTY_59
+  - first:
+      213: -164453853783201393
+    second: Fancy Blue Dress_60
+  - first:
+      213: 7885673235433729600
+    second: Fancy Blue Dress_61
+  - first:
+      213: -3300370496983460586
+    second: Fancy Blue Dress_62
+  - first:
+      213: -3021888484557903990
+    second: Fancy Blue Dress_63
+  - first:
+      213: -6974477502324345563
+    second: Fancy Blue Dress_64
+  - first:
+      213: 5594181478368322583
+    second: Fancy Blue Dress_65
+  - first:
+      213: -8159544322300568972
+    second: Fancy Blue Dress_66
+  - first:
+      213: 8006818955105744842
+    second: Fancy Blue Dress_67
+  - first:
+      213: 6035693506227374175
+    second: Fancy Blue Dress_68
+  - first:
+      213: -1724818075409316559
+    second: Fancy Blue Dress_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fancy Blue Dress_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e213978269d754870800000000000000
+      internalID: 8666471141821985070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2533a7f779e7ec3c0800000000000000
+      internalID: -4337390201967332526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d434b33ab652e960800000000000000
+      internalID: 7629756076450395346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0b583d8f5871300800000000000000
+      internalID: 222794010325266655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b97d90f76e9ade0800000000000000
+      internalID: -1321271582356169825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508f7806b43eb3c50800000000000000
+      internalID: 6646155587996874757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e357b020d391850800000000000000
+      internalID: 6348172228746886789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bef4876156d13120800000000000000
+      internalID: 2391928522227908275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c92739afdc3f000800000000000000
+      internalID: 68624895439969422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642437b0ac85a7050800000000000000
+      internalID: 5799045094991675974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22daf7e5aa6ca350800000000000000
+      internalID: 6029311261936374316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8483aaf391835e50800000000000000
+      internalID: 6796918735197406350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b853df79469adfb0800000000000000
+      internalID: -4622216825121056588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98344bc952b0caf0800000000000000
+      internalID: -378106269967042401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3bb66d9fbffb370800000000000000
+      internalID: 8340662085376259071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec494026e4dd3910800000000000000
+      internalID: 1818843909376789733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d00380d6e4dd090800000000000000
+      internalID: -8008158332199105123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1186bd786f7f40900800000000000000
+      internalID: 649916884461512721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d574d44ced6a4d8e0800000000000000
+      internalID: -1669526086141261987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baab0f7a07b38a4b0800000000000000
+      internalID: -5429023995755185493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ea5858d5466fc60800000000000000
+      internalID: 7851573353201905165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495fded87221e4000800000000000000
+      internalID: 21975009277638036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe7b258533458150800000000000000
+      internalID: 5874175186121228025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda793913b3d317e0800000000000000
+      internalID: -1795859060214891813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060bf6caa5a4a0840800000000000000
+      internalID: 5191043273798430816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60aaca73eb3b6c380800000000000000
+      internalID: -8951269579793061370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a97e8cd2b60a4c60800000000000000
+      internalID: 7803056669647075751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677a1a43b576b56c0800000000000000
+      internalID: -4153612589896456330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f211da65b9afb9160800000000000000
+      internalID: 7033490788150219055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feda6347e5bcf6aa0800000000000000
+      internalID: -6165485758309814801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508d70a103b395650800000000000000
+      internalID: 6222069437970241541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ef8804fc1d89aa0800000000000000
+      internalID: -6153938202730627553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcd5260b7052c630800000000000000
+      internalID: 3945804712844319995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eec69743652ce50800000000000000
+      internalID: 6828114768422563407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b34c486aa8dd510800000000000000
+      internalID: 1575567892446198559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279cb6b7da9d26f70800000000000000
+      internalID: 9179138329657723250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e204d8fa6d185f080800000000000000
+      internalID: -9154267908492410834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e059f250cec97e8f0800000000000000
+      internalID: -511267495170042610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f96f877e23be5c0800000000000000
+      internalID: -4185195458962481335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6564f5e8215c73d10800000000000000
+      internalID: 2105368034307688022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4ed0b96a3294830800000000000000
+      internalID: 4055812137896764625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6b49db0fe89ac70800000000000000
+      internalID: 8982868096391100145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cb67baff6c0aa80800000000000000
+      internalID: -8457541298806146038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34acb80e72430f140800000000000000
+      internalID: 4751354952751499843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112fcea4888415ac0800000000000000
+      internalID: -3868230854724750831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f461d3f4205c2ea0800000000000000
+      internalID: -5896249692495190796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c59277fc2af20a70800000000000000
+      internalID: 8791864493617616325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655824818f4ef7f90800000000000000
+      internalID: -6953587545426721450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916665aaad3f2ed80800000000000000
+      internalID: -8222741849138895335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b7f17b9e0a07ed0800000000000000
+      internalID: -2418256074237838481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f2f5415de132190800000000000000
+      internalID: -7988507413506478274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7354acd3851eca0800000000000000
+      internalID: -5989409007016265800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dc5b479485fdd40800000000000000
+      internalID: 5611300733240855837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a7e7b1efcae9f20800000000000000
+      internalID: 3431370173485840943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7628cdb2f672910800000000000000
+      internalID: 1812539609213724657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047126f4644d53690800000000000000
+      internalID: -7622953395810068672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8e5ed63e87b5810800000000000000
+      internalID: 1755129397987633390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fc2990016477130800000000000000
+      internalID: 3564394664781074289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a384d62ce68405e00800000000000000
+      internalID: 1031403955213387834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566d8f7b8ac197a00800000000000000
+      internalID: 754665923527890533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89ee4f571eb7bdf0800000000000000
+      internalID: -164453853783201393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e25dc070a8f6d60800000000000000
+      internalID: 7885673235433729600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6151f14e48ab232d0800000000000000
+      internalID: -3300370496983460586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8725171f681016d0800000000000000
+      internalID: -3021888484557903990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525f00cf9ada53f90800000000000000
+      internalID: -6974477502324345563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714a6335a6682ad40800000000000000
+      internalID: 5594181478368322583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a18348ba973ce80800000000000000
+      internalID: -8159544322300568972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac731ffea6fed1f60800000000000000
+      internalID: 8006818955105744842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5880d3f34713c350800000000000000
+      internalID: 6035693506227374175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Blue Dress_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1350e0159173018e0800000000000000
+      internalID: -1724818075409316559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fancy Blue Dress_0: 8666471141821985070
+      Fancy Blue Dress_0_0: 588369298586364519
+      Fancy Blue Dress_0_1: 5356454428703262580
+      Fancy Blue Dress_0_2: 945016929164713481
+      Fancy Blue Dress_0_3: -1634106698374991790
+      Fancy Blue Dress_0_4: -2183835903600993948
+      Fancy Blue Dress_0_5: -4686823595069316638
+      Fancy Blue Dress_0_6: 1617945249978906090
+      Fancy Blue Dress_1: -4337390201967332526
+      Fancy Blue Dress_10: 6029311261936374316
+      Fancy Blue Dress_11: 6796918735197406350
+      Fancy Blue Dress_12: -4622216825121056588
+      Fancy Blue Dress_13: -378106269967042401
+      Fancy Blue Dress_14: 8340662085376259071
+      Fancy Blue Dress_15: 1818843909376789733
+      Fancy Blue Dress_16: -8008158332199105123
+      Fancy Blue Dress_17: 649916884461512721
+      Fancy Blue Dress_18: -7146283912453379663
+      Fancy Blue Dress_19: 6859015171552165063
+      Fancy Blue Dress_1_0: 329374598458758576
+      Fancy Blue Dress_1_1: 7909103025631616159
+      Fancy Blue Dress_1_2: 2474332687471739042
+      Fancy Blue Dress_1_3: -776962324879402576
+      Fancy Blue Dress_1_4: 7985884272562850195
+      Fancy Blue Dress_1_5: -5202189634159054013
+      Fancy Blue Dress_1_6: -1361932856548989694
+      Fancy Blue Dress_2: 7629756076450395346
+      Fancy Blue Dress_20: 7851573353201905165
+      Fancy Blue Dress_21: 21975009277638036
+      Fancy Blue Dress_22: 5874175186121228025
+      Fancy Blue Dress_23: -1795859060214891813
+      Fancy Blue Dress_24: 5191043273798430816
+      Fancy Blue Dress_25: -8951269579793061370
+      Fancy Blue Dress_26: 7803056669647075751
+      Fancy Blue Dress_27: -4153612589896456330
+      Fancy Blue Dress_28: -7967039682004238225
+      Fancy Blue Dress_29: -2063733220968422966
+      Fancy Blue Dress_2_0: -5144972356288913826
+      Fancy Blue Dress_2_1: 3165059970335805321
+      Fancy Blue Dress_2_2: -8274610020080644172
+      Fancy Blue Dress_2_3: 137779397434137751
+      Fancy Blue Dress_2_4: 7999097108792759431
+      Fancy Blue Dress_2_5: 6753715386354284138
+      Fancy Blue Dress_2_6: -8330052556034398428
+      Fancy Blue Dress_3: 222794010325266655
+      Fancy Blue Dress_30: 6222069437970241541
+      Fancy Blue Dress_31: -6153938202730627553
+      Fancy Blue Dress_32: 3945804712844319995
+      Fancy Blue Dress_33: 6828114768422563407
+      Fancy Blue Dress_34: 3656645231900297067
+      Fancy Blue Dress_35: 3873776691580695166
+      Fancy Blue Dress_36: 8916347949465990998
+      Fancy Blue Dress_37: -3583992921076313257
+      Fancy Blue Dress_38: 4828126237874195034
+      Fancy Blue Dress_39: -6801258414088051345
+      Fancy Blue Dress_3_0: -3276454576309209753
+      Fancy Blue Dress_3_1: -8820604418105627385
+      Fancy Blue Dress_3_2: -8260276585504574484
+      Fancy Blue Dress_3_3: -6958358678840797413
+      Fancy Blue Dress_3_4: 1702577429833597367
+      Fancy Blue Dress_3_5: -1951408465360666553
+      Fancy Blue Dress_3_6: -8454929109802136857
+      Fancy Blue Dress_4: -1321271582356169825
+      Fancy Blue Dress_40: 4055812137896764625
+      Fancy Blue Dress_41: 8982868096391100145
+      Fancy Blue Dress_42: -8457541298806146038
+      Fancy Blue Dress_43: 4751354952751499843
+      Fancy Blue Dress_44: 6770701679573616019
+      Fancy Blue Dress_45: -294294951800750068
+      Fancy Blue Dress_46: 7252235411183048348
+      Fancy Blue Dress_47: 7349758841337601762
+      Fancy Blue Dress_48: -4167899840041118888
+      Fancy Blue Dress_49: 2559359344854878031
+      Fancy Blue Dress_4_0: 8870654264001043657
+      Fancy Blue Dress_4_1: 3867361464971385588
+      Fancy Blue Dress_4_2: -6310486240380644906
+      Fancy Blue Dress_4_3: -6897413586705561506
+      Fancy Blue Dress_4_4: -6450267617273911174
+      Fancy Blue Dress_4_5: -8564676128446527295
+      Fancy Blue Dress_4_6: 2604086182467351493
+      Fancy Blue Dress_5: 3073956757300409764
+      Fancy Blue Dress_50: -7988507413506478274
+      Fancy Blue Dress_51: -5989409007016265800
+      Fancy Blue Dress_52: 5611300733240855837
+      Fancy Blue Dress_53: 3431370173485840943
+      Fancy Blue Dress_54: 1812539609213724657
+      Fancy Blue Dress_55: -7622953395810068672
+      Fancy Blue Dress_5_0: 224520852698716751
+      Fancy Blue Dress_5_1: -7824508388401994440
+      Fancy Blue Dress_5_2: 3688201182380457578
+      Fancy Blue Dress_5_3: 4737232419639460624
+      Fancy Blue Dress_5_4: -2314132248238855744
+      Fancy Blue Dress_5_5: -3797056238233806457
+      Fancy Blue Dress_5_6: -1762079438376931796
+      Fancy Blue Dress_6: -3005227571023157408
+      Fancy Blue Dress_60: -164453853783201393
+      Fancy Blue Dress_61: 7885673235433729600
+      Fancy Blue Dress_62: -3300370496983460586
+      Fancy Blue Dress_63: -3021888484557903990
+      Fancy Blue Dress_64: -6974477502324345563
+      Fancy Blue Dress_65: 5594181478368322583
+      Fancy Blue Dress_66: -8159544322300568972
+      Fancy Blue Dress_67: 8006818955105744842
+      Fancy Blue Dress_68: 6035693506227374175
+      Fancy Blue Dress_69: -1724818075409316559
+      Fancy Blue Dress_6_0: -6855077032087176970
+      Fancy Blue Dress_6_1: 2338372735583342782
+      Fancy Blue Dress_6_2: 454193397881440680
+      Fancy Blue Dress_6_3: -596873550363115313
+      Fancy Blue Dress_6_4: 6512637946460849399
+      Fancy Blue Dress_6_5: -7180688864561486854
+      Fancy Blue Dress_6_6: -8643004913905852101
+      Fancy Blue Dress_7: 2068325682888732109
+      Fancy Blue Dress_7_0: -1913462125703371527
+      Fancy Blue Dress_7_1: 436789603524180506
+      Fancy Blue Dress_7_2: -3342055025672643371
+      Fancy Blue Dress_7_3: -3683711975652519401
+      Fancy Blue Dress_7_4: 5496371448356514317
+      Fancy Blue Dress_7_5: 1576992914203967357
+      Fancy Blue Dress_7_6: -8327811439218836151
+      Fancy Blue Dress_8: -1014327169042099468
+      Fancy Blue Dress_8_0: 1076792735695591699
+      Fancy Blue Dress_8_1: 1084037931754468931
+      Fancy Blue Dress_8_2: -2089066250374797796
+      Fancy Blue Dress_8_3: -6005611390509212720
+      Fancy Blue Dress_8_4: 1381952416593175486
+      Fancy Blue Dress_8_5: -2252344108820519822
+      Fancy Blue Dress_8_6: -8828050451592446521
+      Fancy Blue Dress_9: 4656685115773036194
+      Fancy Blue Dress_9_0: 7773856991410244091
+      Fancy Blue Dress_9_1: -6578700990631975927
+      Fancy Blue Dress_9_2: 2965359622888686455
+      Fancy Blue Dress_9_3: -8163666416014871132
+      Fancy Blue Dress_9_4: 4172698051128343563
+      Fancy Blue Dress_9_5: 2632911940033230053
+      Fancy Blue Dress_9_6: 4549985036177780287
+      Fancy Blue Dress_EMPTY_18: -1669526086141261987
+      Fancy Blue Dress_EMPTY_19: -5429023995755185493
+      Fancy Blue Dress_EMPTY_28: 7033490788150219055
+      Fancy Blue Dress_EMPTY_29: -6165485758309814801
+      Fancy Blue Dress_EMPTY_34: 1575567892446198559
+      Fancy Blue Dress_EMPTY_35: 9179138329657723250
+      Fancy Blue Dress_EMPTY_36: -9154267908492410834
+      Fancy Blue Dress_EMPTY_37: -511267495170042610
+      Fancy Blue Dress_EMPTY_38: -4185195458962481335
+      Fancy Blue Dress_EMPTY_39: 2105368034307688022
+      Fancy Blue Dress_EMPTY_44: -3868230854724750831
+      Fancy Blue Dress_EMPTY_45: -5896249692495190796
+      Fancy Blue Dress_EMPTY_46: 8791864493617616325
+      Fancy Blue Dress_EMPTY_47: -6953587545426721450
+      Fancy Blue Dress_EMPTY_48: -8222741849138895335
+      Fancy Blue Dress_EMPTY_49: -2418256074237838481
+      Fancy Blue Dress_EMPTY_5: 6646155587996874757
+      Fancy Blue Dress_EMPTY_56: 1755129397987633390
+      Fancy Blue Dress_EMPTY_57: 3564394664781074289
+      Fancy Blue Dress_EMPTY_58: 1031403955213387834
+      Fancy Blue Dress_EMPTY_59: 754665923527890533
+      Fancy Blue Dress_EMPTY_6: 6348172228746886789
+      Fancy Blue Dress_EMPTY_7: 2391928522227908275
+      Fancy Blue Dress_EMPTY_8: 68624895439969422
+      Fancy Blue Dress_EMPTY_9: 5799045094991675974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

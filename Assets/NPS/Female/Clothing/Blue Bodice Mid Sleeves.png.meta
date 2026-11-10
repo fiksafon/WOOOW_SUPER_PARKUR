@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: 217d6ced6a5c41148a620b47e6d3cab1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6788649110306961027
+    second: Blue Bodice Mid Sleeves_0
+  - first:
+      213: -5379594225039752718
+    second: Blue Bodice Mid Sleeves_1
+  - first:
+      213: 4675507665675796794
+    second: Blue Bodice Mid Sleeves_2
+  - first:
+      213: -1381821615115698295
+    second: Blue Bodice Mid Sleeves_3
+  - first:
+      213: -631985349905415725
+    second: Blue Bodice Mid Sleeves_4
+  - first:
+      213: -1113421227187992345
+    second: Blue Bodice Mid Sleeves_5
+  - first:
+      213: 5283270866185269140
+    second: Blue Bodice Mid Sleeves_6
+  - first:
+      213: -8016770456944873370
+    second: Blue Bodice Mid Sleeves_7
+  - first:
+      213: 9179049367937951381
+    second: Blue Bodice Mid Sleeves_8
+  - first:
+      213: 5565660509875460115
+    second: Blue Bodice Mid Sleeves_9
+  - first:
+      213: 732969697227472612
+    second: Blue Bodice Mid Sleeves_10
+  - first:
+      213: 6984592475368348702
+    second: Blue Bodice Mid Sleeves_11
+  - first:
+      213: 1824599529155810199
+    second: Blue Bodice Mid Sleeves_12
+  - first:
+      213: 7134908938663145493
+    second: Blue Bodice Mid Sleeves_13
+  - first:
+      213: -5732939213481307406
+    second: Blue Bodice Mid Sleeves_14
+  - first:
+      213: 7048499905535978769
+    second: Blue Bodice Mid Sleeves_15
+  - first:
+      213: -1996480752430991162
+    second: Blue Bodice Mid Sleeves_16
+  - first:
+      213: 3831333998004741286
+    second: Blue Bodice Mid Sleeves_17
+  - first:
+      213: 2830234751726726530
+    second: Blue Bodice Mid Sleeves_18
+  - first:
+      213: 2256826794050611836
+    second: Blue Bodice Mid Sleeves_19
+  - first:
+      213: 7711276833758677959
+    second: Blue Bodice Mid Sleeves_20
+  - first:
+      213: -9122731568810050690
+    second: Blue Bodice Mid Sleeves_21
+  - first:
+      213: -4214523531402625443
+    second: Blue Bodice Mid Sleeves_22
+  - first:
+      213: -5161759951892008399
+    second: Blue Bodice Mid Sleeves_23
+  - first:
+      213: -7504836633300275338
+    second: Blue Bodice Mid Sleeves_24
+  - first:
+      213: 907293705081630842
+    second: Blue Bodice Mid Sleeves_25
+  - first:
+      213: 5490938150455859394
+    second: Blue Bodice Mid Sleeves_26
+  - first:
+      213: 2780498679045957198
+    second: Blue Bodice Mid Sleeves_27
+  - first:
+      213: -7343407122996386145
+    second: Blue Bodice Mid Sleeves_28
+  - first:
+      213: -24579554819151339
+    second: Blue Bodice Mid Sleeves_29
+  - first:
+      213: -342614190027037858
+    second: Blue Bodice Mid Sleeves_30
+  - first:
+      213: 7364477081844968728
+    second: Blue Bodice Mid Sleeves_31
+  - first:
+      213: 845250792541288184
+    second: Blue Bodice Mid Sleeves_32
+  - first:
+      213: 1332663802190656816
+    second: Blue Bodice Mid Sleeves_33
+  - first:
+      213: -602955899787179172
+    second: Blue Bodice Mid Sleeves_34
+  - first:
+      213: 6808355423962689519
+    second: Blue Bodice Mid Sleeves_35
+  - first:
+      213: -321615925813884897
+    second: Blue Bodice Mid Sleeves_36
+  - first:
+      213: -4578312955581281591
+    second: Blue Bodice Mid Sleeves_37
+  - first:
+      213: 467273272679428746
+    second: Blue Bodice Mid Sleeves_38
+  - first:
+      213: 6075047599883418270
+    second: Blue Bodice Mid Sleeves_39
+  - first:
+      213: -4303084260998313789
+    second: Blue Bodice Mid Sleeves_40
+  - first:
+      213: 4553807779766048456
+    second: Blue Bodice Mid Sleeves_41
+  - first:
+      213: 8720972349321581460
+    second: Blue Bodice Mid Sleeves_42
+  - first:
+      213: 1616876777784578238
+    second: Blue Bodice Mid Sleeves_43
+  - first:
+      213: 3633485847406550840
+    second: Blue Bodice Mid Sleeves_44
+  - first:
+      213: 4137075162653565694
+    second: Blue Bodice Mid Sleeves_45
+  - first:
+      213: -4126145302653356065
+    second: Blue Bodice Mid Sleeves_46
+  - first:
+      213: 2649094946977791123
+    second: Blue Bodice Mid Sleeves_47
+  - first:
+      213: -8873942836723451901
+    second: Blue Bodice Mid Sleeves_48
+  - first:
+      213: 2146218655408468821
+    second: Blue Bodice Mid Sleeves_49
+  - first:
+      213: 4144663149131050782
+    second: Blue Bodice Mid Sleeves_0_6
+  - first:
+      213: 2655268403363856725
+    second: Blue Bodice Mid Sleeves_1_6
+  - first:
+      213: -6444812405374279691
+    second: Blue Bodice Mid Sleeves_2_6
+  - first:
+      213: -7899545133179190734
+    second: Blue Bodice Mid Sleeves_3_6
+  - first:
+      213: -4797272988129914254
+    second: Blue Bodice Mid Sleeves_4_6
+  - first:
+      213: -2208533820564132438
+    second: Blue Bodice Mid Sleeves_5_6
+  - first:
+      213: -8348156382142339382
+    second: Blue Bodice Mid Sleeves_6_6
+  - first:
+      213: -8035198856030755457
+    second: Blue Bodice Mid Sleeves_7_6
+  - first:
+      213: -7855498317674928620
+    second: Blue Bodice Mid Sleeves_8_6
+  - first:
+      213: 6259216380171817997
+    second: Blue Bodice Mid Sleeves_9_6
+  - first:
+      213: -1628003306355869056
+    second: Blue Bodice Mid Sleeves_0_5
+  - first:
+      213: -5078122100862491346
+    second: Blue Bodice Mid Sleeves_1_5
+  - first:
+      213: 8792275958094598958
+    second: Blue Bodice Mid Sleeves_2_5
+  - first:
+      213: 395405798095847336
+    second: Blue Bodice Mid Sleeves_3_5
+  - first:
+      213: -625004154774474684
+    second: Blue Bodice Mid Sleeves_4_5
+  - first:
+      213: 4920690062769490522
+    second: Blue Bodice Mid Sleeves_5_5
+  - first:
+      213: -4850796145368117255
+    second: Blue Bodice Mid Sleeves_6_5
+  - first:
+      213: -332057888154714690
+    second: Blue Bodice Mid Sleeves_7_5
+  - first:
+      213: 215186104428149589
+    second: Blue Bodice Mid Sleeves_8_5
+  - first:
+      213: 5708349375973859197
+    second: Blue Bodice Mid Sleeves_9_5
+  - first:
+      213: -3380174575009768529
+    second: Blue Bodice Mid Sleeves_0_4
+  - first:
+      213: 5121257966074353712
+    second: Blue Bodice Mid Sleeves_1_4
+  - first:
+      213: 3314494211446118924
+    second: Blue Bodice Mid Sleeves_2_4
+  - first:
+      213: 4513502255059986908
+    second: Blue Bodice Mid Sleeves_3_4
+  - first:
+      213: 3633182019826205339
+    second: Blue Bodice Mid Sleeves_4_4
+  - first:
+      213: 6479815599378117855
+    second: Blue Bodice Mid Sleeves_5_4
+  - first:
+      213: 1510828505381449573
+    second: Blue Bodice Mid Sleeves_6_4
+  - first:
+      213: -5734085916034422171
+    second: Blue Bodice Mid Sleeves_7_4
+  - first:
+      213: -2149513028321010338
+    second: Blue Bodice Mid Sleeves_8_4
+  - first:
+      213: -5063767902973291346
+    second: Blue Bodice Mid Sleeves_9_4
+  - first:
+      213: -3039729083839742461
+    second: Blue Bodice Mid Sleeves_0_3
+  - first:
+      213: 6832697898792647869
+    second: Blue Bodice Mid Sleeves_1_3
+  - first:
+      213: 8158253715880675988
+    second: Blue Bodice Mid Sleeves_2_3
+  - first:
+      213: -7786275536205076357
+    second: Blue Bodice Mid Sleeves_3_3
+  - first:
+      213: 2533766566812712862
+    second: Blue Bodice Mid Sleeves_4_3
+  - first:
+      213: -123888863045574858
+    second: Blue Bodice Mid Sleeves_5_3
+  - first:
+      213: -2686532988545731345
+    second: Blue Bodice Mid Sleeves_6_3
+  - first:
+      213: -6709629013480609584
+    second: Blue Bodice Mid Sleeves_7_3
+  - first:
+      213: -1370343966081602231
+    second: Blue Bodice Mid Sleeves_8_3
+  - first:
+      213: -825538479125011845
+    second: Blue Bodice Mid Sleeves_9_3
+  - first:
+      213: 7956713842140706589
+    second: Blue Bodice Mid Sleeves_0_2
+  - first:
+      213: 2648379181245996813
+    second: Blue Bodice Mid Sleeves_1_2
+  - first:
+      213: 5291313205175476678
+    second: Blue Bodice Mid Sleeves_2_2
+  - first:
+      213: 2194552726542492952
+    second: Blue Bodice Mid Sleeves_3_2
+  - first:
+      213: -392111339002705849
+    second: Blue Bodice Mid Sleeves_4_2
+  - first:
+      213: 2627375947892354549
+    second: Blue Bodice Mid Sleeves_5_2
+  - first:
+      213: 7573110009804153532
+    second: Blue Bodice Mid Sleeves_6_2
+  - first:
+      213: -4501830904585618702
+    second: Blue Bodice Mid Sleeves_7_2
+  - first:
+      213: -6517540967344430747
+    second: Blue Bodice Mid Sleeves_8_2
+  - first:
+      213: -1606287814960091393
+    second: Blue Bodice Mid Sleeves_9_2
+  - first:
+      213: -4665917969398327800
+    second: Blue Bodice Mid Sleeves_0_1
+  - first:
+      213: 962429917652393722
+    second: Blue Bodice Mid Sleeves_1_1
+  - first:
+      213: -1789425631063886331
+    second: Blue Bodice Mid Sleeves_2_1
+  - first:
+      213: -6803798389783121603
+    second: Blue Bodice Mid Sleeves_3_1
+  - first:
+      213: 8738618171889460412
+    second: Blue Bodice Mid Sleeves_4_1
+  - first:
+      213: -3999295078873993512
+    second: Blue Bodice Mid Sleeves_5_1
+  - first:
+      213: 28841609652687003
+    second: Blue Bodice Mid Sleeves_6_1
+  - first:
+      213: 7779519286637081085
+    second: Blue Bodice Mid Sleeves_7_1
+  - first:
+      213: 3150861374314904470
+    second: Blue Bodice Mid Sleeves_8_1
+  - first:
+      213: 1284701464524352643
+    second: Blue Bodice Mid Sleeves_9_1
+  - first:
+      213: -8581445067870091675
+    second: Blue Bodice Mid Sleeves_0_0
+  - first:
+      213: 3908955316699365480
+    second: Blue Bodice Mid Sleeves_1_0
+  - first:
+      213: 503778622306632961
+    second: Blue Bodice Mid Sleeves_2_0
+  - first:
+      213: 1927642650359357080
+    second: Blue Bodice Mid Sleeves_3_0
+  - first:
+      213: -2727665261462776016
+    second: Blue Bodice Mid Sleeves_4_0
+  - first:
+      213: 8776897965221919175
+    second: Blue Bodice Mid Sleeves_5_0
+  - first:
+      213: 4381114202063896896
+    second: Blue Bodice Mid Sleeves_6_0
+  - first:
+      213: 364630107386157397
+    second: Blue Bodice Mid Sleeves_7_0
+  - first:
+      213: -4864475570522188052
+    second: Blue Bodice Mid Sleeves_8_0
+  - first:
+      213: 6212708891075509247
+    second: Blue Bodice Mid Sleeves_9_0
+  - first:
+      213: -3845750787016472818
+    second: Blue Bodice Mid Sleeves_EMPTY_5
+  - first:
+      213: -8581441441226781323
+    second: Blue Bodice Mid Sleeves_EMPTY_6
+  - first:
+      213: 2243291789254842806
+    second: Blue Bodice Mid Sleeves_EMPTY_7
+  - first:
+      213: -3096373488916870960
+    second: Blue Bodice Mid Sleeves_EMPTY_8
+  - first:
+      213: -6942306895861947582
+    second: Blue Bodice Mid Sleeves_EMPTY_9
+  - first:
+      213: 7763563266998537552
+    second: Blue Bodice Mid Sleeves_EMPTY_18
+  - first:
+      213: -2494116162741907228
+    second: Blue Bodice Mid Sleeves_EMPTY_19
+  - first:
+      213: -1706777814838590474
+    second: Blue Bodice Mid Sleeves_EMPTY_28
+  - first:
+      213: -4213625166170365375
+    second: Blue Bodice Mid Sleeves_EMPTY_29
+  - first:
+      213: -2555885737972208870
+    second: Blue Bodice Mid Sleeves_EMPTY_34
+  - first:
+      213: -398360250652656515
+    second: Blue Bodice Mid Sleeves_EMPTY_35
+  - first:
+      213: 7715558434578003453
+    second: Blue Bodice Mid Sleeves_EMPTY_36
+  - first:
+      213: 2879969483699679398
+    second: Blue Bodice Mid Sleeves_EMPTY_37
+  - first:
+      213: 6254032501719237113
+    second: Blue Bodice Mid Sleeves_EMPTY_38
+  - first:
+      213: 2616476709890971261
+    second: Blue Bodice Mid Sleeves_EMPTY_39
+  - first:
+      213: 9019149354107691117
+    second: Blue Bodice Mid Sleeves_EMPTY_44
+  - first:
+      213: -6907843136095534195
+    second: Blue Bodice Mid Sleeves_EMPTY_45
+  - first:
+      213: -6942872940810462634
+    second: Blue Bodice Mid Sleeves_EMPTY_46
+  - first:
+      213: -5119182221629568491
+    second: Blue Bodice Mid Sleeves_EMPTY_47
+  - first:
+      213: -5852925789717980116
+    second: Blue Bodice Mid Sleeves_EMPTY_48
+  - first:
+      213: -9163188051834261149
+    second: Blue Bodice Mid Sleeves_EMPTY_49
+  - first:
+      213: 8204347835642318106
+    second: Blue Bodice Mid Sleeves_50
+  - first:
+      213: -2154365689631009304
+    second: Blue Bodice Mid Sleeves_51
+  - first:
+      213: 8449276555322214416
+    second: Blue Bodice Mid Sleeves_52
+  - first:
+      213: 6726446370026699588
+    second: Blue Bodice Mid Sleeves_53
+  - first:
+      213: 8829941020604803920
+    second: Blue Bodice Mid Sleeves_54
+  - first:
+      213: 4769235841291974421
+    second: Blue Bodice Mid Sleeves_55
+  - first:
+      213: 3683529347174704396
+    second: Blue Bodice Mid Sleeves_EMPTY_56
+  - first:
+      213: 4920789767626283835
+    second: Blue Bodice Mid Sleeves_EMPTY_57
+  - first:
+      213: 620244992411237315
+    second: Blue Bodice Mid Sleeves_EMPTY_58
+  - first:
+      213: 7416937471295369753
+    second: Blue Bodice Mid Sleeves_EMPTY_59
+  - first:
+      213: -1276982739613554589
+    second: Blue Bodice Mid Sleeves_60
+  - first:
+      213: 8883238526277635183
+    second: Blue Bodice Mid Sleeves_61
+  - first:
+      213: 4475276380681341328
+    second: Blue Bodice Mid Sleeves_62
+  - first:
+      213: -1739872274928206799
+    second: Blue Bodice Mid Sleeves_63
+  - first:
+      213: 3437814155990974375
+    second: Blue Bodice Mid Sleeves_64
+  - first:
+      213: 8424774753441730742
+    second: Blue Bodice Mid Sleeves_65
+  - first:
+      213: -6810402534867200307
+    second: Blue Bodice Mid Sleeves_66
+  - first:
+      213: -7213573018669175486
+    second: Blue Bodice Mid Sleeves_67
+  - first:
+      213: 781122319590183522
+    second: Blue Bodice Mid Sleeves_68
+  - first:
+      213: -8901250967794592600
+    second: Blue Bodice Mid Sleeves_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3863e94e560263e50800000000000000
+      internalID: 6788649110306961027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f143ccfd87d755b0800000000000000
+      internalID: -5379594225039752718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31c835337db2e040800000000000000
+      internalID: 4675507665675796794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f7210ff88c2dce0800000000000000
+      internalID: -1381821615115698295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d103a33cacba37f0800000000000000
+      internalID: -631985349905415725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07443de80621aac0800000000000000
+      internalID: -3845750787016472818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d8cd2c97898e880800000000000000
+      internalID: -8581441441226781323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9d5123ff5c12f10800000000000000
+      internalID: 2243291789254842806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d84c2597b87705d0800000000000000
+      internalID: -3096373488916870960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243676ef8a8f7af90800000000000000
+      internalID: -6942306895861947582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee7e526e080c2a00800000000000000
+      internalID: 732969697227472612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c5233b9d14ee060800000000000000
+      internalID: 6984592475368348702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7935da8ca97425910800000000000000
+      internalID: 1824599529155810199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510b6c990e9440360800000000000000
+      internalID: 7134908938663145493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f21a85e8228070b0800000000000000
+      internalID: -5732939213481307406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11da8dcc15d41d160800000000000000
+      internalID: 7048499905535978769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8327e55531b44e0800000000000000
+      internalID: -1996480752430991162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a423fec8f1ab2530800000000000000
+      internalID: 3831333998004741286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d08b088a7bdbb60800000000000000
+      internalID: 7763563266998537552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0553b709e136dd0800000000000000
+      internalID: -2494116162741907228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb82e89c65f30b60800000000000000
+      internalID: 7711276833758677959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bb5d3f8fb856180800000000000000
+      internalID: -9122731568810050690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5eb83d7d210385c0800000000000000
+      internalID: -4214523531402625443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132b3a30caebd58b0800000000000000
+      internalID: -5161759951892008399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f6cc628d679d790800000000000000
+      internalID: -7504836633300275338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70b65651da579c00800000000000000
+      internalID: 907293705081630842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8df85d72bb33c40800000000000000
+      internalID: 5490938150455859394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e462afe11d0569620800000000000000
+      internalID: 2780498679045957198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3470cce9e4058e0800000000000000
+      internalID: -1706777814838590474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142e4c17c323685c0800000000000000
+      internalID: -4213625166170365375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e532e6c953ace3bf0800000000000000
+      internalID: -342614190027037858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81defd323e0e33660800000000000000
+      internalID: 7364477081844968728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f67a831e1feabb00800000000000000
+      internalID: 845250792541288184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0357896daa29e7210800000000000000
+      internalID: 1332663802190656816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1beda5867ba78cd0800000000000000
+      internalID: -2555885737972208870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c763f667db87af0800000000000000
+      internalID: -398360250652656515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df57ac8748b231b60800000000000000
+      internalID: 7715558434578003453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a072e79cf4b7f720800000000000000
+      internalID: 2879969483699679398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f109becc69cac650800000000000000
+      internalID: 6254032501719237113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76522874b79f4420800000000000000
+      internalID: 2616476709890971261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c80f90d9af5844c0800000000000000
+      internalID: -4303084260998313789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c69d507c00623f30800000000000000
+      internalID: 4553807779766048456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4931151652e170970800000000000000
+      internalID: 8720972349321581460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb09d61ecdc407610800000000000000
+      internalID: 1616876777784578238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6068c35d847a2d70800000000000000
+      internalID: 9019149354107691117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83c7ec54496220a0800000000000000
+      internalID: -6907843136095534195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a125268d5f5af90800000000000000
+      internalID: -6942872940810462634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a464b54e205f8b0800000000000000
+      internalID: -5119182221629568491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c132f110b36cea0800000000000000
+      internalID: -5852925789717980116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361b058f301d5d080800000000000000
+      internalID: -9163188051834261149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d843553e2bbd170800000000000000
+      internalID: 8204347835642318106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e51141d1d72a12e0800000000000000
+      internalID: -2154365689631009304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0184409c24cd14570800000000000000
+      internalID: 8449276555322214416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b3826d553295d50800000000000000
+      internalID: 6726446370026699588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bacc043904a8a70800000000000000
+      internalID: 8829941020604803920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517f44aaababf2240800000000000000
+      internalID: 4769235841291974421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c052312dc668e1330800000000000000
+      internalID: 3683529347174704396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bddb1e8382a4440800000000000000
+      internalID: 4920789767626283835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbf26ec88d8b9800800000000000000
+      internalID: 620244992411237315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91238d165514ee660800000000000000
+      internalID: 7416937471295369753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368670dc6fe374ee0800000000000000
+      internalID: -1276982739613554589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cc7ddcf5a974b70800000000000000
+      internalID: 8883238526277635183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099053e38206b1e30800000000000000
+      internalID: 4475276380681341328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c7a5a526bbad7e0800000000000000
+      internalID: -1739872274928206799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afb6a3b2c195bf20800000000000000
+      internalID: 3437814155990974375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0d29b7000dae470800000000000000
+      internalID: 8424774753441730742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc612d34af69c71a0800000000000000
+      internalID: -6810402534867200307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24da1e40f8d34eb90800000000000000
+      internalID: -7213573018669175486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2625d417c9a17da00800000000000000
+      internalID: 781122319590183522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice Mid Sleeves_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a45008d767687480800000000000000
+      internalID: -8901250967794592600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blue Bodice Mid Sleeves_0: 6788649110306961027
+      Blue Bodice Mid Sleeves_0_0: -8581445067870091675
+      Blue Bodice Mid Sleeves_0_1: -4665917969398327800
+      Blue Bodice Mid Sleeves_0_2: 7956713842140706589
+      Blue Bodice Mid Sleeves_0_3: -3039729083839742461
+      Blue Bodice Mid Sleeves_0_4: -3380174575009768529
+      Blue Bodice Mid Sleeves_0_5: -1628003306355869056
+      Blue Bodice Mid Sleeves_0_6: 4144663149131050782
+      Blue Bodice Mid Sleeves_1: -5379594225039752718
+      Blue Bodice Mid Sleeves_10: 732969697227472612
+      Blue Bodice Mid Sleeves_11: 6984592475368348702
+      Blue Bodice Mid Sleeves_12: 1824599529155810199
+      Blue Bodice Mid Sleeves_13: 7134908938663145493
+      Blue Bodice Mid Sleeves_14: -5732939213481307406
+      Blue Bodice Mid Sleeves_15: 7048499905535978769
+      Blue Bodice Mid Sleeves_16: -1996480752430991162
+      Blue Bodice Mid Sleeves_17: 3831333998004741286
+      Blue Bodice Mid Sleeves_18: 2830234751726726530
+      Blue Bodice Mid Sleeves_19: 2256826794050611836
+      Blue Bodice Mid Sleeves_1_0: 3908955316699365480
+      Blue Bodice Mid Sleeves_1_1: 962429917652393722
+      Blue Bodice Mid Sleeves_1_2: 2648379181245996813
+      Blue Bodice Mid Sleeves_1_3: 6832697898792647869
+      Blue Bodice Mid Sleeves_1_4: 5121257966074353712
+      Blue Bodice Mid Sleeves_1_5: -5078122100862491346
+      Blue Bodice Mid Sleeves_1_6: 2655268403363856725
+      Blue Bodice Mid Sleeves_2: 4675507665675796794
+      Blue Bodice Mid Sleeves_20: 7711276833758677959
+      Blue Bodice Mid Sleeves_21: -9122731568810050690
+      Blue Bodice Mid Sleeves_22: -4214523531402625443
+      Blue Bodice Mid Sleeves_23: -5161759951892008399
+      Blue Bodice Mid Sleeves_24: -7504836633300275338
+      Blue Bodice Mid Sleeves_25: 907293705081630842
+      Blue Bodice Mid Sleeves_26: 5490938150455859394
+      Blue Bodice Mid Sleeves_27: 2780498679045957198
+      Blue Bodice Mid Sleeves_28: -7343407122996386145
+      Blue Bodice Mid Sleeves_29: -24579554819151339
+      Blue Bodice Mid Sleeves_2_0: 503778622306632961
+      Blue Bodice Mid Sleeves_2_1: -1789425631063886331
+      Blue Bodice Mid Sleeves_2_2: 5291313205175476678
+      Blue Bodice Mid Sleeves_2_3: 8158253715880675988
+      Blue Bodice Mid Sleeves_2_4: 3314494211446118924
+      Blue Bodice Mid Sleeves_2_5: 8792275958094598958
+      Blue Bodice Mid Sleeves_2_6: -6444812405374279691
+      Blue Bodice Mid Sleeves_3: -1381821615115698295
+      Blue Bodice Mid Sleeves_30: -342614190027037858
+      Blue Bodice Mid Sleeves_31: 7364477081844968728
+      Blue Bodice Mid Sleeves_32: 845250792541288184
+      Blue Bodice Mid Sleeves_33: 1332663802190656816
+      Blue Bodice Mid Sleeves_34: -602955899787179172
+      Blue Bodice Mid Sleeves_35: 6808355423962689519
+      Blue Bodice Mid Sleeves_36: -321615925813884897
+      Blue Bodice Mid Sleeves_37: -4578312955581281591
+      Blue Bodice Mid Sleeves_38: 467273272679428746
+      Blue Bodice Mid Sleeves_39: 6075047599883418270
+      Blue Bodice Mid Sleeves_3_0: 1927642650359357080
+      Blue Bodice Mid Sleeves_3_1: -6803798389783121603
+      Blue Bodice Mid Sleeves_3_2: 2194552726542492952
+      Blue Bodice Mid Sleeves_3_3: -7786275536205076357
+      Blue Bodice Mid Sleeves_3_4: 4513502255059986908
+      Blue Bodice Mid Sleeves_3_5: 395405798095847336
+      Blue Bodice Mid Sleeves_3_6: -7899545133179190734
+      Blue Bodice Mid Sleeves_4: -631985349905415725
+      Blue Bodice Mid Sleeves_40: -4303084260998313789
+      Blue Bodice Mid Sleeves_41: 4553807779766048456
+      Blue Bodice Mid Sleeves_42: 8720972349321581460
+      Blue Bodice Mid Sleeves_43: 1616876777784578238
+      Blue Bodice Mid Sleeves_44: 3633485847406550840
+      Blue Bodice Mid Sleeves_45: 4137075162653565694
+      Blue Bodice Mid Sleeves_46: -4126145302653356065
+      Blue Bodice Mid Sleeves_47: 2649094946977791123
+      Blue Bodice Mid Sleeves_48: -8873942836723451901
+      Blue Bodice Mid Sleeves_49: 2146218655408468821
+      Blue Bodice Mid Sleeves_4_0: -2727665261462776016
+      Blue Bodice Mid Sleeves_4_1: 8738618171889460412
+      Blue Bodice Mid Sleeves_4_2: -392111339002705849
+      Blue Bodice Mid Sleeves_4_3: 2533766566812712862
+      Blue Bodice Mid Sleeves_4_4: 3633182019826205339
+      Blue Bodice Mid Sleeves_4_5: -625004154774474684
+      Blue Bodice Mid Sleeves_4_6: -4797272988129914254
+      Blue Bodice Mid Sleeves_5: -1113421227187992345
+      Blue Bodice Mid Sleeves_50: 8204347835642318106
+      Blue Bodice Mid Sleeves_51: -2154365689631009304
+      Blue Bodice Mid Sleeves_52: 8449276555322214416
+      Blue Bodice Mid Sleeves_53: 6726446370026699588
+      Blue Bodice Mid Sleeves_54: 8829941020604803920
+      Blue Bodice Mid Sleeves_55: 4769235841291974421
+      Blue Bodice Mid Sleeves_5_0: 8776897965221919175
+      Blue Bodice Mid Sleeves_5_1: -3999295078873993512
+      Blue Bodice Mid Sleeves_5_2: 2627375947892354549
+      Blue Bodice Mid Sleeves_5_3: -123888863045574858
+      Blue Bodice Mid Sleeves_5_4: 6479815599378117855
+      Blue Bodice Mid Sleeves_5_5: 4920690062769490522
+      Blue Bodice Mid Sleeves_5_6: -2208533820564132438
+      Blue Bodice Mid Sleeves_6: 5283270866185269140
+      Blue Bodice Mid Sleeves_60: -1276982739613554589
+      Blue Bodice Mid Sleeves_61: 8883238526277635183
+      Blue Bodice Mid Sleeves_62: 4475276380681341328
+      Blue Bodice Mid Sleeves_63: -1739872274928206799
+      Blue Bodice Mid Sleeves_64: 3437814155990974375
+      Blue Bodice Mid Sleeves_65: 8424774753441730742
+      Blue Bodice Mid Sleeves_66: -6810402534867200307
+      Blue Bodice Mid Sleeves_67: -7213573018669175486
+      Blue Bodice Mid Sleeves_68: 781122319590183522
+      Blue Bodice Mid Sleeves_69: -8901250967794592600
+      Blue Bodice Mid Sleeves_6_0: 4381114202063896896
+      Blue Bodice Mid Sleeves_6_1: 28841609652687003
+      Blue Bodice Mid Sleeves_6_2: 7573110009804153532
+      Blue Bodice Mid Sleeves_6_3: -2686532988545731345
+      Blue Bodice Mid Sleeves_6_4: 1510828505381449573
+      Blue Bodice Mid Sleeves_6_5: -4850796145368117255
+      Blue Bodice Mid Sleeves_6_6: -8348156382142339382
+      Blue Bodice Mid Sleeves_7: -8016770456944873370
+      Blue Bodice Mid Sleeves_7_0: 364630107386157397
+      Blue Bodice Mid Sleeves_7_1: 7779519286637081085
+      Blue Bodice Mid Sleeves_7_2: -4501830904585618702
+      Blue Bodice Mid Sleeves_7_3: -6709629013480609584
+      Blue Bodice Mid Sleeves_7_4: -5734085916034422171
+      Blue Bodice Mid Sleeves_7_5: -332057888154714690
+      Blue Bodice Mid Sleeves_7_6: -8035198856030755457
+      Blue Bodice Mid Sleeves_8: 9179049367937951381
+      Blue Bodice Mid Sleeves_8_0: -4864475570522188052
+      Blue Bodice Mid Sleeves_8_1: 3150861374314904470
+      Blue Bodice Mid Sleeves_8_2: -6517540967344430747
+      Blue Bodice Mid Sleeves_8_3: -1370343966081602231
+      Blue Bodice Mid Sleeves_8_4: -2149513028321010338
+      Blue Bodice Mid Sleeves_8_5: 215186104428149589
+      Blue Bodice Mid Sleeves_8_6: -7855498317674928620
+      Blue Bodice Mid Sleeves_9: 5565660509875460115
+      Blue Bodice Mid Sleeves_9_0: 6212708891075509247
+      Blue Bodice Mid Sleeves_9_1: 1284701464524352643
+      Blue Bodice Mid Sleeves_9_2: -1606287814960091393
+      Blue Bodice Mid Sleeves_9_3: -825538479125011845
+      Blue Bodice Mid Sleeves_9_4: -5063767902973291346
+      Blue Bodice Mid Sleeves_9_5: 5708349375973859197
+      Blue Bodice Mid Sleeves_9_6: 6259216380171817997
+      Blue Bodice Mid Sleeves_EMPTY_18: 7763563266998537552
+      Blue Bodice Mid Sleeves_EMPTY_19: -2494116162741907228
+      Blue Bodice Mid Sleeves_EMPTY_28: -1706777814838590474
+      Blue Bodice Mid Sleeves_EMPTY_29: -4213625166170365375
+      Blue Bodice Mid Sleeves_EMPTY_34: -2555885737972208870
+      Blue Bodice Mid Sleeves_EMPTY_35: -398360250652656515
+      Blue Bodice Mid Sleeves_EMPTY_36: 7715558434578003453
+      Blue Bodice Mid Sleeves_EMPTY_37: 2879969483699679398
+      Blue Bodice Mid Sleeves_EMPTY_38: 6254032501719237113
+      Blue Bodice Mid Sleeves_EMPTY_39: 2616476709890971261
+      Blue Bodice Mid Sleeves_EMPTY_44: 9019149354107691117
+      Blue Bodice Mid Sleeves_EMPTY_45: -6907843136095534195
+      Blue Bodice Mid Sleeves_EMPTY_46: -6942872940810462634
+      Blue Bodice Mid Sleeves_EMPTY_47: -5119182221629568491
+      Blue Bodice Mid Sleeves_EMPTY_48: -5852925789717980116
+      Blue Bodice Mid Sleeves_EMPTY_49: -9163188051834261149
+      Blue Bodice Mid Sleeves_EMPTY_5: -3845750787016472818
+      Blue Bodice Mid Sleeves_EMPTY_56: 3683529347174704396
+      Blue Bodice Mid Sleeves_EMPTY_57: 4920789767626283835
+      Blue Bodice Mid Sleeves_EMPTY_58: 620244992411237315
+      Blue Bodice Mid Sleeves_EMPTY_59: 7416937471295369753
+      Blue Bodice Mid Sleeves_EMPTY_6: -8581441441226781323
+      Blue Bodice Mid Sleeves_EMPTY_7: 2243291789254842806
+      Blue Bodice Mid Sleeves_EMPTY_8: -3096373488916870960
+      Blue Bodice Mid Sleeves_EMPTY_9: -6942306895861947582
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

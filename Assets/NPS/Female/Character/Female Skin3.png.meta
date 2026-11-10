@@ -1,0 +1,1769 @@
+fileFormatVersion: 2
+guid: fb1ac6e01f496164d82b0f1a2582aaf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1556678020265582991
+    second: Female Skin3_0
+  - first:
+      213: 2067202267365935906
+    second: Female Skin3_1
+  - first:
+      213: -3673175319137290281
+    second: Female Skin3_2
+  - first:
+      213: -9170621885781388793
+    second: Female Skin3_3
+  - first:
+      213: -5597029965294465025
+    second: Female Skin3_4
+  - first:
+      213: -4518372879674654545
+    second: Female Skin3_5
+  - first:
+      213: 1245418088326497863
+    second: Female Skin3_6
+  - first:
+      213: 1439167919097878312
+    second: Female Skin3_7
+  - first:
+      213: -9218025497970651999
+    second: Female Skin3_8
+  - first:
+      213: 3818271899096243385
+    second: Female Skin3_9
+  - first:
+      213: -9011785370619169206
+    second: Female Skin3_10
+  - first:
+      213: 8426572960152625489
+    second: Female Skin3_11
+  - first:
+      213: 7073626440911784793
+    second: Female Skin3_12
+  - first:
+      213: -8200575748600645917
+    second: Female Skin3_13
+  - first:
+      213: -4083333326303325733
+    second: Female Skin3_14
+  - first:
+      213: -1022876795165255523
+    second: Female Skin3_15
+  - first:
+      213: 1600321905955872627
+    second: Female Skin3_16
+  - first:
+      213: -4966098170028353796
+    second: Female Skin3_17
+  - first:
+      213: 7226072281237840636
+    second: Female Skin3_18
+  - first:
+      213: -1994866458808044590
+    second: Female Skin3_19
+  - first:
+      213: 2456426313528653893
+    second: Female Skin3_20
+  - first:
+      213: 303289319978321642
+    second: Female Skin3_21
+  - first:
+      213: -1495452216083334818
+    second: Female Skin3_22
+  - first:
+      213: -2894129518828361301
+    second: Female Skin3_23
+  - first:
+      213: -1033947549486897638
+    second: Female Skin3_24
+  - first:
+      213: 6035730365923723114
+    second: Female Skin3_25
+  - first:
+      213: 6083714172860803770
+    second: Female Skin3_26
+  - first:
+      213: -8159334590593343443
+    second: Female Skin3_27
+  - first:
+      213: 9090940790486301898
+    second: Female Skin3_28
+  - first:
+      213: -8042607546240781692
+    second: Female Skin3_29
+  - first:
+      213: 6337501733247780173
+    second: Female Skin3_30
+  - first:
+      213: -3379324567739461060
+    second: Female Skin3_31
+  - first:
+      213: -1105626608299030367
+    second: Female Skin3_32
+  - first:
+      213: 6552610674050393779
+    second: Female Skin3_33
+  - first:
+      213: 3292554275735854941
+    second: Female Skin3_34
+  - first:
+      213: 8325661319470282544
+    second: Female Skin3_35
+  - first:
+      213: 5267768469681115745
+    second: Female Skin3_36
+  - first:
+      213: -866212229979039506
+    second: Female Skin3_37
+  - first:
+      213: 6591351889108918315
+    second: Female Skin3_38
+  - first:
+      213: 2719104845941949325
+    second: Female Skin3_39
+  - first:
+      213: -1279496443578189521
+    second: Female Skin3_40
+  - first:
+      213: -4538158237792830195
+    second: Female Skin3_41
+  - first:
+      213: 6489725790075796115
+    second: Female Skin3_42
+  - first:
+      213: -8100207867866220016
+    second: Female Skin3_43
+  - first:
+      213: -9056901228918210826
+    second: Female Skin3_44
+  - first:
+      213: 7057164715428093637
+    second: Female Skin3_0_6
+  - first:
+      213: -969732618456334160
+    second: Female Skin3_1_6
+  - first:
+      213: 4024619901609160014
+    second: Female Skin3_2_6
+  - first:
+      213: 3004645983694924658
+    second: Female Skin3_3_6
+  - first:
+      213: -4029485589179120375
+    second: Female Skin3_4_6
+  - first:
+      213: 1700365627471554689
+    second: Female Skin3_5_6
+  - first:
+      213: -5247719545809263088
+    second: Female Skin3_6_6
+  - first:
+      213: 9174557377616094912
+    second: Female Skin3_7_6
+  - first:
+      213: 3164905279249271554
+    second: Female Skin3_8_6
+  - first:
+      213: -1214573653308550644
+    second: Female Skin3_9_6
+  - first:
+      213: 3642137061313850162
+    second: Female Skin3_0_5
+  - first:
+      213: -1155087085226656370
+    second: Female Skin3_1_5
+  - first:
+      213: -7319772514040548582
+    second: Female Skin3_2_5
+  - first:
+      213: -5402138590614655281
+    second: Female Skin3_3_5
+  - first:
+      213: -7020756364781163023
+    second: Female Skin3_4_5
+  - first:
+      213: 1555060203276383427
+    second: Female Skin3_5_5
+  - first:
+      213: -2468450698505078776
+    second: Female Skin3_6_5
+  - first:
+      213: -2479236894621221691
+    second: Female Skin3_7_5
+  - first:
+      213: 1041850137953135224
+    second: Female Skin3_8_5
+  - first:
+      213: 4295941914348111640
+    second: Female Skin3_9_5
+  - first:
+      213: -6582442561145368783
+    second: Female Skin3_0_4
+  - first:
+      213: -8907623392146598538
+    second: Female Skin3_1_4
+  - first:
+      213: -4148788164499481554
+    second: Female Skin3_2_4
+  - first:
+      213: 3996286250196589133
+    second: Female Skin3_3_4
+  - first:
+      213: -193794521740768720
+    second: Female Skin3_4_4
+  - first:
+      213: -5817834407967939354
+    second: Female Skin3_5_4
+  - first:
+      213: 2759670338901210813
+    second: Female Skin3_6_4
+  - first:
+      213: 6876752074251333577
+    second: Female Skin3_7_4
+  - first:
+      213: 666908797039333585
+    second: Female Skin3_8_4
+  - first:
+      213: 5520302117554375188
+    second: Female Skin3_9_4
+  - first:
+      213: -4431041919607033356
+    second: Female Skin3_0_3
+  - first:
+      213: 3289859850927670855
+    second: Female Skin3_1_3
+  - first:
+      213: 5740846499709059111
+    second: Female Skin3_2_3
+  - first:
+      213: 5061937824595742748
+    second: Female Skin3_3_3
+  - first:
+      213: -8215589198168793900
+    second: Female Skin3_4_3
+  - first:
+      213: -1158330758262607725
+    second: Female Skin3_5_3
+  - first:
+      213: -9152486224643516995
+    second: Female Skin3_6_3
+  - first:
+      213: -2443905206380970121
+    second: Female Skin3_7_3
+  - first:
+      213: 829244433515605697
+    second: Female Skin3_8_3
+  - first:
+      213: 7446058609978008016
+    second: Female Skin3_9_3
+  - first:
+      213: 4045032505589334106
+    second: Female Skin3_0_2
+  - first:
+      213: 7858483368574473228
+    second: Female Skin3_1_2
+  - first:
+      213: -2795366824823293746
+    second: Female Skin3_2_2
+  - first:
+      213: 2238445624478993235
+    second: Female Skin3_3_2
+  - first:
+      213: -355067673801768373
+    second: Female Skin3_4_2
+  - first:
+      213: -3659910686603946092
+    second: Female Skin3_5_2
+  - first:
+      213: -6784060828009334423
+    second: Female Skin3_6_2
+  - first:
+      213: 1834751880012219033
+    second: Female Skin3_7_2
+  - first:
+      213: 4321701637656722937
+    second: Female Skin3_8_2
+  - first:
+      213: 8645942912123487698
+    second: Female Skin3_9_2
+  - first:
+      213: -4553004200004792590
+    second: Female Skin3_0_1
+  - first:
+      213: -9111399288530084399
+    second: Female Skin3_1_1
+  - first:
+      213: 7975125030274764347
+    second: Female Skin3_2_1
+  - first:
+      213: -8223537808810044455
+    second: Female Skin3_3_1
+  - first:
+      213: 7818298439989033732
+    second: Female Skin3_4_1
+  - first:
+      213: 3525889987869717063
+    second: Female Skin3_5_1
+  - first:
+      213: 2746593851248715272
+    second: Female Skin3_6_1
+  - first:
+      213: -6720106804622288122
+    second: Female Skin3_7_1
+  - first:
+      213: -5301572127894509685
+    second: Female Skin3_8_1
+  - first:
+      213: 5762013213191818302
+    second: Female Skin3_9_1
+  - first:
+      213: -6498467589613486843
+    second: Female Skin3_0_0
+  - first:
+      213: -3556493706355123652
+    second: Female Skin3_1_0
+  - first:
+      213: 6853245737175803692
+    second: Female Skin3_2_0
+  - first:
+      213: -526592560883215020
+    second: Female Skin3_3_0
+  - first:
+      213: -3017822426146664522
+    second: Female Skin3_4_0
+  - first:
+      213: 6866534390627127342
+    second: Female Skin3_5_0
+  - first:
+      213: -608275924589783618
+    second: Female Skin3_6_0
+  - first:
+      213: 2575016364912780009
+    second: Female Skin3_7_0
+  - first:
+      213: -646213197024197429
+    second: Female Skin3_8_0
+  - first:
+      213: -4296492426543108918
+    second: Female Skin3_9_0
+  - first:
+      213: 2261700876288775891
+    second: Female Skin3_45
+  - first:
+      213: -4237512576131552744
+    second: Female Skin3_46
+  - first:
+      213: 1690029778257682991
+    second: Female Skin3_47
+  - first:
+      213: -2736920848382102360
+    second: Female Skin3_48
+  - first:
+      213: 6260256490445608696
+    second: Female Skin3_49
+  - first:
+      213: 8760950788851676899
+    second: Female Skin3_50
+  - first:
+      213: 3130603475602089980
+    second: Female Skin3_51
+  - first:
+      213: 6615581369083612832
+    second: Female Skin3_52
+  - first:
+      213: 2499541094350712771
+    second: Female Skin3_53
+  - first:
+      213: -3793990441489583186
+    second: Female Skin3_54
+  - first:
+      213: -6534069863510549986
+    second: Female Skin3_55
+  - first:
+      213: -892939141574397151
+    second: Female Skin3_56
+  - first:
+      213: -7810278404657551243
+    second: Female Skin3_57
+  - first:
+      213: 4245102884750109131
+    second: Female Skin3_58
+  - first:
+      213: -2669673175511388237
+    second: Female Skin3_59
+  - first:
+      213: -2942100931394745904
+    second: Female Skin3_60
+  - first:
+      213: 5833972946428104442
+    second: Female Skin3_61
+  - first:
+      213: 6987300273674950320
+    second: Female Skin3_62
+  - first:
+      213: -1099404291446992843
+    second: Female Skin3_63
+  - first:
+      213: 672517669849547398
+    second: Female Skin3_64
+  - first:
+      213: 1617523781195552615
+    second: Female Skin3_65
+  - first:
+      213: 136679314438254500
+    second: Female Skin3_66
+  - first:
+      213: 3623182323010625294
+    second: Female Skin3_67
+  - first:
+      213: 1877666989484450615
+    second: Female Skin3_68
+  - first:
+      213: -6807352790478205851
+    second: Female Skin3_69
+  - first:
+      213: -7959626936667975867
+    second: Female Skin3_EMPTY_5
+  - first:
+      213: -6432196593996251188
+    second: Female Skin3_EMPTY_6
+  - first:
+      213: -5334520968734814353
+    second: Female Skin3_EMPTY_7
+  - first:
+      213: -3952950518961374165
+    second: Female Skin3_EMPTY_8
+  - first:
+      213: 8377035970127602852
+    second: Female Skin3_EMPTY_9
+  - first:
+      213: -3183031894360140976
+    second: Female Skin3_EMPTY_18
+  - first:
+      213: 6789756807541718141
+    second: Female Skin3_EMPTY_19
+  - first:
+      213: -6797489972325788259
+    second: Female Skin3_EMPTY_28
+  - first:
+      213: -2121915712153636395
+    second: Female Skin3_EMPTY_29
+  - first:
+      213: -6616050742746545465
+    second: Female Skin3_EMPTY_34
+  - first:
+      213: -4496270829930756866
+    second: Female Skin3_EMPTY_35
+  - first:
+      213: 2821468409215005969
+    second: Female Skin3_EMPTY_36
+  - first:
+      213: -535243873377405967
+    second: Female Skin3_EMPTY_37
+  - first:
+      213: 186369979083422481
+    second: Female Skin3_EMPTY_38
+  - first:
+      213: 2646188744457297998
+    second: Female Skin3_EMPTY_39
+  - first:
+      213: -14474249302177171
+    second: Female Skin3_EMPTY_44
+  - first:
+      213: 5958835218860948636
+    second: Female Skin3_EMPTY_45
+  - first:
+      213: -688997480979425207
+    second: Female Skin3_EMPTY_46
+  - first:
+      213: -719026041741631716
+    second: Female Skin3_EMPTY_47
+  - first:
+      213: -552435324028114112
+    second: Female Skin3_EMPTY_48
+  - first:
+      213: 3202742653372929239
+    second: Female Skin3_EMPTY_49
+  - first:
+      213: 3182349666494217842
+    second: Female Skin3_EMPTY_56
+  - first:
+      213: -8216787458005058453
+    second: Female Skin3_EMPTY_57
+  - first:
+      213: -5416534570924880037
+    second: Female Skin3_EMPTY_58
+  - first:
+      213: -8029425865873571201
+    second: Female Skin3_EMPTY_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female Skin3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81a69b696e6a9510800000000000000
+      internalID: 1556678020265582991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b8a39728d20bc10800000000000000
+      internalID: 2067202267365935906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7f6113282460dc0800000000000000
+      internalID: -3673175319137290281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702d390abf76bb080800000000000000
+      internalID: -9170621885781388793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff0861a6ea5352b0800000000000000
+      internalID: -5597029965294465025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0cb382ec38b41c0800000000000000
+      internalID: -4518372879674654545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7460c8f172d984110800000000000000
+      internalID: 1245418088326497863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82797fde893f8f310800000000000000
+      internalID: 1439167919097878312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac47f616aef21080800000000000000
+      internalID: -9218025497970651999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcdc79ef0a3df430800000000000000
+      internalID: 3818271899096243385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46be20b3f4bfe280800000000000000
+      internalID: -9011785370619169206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1512fcb167331f470800000000000000
+      internalID: 8426572960152625489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_12
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b8b5435c19a2260800000000000000
+      internalID: 7073626440911784793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6b9fe1ec3b13e80800000000000000
+      internalID: -8200575748600645917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd11d2269f51557c0800000000000000
+      internalID: -4083333326303325733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d985f2769f20ec1f0800000000000000
+      internalID: -1022876795165255523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f96ca6b4c753610800000000000000
+      internalID: 1600321905955872627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf61ebf9600e41bb0800000000000000
+      internalID: -4966098170028353796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf26a74547a284460800000000000000
+      internalID: 7226072281237840636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3b764668fc054e0800000000000000
+      internalID: -1994866458808044590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_20
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5483ccaa7baf61220800000000000000
+      internalID: 2456426313528653893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae64a759700853400800000000000000
+      internalID: 303289319978321642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5938c9f1261f3be0800000000000000
+      internalID: -1495452216083334818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba96340598cf5d7d0800000000000000
+      internalID: -2894129518828361301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16a27c8e2ea6a1f0800000000000000
+      internalID: -1033947549486897638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a670ce40ac833c350800000000000000
+      internalID: 6035730365923723114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaa06caec1bd6450800000000000000
+      internalID: 6083714172860803770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20602c7b6834ce80800000000000000
+      internalID: -8159334590593343443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc7b0bab72892e70800000000000000
+      internalID: 9090940790486301898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482317a5c0be26090800000000000000
+      internalID: -8042607546240781692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4508a5bf3453f750800000000000000
+      internalID: 6337501733247780173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c329327c53a3a11d0800000000000000
+      internalID: -3379324567739461060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8cd16257608a0f0800000000000000
+      internalID: -1105626608299030367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6e43ad0bc8fea50800000000000000
+      internalID: 6552610674050393779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fdde84ba081bd20800000000000000
+      internalID: 3292554275735854941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0377c3bdbd0ba8370800000000000000
+      internalID: 8325661319470282544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162985a638fda1940800000000000000
+      internalID: 5267768469681115745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee81004f0989af3f0800000000000000
+      internalID: -866212229979039506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20efe3ee9f297b50800000000000000
+      internalID: 6591351889108918315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83c96173733cb520800000000000000
+      internalID: 2719104845941949325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29752d73c05e3ee0800000000000000
+      internalID: -1279496443578189521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d78dd70293501c0800000000000000
+      internalID: -4538158237792830195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_42
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ab827d833201a50800000000000000
+      internalID: 6489725790075796115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a72056cd7469f80800000000000000
+      internalID: -8100207867866220016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin3_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fef78c515c6f4280800000000000000
+      internalID: -9056901228918210826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Female Skin3_0: 1556678020265582991
+      Female Skin3_0_0: -6498467589613486843
+      Female Skin3_0_1: -4553004200004792590
+      Female Skin3_0_2: 4045032505589334106
+      Female Skin3_0_3: -4431041919607033356
+      Female Skin3_0_4: -6582442561145368783
+      Female Skin3_0_5: 3642137061313850162
+      Female Skin3_0_6: 7057164715428093637
+      Female Skin3_1: 2067202267365935906
+      Female Skin3_10: -9011785370619169206
+      Female Skin3_11: 8426572960152625489
+      Female Skin3_12: 7073626440911784793
+      Female Skin3_13: -8200575748600645917
+      Female Skin3_14: -4083333326303325733
+      Female Skin3_15: -1022876795165255523
+      Female Skin3_16: 1600321905955872627
+      Female Skin3_17: -4966098170028353796
+      Female Skin3_18: 7226072281237840636
+      Female Skin3_19: -1994866458808044590
+      Female Skin3_1_0: -3556493706355123652
+      Female Skin3_1_1: -9111399288530084399
+      Female Skin3_1_2: 7858483368574473228
+      Female Skin3_1_3: 3289859850927670855
+      Female Skin3_1_4: -8907623392146598538
+      Female Skin3_1_5: -1155087085226656370
+      Female Skin3_1_6: -969732618456334160
+      Female Skin3_2: -3673175319137290281
+      Female Skin3_20: 2456426313528653893
+      Female Skin3_21: 303289319978321642
+      Female Skin3_22: -1495452216083334818
+      Female Skin3_23: -2894129518828361301
+      Female Skin3_24: -1033947549486897638
+      Female Skin3_25: 6035730365923723114
+      Female Skin3_26: 6083714172860803770
+      Female Skin3_27: -8159334590593343443
+      Female Skin3_28: 9090940790486301898
+      Female Skin3_29: -8042607546240781692
+      Female Skin3_2_0: 6853245737175803692
+      Female Skin3_2_1: 7975125030274764347
+      Female Skin3_2_2: -2795366824823293746
+      Female Skin3_2_3: 5740846499709059111
+      Female Skin3_2_4: -4148788164499481554
+      Female Skin3_2_5: -7319772514040548582
+      Female Skin3_2_6: 4024619901609160014
+      Female Skin3_3: -9170621885781388793
+      Female Skin3_30: 6337501733247780173
+      Female Skin3_31: -3379324567739461060
+      Female Skin3_32: -1105626608299030367
+      Female Skin3_33: 6552610674050393779
+      Female Skin3_34: 3292554275735854941
+      Female Skin3_35: 8325661319470282544
+      Female Skin3_36: 5267768469681115745
+      Female Skin3_37: -866212229979039506
+      Female Skin3_38: 6591351889108918315
+      Female Skin3_39: 2719104845941949325
+      Female Skin3_3_0: -526592560883215020
+      Female Skin3_3_1: -8223537808810044455
+      Female Skin3_3_2: 2238445624478993235
+      Female Skin3_3_3: 5061937824595742748
+      Female Skin3_3_4: 3996286250196589133
+      Female Skin3_3_5: -5402138590614655281
+      Female Skin3_3_6: 3004645983694924658
+      Female Skin3_4: -5597029965294465025
+      Female Skin3_40: -1279496443578189521
+      Female Skin3_41: -4538158237792830195
+      Female Skin3_42: 6489725790075796115
+      Female Skin3_43: -8100207867866220016
+      Female Skin3_44: -9056901228918210826
+      Female Skin3_45: 2261700876288775891
+      Female Skin3_46: -4237512576131552744
+      Female Skin3_47: 1690029778257682991
+      Female Skin3_48: -2736920848382102360
+      Female Skin3_49: 6260256490445608696
+      Female Skin3_4_0: -3017822426146664522
+      Female Skin3_4_1: 7818298439989033732
+      Female Skin3_4_2: -355067673801768373
+      Female Skin3_4_3: -8215589198168793900
+      Female Skin3_4_4: -193794521740768720
+      Female Skin3_4_5: -7020756364781163023
+      Female Skin3_4_6: -4029485589179120375
+      Female Skin3_5: -4518372879674654545
+      Female Skin3_50: 8760950788851676899
+      Female Skin3_51: 3130603475602089980
+      Female Skin3_52: 6615581369083612832
+      Female Skin3_53: 2499541094350712771
+      Female Skin3_54: -3793990441489583186
+      Female Skin3_55: -6534069863510549986
+      Female Skin3_56: -892939141574397151
+      Female Skin3_57: -7810278404657551243
+      Female Skin3_58: 4245102884750109131
+      Female Skin3_59: -2669673175511388237
+      Female Skin3_5_0: 6866534390627127342
+      Female Skin3_5_1: 3525889987869717063
+      Female Skin3_5_2: -3659910686603946092
+      Female Skin3_5_3: -1158330758262607725
+      Female Skin3_5_4: -5817834407967939354
+      Female Skin3_5_5: 1555060203276383427
+      Female Skin3_5_6: 1700365627471554689
+      Female Skin3_6: 1245418088326497863
+      Female Skin3_60: -2942100931394745904
+      Female Skin3_61: 5833972946428104442
+      Female Skin3_62: 6987300273674950320
+      Female Skin3_63: -1099404291446992843
+      Female Skin3_64: 672517669849547398
+      Female Skin3_65: 1617523781195552615
+      Female Skin3_66: 136679314438254500
+      Female Skin3_67: 3623182323010625294
+      Female Skin3_68: 1877666989484450615
+      Female Skin3_69: -6807352790478205851
+      Female Skin3_6_0: -608275924589783618
+      Female Skin3_6_1: 2746593851248715272
+      Female Skin3_6_2: -6784060828009334423
+      Female Skin3_6_3: -9152486224643516995
+      Female Skin3_6_4: 2759670338901210813
+      Female Skin3_6_5: -2468450698505078776
+      Female Skin3_6_6: -5247719545809263088
+      Female Skin3_7: 1439167919097878312
+      Female Skin3_7_0: 2575016364912780009
+      Female Skin3_7_1: -6720106804622288122
+      Female Skin3_7_2: 1834751880012219033
+      Female Skin3_7_3: -2443905206380970121
+      Female Skin3_7_4: 6876752074251333577
+      Female Skin3_7_5: -2479236894621221691
+      Female Skin3_7_6: 9174557377616094912
+      Female Skin3_8: -9218025497970651999
+      Female Skin3_8_0: -646213197024197429
+      Female Skin3_8_1: -5301572127894509685
+      Female Skin3_8_2: 4321701637656722937
+      Female Skin3_8_3: 829244433515605697
+      Female Skin3_8_4: 666908797039333585
+      Female Skin3_8_5: 1041850137953135224
+      Female Skin3_8_6: 3164905279249271554
+      Female Skin3_9: 3818271899096243385
+      Female Skin3_9_0: -4296492426543108918
+      Female Skin3_9_1: 5762013213191818302
+      Female Skin3_9_2: 8645942912123487698
+      Female Skin3_9_3: 7446058609978008016
+      Female Skin3_9_4: 5520302117554375188
+      Female Skin3_9_5: 4295941914348111640
+      Female Skin3_9_6: -1214573653308550644
+      Female Skin3_EMPTY_18: -3183031894360140976
+      Female Skin3_EMPTY_19: 6789756807541718141
+      Female Skin3_EMPTY_28: -6797489972325788259
+      Female Skin3_EMPTY_29: -2121915712153636395
+      Female Skin3_EMPTY_34: -6616050742746545465
+      Female Skin3_EMPTY_35: -4496270829930756866
+      Female Skin3_EMPTY_36: 2821468409215005969
+      Female Skin3_EMPTY_37: -535243873377405967
+      Female Skin3_EMPTY_38: 186369979083422481
+      Female Skin3_EMPTY_39: 2646188744457297998
+      Female Skin3_EMPTY_44: -14474249302177171
+      Female Skin3_EMPTY_45: 5958835218860948636
+      Female Skin3_EMPTY_46: -688997480979425207
+      Female Skin3_EMPTY_47: -719026041741631716
+      Female Skin3_EMPTY_48: -552435324028114112
+      Female Skin3_EMPTY_49: 3202742653372929239
+      Female Skin3_EMPTY_5: -7959626936667975867
+      Female Skin3_EMPTY_56: 3182349666494217842
+      Female Skin3_EMPTY_57: -8216787458005058453
+      Female Skin3_EMPTY_58: -5416534570924880037
+      Female Skin3_EMPTY_59: -8029425865873571201
+      Female Skin3_EMPTY_6: -6432196593996251188
+      Female Skin3_EMPTY_7: -5334520968734814353
+      Female Skin3_EMPTY_8: -3952950518961374165
+      Female Skin3_EMPTY_9: 8377035970127602852
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

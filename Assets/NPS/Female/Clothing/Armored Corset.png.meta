@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: 1bc9ba7d6a804e74dbb66af119a435cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4890379674323791027
+    second: Armored Corset_0
+  - first:
+      213: -282269424518787705
+    second: Armored Corset_1
+  - first:
+      213: 7875685723431725872
+    second: Armored Corset_2
+  - first:
+      213: -1161187450628840829
+    second: Armored Corset_3
+  - first:
+      213: -3863766948749481629
+    second: Armored Corset_4
+  - first:
+      213: 2731927029046078937
+    second: Armored Corset_5
+  - first:
+      213: 5236916682225111102
+    second: Armored Corset_6
+  - first:
+      213: -6216828729944105465
+    second: Armored Corset_7
+  - first:
+      213: -5596331052072749463
+    second: Armored Corset_8
+  - first:
+      213: -6968909597045579734
+    second: Armored Corset_9
+  - first:
+      213: 4796767458287816259
+    second: Armored Corset_10
+  - first:
+      213: -3780221665820158677
+    second: Armored Corset_11
+  - first:
+      213: -8835706261613019979
+    second: Armored Corset_12
+  - first:
+      213: 3027495297413162800
+    second: Armored Corset_13
+  - first:
+      213: 2498768367051530724
+    second: Armored Corset_14
+  - first:
+      213: -8544894913315148795
+    second: Armored Corset_15
+  - first:
+      213: 5830594846779781008
+    second: Armored Corset_16
+  - first:
+      213: 4234491558069829961
+    second: Armored Corset_17
+  - first:
+      213: 6844567451098693126
+    second: Armored Corset_18
+  - first:
+      213: 8588880701080445139
+    second: Armored Corset_19
+  - first:
+      213: 7503306733257426715
+    second: Armored Corset_20
+  - first:
+      213: -8627606253585964339
+    second: Armored Corset_21
+  - first:
+      213: -1988716588106276501
+    second: Armored Corset_22
+  - first:
+      213: 8357029159268934595
+    second: Armored Corset_23
+  - first:
+      213: -3760172450126665258
+    second: Armored Corset_24
+  - first:
+      213: -9075937673323662014
+    second: Armored Corset_25
+  - first:
+      213: 3568562094492279919
+    second: Armored Corset_26
+  - first:
+      213: -7030476117113213448
+    second: Armored Corset_27
+  - first:
+      213: 1522008963447739369
+    second: Armored Corset_28
+  - first:
+      213: -5279951145912515093
+    second: Armored Corset_29
+  - first:
+      213: -2684919881261195074
+    second: Armored Corset_30
+  - first:
+      213: 995493747724036424
+    second: Armored Corset_31
+  - first:
+      213: 1713481613081715276
+    second: Armored Corset_32
+  - first:
+      213: -2010784269420191794
+    second: Armored Corset_33
+  - first:
+      213: 5125240494598544342
+    second: Armored Corset_34
+  - first:
+      213: 5022680451975072852
+    second: Armored Corset_35
+  - first:
+      213: -4502367679724698218
+    second: Armored Corset_36
+  - first:
+      213: -8585252359325182225
+    second: Armored Corset_37
+  - first:
+      213: 5952341960015154359
+    second: Armored Corset_38
+  - first:
+      213: -8518598448222520245
+    second: Armored Corset_39
+  - first:
+      213: -2525762026384013668
+    second: Armored Corset_40
+  - first:
+      213: 1608445659151848584
+    second: Armored Corset_41
+  - first:
+      213: 2225050976398725778
+    second: Armored Corset_42
+  - first:
+      213: 1768274276639739589
+    second: Armored Corset_43
+  - first:
+      213: -3649368401359396253
+    second: Armored Corset_44
+  - first:
+      213: -4197473707183651807
+    second: Armored Corset_45
+  - first:
+      213: 855915609063246599
+    second: Armored Corset_46
+  - first:
+      213: 7403420240012261177
+    second: Armored Corset_47
+  - first:
+      213: 7232262510124061335
+    second: Armored Corset_48
+  - first:
+      213: 494419355905844149
+    second: Armored Corset_49
+  - first:
+      213: -4342342190139883480
+    second: Armored Corset_0_6
+  - first:
+      213: -5310215936291469137
+    second: Armored Corset_1_6
+  - first:
+      213: 5104560366698630982
+    second: Armored Corset_2_6
+  - first:
+      213: -4527808919298408768
+    second: Armored Corset_3_6
+  - first:
+      213: -4871036786082303490
+    second: Armored Corset_4_6
+  - first:
+      213: 3816854518653027941
+    second: Armored Corset_5_6
+  - first:
+      213: 5477862716749467161
+    second: Armored Corset_6_6
+  - first:
+      213: -181938488861617032
+    second: Armored Corset_7_6
+  - first:
+      213: -4050717723775339817
+    second: Armored Corset_8_6
+  - first:
+      213: -8213271916177242998
+    second: Armored Corset_9_6
+  - first:
+      213: -1303059193489789335
+    second: Armored Corset_0_5
+  - first:
+      213: 5915488436006464248
+    second: Armored Corset_1_5
+  - first:
+      213: 1604983865227749141
+    second: Armored Corset_2_5
+  - first:
+      213: -9054948481719159317
+    second: Armored Corset_3_5
+  - first:
+      213: -4938018997648743739
+    second: Armored Corset_4_5
+  - first:
+      213: -3533146947882050484
+    second: Armored Corset_5_5
+  - first:
+      213: -3390081850077252042
+    second: Armored Corset_6_5
+  - first:
+      213: -5123575056667420115
+    second: Armored Corset_7_5
+  - first:
+      213: -4172968011544598186
+    second: Armored Corset_8_5
+  - first:
+      213: 5830797551433657090
+    second: Armored Corset_9_5
+  - first:
+      213: 2428036039895957424
+    second: Armored Corset_0_4
+  - first:
+      213: 7444106461460880606
+    second: Armored Corset_1_4
+  - first:
+      213: 35549028023795443
+    second: Armored Corset_2_4
+  - first:
+      213: -2136145279320195681
+    second: Armored Corset_3_4
+  - first:
+      213: -8926613294502462200
+    second: Armored Corset_4_4
+  - first:
+      213: 8935375194112062748
+    second: Armored Corset_5_4
+  - first:
+      213: 3290461179869462602
+    second: Armored Corset_6_4
+  - first:
+      213: 7344959936884940447
+    second: Armored Corset_7_4
+  - first:
+      213: -8862740809478224892
+    second: Armored Corset_8_4
+  - first:
+      213: -796926018526156975
+    second: Armored Corset_9_4
+  - first:
+      213: -8180465151414035415
+    second: Armored Corset_0_3
+  - first:
+      213: -1710603994968132904
+    second: Armored Corset_1_3
+  - first:
+      213: 8573030010158623901
+    second: Armored Corset_2_3
+  - first:
+      213: -186446602111744062
+    second: Armored Corset_3_3
+  - first:
+      213: 870285391840685321
+    second: Armored Corset_4_3
+  - first:
+      213: 8299028708279225191
+    second: Armored Corset_5_3
+  - first:
+      213: 7512731664850235937
+    second: Armored Corset_6_3
+  - first:
+      213: -4103244629236005145
+    second: Armored Corset_7_3
+  - first:
+      213: -5534814825532398933
+    second: Armored Corset_8_3
+  - first:
+      213: -4592609841215535383
+    second: Armored Corset_9_3
+  - first:
+      213: -5648902985240584244
+    second: Armored Corset_0_2
+  - first:
+      213: 8409731548137781192
+    second: Armored Corset_1_2
+  - first:
+      213: -5401751734338139190
+    second: Armored Corset_2_2
+  - first:
+      213: -4117965111300265831
+    second: Armored Corset_3_2
+  - first:
+      213: 6111924837745702658
+    second: Armored Corset_4_2
+  - first:
+      213: -4537053848689911508
+    second: Armored Corset_5_2
+  - first:
+      213: -1831443432215965764
+    second: Armored Corset_6_2
+  - first:
+      213: -1663845628631470658
+    second: Armored Corset_7_2
+  - first:
+      213: 6323551927049275878
+    second: Armored Corset_8_2
+  - first:
+      213: -1109348524700054433
+    second: Armored Corset_9_2
+  - first:
+      213: -7842929782940589884
+    second: Armored Corset_0_1
+  - first:
+      213: 7018070817575746562
+    second: Armored Corset_1_1
+  - first:
+      213: 5877961486525466830
+    second: Armored Corset_2_1
+  - first:
+      213: -408528227353234063
+    second: Armored Corset_3_1
+  - first:
+      213: -2824095982258377887
+    second: Armored Corset_4_1
+  - first:
+      213: 5253711595399511373
+    second: Armored Corset_5_1
+  - first:
+      213: -6363163068260025641
+    second: Armored Corset_6_1
+  - first:
+      213: -8643977057754574468
+    second: Armored Corset_7_1
+  - first:
+      213: 978353970513864662
+    second: Armored Corset_8_1
+  - first:
+      213: 2197433131184673790
+    second: Armored Corset_9_1
+  - first:
+      213: -8348055915173192468
+    second: Armored Corset_0_0
+  - first:
+      213: -5044451311456149367
+    second: Armored Corset_1_0
+  - first:
+      213: -1382464362827962367
+    second: Armored Corset_2_0
+  - first:
+      213: -2292460620896423589
+    second: Armored Corset_3_0
+  - first:
+      213: -7245913673867160637
+    second: Armored Corset_4_0
+  - first:
+      213: -4855954871487635418
+    second: Armored Corset_5_0
+  - first:
+      213: 923664582916050839
+    second: Armored Corset_6_0
+  - first:
+      213: -6845476832735306034
+    second: Armored Corset_7_0
+  - first:
+      213: -7177147310858020326
+    second: Armored Corset_8_0
+  - first:
+      213: 6595029199090179228
+    second: Armored Corset_9_0
+  - first:
+      213: 7206338893823469628
+    second: Armored Corset_EMPTY_5
+  - first:
+      213: 4993580407491431524
+    second: Armored Corset_EMPTY_6
+  - first:
+      213: -6426140442911617234
+    second: Armored Corset_EMPTY_7
+  - first:
+      213: 3441475157507620262
+    second: Armored Corset_EMPTY_8
+  - first:
+      213: -3014581111630878688
+    second: Armored Corset_EMPTY_9
+  - first:
+      213: 2375830690178440117
+    second: Armored Corset_EMPTY_18
+  - first:
+      213: -7866545018945452124
+    second: Armored Corset_EMPTY_19
+  - first:
+      213: 532880219476905967
+    second: Armored Corset_EMPTY_28
+  - first:
+      213: -7035832628104326459
+    second: Armored Corset_EMPTY_29
+  - first:
+      213: 3273016951326232496
+    second: Armored Corset_EMPTY_34
+  - first:
+      213: 2081482884150384230
+    second: Armored Corset_EMPTY_35
+  - first:
+      213: 7629290299989925401
+    second: Armored Corset_EMPTY_36
+  - first:
+      213: 5308407584391262776
+    second: Armored Corset_EMPTY_37
+  - first:
+      213: -8748214160019525710
+    second: Armored Corset_EMPTY_38
+  - first:
+      213: 3689740180169153699
+    second: Armored Corset_EMPTY_39
+  - first:
+      213: 3034770119745325802
+    second: Armored Corset_EMPTY_44
+  - first:
+      213: 1072628974851246805
+    second: Armored Corset_EMPTY_45
+  - first:
+      213: 5620976882988669950
+    second: Armored Corset_EMPTY_46
+  - first:
+      213: -8591816553690179634
+    second: Armored Corset_EMPTY_47
+  - first:
+      213: -5685959564204069454
+    second: Armored Corset_EMPTY_48
+  - first:
+      213: 1883695879386567037
+    second: Armored Corset_EMPTY_49
+  - first:
+      213: -6177451890964321886
+    second: Armored Corset_50
+  - first:
+      213: 3671980859649604292
+    second: Armored Corset_51
+  - first:
+      213: 2585508103062795138
+    second: Armored Corset_52
+  - first:
+      213: 2624419054736707102
+    second: Armored Corset_53
+  - first:
+      213: -8836283688812127097
+    second: Armored Corset_54
+  - first:
+      213: 9142355727569841685
+    second: Armored Corset_55
+  - first:
+      213: -3544975062009945263
+    second: Armored Corset_EMPTY_56
+  - first:
+      213: -7808940921377775006
+    second: Armored Corset_EMPTY_57
+  - first:
+      213: 3601577977738896223
+    second: Armored Corset_EMPTY_58
+  - first:
+      213: -9203178274030810412
+    second: Armored Corset_EMPTY_59
+  - first:
+      213: 680920497392194945
+    second: Armored Corset_60
+  - first:
+      213: 7804965136472423069
+    second: Armored Corset_61
+  - first:
+      213: 1312709421124605230
+    second: Armored Corset_62
+  - first:
+      213: -1484436704686308881
+    second: Armored Corset_63
+  - first:
+      213: 6350066415148261391
+    second: Armored Corset_64
+  - first:
+      213: 7641165145698330534
+    second: Armored Corset_65
+  - first:
+      213: -7046695169477063205
+    second: Armored Corset_66
+  - first:
+      213: -6903979246922114598
+    second: Armored Corset_67
+  - first:
+      213: -2306773231389508763
+    second: Armored Corset_68
+  - first:
+      213: -6244862726152942662
+    second: Armored Corset_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Armored Corset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc2cd8476e1ed340800000000000000
+      internalID: 4890379674323791027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d8a94347d251cf0800000000000000
+      internalID: -282269424518787705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b63c3307e0c4d60800000000000000
+      internalID: 7875685723431725872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38260a77a22a2efe0800000000000000
+      internalID: -1161187450628840829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36964e46e64216ac0800000000000000
+      internalID: -3863766948749481629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38ed690b0f020460800000000000000
+      internalID: 7206338893823469628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c80e96ce2cc4540800000000000000
+      internalID: 4993580407491431524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f4b777053c1d6a0800000000000000
+      internalID: -6426140442911617234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adb29a0c6392cf20800000000000000
+      internalID: 3441475157507620262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028a3ae637e0a26d0800000000000000
+      internalID: -3014581111630878688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e0665c69a819240800000000000000
+      internalID: 4796767458287816259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25dd846c64f98bc0800000000000000
+      internalID: -3780221665820158677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc7cd8f7f3416580800000000000000
+      internalID: -8835706261613019979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0372a71cee2d30a20800000000000000
+      internalID: 3027495297413162800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1e61e37986da220800000000000000
+      internalID: 2498768367051530724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ceec0695f6a6980800000000000000
+      internalID: -8544894913315148795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f288f0f1f6ae050800000000000000
+      internalID: 5830594846779781008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941842303afe3ca30800000000000000
+      internalID: 4234491558069829961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb9e8ecc65a8f020800000000000000
+      internalID: 2375830690178440117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a74328ebfa64d290800000000000000
+      internalID: -7866545018945452124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b170b9c38b9112860800000000000000
+      internalID: 7503306733257426715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2e119c2d5944880800000000000000
+      internalID: -8627606253585964339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61affebcc8a664e0800000000000000
+      internalID: -1988716588106276501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c36ecf2eb12af370800000000000000
+      internalID: 8357029159268934595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d96dff241f21dbc0800000000000000
+      internalID: -3760172450126665258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24535f1c5cacb0280800000000000000
+      internalID: -9075937673323662014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64e2216154168130800000000000000
+      internalID: 3568562094492279919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd6995783bbe6e90800000000000000
+      internalID: -7030476117113213448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefc0cd7cbb256700800000000000000
+      internalID: 532880219476905967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c21dbe8083bb5e90800000000000000
+      internalID: -7035832628104326459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0ea03e79f3dbad0800000000000000
+      internalID: -2684919881261195074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849a6390a44b0dd00800000000000000
+      internalID: 995493747724036424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4226ecd27287c710800000000000000
+      internalID: 1713481613081715276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf144d4c524814e0800000000000000
+      internalID: -2010784269420191794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfc1a773971c6d20800000000000000
+      internalID: 3273016951326232496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666d6dba7a9e2ec10800000000000000
+      internalID: 2081482884150384230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e9b3b2b1fa0e960800000000000000
+      internalID: 7629290299989925401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83271a6a2904ba940800000000000000
+      internalID: 5308407584391262776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf6efc4299189680800000000000000
+      internalID: -8748214160019525710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acd7701527943330800000000000000
+      internalID: 3689740180169153699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96c53ea1d0b2fcd0800000000000000
+      internalID: -2525762026384013668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884d34a1ec8525610800000000000000
+      internalID: 1608445659151848584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292d16ff218f0ee10800000000000000
+      internalID: 2225050976398725778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce829cf51c2a8810800000000000000
+      internalID: 1768274276639739589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeac362585bad1a20800000000000000
+      internalID: 3034770119745325802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dacccd9e5eb2ee00800000000000000
+      internalID: 1072628974851246805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbd831a1b8b10e40800000000000000
+      internalID: 5620976882988669950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7d9f5ad5cb3c880800000000000000
+      internalID: -8591816553690179634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bda160e6e96711b0800000000000000
+      internalID: -5685959564204069454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7114bb0c6b342a10800000000000000
+      internalID: 1883695879386567037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9a1061c38454aa0800000000000000
+      internalID: -6177451890964321886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cab279032f75f230800000000000000
+      internalID: 3671980859649604292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283b3fecbe191e320800000000000000
+      internalID: 2585508103062795138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e095bb93fcb6420800000000000000
+      internalID: 2624419054736707102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c56c93dc63f5580800000000000000
+      internalID: -8836283688812127097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51eee00981c20ee70800000000000000
+      internalID: 9142355727569841685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153674396f7bdcec0800000000000000
+      internalID: -3544975062009945263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26224450b9111a390800000000000000
+      internalID: -7808940921377775006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f532ff9b6106bf130800000000000000
+      internalID: 3601577977738896223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da0dcbce1eb74080800000000000000
+      internalID: -9203178274030810412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185185fa59d137900800000000000000
+      internalID: 680920497392194945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a3fbb607ec05c60800000000000000
+      internalID: 7804965136472423069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25d073734ea73210800000000000000
+      internalID: 1312709421124605230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe10f959ea8366be0800000000000000
+      internalID: -1484436704686308881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00ec0fa2c7ff1850800000000000000
+      internalID: 6350066415148261391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7e173273fda0a60800000000000000
+      internalID: 7641165145698330534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddcbde041c153e90800000000000000
+      internalID: -7046695169477063205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9d98a24732030a0800000000000000
+      internalID: -6903979246922114598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bf5a5c7f1bcffd0800000000000000
+      internalID: -2306773231389508763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Corset_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb8390ff6ac559a0800000000000000
+      internalID: -6244862726152942662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Armored Corset_0: 4890379674323791027
+      Armored Corset_0_0: -8348055915173192468
+      Armored Corset_0_1: -7842929782940589884
+      Armored Corset_0_2: -5648902985240584244
+      Armored Corset_0_3: -8180465151414035415
+      Armored Corset_0_4: 2428036039895957424
+      Armored Corset_0_5: -1303059193489789335
+      Armored Corset_0_6: -4342342190139883480
+      Armored Corset_1: -282269424518787705
+      Armored Corset_10: 4796767458287816259
+      Armored Corset_11: -3780221665820158677
+      Armored Corset_12: -8835706261613019979
+      Armored Corset_13: 3027495297413162800
+      Armored Corset_14: 2498768367051530724
+      Armored Corset_15: -8544894913315148795
+      Armored Corset_16: 5830594846779781008
+      Armored Corset_17: 4234491558069829961
+      Armored Corset_18: 6844567451098693126
+      Armored Corset_19: 8588880701080445139
+      Armored Corset_1_0: -5044451311456149367
+      Armored Corset_1_1: 7018070817575746562
+      Armored Corset_1_2: 8409731548137781192
+      Armored Corset_1_3: -1710603994968132904
+      Armored Corset_1_4: 7444106461460880606
+      Armored Corset_1_5: 5915488436006464248
+      Armored Corset_1_6: -5310215936291469137
+      Armored Corset_2: 7875685723431725872
+      Armored Corset_20: 7503306733257426715
+      Armored Corset_21: -8627606253585964339
+      Armored Corset_22: -1988716588106276501
+      Armored Corset_23: 8357029159268934595
+      Armored Corset_24: -3760172450126665258
+      Armored Corset_25: -9075937673323662014
+      Armored Corset_26: 3568562094492279919
+      Armored Corset_27: -7030476117113213448
+      Armored Corset_28: 1522008963447739369
+      Armored Corset_29: -5279951145912515093
+      Armored Corset_2_0: -1382464362827962367
+      Armored Corset_2_1: 5877961486525466830
+      Armored Corset_2_2: -5401751734338139190
+      Armored Corset_2_3: 8573030010158623901
+      Armored Corset_2_4: 35549028023795443
+      Armored Corset_2_5: 1604983865227749141
+      Armored Corset_2_6: 5104560366698630982
+      Armored Corset_3: -1161187450628840829
+      Armored Corset_30: -2684919881261195074
+      Armored Corset_31: 995493747724036424
+      Armored Corset_32: 1713481613081715276
+      Armored Corset_33: -2010784269420191794
+      Armored Corset_34: 5125240494598544342
+      Armored Corset_35: 5022680451975072852
+      Armored Corset_36: -4502367679724698218
+      Armored Corset_37: -8585252359325182225
+      Armored Corset_38: 5952341960015154359
+      Armored Corset_39: -8518598448222520245
+      Armored Corset_3_0: -2292460620896423589
+      Armored Corset_3_1: -408528227353234063
+      Armored Corset_3_2: -4117965111300265831
+      Armored Corset_3_3: -186446602111744062
+      Armored Corset_3_4: -2136145279320195681
+      Armored Corset_3_5: -9054948481719159317
+      Armored Corset_3_6: -4527808919298408768
+      Armored Corset_4: -3863766948749481629
+      Armored Corset_40: -2525762026384013668
+      Armored Corset_41: 1608445659151848584
+      Armored Corset_42: 2225050976398725778
+      Armored Corset_43: 1768274276639739589
+      Armored Corset_44: -3649368401359396253
+      Armored Corset_45: -4197473707183651807
+      Armored Corset_46: 855915609063246599
+      Armored Corset_47: 7403420240012261177
+      Armored Corset_48: 7232262510124061335
+      Armored Corset_49: 494419355905844149
+      Armored Corset_4_0: -7245913673867160637
+      Armored Corset_4_1: -2824095982258377887
+      Armored Corset_4_2: 6111924837745702658
+      Armored Corset_4_3: 870285391840685321
+      Armored Corset_4_4: -8926613294502462200
+      Armored Corset_4_5: -4938018997648743739
+      Armored Corset_4_6: -4871036786082303490
+      Armored Corset_5: 2731927029046078937
+      Armored Corset_50: -6177451890964321886
+      Armored Corset_51: 3671980859649604292
+      Armored Corset_52: 2585508103062795138
+      Armored Corset_53: 2624419054736707102
+      Armored Corset_54: -8836283688812127097
+      Armored Corset_55: 9142355727569841685
+      Armored Corset_5_0: -4855954871487635418
+      Armored Corset_5_1: 5253711595399511373
+      Armored Corset_5_2: -4537053848689911508
+      Armored Corset_5_3: 8299028708279225191
+      Armored Corset_5_4: 8935375194112062748
+      Armored Corset_5_5: -3533146947882050484
+      Armored Corset_5_6: 3816854518653027941
+      Armored Corset_6: 5236916682225111102
+      Armored Corset_60: 680920497392194945
+      Armored Corset_61: 7804965136472423069
+      Armored Corset_62: 1312709421124605230
+      Armored Corset_63: -1484436704686308881
+      Armored Corset_64: 6350066415148261391
+      Armored Corset_65: 7641165145698330534
+      Armored Corset_66: -7046695169477063205
+      Armored Corset_67: -6903979246922114598
+      Armored Corset_68: -2306773231389508763
+      Armored Corset_69: -6244862726152942662
+      Armored Corset_6_0: 923664582916050839
+      Armored Corset_6_1: -6363163068260025641
+      Armored Corset_6_2: -1831443432215965764
+      Armored Corset_6_3: 7512731664850235937
+      Armored Corset_6_4: 3290461179869462602
+      Armored Corset_6_5: -3390081850077252042
+      Armored Corset_6_6: 5477862716749467161
+      Armored Corset_7: -6216828729944105465
+      Armored Corset_7_0: -6845476832735306034
+      Armored Corset_7_1: -8643977057754574468
+      Armored Corset_7_2: -1663845628631470658
+      Armored Corset_7_3: -4103244629236005145
+      Armored Corset_7_4: 7344959936884940447
+      Armored Corset_7_5: -5123575056667420115
+      Armored Corset_7_6: -181938488861617032
+      Armored Corset_8: -5596331052072749463
+      Armored Corset_8_0: -7177147310858020326
+      Armored Corset_8_1: 978353970513864662
+      Armored Corset_8_2: 6323551927049275878
+      Armored Corset_8_3: -5534814825532398933
+      Armored Corset_8_4: -8862740809478224892
+      Armored Corset_8_5: -4172968011544598186
+      Armored Corset_8_6: -4050717723775339817
+      Armored Corset_9: -6968909597045579734
+      Armored Corset_9_0: 6595029199090179228
+      Armored Corset_9_1: 2197433131184673790
+      Armored Corset_9_2: -1109348524700054433
+      Armored Corset_9_3: -4592609841215535383
+      Armored Corset_9_4: -796926018526156975
+      Armored Corset_9_5: 5830797551433657090
+      Armored Corset_9_6: -8213271916177242998
+      Armored Corset_EMPTY_18: 2375830690178440117
+      Armored Corset_EMPTY_19: -7866545018945452124
+      Armored Corset_EMPTY_28: 532880219476905967
+      Armored Corset_EMPTY_29: -7035832628104326459
+      Armored Corset_EMPTY_34: 3273016951326232496
+      Armored Corset_EMPTY_35: 2081482884150384230
+      Armored Corset_EMPTY_36: 7629290299989925401
+      Armored Corset_EMPTY_37: 5308407584391262776
+      Armored Corset_EMPTY_38: -8748214160019525710
+      Armored Corset_EMPTY_39: 3689740180169153699
+      Armored Corset_EMPTY_44: 3034770119745325802
+      Armored Corset_EMPTY_45: 1072628974851246805
+      Armored Corset_EMPTY_46: 5620976882988669950
+      Armored Corset_EMPTY_47: -8591816553690179634
+      Armored Corset_EMPTY_48: -5685959564204069454
+      Armored Corset_EMPTY_49: 1883695879386567037
+      Armored Corset_EMPTY_5: 7206338893823469628
+      Armored Corset_EMPTY_56: -3544975062009945263
+      Armored Corset_EMPTY_57: -7808940921377775006
+      Armored Corset_EMPTY_58: 3601577977738896223
+      Armored Corset_EMPTY_59: -9203178274030810412
+      Armored Corset_EMPTY_6: 4993580407491431524
+      Armored Corset_EMPTY_7: -6426140442911617234
+      Armored Corset_EMPTY_8: 3441475157507620262
+      Armored Corset_EMPTY_9: -3014581111630878688
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2319 @@
+fileFormatVersion: 2
+guid: 7ae5f7ecde8ccd741890aa7c7070dc27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1280904176781506507
+    second: Red Socks_0
+  - first:
+      213: 2467506595197719592
+    second: Red Socks_1
+  - first:
+      213: -3023648722131554573
+    second: Red Socks_2
+  - first:
+      213: -87927591739032155
+    second: Red Socks_3
+  - first:
+      213: -3232065478959270676
+    second: Red Socks_4
+  - first:
+      213: 5984580762549718633
+    second: Red Socks_5
+  - first:
+      213: 2284220761569718372
+    second: Red Socks_6
+  - first:
+      213: -7299604372806541265
+    second: Red Socks_7
+  - first:
+      213: 4820628275585881789
+    second: Red Socks_8
+  - first:
+      213: 630857283825619161
+    second: Red Socks_9
+  - first:
+      213: 8327442552817283242
+    second: Red Socks_10
+  - first:
+      213: -3923321514897162241
+    second: Red Socks_11
+  - first:
+      213: -4227914350692815540
+    second: Red Socks_12
+  - first:
+      213: -2347759200622512274
+    second: Red Socks_13
+  - first:
+      213: 7298520334430889495
+    second: Red Socks_14
+  - first:
+      213: 1562262924140843588
+    second: Red Socks_15
+  - first:
+      213: 6746536857713474036
+    second: Red Socks_16
+  - first:
+      213: 9170240238822757239
+    second: Red Socks_17
+  - first:
+      213: -8203305012650718843
+    second: Red Socks_18
+  - first:
+      213: 8037163723461103008
+    second: Red Socks_19
+  - first:
+      213: 5916178753068010523
+    second: Red Socks_20
+  - first:
+      213: -1036285282454041127
+    second: Red Socks_21
+  - first:
+      213: 4641786550203266941
+    second: Red Socks_22
+  - first:
+      213: -5539008445122612023
+    second: Red Socks_23
+  - first:
+      213: -7846024502812313781
+    second: Red Socks_24
+  - first:
+      213: -6906929629768144496
+    second: Red Socks_25
+  - first:
+      213: -3528593035973121509
+    second: Red Socks_26
+  - first:
+      213: 8832851453588787845
+    second: Red Socks_27
+  - first:
+      213: 5948619169372323806
+    second: Red Socks_28
+  - first:
+      213: 4091176663736448761
+    second: Red Socks_29
+  - first:
+      213: -8373482865438792887
+    second: Red Socks_30
+  - first:
+      213: 1355133414236488914
+    second: Red Socks_31
+  - first:
+      213: -595277954829476257
+    second: Red Socks_32
+  - first:
+      213: -60290156669519844
+    second: Red Socks_33
+  - first:
+      213: -2331042256740491211
+    second: Red Socks_34
+  - first:
+      213: -8519521082998923587
+    second: Red Socks_35
+  - first:
+      213: -5423813099873518640
+    second: Red Socks_36
+  - first:
+      213: -3486524896826793752
+    second: Red Socks_37
+  - first:
+      213: -2043600999051950887
+    second: Red Socks_38
+  - first:
+      213: -8680279231250942245
+    second: Red Socks_39
+  - first:
+      213: 8425829025992819976
+    second: Red Socks_40
+  - first:
+      213: 9062727215347992473
+    second: Red Socks_41
+  - first:
+      213: 772957061991342220
+    second: Red Socks_42
+  - first:
+      213: 7347218268676639733
+    second: Red Socks_43
+  - first:
+      213: 3899576243386112954
+    second: Red Socks_44
+  - first:
+      213: -9187477513333182424
+    second: Red Socks_45
+  - first:
+      213: -5764542095336254718
+    second: Red Socks_46
+  - first:
+      213: -1420284901176380363
+    second: Red Socks_47
+  - first:
+      213: 1824497074787307020
+    second: Red Socks_48
+  - first:
+      213: 166816614580865724
+    second: Red Socks_49
+  - first:
+      213: -9124602555856214140
+    second: Red Socks_50
+  - first:
+      213: 3395363327964374049
+    second: Red Socks_51
+  - first:
+      213: 1338431398276474437
+    second: Red Socks_52
+  - first:
+      213: -9205089391999446542
+    second: Red Socks_53
+  - first:
+      213: 7869973788090953501
+    second: Red Socks_54
+  - first:
+      213: 4860001906395276204
+    second: Red Socks_55
+  - first:
+      213: 2277383180366760002
+    second: Red Socks_56
+  - first:
+      213: 912055801110672850
+    second: Red Socks_57
+  - first:
+      213: 426859046496630382
+    second: Red Socks_58
+  - first:
+      213: -2229874698844242420
+    second: Red Socks_59
+  - first:
+      213: -2826388345944740139
+    second: Red Socks_60
+  - first:
+      213: -5195660177113348037
+    second: Red Socks_61
+  - first:
+      213: -3485266853737211620
+    second: Red Socks_62
+  - first:
+      213: 6913896317376833226
+    second: Red Socks_0_6
+  - first:
+      213: -90815425851821778
+    second: Red Socks_1_6
+  - first:
+      213: -8369779873360929780
+    second: Red Socks_2_6
+  - first:
+      213: -2343172006356473659
+    second: Red Socks_3_6
+  - first:
+      213: -2960939170488524886
+    second: Red Socks_4_6
+  - first:
+      213: -958858066880179206
+    second: Red Socks_5_6
+  - first:
+      213: 7737760316764074500
+    second: Red Socks_6_6
+  - first:
+      213: -8042913420238392400
+    second: Red Socks_7_6
+  - first:
+      213: 5848852563508511754
+    second: Red Socks_8_6
+  - first:
+      213: -6261705994555448097
+    second: Red Socks_9_6
+  - first:
+      213: 1698442295134641950
+    second: Red Socks_0_5
+  - first:
+      213: 1840326296982399128
+    second: Red Socks_1_5
+  - first:
+      213: -1731118926785092278
+    second: Red Socks_2_5
+  - first:
+      213: -3288680622245242761
+    second: Red Socks_3_5
+  - first:
+      213: 1519891125076483886
+    second: Red Socks_4_5
+  - first:
+      213: -5309733239416809665
+    second: Red Socks_5_5
+  - first:
+      213: 7962453713758939816
+    second: Red Socks_6_5
+  - first:
+      213: -6759889860136921381
+    second: Red Socks_7_5
+  - first:
+      213: 1199498214717027165
+    second: Red Socks_8_5
+  - first:
+      213: -4102564023206572153
+    second: Red Socks_9_5
+  - first:
+      213: -7870533987191912991
+    second: Red Socks_0_4
+  - first:
+      213: -3317897187732520254
+    second: Red Socks_1_4
+  - first:
+      213: 4080958586414420049
+    second: Red Socks_2_4
+  - first:
+      213: -4355670024694288490
+    second: Red Socks_3_4
+  - first:
+      213: 1691757509148387561
+    second: Red Socks_4_4
+  - first:
+      213: 3804561565365160904
+    second: Red Socks_5_4
+  - first:
+      213: 5953249172006057127
+    second: Red Socks_6_4
+  - first:
+      213: 6111082721538415995
+    second: Red Socks_7_4
+  - first:
+      213: -4410655107508890048
+    second: Red Socks_8_4
+  - first:
+      213: 6160635847321727691
+    second: Red Socks_9_4
+  - first:
+      213: -920284727593531468
+    second: Red Socks_0_3
+  - first:
+      213: -2406024936651598953
+    second: Red Socks_1_3
+  - first:
+      213: 3913867316124197802
+    second: Red Socks_2_3
+  - first:
+      213: 6308870935169421886
+    second: Red Socks_3_3
+  - first:
+      213: 2825249500308568703
+    second: Red Socks_4_3
+  - first:
+      213: 3619241514184201054
+    second: Red Socks_5_3
+  - first:
+      213: 5058394878570231173
+    second: Red Socks_6_3
+  - first:
+      213: 340090577766346554
+    second: Red Socks_7_3
+  - first:
+      213: -5051324886198859465
+    second: Red Socks_8_3
+  - first:
+      213: 8033833267486336585
+    second: Red Socks_9_3
+  - first:
+      213: 4257531472896800725
+    second: Red Socks_0_2
+  - first:
+      213: 8524334726423281322
+    second: Red Socks_1_2
+  - first:
+      213: -5926974948115017365
+    second: Red Socks_2_2
+  - first:
+      213: 5294415454805560530
+    second: Red Socks_3_2
+  - first:
+      213: -516255128036597330
+    second: Red Socks_4_2
+  - first:
+      213: 7795206771155691994
+    second: Red Socks_5_2
+  - first:
+      213: -937666651169847006
+    second: Red Socks_6_2
+  - first:
+      213: 1767459716306364398
+    second: Red Socks_7_2
+  - first:
+      213: -7813162330959605235
+    second: Red Socks_8_2
+  - first:
+      213: 5778071334421559068
+    second: Red Socks_9_2
+  - first:
+      213: -7625548910702470793
+    second: Red Socks_0_1
+  - first:
+      213: 6610360506627420874
+    second: Red Socks_1_1
+  - first:
+      213: -3917435347972841242
+    second: Red Socks_2_1
+  - first:
+      213: -130837144634592348
+    second: Red Socks_3_1
+  - first:
+      213: -1626206717966479125
+    second: Red Socks_4_1
+  - first:
+      213: -4239024754914990003
+    second: Red Socks_5_1
+  - first:
+      213: -2226196275300501306
+    second: Red Socks_6_1
+  - first:
+      213: 391616727217087879
+    second: Red Socks_7_1
+  - first:
+      213: 3860449433486885697
+    second: Red Socks_8_1
+  - first:
+      213: -5739112230290568888
+    second: Red Socks_9_1
+  - first:
+      213: -7478925043153052793
+    second: Red Socks_0_0
+  - first:
+      213: -5670935055500274076
+    second: Red Socks_1_0
+  - first:
+      213: -7044657745339386599
+    second: Red Socks_2_0
+  - first:
+      213: 8427491083880411117
+    second: Red Socks_3_0
+  - first:
+      213: -6254304312482108436
+    second: Red Socks_4_0
+  - first:
+      213: 1030713951612090476
+    second: Red Socks_5_0
+  - first:
+      213: 1285475589357793699
+    second: Red Socks_6_0
+  - first:
+      213: 3505266333164133860
+    second: Red Socks_7_0
+  - first:
+      213: 9123547952226833969
+    second: Red Socks_8_0
+  - first:
+      213: -7505354195449835112
+    second: Red Socks_9_0
+  - first:
+      213: 1530004321664572945
+    second: Red Socks_EMPTY_5
+  - first:
+      213: -4796132279292864597
+    second: Red Socks_EMPTY_6
+  - first:
+      213: -4112878414232792076
+    second: Red Socks_EMPTY_7
+  - first:
+      213: 7209443501403348209
+    second: Red Socks_EMPTY_8
+  - first:
+      213: 5826316499827396444
+    second: Red Socks_EMPTY_9
+  - first:
+      213: -694448579672758780
+    second: Red Socks_EMPTY_18
+  - first:
+      213: 8495219448329284740
+    second: Red Socks_EMPTY_19
+  - first:
+      213: -6016077382575197632
+    second: Red Socks_EMPTY_28
+  - first:
+      213: 4705227927633935041
+    second: Red Socks_EMPTY_29
+  - first:
+      213: -532845949848768554
+    second: Red Socks_EMPTY_34
+  - first:
+      213: -8050134005011975369
+    second: Red Socks_EMPTY_35
+  - first:
+      213: -6062174716743184671
+    second: Red Socks_EMPTY_36
+  - first:
+      213: 7763096768755365266
+    second: Red Socks_EMPTY_37
+  - first:
+      213: -8444035418191753451
+    second: Red Socks_EMPTY_38
+  - first:
+      213: 4766694905432905710
+    second: Red Socks_EMPTY_39
+  - first:
+      213: -7218486637363231831
+    second: Red Socks_EMPTY_44
+  - first:
+      213: -3485337486873348011
+    second: Red Socks_EMPTY_45
+  - first:
+      213: 2862998681333685017
+    second: Red Socks_EMPTY_46
+  - first:
+      213: -1284383330683363439
+    second: Red Socks_EMPTY_47
+  - first:
+      213: -2062649757079036753
+    second: Red Socks_EMPTY_48
+  - first:
+      213: 7912304423886043824
+    second: Red Socks_EMPTY_49
+  - first:
+      213: 2005072041866845750
+    second: Red Socks_EMPTY_56
+  - first:
+      213: 6005272001747671262
+    second: Red Socks_EMPTY_57
+  - first:
+      213: -1466829631050604077
+    second: Red Socks_EMPTY_58
+  - first:
+      213: -8906855424856772636
+    second: Red Socks_EMPTY_59
+  - first:
+      213: 7812529122477328866
+    second: Red Socks_63
+  - first:
+      213: 6802290667062207915
+    second: Red Socks_64
+  - first:
+      213: -7598520477539234577
+    second: Red Socks_65
+  - first:
+      213: 5356293590286495096
+    second: Red Socks_66
+  - first:
+      213: 3261487358270375210
+    second: Red Socks_67
+  - first:
+      213: 1469961680908341866
+    second: Red Socks_68
+  - first:
+      213: -4121372673432775738
+    second: Red Socks_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Socks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc73060ff8fa6c110800000000000000
+      internalID: 1280904176781506507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82491b7cc285e3220800000000000000
+      internalID: 2467506595197719592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fee8c7d187d906d0800000000000000
+      internalID: -3023648722131554573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad7078325e97cef0800000000000000
+      internalID: -87927591739032155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce474d332956523d0800000000000000
+      internalID: -3232065478959270676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e11a103daab3510800000000000000
+      internalID: 1530004321664572945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7d6fc5a17b07db0800000000000000
+      internalID: -4796132279292864597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3584b8fde1ce6c0800000000000000
+      internalID: -4112878414232792076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc1561daa61d0460800000000000000
+      internalID: 7209443501403348209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f8539ccfb3bd050800000000000000
+      internalID: 5826316499827396444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0752091e4019370800000000000000
+      internalID: 8327442552817283242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff38ec6edf8d89c0800000000000000
+      internalID: -3923321514897162241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dad2a6c4e6355c0800000000000000
+      internalID: -4227914350692815540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e677dbc22751b6fd0800000000000000
+      internalID: -2347759200622512274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716e7bf239d894560800000000000000
+      internalID: 7298520334430889495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4429d2f2ad54ea510800000000000000
+      internalID: 1562262924140843588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f97714078380ad50800000000000000
+      internalID: 6746536857713474036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773160449ec334f70800000000000000
+      internalID: 9170240238822757239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406a4d532b2dc56f0800000000000000
+      internalID: -694448579672758780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c28a2241515e570800000000000000
+      internalID: 8495219448329284740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c055c0b3d7a1250800000000000000
+      internalID: 5916178753068010523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd8c5da6006e91f0800000000000000
+      internalID: -1036285282454041127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d773d003640fa6040800000000000000
+      internalID: 4641786550203266941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4f3948a2d7123b0800000000000000
+      internalID: -5539008445122612023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b477cd2e8425d1390800000000000000
+      internalID: -7846024502812313781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099ac01a818a520a0800000000000000
+      internalID: -6906929629768144496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1aa7ed345be70fc0800000000000000
+      internalID: -3528593035973121509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582d3fc3997949a70800000000000000
+      internalID: 8832851453588787845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042f75ebe79928ca0800000000000000
+      internalID: -6016077382575197632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca3eddeed35c4140800000000000000
+      internalID: 4705227927633935041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94363b0d2b96bcb80800000000000000
+      internalID: -8373482865438792887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d404d219a66ec210800000000000000
+      internalID: 1355133414236488914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e94cf9ad52db7f0800000000000000
+      internalID: -595277954829476257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18b2440c6ec92ff0800000000000000
+      internalID: -60290156669519844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df22478e63fa98f0800000000000000
+      internalID: -532845949848768554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733f7fc16cd284090800000000000000
+      internalID: -8050134005011975369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee0b22c634dedba0800000000000000
+      internalID: -6062174716743184671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29575aa616f0cbb60800000000000000
+      internalID: 7763096768755365266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f0ddb8682c0da80800000000000000
+      internalID: -8444035418191753451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee71efee2c3b62240800000000000000
+      internalID: 4766694905432905710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8054a707bde8ee470800000000000000
+      internalID: 8425829025992819976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997051fc26645cd70800000000000000
+      internalID: 9062727215347992473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80af924a581aba00800000000000000
+      internalID: 772957061991342220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb4bbf861096f560800000000000000
+      internalID: 7347218268676639733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a38f0406a8c2db90800000000000000
+      internalID: -7218486637363231831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558bf84950891afc0800000000000000
+      internalID: -3485337486873348011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b5e41c12a6bb720800000000000000
+      internalID: 2862998681333685017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f5f2b6a24fc2ee0800000000000000
+      internalID: -1284383330683363439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac124d69feff53e0800000000000000
+      internalID: -2062649757079036753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baba7cc3f62ecd60800000000000000
+      internalID: 7912304423886043824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487a195d156ee5180800000000000000
+      internalID: -9124602555856214140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12464b615f0ce1f20800000000000000
+      internalID: 3395363327964374049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546af72f340139210800000000000000
+      internalID: 1338431398276474437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f11828f7f3f04080800000000000000
+      internalID: -9205089391999446542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1febce9673c73d60800000000000000
+      internalID: 7869973788090953501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca369660cf1327340800000000000000
+      internalID: 4860001906395276204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e5a84166273db10800000000000000
+      internalID: 2005072041866845750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8d4cb7113075350800000000000000
+      internalID: 6005272001747671262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1263fd836c4abe0800000000000000
+      internalID: -1466829631050604077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efa6af7e2e746480800000000000000
+      internalID: -8906855424856772636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dee8a236c6a6c8d0800000000000000
+      internalID: -2826388345944740139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b380481c89e45e7b0800000000000000
+      internalID: -5195660177113348037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19dc832348d1afc0800000000000000
+      internalID: -3485266853737211620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9c7a628ddab6c60800000000000000
+      internalID: 7812529122477328866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5a2355257966e50800000000000000
+      internalID: 6802290667062207915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec0eb562e1ac8690800000000000000
+      internalID: -7598520477539234577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d6ab934a0655a40800000000000000
+      internalID: 5356293590286495096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a250225e871234d20800000000000000
+      internalID: 3261487358270375210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a625aff4c5a566410800000000000000
+      internalID: 1469961680908341866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Socks_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c39905b361fdc6c0800000000000000
+      internalID: -4121372673432775738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red Socks_0: 1280904176781506507
+      Red Socks_0_0: -7478925043153052793
+      Red Socks_0_1: -7625548910702470793
+      Red Socks_0_2: 4257531472896800725
+      Red Socks_0_3: -920284727593531468
+      Red Socks_0_4: -7870533987191912991
+      Red Socks_0_5: 1698442295134641950
+      Red Socks_0_6: 6913896317376833226
+      Red Socks_1: 2467506595197719592
+      Red Socks_10: 8327442552817283242
+      Red Socks_11: -3923321514897162241
+      Red Socks_12: -4227914350692815540
+      Red Socks_13: -2347759200622512274
+      Red Socks_14: 7298520334430889495
+      Red Socks_15: 1562262924140843588
+      Red Socks_16: 6746536857713474036
+      Red Socks_17: 9170240238822757239
+      Red Socks_18: -8203305012650718843
+      Red Socks_19: 8037163723461103008
+      Red Socks_1_0: -5670935055500274076
+      Red Socks_1_1: 6610360506627420874
+      Red Socks_1_2: 8524334726423281322
+      Red Socks_1_3: -2406024936651598953
+      Red Socks_1_4: -3317897187732520254
+      Red Socks_1_5: 1840326296982399128
+      Red Socks_1_6: -90815425851821778
+      Red Socks_2: -3023648722131554573
+      Red Socks_20: 5916178753068010523
+      Red Socks_21: -1036285282454041127
+      Red Socks_22: 4641786550203266941
+      Red Socks_23: -5539008445122612023
+      Red Socks_24: -7846024502812313781
+      Red Socks_25: -6906929629768144496
+      Red Socks_26: -3528593035973121509
+      Red Socks_27: 8832851453588787845
+      Red Socks_28: 5948619169372323806
+      Red Socks_29: 4091176663736448761
+      Red Socks_2_0: -7044657745339386599
+      Red Socks_2_1: -3917435347972841242
+      Red Socks_2_2: -5926974948115017365
+      Red Socks_2_3: 3913867316124197802
+      Red Socks_2_4: 4080958586414420049
+      Red Socks_2_5: -1731118926785092278
+      Red Socks_2_6: -8369779873360929780
+      Red Socks_3: -87927591739032155
+      Red Socks_30: -8373482865438792887
+      Red Socks_31: 1355133414236488914
+      Red Socks_32: -595277954829476257
+      Red Socks_33: -60290156669519844
+      Red Socks_34: -2331042256740491211
+      Red Socks_35: -8519521082998923587
+      Red Socks_36: -5423813099873518640
+      Red Socks_37: -3486524896826793752
+      Red Socks_38: -2043600999051950887
+      Red Socks_39: -8680279231250942245
+      Red Socks_3_0: 8427491083880411117
+      Red Socks_3_1: -130837144634592348
+      Red Socks_3_2: 5294415454805560530
+      Red Socks_3_3: 6308870935169421886
+      Red Socks_3_4: -4355670024694288490
+      Red Socks_3_5: -3288680622245242761
+      Red Socks_3_6: -2343172006356473659
+      Red Socks_4: -3232065478959270676
+      Red Socks_40: 8425829025992819976
+      Red Socks_41: 9062727215347992473
+      Red Socks_42: 772957061991342220
+      Red Socks_43: 7347218268676639733
+      Red Socks_44: 3899576243386112954
+      Red Socks_45: -9187477513333182424
+      Red Socks_46: -5764542095336254718
+      Red Socks_47: -1420284901176380363
+      Red Socks_48: 1824497074787307020
+      Red Socks_49: 166816614580865724
+      Red Socks_4_0: -6254304312482108436
+      Red Socks_4_1: -1626206717966479125
+      Red Socks_4_2: -516255128036597330
+      Red Socks_4_3: 2825249500308568703
+      Red Socks_4_4: 1691757509148387561
+      Red Socks_4_5: 1519891125076483886
+      Red Socks_4_6: -2960939170488524886
+      Red Socks_5: 5984580762549718633
+      Red Socks_50: -9124602555856214140
+      Red Socks_51: 3395363327964374049
+      Red Socks_52: 1338431398276474437
+      Red Socks_53: -9205089391999446542
+      Red Socks_54: 7869973788090953501
+      Red Socks_55: 4860001906395276204
+      Red Socks_56: 2277383180366760002
+      Red Socks_57: 912055801110672850
+      Red Socks_58: 426859046496630382
+      Red Socks_59: -2229874698844242420
+      Red Socks_5_0: 1030713951612090476
+      Red Socks_5_1: -4239024754914990003
+      Red Socks_5_2: 7795206771155691994
+      Red Socks_5_3: 3619241514184201054
+      Red Socks_5_4: 3804561565365160904
+      Red Socks_5_5: -5309733239416809665
+      Red Socks_5_6: -958858066880179206
+      Red Socks_6: 2284220761569718372
+      Red Socks_60: -2826388345944740139
+      Red Socks_61: -5195660177113348037
+      Red Socks_62: -3485266853737211620
+      Red Socks_63: 7812529122477328866
+      Red Socks_64: 6802290667062207915
+      Red Socks_65: -7598520477539234577
+      Red Socks_66: 5356293590286495096
+      Red Socks_67: 3261487358270375210
+      Red Socks_68: 1469961680908341866
+      Red Socks_69: -4121372673432775738
+      Red Socks_6_0: 1285475589357793699
+      Red Socks_6_1: -2226196275300501306
+      Red Socks_6_2: -937666651169847006
+      Red Socks_6_3: 5058394878570231173
+      Red Socks_6_4: 5953249172006057127
+      Red Socks_6_5: 7962453713758939816
+      Red Socks_6_6: 7737760316764074500
+      Red Socks_7: -7299604372806541265
+      Red Socks_7_0: 3505266333164133860
+      Red Socks_7_1: 391616727217087879
+      Red Socks_7_2: 1767459716306364398
+      Red Socks_7_3: 340090577766346554
+      Red Socks_7_4: 6111082721538415995
+      Red Socks_7_5: -6759889860136921381
+      Red Socks_7_6: -8042913420238392400
+      Red Socks_8: 4820628275585881789
+      Red Socks_8_0: 9123547952226833969
+      Red Socks_8_1: 3860449433486885697
+      Red Socks_8_2: -7813162330959605235
+      Red Socks_8_3: -5051324886198859465
+      Red Socks_8_4: -4410655107508890048
+      Red Socks_8_5: 1199498214717027165
+      Red Socks_8_6: 5848852563508511754
+      Red Socks_9: 630857283825619161
+      Red Socks_9_0: -7505354195449835112
+      Red Socks_9_1: -5739112230290568888
+      Red Socks_9_2: 5778071334421559068
+      Red Socks_9_3: 8033833267486336585
+      Red Socks_9_4: 6160635847321727691
+      Red Socks_9_5: -4102564023206572153
+      Red Socks_9_6: -6261705994555448097
+      Red Socks_EMPTY_18: -694448579672758780
+      Red Socks_EMPTY_19: 8495219448329284740
+      Red Socks_EMPTY_28: -6016077382575197632
+      Red Socks_EMPTY_29: 4705227927633935041
+      Red Socks_EMPTY_34: -532845949848768554
+      Red Socks_EMPTY_35: -8050134005011975369
+      Red Socks_EMPTY_36: -6062174716743184671
+      Red Socks_EMPTY_37: 7763096768755365266
+      Red Socks_EMPTY_38: -8444035418191753451
+      Red Socks_EMPTY_39: 4766694905432905710
+      Red Socks_EMPTY_44: -7218486637363231831
+      Red Socks_EMPTY_45: -3485337486873348011
+      Red Socks_EMPTY_46: 2862998681333685017
+      Red Socks_EMPTY_47: -1284383330683363439
+      Red Socks_EMPTY_48: -2062649757079036753
+      Red Socks_EMPTY_49: 7912304423886043824
+      Red Socks_EMPTY_5: 1530004321664572945
+      Red Socks_EMPTY_56: 2005072041866845750
+      Red Socks_EMPTY_57: 6005272001747671262
+      Red Socks_EMPTY_58: -1466829631050604077
+      Red Socks_EMPTY_59: -8906855424856772636
+      Red Socks_EMPTY_6: -4796132279292864597
+      Red Socks_EMPTY_7: -4112878414232792076
+      Red Socks_EMPTY_8: 7209443501403348209
+      Red Socks_EMPTY_9: 5826316499827396444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

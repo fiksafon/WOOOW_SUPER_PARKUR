@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: fa3d9bb67cb82834ea30b4f888d8b549
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2880213051924997452
+    second: Red Bodice_0
+  - first:
+      213: 1562645540699711537
+    second: Red Bodice_1
+  - first:
+      213: 4965652051345050067
+    second: Red Bodice_2
+  - first:
+      213: -6183959227317662847
+    second: Red Bodice_3
+  - first:
+      213: -2222815911786265452
+    second: Red Bodice_4
+  - first:
+      213: -6493417069099931692
+    second: Red Bodice_5
+  - first:
+      213: 2350516680392368557
+    second: Red Bodice_6
+  - first:
+      213: -3454418493056205737
+    second: Red Bodice_7
+  - first:
+      213: -1024677277558911404
+    second: Red Bodice_8
+  - first:
+      213: 5435490904544915755
+    second: Red Bodice_9
+  - first:
+      213: 4108204502038302686
+    second: Red Bodice_10
+  - first:
+      213: 6360682845510405379
+    second: Red Bodice_11
+  - first:
+      213: 5662078802755689662
+    second: Red Bodice_12
+  - first:
+      213: 106445670132413886
+    second: Red Bodice_13
+  - first:
+      213: 6247252447777631018
+    second: Red Bodice_14
+  - first:
+      213: 5345345222158576040
+    second: Red Bodice_15
+  - first:
+      213: -7807476685416449833
+    second: Red Bodice_16
+  - first:
+      213: 22731823550397170
+    second: Red Bodice_17
+  - first:
+      213: -5956748095873916469
+    second: Red Bodice_18
+  - first:
+      213: 4450124270575091060
+    second: Red Bodice_19
+  - first:
+      213: -7492670183602827929
+    second: Red Bodice_20
+  - first:
+      213: 4595469778360284717
+    second: Red Bodice_21
+  - first:
+      213: 6732478296505020577
+    second: Red Bodice_22
+  - first:
+      213: -887947954803225101
+    second: Red Bodice_23
+  - first:
+      213: -817298900237963829
+    second: Red Bodice_24
+  - first:
+      213: -326163450323145401
+    second: Red Bodice_25
+  - first:
+      213: -5063699129062607547
+    second: Red Bodice_26
+  - first:
+      213: -6896817101379167357
+    second: Red Bodice_27
+  - first:
+      213: -5976797858198000988
+    second: Red Bodice_28
+  - first:
+      213: -9122612966224082419
+    second: Red Bodice_29
+  - first:
+      213: -4535640048840224653
+    second: Red Bodice_30
+  - first:
+      213: -2933931726020526313
+    second: Red Bodice_31
+  - first:
+      213: 8802048360073575470
+    second: Red Bodice_32
+  - first:
+      213: 15425076208756312
+    second: Red Bodice_33
+  - first:
+      213: 2139800045289715811
+    second: Red Bodice_34
+  - first:
+      213: -916919018819858775
+    second: Red Bodice_35
+  - first:
+      213: -2141652015946669567
+    second: Red Bodice_36
+  - first:
+      213: 6362113004359434315
+    second: Red Bodice_37
+  - first:
+      213: -1937799796683429644
+    second: Red Bodice_38
+  - first:
+      213: 2589122152215703478
+    second: Red Bodice_39
+  - first:
+      213: 8077709683523525572
+    second: Red Bodice_40
+  - first:
+      213: 8728457410710935616
+    second: Red Bodice_41
+  - first:
+      213: 7246493408379711038
+    second: Red Bodice_42
+  - first:
+      213: 8633377464831220385
+    second: Red Bodice_43
+  - first:
+      213: -5333127392714855234
+    second: Red Bodice_44
+  - first:
+      213: -8311918501629735933
+    second: Red Bodice_45
+  - first:
+      213: 6086416776558494646
+    second: Red Bodice_46
+  - first:
+      213: 5690672213567933855
+    second: Red Bodice_47
+  - first:
+      213: -1484154177067198436
+    second: Red Bodice_48
+  - first:
+      213: 224017355474826071
+    second: Red Bodice_49
+  - first:
+      213: -1072706223708825321
+    second: Red Bodice_50
+  - first:
+      213: -2572799169871330881
+    second: Red Bodice_51
+  - first:
+      213: 7388410258610264051
+    second: Red Bodice_0_6
+  - first:
+      213: -7660793226415099053
+    second: Red Bodice_1_6
+  - first:
+      213: 1991954514283529412
+    second: Red Bodice_2_6
+  - first:
+      213: 3219501576298548920
+    second: Red Bodice_3_6
+  - first:
+      213: 4769797420295587346
+    second: Red Bodice_4_6
+  - first:
+      213: 1242449041539046180
+    second: Red Bodice_5_6
+  - first:
+      213: -126619770348186402
+    second: Red Bodice_6_6
+  - first:
+      213: 2646685660470520271
+    second: Red Bodice_7_6
+  - first:
+      213: 8335472180909913373
+    second: Red Bodice_8_6
+  - first:
+      213: -7237162335998700547
+    second: Red Bodice_9_6
+  - first:
+      213: -4535037048260811365
+    second: Red Bodice_0_5
+  - first:
+      213: 7519415145697840459
+    second: Red Bodice_1_5
+  - first:
+      213: 5565924584488484254
+    second: Red Bodice_2_5
+  - first:
+      213: 7214031925744031138
+    second: Red Bodice_3_5
+  - first:
+      213: -8006561442646799850
+    second: Red Bodice_4_5
+  - first:
+      213: 8193518354065708339
+    second: Red Bodice_5_5
+  - first:
+      213: -1119692024844633932
+    second: Red Bodice_6_5
+  - first:
+      213: 2376714011270491000
+    second: Red Bodice_7_5
+  - first:
+      213: -7618089712162239712
+    second: Red Bodice_8_5
+  - first:
+      213: 5275730501394149832
+    second: Red Bodice_9_5
+  - first:
+      213: 8100857632626941065
+    second: Red Bodice_0_4
+  - first:
+      213: 8060603962647473657
+    second: Red Bodice_1_4
+  - first:
+      213: -7157803204978605809
+    second: Red Bodice_2_4
+  - first:
+      213: -2474719552150684302
+    second: Red Bodice_3_4
+  - first:
+      213: -2075635598842180960
+    second: Red Bodice_4_4
+  - first:
+      213: -6375164599518954554
+    second: Red Bodice_5_4
+  - first:
+      213: 7970136753826887693
+    second: Red Bodice_6_4
+  - first:
+      213: -3549706514221898071
+    second: Red Bodice_7_4
+  - first:
+      213: 8690924344805153965
+    second: Red Bodice_8_4
+  - first:
+      213: -4512811677775880209
+    second: Red Bodice_9_4
+  - first:
+      213: -1141388501174804035
+    second: Red Bodice_0_3
+  - first:
+      213: 5105206598883574032
+    second: Red Bodice_1_3
+  - first:
+      213: -2265215478623667204
+    second: Red Bodice_2_3
+  - first:
+      213: -80238553820627162
+    second: Red Bodice_3_3
+  - first:
+      213: 4716784102516702452
+    second: Red Bodice_4_3
+  - first:
+      213: -845772738264785190
+    second: Red Bodice_5_3
+  - first:
+      213: -117818100833461167
+    second: Red Bodice_6_3
+  - first:
+      213: -844141952038107112
+    second: Red Bodice_7_3
+  - first:
+      213: 2103503794208718470
+    second: Red Bodice_8_3
+  - first:
+      213: 3942253040460652350
+    second: Red Bodice_9_3
+  - first:
+      213: -8710086615768371378
+    second: Red Bodice_0_2
+  - first:
+      213: -1773313045281328460
+    second: Red Bodice_1_2
+  - first:
+      213: -1209928446651486151
+    second: Red Bodice_2_2
+  - first:
+      213: -5841936723606830855
+    second: Red Bodice_3_2
+  - first:
+      213: -2487747352993560223
+    second: Red Bodice_4_2
+  - first:
+      213: -1039393028018685690
+    second: Red Bodice_5_2
+  - first:
+      213: -1202569979042243235
+    second: Red Bodice_6_2
+  - first:
+      213: 7771946792922216960
+    second: Red Bodice_7_2
+  - first:
+      213: 5724613363658134637
+    second: Red Bodice_8_2
+  - first:
+      213: 1126926871258818857
+    second: Red Bodice_9_2
+  - first:
+      213: 4313416930255635193
+    second: Red Bodice_0_1
+  - first:
+      213: -2032823458752942947
+    second: Red Bodice_1_1
+  - first:
+      213: 8378133721879499014
+    second: Red Bodice_2_1
+  - first:
+      213: 20904550329029043
+    second: Red Bodice_3_1
+  - first:
+      213: 7567714322425499338
+    second: Red Bodice_4_1
+  - first:
+      213: 3503793207383186672
+    second: Red Bodice_5_1
+  - first:
+      213: -4104531031414038003
+    second: Red Bodice_6_1
+  - first:
+      213: -6342737525405720913
+    second: Red Bodice_7_1
+  - first:
+      213: 6745199129672294568
+    second: Red Bodice_8_1
+  - first:
+      213: -5659243150613083708
+    second: Red Bodice_9_1
+  - first:
+      213: -6925809057409330211
+    second: Red Bodice_0_0
+  - first:
+      213: -8032099972998550793
+    second: Red Bodice_1_0
+  - first:
+      213: -8299142172389967581
+    second: Red Bodice_2_0
+  - first:
+      213: -404375872645601575
+    second: Red Bodice_3_0
+  - first:
+      213: -6295120953827530652
+    second: Red Bodice_4_0
+  - first:
+      213: -4203563000092920743
+    second: Red Bodice_5_0
+  - first:
+      213: -3733952174435048516
+    second: Red Bodice_6_0
+  - first:
+      213: -8659625224283989016
+    second: Red Bodice_7_0
+  - first:
+      213: 5172947705014837654
+    second: Red Bodice_8_0
+  - first:
+      213: -2373360154863947544
+    second: Red Bodice_9_0
+  - first:
+      213: -3968340775921284396
+    second: Red Bodice_EMPTY_5
+  - first:
+      213: -4198732606570343566
+    second: Red Bodice_EMPTY_6
+  - first:
+      213: -7827192255486382285
+    second: Red Bodice_EMPTY_7
+  - first:
+      213: -8841974102423967708
+    second: Red Bodice_EMPTY_8
+  - first:
+      213: -8354067638521464105
+    second: Red Bodice_EMPTY_9
+  - first:
+      213: -4385720753847250233
+    second: Red Bodice_EMPTY_18
+  - first:
+      213: -230420829498009374
+    second: Red Bodice_EMPTY_19
+  - first:
+      213: -5131828871793915104
+    second: Red Bodice_EMPTY_28
+  - first:
+      213: -6988685503350139711
+    second: Red Bodice_EMPTY_29
+  - first:
+      213: 1889923754434137939
+    second: Red Bodice_EMPTY_34
+  - first:
+      213: -4560771150843190030
+    second: Red Bodice_EMPTY_35
+  - first:
+      213: -1932903384169640792
+    second: Red Bodice_EMPTY_36
+  - first:
+      213: -4572710785441659587
+    second: Red Bodice_EMPTY_37
+  - first:
+      213: 3978237486594344392
+    second: Red Bodice_EMPTY_38
+  - first:
+      213: -423173945331357777
+    second: Red Bodice_EMPTY_39
+  - first:
+      213: -2196245672835783284
+    second: Red Bodice_EMPTY_44
+  - first:
+      213: -635754424407578621
+    second: Red Bodice_EMPTY_45
+  - first:
+      213: -1806127523448266505
+    second: Red Bodice_EMPTY_46
+  - first:
+      213: 3479560998610943872
+    second: Red Bodice_EMPTY_47
+  - first:
+      213: -181212244679886403
+    second: Red Bodice_EMPTY_48
+  - first:
+      213: -563931437560788120
+    second: Red Bodice_EMPTY_49
+  - first:
+      213: 8798607416665858122
+    second: Red Bodice_52
+  - first:
+      213: -8701256382150752278
+    second: Red Bodice_53
+  - first:
+      213: -113686704634505536
+    second: Red Bodice_54
+  - first:
+      213: -2030397688925004981
+    second: Red Bodice_55
+  - first:
+      213: -5966283125440320933
+    second: Red Bodice_EMPTY_56
+  - first:
+      213: 3253796002813358342
+    second: Red Bodice_EMPTY_57
+  - first:
+      213: -972286441718731783
+    second: Red Bodice_EMPTY_58
+  - first:
+      213: 2233084189747349529
+    second: Red Bodice_EMPTY_59
+  - first:
+      213: -2242368213676430605
+    second: Red Bodice_60
+  - first:
+      213: -1992821036755794840
+    second: Red Bodice_61
+  - first:
+      213: 6990432673510781680
+    second: Red Bodice_62
+  - first:
+      213: 3043564008299035062
+    second: Red Bodice_63
+  - first:
+      213: 6294943168085707958
+    second: Red Bodice_64
+  - first:
+      213: 3500845754730626806
+    second: Red Bodice_65
+  - first:
+      213: -5036461144268003242
+    second: Red Bodice_66
+  - first:
+      213: 8202646519587055632
+    second: Red Bodice_67
+  - first:
+      213: 5884436522310061013
+    second: Red Bodice_68
+  - first:
+      213: 3412368626282741131
+    second: Red Bodice_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Bodice_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45ee6db28298f720800000000000000
+      internalID: 2880213051924997452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138214b07d1afa510800000000000000
+      internalID: 1562645540699711537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d98c964b3a89e440800000000000000
+      internalID: 4965652051345050067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b4b36c8d92e2aa0800000000000000
+      internalID: -6183959227317662847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494c4e884b8f621e0800000000000000
+      internalID: -2222815911786265452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da8387e61f9de8c0800000000000000
+      internalID: -3968340775921284396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273568ea0fa1bb5c0800000000000000
+      internalID: -4198732606570343566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fab072d1a306390800000000000000
+      internalID: -7827192255486382285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428e0df866ffa4580800000000000000
+      internalID: -8841974102423967708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da77589eb3601c80800000000000000
+      internalID: -8354067638521464105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf47a87a36430930800000000000000
+      internalID: 4108204502038302686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d819ff85fa54850800000000000000
+      internalID: 6360682845510405379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc95801caeb39e40800000000000000
+      internalID: 5662078802755689662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5fe14e5cb2a7100800000000000000
+      internalID: 106445670132413886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ba9fb7003b2b650800000000000000
+      internalID: 6247252447777631018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9e790a82b7e2a40800000000000000
+      internalID: 5345345222158576040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8bb95025546a390800000000000000
+      internalID: -7807476685416449833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa71db1972c05000800000000000000
+      internalID: 22731823550397170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c250eef53ac223c0800000000000000
+      internalID: -4385720753847250233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e89be4f9716dccf0800000000000000
+      internalID: -230420829498009374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d41377a20b40890800000000000000
+      internalID: -7492670183602827929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2635336a6366cf30800000000000000
+      internalID: 4595469778360284717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0753927519e6d50800000000000000
+      internalID: 6732478296505020577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd4be62a006da3f0800000000000000
+      internalID: -887947954803225101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdaffffafe58a4f0800000000000000
+      internalID: -817298900237963829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74de5cce11c397bf0800000000000000
+      internalID: -326163450323145401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545b4c288702ab9b0800000000000000
+      internalID: -5063699129062607547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b947f13659940a0800000000000000
+      internalID: -6896817101379167357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b41a8a4d418c8b0800000000000000
+      internalID: -5131828871793915104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c494e5ff83330f90800000000000000
+      internalID: -6988685503350139711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370d7db086b2e01c0800000000000000
+      internalID: -4535640048840224653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f3c4bc3a49847d0800000000000000
+      internalID: -2933931726020526313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cbef52958272a70800000000000000
+      internalID: 8802048360073575470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8566e0c660dc63000800000000000000
+      internalID: 15425076208756312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f8e9334ab5a3a10800000000000000
+      internalID: 1889923754434137939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f464246dc2e4b0c0800000000000000
+      internalID: -4560771150843190030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac0b61fc92fc25e0800000000000000
+      internalID: -1932903384169640792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35072594c77a80c0800000000000000
+      internalID: -4572710785441659587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5499c9ae9853730800000000000000
+      internalID: 3978237486594344392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7e25ee985902af0800000000000000
+      internalID: -423173945331357777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb172dd82ac91070800000000000000
+      internalID: 8077709683523525572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0481d8a05c5b12970800000000000000
+      internalID: 8728457410710935616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3eaea18c57b09460800000000000000
+      internalID: 7246493408379711038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa902b001befc770800000000000000
+      internalID: 8633377464831220385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85622f523e5581e0800000000000000
+      internalID: -2196245672835783284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308adc828b85d27f0800000000000000
+      internalID: -635754424407578621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f06fc136985fe6e0800000000000000
+      internalID: -1806127523448266505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f3280fa42e94030800000000000000
+      internalID: 3479560998610943872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db977ee6c643c7df0800000000000000
+      internalID: -181212244679886403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b838a68538c28f0800000000000000
+      internalID: -563931437560788120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7191c7b7f5bfc11f0800000000000000
+      internalID: -1072706223708825321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1466949c49b4cd0800000000000000
+      internalID: -2572799169871330881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a406c7414deea1a70800000000000000
+      internalID: 8798607416665858122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7cd42fb6dee3780800000000000000
+      internalID: -8701256382150752278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c653926b8a1c6ef0800000000000000
+      internalID: -113686704634505536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bd9d63f0492d3e0800000000000000
+      internalID: -2030397688925004981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ae8beab11833da0800000000000000
+      internalID: -5966283125440320933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601b647a93ec72d20800000000000000
+      internalID: 3253796002813358342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb2d65f1aeb182f0800000000000000
+      internalID: -972286441718731783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9188e6b3d328dfe10800000000000000
+      internalID: 2233084189747349529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa60308df181e0e0800000000000000
+      internalID: -2242368213676430605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864ce3353d31854e0800000000000000
+      internalID: -1992821036755794840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2f4eaca71030160800000000000000
+      internalID: 6990432673510781680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9f3dd0759ec3a20800000000000000
+      internalID: 3043564008299035062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc450795712c5750800000000000000
+      internalID: 6294943168085707958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe37286aa0859030800000000000000
+      internalID: 3500845754730626806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65829da0645ea1ab0800000000000000
+      internalID: -5036461144268003242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018a412dc87a5d170800000000000000
+      internalID: 8202646519587055632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db40a707d7b9a150800000000000000
+      internalID: 5884436522310061013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d3544af2b2b5f20800000000000000
+      internalID: 3412368626282741131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red Bodice_0: 2880213051924997452
+      Red Bodice_0_0: -6925809057409330211
+      Red Bodice_0_1: 4313416930255635193
+      Red Bodice_0_2: -8710086615768371378
+      Red Bodice_0_3: -1141388501174804035
+      Red Bodice_0_4: 8100857632626941065
+      Red Bodice_0_5: -4535037048260811365
+      Red Bodice_0_6: 7388410258610264051
+      Red Bodice_1: 1562645540699711537
+      Red Bodice_10: 4108204502038302686
+      Red Bodice_11: 6360682845510405379
+      Red Bodice_12: 5662078802755689662
+      Red Bodice_13: 106445670132413886
+      Red Bodice_14: 6247252447777631018
+      Red Bodice_15: 5345345222158576040
+      Red Bodice_16: -7807476685416449833
+      Red Bodice_17: 22731823550397170
+      Red Bodice_18: -5956748095873916469
+      Red Bodice_19: 4450124270575091060
+      Red Bodice_1_0: -8032099972998550793
+      Red Bodice_1_1: -2032823458752942947
+      Red Bodice_1_2: -1773313045281328460
+      Red Bodice_1_3: 5105206598883574032
+      Red Bodice_1_4: 8060603962647473657
+      Red Bodice_1_5: 7519415145697840459
+      Red Bodice_1_6: -7660793226415099053
+      Red Bodice_2: 4965652051345050067
+      Red Bodice_20: -7492670183602827929
+      Red Bodice_21: 4595469778360284717
+      Red Bodice_22: 6732478296505020577
+      Red Bodice_23: -887947954803225101
+      Red Bodice_24: -817298900237963829
+      Red Bodice_25: -326163450323145401
+      Red Bodice_26: -5063699129062607547
+      Red Bodice_27: -6896817101379167357
+      Red Bodice_28: -5976797858198000988
+      Red Bodice_29: -9122612966224082419
+      Red Bodice_2_0: -8299142172389967581
+      Red Bodice_2_1: 8378133721879499014
+      Red Bodice_2_2: -1209928446651486151
+      Red Bodice_2_3: -2265215478623667204
+      Red Bodice_2_4: -7157803204978605809
+      Red Bodice_2_5: 5565924584488484254
+      Red Bodice_2_6: 1991954514283529412
+      Red Bodice_3: -6183959227317662847
+      Red Bodice_30: -4535640048840224653
+      Red Bodice_31: -2933931726020526313
+      Red Bodice_32: 8802048360073575470
+      Red Bodice_33: 15425076208756312
+      Red Bodice_34: 2139800045289715811
+      Red Bodice_35: -916919018819858775
+      Red Bodice_36: -2141652015946669567
+      Red Bodice_37: 6362113004359434315
+      Red Bodice_38: -1937799796683429644
+      Red Bodice_39: 2589122152215703478
+      Red Bodice_3_0: -404375872645601575
+      Red Bodice_3_1: 20904550329029043
+      Red Bodice_3_2: -5841936723606830855
+      Red Bodice_3_3: -80238553820627162
+      Red Bodice_3_4: -2474719552150684302
+      Red Bodice_3_5: 7214031925744031138
+      Red Bodice_3_6: 3219501576298548920
+      Red Bodice_4: -2222815911786265452
+      Red Bodice_40: 8077709683523525572
+      Red Bodice_41: 8728457410710935616
+      Red Bodice_42: 7246493408379711038
+      Red Bodice_43: 8633377464831220385
+      Red Bodice_44: -5333127392714855234
+      Red Bodice_45: -8311918501629735933
+      Red Bodice_46: 6086416776558494646
+      Red Bodice_47: 5690672213567933855
+      Red Bodice_48: -1484154177067198436
+      Red Bodice_49: 224017355474826071
+      Red Bodice_4_0: -6295120953827530652
+      Red Bodice_4_1: 7567714322425499338
+      Red Bodice_4_2: -2487747352993560223
+      Red Bodice_4_3: 4716784102516702452
+      Red Bodice_4_4: -2075635598842180960
+      Red Bodice_4_5: -8006561442646799850
+      Red Bodice_4_6: 4769797420295587346
+      Red Bodice_5: -6493417069099931692
+      Red Bodice_50: -1072706223708825321
+      Red Bodice_51: -2572799169871330881
+      Red Bodice_52: 8798607416665858122
+      Red Bodice_53: -8701256382150752278
+      Red Bodice_54: -113686704634505536
+      Red Bodice_55: -2030397688925004981
+      Red Bodice_5_0: -4203563000092920743
+      Red Bodice_5_1: 3503793207383186672
+      Red Bodice_5_2: -1039393028018685690
+      Red Bodice_5_3: -845772738264785190
+      Red Bodice_5_4: -6375164599518954554
+      Red Bodice_5_5: 8193518354065708339
+      Red Bodice_5_6: 1242449041539046180
+      Red Bodice_6: 2350516680392368557
+      Red Bodice_60: -2242368213676430605
+      Red Bodice_61: -1992821036755794840
+      Red Bodice_62: 6990432673510781680
+      Red Bodice_63: 3043564008299035062
+      Red Bodice_64: 6294943168085707958
+      Red Bodice_65: 3500845754730626806
+      Red Bodice_66: -5036461144268003242
+      Red Bodice_67: 8202646519587055632
+      Red Bodice_68: 5884436522310061013
+      Red Bodice_69: 3412368626282741131
+      Red Bodice_6_0: -3733952174435048516
+      Red Bodice_6_1: -4104531031414038003
+      Red Bodice_6_2: -1202569979042243235
+      Red Bodice_6_3: -117818100833461167
+      Red Bodice_6_4: 7970136753826887693
+      Red Bodice_6_5: -1119692024844633932
+      Red Bodice_6_6: -126619770348186402
+      Red Bodice_7: -3454418493056205737
+      Red Bodice_7_0: -8659625224283989016
+      Red Bodice_7_1: -6342737525405720913
+      Red Bodice_7_2: 7771946792922216960
+      Red Bodice_7_3: -844141952038107112
+      Red Bodice_7_4: -3549706514221898071
+      Red Bodice_7_5: 2376714011270491000
+      Red Bodice_7_6: 2646685660470520271
+      Red Bodice_8: -1024677277558911404
+      Red Bodice_8_0: 5172947705014837654
+      Red Bodice_8_1: 6745199129672294568
+      Red Bodice_8_2: 5724613363658134637
+      Red Bodice_8_3: 2103503794208718470
+      Red Bodice_8_4: 8690924344805153965
+      Red Bodice_8_5: -7618089712162239712
+      Red Bodice_8_6: 8335472180909913373
+      Red Bodice_9: 5435490904544915755
+      Red Bodice_9_0: -2373360154863947544
+      Red Bodice_9_1: -5659243150613083708
+      Red Bodice_9_2: 1126926871258818857
+      Red Bodice_9_3: 3942253040460652350
+      Red Bodice_9_4: -4512811677775880209
+      Red Bodice_9_5: 5275730501394149832
+      Red Bodice_9_6: -7237162335998700547
+      Red Bodice_EMPTY_18: -4385720753847250233
+      Red Bodice_EMPTY_19: -230420829498009374
+      Red Bodice_EMPTY_28: -5131828871793915104
+      Red Bodice_EMPTY_29: -6988685503350139711
+      Red Bodice_EMPTY_34: 1889923754434137939
+      Red Bodice_EMPTY_35: -4560771150843190030
+      Red Bodice_EMPTY_36: -1932903384169640792
+      Red Bodice_EMPTY_37: -4572710785441659587
+      Red Bodice_EMPTY_38: 3978237486594344392
+      Red Bodice_EMPTY_39: -423173945331357777
+      Red Bodice_EMPTY_44: -2196245672835783284
+      Red Bodice_EMPTY_45: -635754424407578621
+      Red Bodice_EMPTY_46: -1806127523448266505
+      Red Bodice_EMPTY_47: 3479560998610943872
+      Red Bodice_EMPTY_48: -181212244679886403
+      Red Bodice_EMPTY_49: -563931437560788120
+      Red Bodice_EMPTY_5: -3968340775921284396
+      Red Bodice_EMPTY_56: -5966283125440320933
+      Red Bodice_EMPTY_57: 3253796002813358342
+      Red Bodice_EMPTY_58: -972286441718731783
+      Red Bodice_EMPTY_59: 2233084189747349529
+      Red Bodice_EMPTY_6: -4198732606570343566
+      Red Bodice_EMPTY_7: -7827192255486382285
+      Red Bodice_EMPTY_8: -8841974102423967708
+      Red Bodice_EMPTY_9: -8354067638521464105
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

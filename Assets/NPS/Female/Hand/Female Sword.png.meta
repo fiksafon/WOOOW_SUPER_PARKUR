@@ -1,0 +1,2279 @@
+fileFormatVersion: 2
+guid: 8693d863cbc79e045a818839df250d85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8037361844312266715
+    second: Female Sword_0
+  - first:
+      213: -6344092698610405570
+    second: Female Sword_1
+  - first:
+      213: 6540281911673527943
+    second: Female Sword_2
+  - first:
+      213: -5731172498687796500
+    second: Female Sword_3
+  - first:
+      213: -9175672102757839567
+    second: Female Sword_4
+  - first:
+      213: -1276998260769146544
+    second: Female Sword_5
+  - first:
+      213: 1850007460274423916
+    second: Female Sword_6
+  - first:
+      213: 5733420975869438726
+    second: Female Sword_7
+  - first:
+      213: -8130385669872607474
+    second: Female Sword_8
+  - first:
+      213: -8818173693271426069
+    second: Female Sword_9
+  - first:
+      213: 3993278334184360017
+    second: Female Sword_10
+  - first:
+      213: -5415680390222457062
+    second: Female Sword_11
+  - first:
+      213: 1665603431809363445
+    second: Female Sword_12
+  - first:
+      213: 4532585745705559727
+    second: Female Sword_13
+  - first:
+      213: -7681603676657832835
+    second: Female Sword_14
+  - first:
+      213: 1991604806563399176
+    second: Female Sword_15
+  - first:
+      213: 5002866269910786960
+    second: Female Sword_16
+  - first:
+      213: 4691473714162617951
+    second: Female Sword_17
+  - first:
+      213: 6974576008670864498
+    second: Female Sword_18
+  - first:
+      213: -7328585462134719963
+    second: Female Sword_19
+  - first:
+      213: 3633701107856346437
+    second: Female Sword_20
+  - first:
+      213: 4529671508912651708
+    second: Female Sword_21
+  - first:
+      213: 171923580860889383
+    second: Female Sword_22
+  - first:
+      213: 8172370696345264807
+    second: Female Sword_23
+  - first:
+      213: -7460867648421428305
+    second: Female Sword_24
+  - first:
+      213: -5227120550674053632
+    second: Female Sword_25
+  - first:
+      213: -7861995457501143293
+    second: Female Sword_26
+  - first:
+      213: -4106591598791567374
+    second: Female Sword_27
+  - first:
+      213: 3317906800881445865
+    second: Female Sword_28
+  - first:
+      213: -4668654763982868498
+    second: Female Sword_29
+  - first:
+      213: 6601597268875859112
+    second: Female Sword_30
+  - first:
+      213: -8589519597195551625
+    second: Female Sword_31
+  - first:
+      213: 6582231670235816195
+    second: Female Sword_32
+  - first:
+      213: -7275079995733072751
+    second: Female Sword_33
+  - first:
+      213: 2977109304729767322
+    second: Female Sword_34
+  - first:
+      213: 2617916212947089696
+    second: Female Sword_35
+  - first:
+      213: -7391487204393234639
+    second: Female Sword_36
+  - first:
+      213: 9208601054021390993
+    second: Female Sword_37
+  - first:
+      213: 7570726165661996393
+    second: Female Sword_38
+  - first:
+      213: 2128704549238045881
+    second: Female Sword_39
+  - first:
+      213: -4943741296270444458
+    second: Female Sword_40
+  - first:
+      213: 3137911940585751135
+    second: Female Sword_41
+  - first:
+      213: 5579936214552773206
+    second: Female Sword_42
+  - first:
+      213: 7398495618645261265
+    second: Female Sword_43
+  - first:
+      213: -9030268141076453394
+    second: Female Sword_0_6
+  - first:
+      213: 8223393056571883939
+    second: Female Sword_1_6
+  - first:
+      213: 3180427838295735994
+    second: Female Sword_2_6
+  - first:
+      213: -4527215802435510082
+    second: Female Sword_3_6
+  - first:
+      213: -2630028218014120553
+    second: Female Sword_4_6
+  - first:
+      213: -36824068544107040
+    second: Female Sword_5_6
+  - first:
+      213: 8037073728440001478
+    second: Female Sword_6_6
+  - first:
+      213: -7329024304986365442
+    second: Female Sword_7_6
+  - first:
+      213: 5956964442487726380
+    second: Female Sword_8_6
+  - first:
+      213: -4334186429346778283
+    second: Female Sword_9_6
+  - first:
+      213: 7823251742023801292
+    second: Female Sword_0_5
+  - first:
+      213: -7769609962976569851
+    second: Female Sword_1_5
+  - first:
+      213: 5120620911589493959
+    second: Female Sword_2_5
+  - first:
+      213: 7874028950804193001
+    second: Female Sword_3_5
+  - first:
+      213: 788348326865333441
+    second: Female Sword_4_5
+  - first:
+      213: -7256397735441053446
+    second: Female Sword_5_5
+  - first:
+      213: -6885702183277142279
+    second: Female Sword_6_5
+  - first:
+      213: -2398827161362104387
+    second: Female Sword_7_5
+  - first:
+      213: -8471658181289378789
+    second: Female Sword_8_5
+  - first:
+      213: 2772266197215202708
+    second: Female Sword_9_5
+  - first:
+      213: -2905223517963908706
+    second: Female Sword_0_4
+  - first:
+      213: -4426441838270374745
+    second: Female Sword_1_4
+  - first:
+      213: 5429044612434612295
+    second: Female Sword_2_4
+  - first:
+      213: -3839611321858163933
+    second: Female Sword_3_4
+  - first:
+      213: 5665555851802277998
+    second: Female Sword_4_4
+  - first:
+      213: 6468312298588237618
+    second: Female Sword_5_4
+  - first:
+      213: -6406254362817576121
+    second: Female Sword_6_4
+  - first:
+      213: -2702528026561854025
+    second: Female Sword_7_4
+  - first:
+      213: 515264575904108550
+    second: Female Sword_8_4
+  - first:
+      213: 3301695427220344711
+    second: Female Sword_9_4
+  - first:
+      213: 6186380997507589121
+    second: Female Sword_0_3
+  - first:
+      213: 442119744008196783
+    second: Female Sword_1_3
+  - first:
+      213: -4598542870011605846
+    second: Female Sword_2_3
+  - first:
+      213: 5171291996218721597
+    second: Female Sword_3_3
+  - first:
+      213: -8024499864745835643
+    second: Female Sword_4_3
+  - first:
+      213: -6849639550003389196
+    second: Female Sword_5_3
+  - first:
+      213: -6918670848996465482
+    second: Female Sword_6_3
+  - first:
+      213: 6913109310708847199
+    second: Female Sword_7_3
+  - first:
+      213: -4725506719879985642
+    second: Female Sword_8_3
+  - first:
+      213: -3599793234554431424
+    second: Female Sword_9_3
+  - first:
+      213: -7046081298883410848
+    second: Female Sword_0_2
+  - first:
+      213: -8347417229257182177
+    second: Female Sword_1_2
+  - first:
+      213: -2698479212770071289
+    second: Female Sword_2_2
+  - first:
+      213: 4559971760459623177
+    second: Female Sword_3_2
+  - first:
+      213: 7032624375440736818
+    second: Female Sword_4_2
+  - first:
+      213: 6204681279772105751
+    second: Female Sword_5_2
+  - first:
+      213: 4805623308837335879
+    second: Female Sword_6_2
+  - first:
+      213: -3564056950559219052
+    second: Female Sword_7_2
+  - first:
+      213: -8047228620947893942
+    second: Female Sword_8_2
+  - first:
+      213: -564670480132939413
+    second: Female Sword_9_2
+  - first:
+      213: 8846977976581431905
+    second: Female Sword_0_1
+  - first:
+      213: -4644735511373998948
+    second: Female Sword_1_1
+  - first:
+      213: -2747634257074533009
+    second: Female Sword_2_1
+  - first:
+      213: -4028122245120902929
+    second: Female Sword_3_1
+  - first:
+      213: 5499684433075512153
+    second: Female Sword_4_1
+  - first:
+      213: 8108908950473130297
+    second: Female Sword_5_1
+  - first:
+      213: 3450990429087791091
+    second: Female Sword_6_1
+  - first:
+      213: -782111738155878847
+    second: Female Sword_7_1
+  - first:
+      213: 1482951345525042390
+    second: Female Sword_8_1
+  - first:
+      213: 8716975402688556009
+    second: Female Sword_9_1
+  - first:
+      213: -1073927807982059017
+    second: Female Sword_0_0
+  - first:
+      213: 5497435322490617289
+    second: Female Sword_1_0
+  - first:
+      213: 384471610614663763
+    second: Female Sword_2_0
+  - first:
+      213: -3645835270175113483
+    second: Female Sword_3_0
+  - first:
+      213: 358100433402008693
+    second: Female Sword_4_0
+  - first:
+      213: 3165425777708851843
+    second: Female Sword_5_0
+  - first:
+      213: 491634764448101414
+    second: Female Sword_6_0
+  - first:
+      213: 4172219822879444533
+    second: Female Sword_7_0
+  - first:
+      213: -1713689309607659045
+    second: Female Sword_8_0
+  - first:
+      213: 5905272712125571549
+    second: Female Sword_9_0
+  - first:
+      213: -7167276215558403979
+    second: Female Sword_EMPTY_5
+  - first:
+      213: 1365992882053449394
+    second: Female Sword_EMPTY_6
+  - first:
+      213: 1637713429295004134
+    second: Female Sword_EMPTY_7
+  - first:
+      213: -4083055161717618588
+    second: Female Sword_EMPTY_8
+  - first:
+      213: 9153407392550040276
+    second: Female Sword_EMPTY_9
+  - first:
+      213: 4393451662393338436
+    second: Female Sword_EMPTY_18
+  - first:
+      213: 780387701681406773
+    second: Female Sword_EMPTY_19
+  - first:
+      213: 5185164048173610105
+    second: Female Sword_EMPTY_28
+  - first:
+      213: 3360035846749021712
+    second: Female Sword_EMPTY_29
+  - first:
+      213: 8460057748705605281
+    second: Female Sword_EMPTY_34
+  - first:
+      213: -3766608500722590542
+    second: Female Sword_EMPTY_35
+  - first:
+      213: 3134414066445674385
+    second: Female Sword_EMPTY_36
+  - first:
+      213: 6484129952320446338
+    second: Female Sword_EMPTY_37
+  - first:
+      213: -2894875380553797241
+    second: Female Sword_EMPTY_38
+  - first:
+      213: 7844813367547124125
+    second: Female Sword_EMPTY_39
+  - first:
+      213: 1154622569657946845
+    second: Female Sword_EMPTY_44
+  - first:
+      213: -546399474863761275
+    second: Female Sword_EMPTY_45
+  - first:
+      213: -2440574067537790279
+    second: Female Sword_EMPTY_46
+  - first:
+      213: 4546723500016159816
+    second: Female Sword_EMPTY_47
+  - first:
+      213: -3803486052492854758
+    second: Female Sword_EMPTY_48
+  - first:
+      213: -3101777908564433343
+    second: Female Sword_EMPTY_49
+  - first:
+      213: 3441641836453533911
+    second: Female Sword_50
+  - first:
+      213: 1829441727894677238
+    second: Female Sword_51
+  - first:
+      213: 4561268561112355308
+    second: Female Sword_52
+  - first:
+      213: 1585607782176637213
+    second: Female Sword_53
+  - first:
+      213: 2110573443193474681
+    second: Female Sword_54
+  - first:
+      213: 4184886564327135338
+    second: Female Sword_55
+  - first:
+      213: 4871844661703278513
+    second: Female Sword_EMPTY_56
+  - first:
+      213: -6809868224164163505
+    second: Female Sword_EMPTY_57
+  - first:
+      213: 3174538933839894622
+    second: Female Sword_EMPTY_58
+  - first:
+      213: 121588531613248972
+    second: Female Sword_EMPTY_59
+  - first:
+      213: 3492653806413499419
+    second: Female Sword_60
+  - first:
+      213: 1761437217805605313
+    second: Female Sword_61
+  - first:
+      213: 3336448132992636234
+    second: Female Sword_62
+  - first:
+      213: 5304834446223637593
+    second: Female Sword_63
+  - first:
+      213: 8779550566302427643
+    second: Female Sword_64
+  - first:
+      213: 4010197843793801455
+    second: Female Sword_65
+  - first:
+      213: 433313073830380281
+    second: Female Sword_66
+  - first:
+      213: 6764373039488497908
+    second: Female Sword_67
+  - first:
+      213: -2020859093696274168
+    second: Female Sword_68
+  - first:
+      213: 732920204744147356
+    second: Female Sword_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female Sword_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7d28d73027a8f60800000000000000
+      internalID: 8037361844312266715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f6d259d4145f7a0800000000000000
+      internalID: -6344092698610405570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e963c2fbfb3ca50800000000000000
+      internalID: 6540281911673527943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cead93d3af8c670b0800000000000000
+      internalID: -5731172498687796500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d48ab56d679a080800000000000000
+      internalID: -9175672102757839567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578098c7148b88c90800000000000000
+      internalID: -7167276215558403979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b60284f94bf4f210800000000000000
+      internalID: 1365992882053449394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9f30ddfa35ab610800000000000000
+      internalID: 1637713429295004134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4680f7f96f21657c0800000000000000
+      internalID: -4083055161717618588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d23165d68f670f70800000000000000
+      internalID: 9153407392550040276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1588256dc79fa6730800000000000000
+      internalID: 3993278334184360017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17ddbbe063a7d4b0800000000000000
+      internalID: -5415680390222457062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd2ba91f796d1710800000000000000
+      internalID: 1665603431809363445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa667c698baf6ee30800000000000000
+      internalID: 4532585745705559727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ca97ba726756590800000000000000
+      internalID: -7681603676657832835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8060c24050a93ab10800000000000000
+      internalID: 1991604806563399176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093e0dcbd50cd6540800000000000000
+      internalID: 5002866269910786960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ecebd8c767b1140800000000000000
+      internalID: 4691473714162617951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aedca620da8fc30800000000000000
+      internalID: 4393451662393338436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533cdc1ea7e74da00800000000000000
+      internalID: 780387701681406773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d88b9c7ef7d6230800000000000000
+      internalID: 3633701107856346437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd32f5fc30acde30800000000000000
+      internalID: 4529671508912651708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729f9bdf59bc26200800000000000000
+      internalID: 171923580860889383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2a87869d71a6170800000000000000
+      internalID: 8172370696345264807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa303a3376ca57890800000000000000
+      internalID: -7460867648421428305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006cdeabd898577b0800000000000000
+      internalID: -5227120550674053632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fd8e939c494e290800000000000000
+      internalID: -7861995457501143293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7dc64d2b47207c0800000000000000
+      internalID: -4106591598791567374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974b389ca3765f740800000000000000
+      internalID: 5185164048173610105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016ed06ecce31ae20800000000000000
+      internalID: 3360035846749021712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4d8814db59d9b50800000000000000
+      internalID: 6601597268875859112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c17e18f65ebc880800000000000000
+      internalID: -8589519597195551625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3016bb574d8c85b50800000000000000
+      internalID: 6582231670235816195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194a7c5f949b90b90800000000000000
+      internalID: -7275079995733072751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a673eaf2b9286570800000000000000
+      internalID: 8460057748705605281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc967266815abbc0800000000000000
+      internalID: -3766608500722590542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1976b719cfcaf7b20800000000000000
+      internalID: 3134414066445674385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fd78556d14cf950800000000000000
+      internalID: 6484129952320446338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7813119dd2653d7d0800000000000000
+      internalID: -2894875380553797241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99d1e5b1306edc60800000000000000
+      internalID: 7844813367547124125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658fe5eeb7d446bb0800000000000000
+      internalID: -4943741296270444458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52021bd84a1c8b20800000000000000
+      internalID: 3137911940585751135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65281c16c6aef6d40800000000000000
+      internalID: 5579936214552773206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db72a5f09cbca660800000000000000
+      internalID: 7398495618645261265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd25c121c1b060010800000000000000
+      internalID: 1154622569657946845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5881943929cca68f0800000000000000
+      internalID: -546399474863761275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba3168f0d6512ed0800000000000000
+      internalID: -2440574067537790279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c42660fe4391f30800000000000000
+      internalID: 4546723500016159816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ab205469d473bc0800000000000000
+      internalID: -3803486052492854758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146ecd31d6544f4d0800000000000000
+      internalID: -3101777908564433343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d89fe1040b23cf20800000000000000
+      internalID: 3441641836453533911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f660780f8b736910800000000000000
+      internalID: 1829441727894677238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce15246f691ec4f30800000000000000
+      internalID: 4561268561112355308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11cbb180e5310610800000000000000
+      internalID: 1585607782176637213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e8be14d534a4d10800000000000000
+      internalID: 2110573443193474681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6816046824b31a30800000000000000
+      internalID: 4184886564327135338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bff4bd58e44c9340800000000000000
+      internalID: 4871844661703278513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40997b2eec7e71a0800000000000000
+      internalID: -6809868224164163505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e589c25475a3e0c20800000000000000
+      internalID: 3174538933839894622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccda1931028ffa100800000000000000
+      internalID: 121588531613248972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c41bec126687030800000000000000
+      internalID: 3492653806413499419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9947d21d1e17810800000000000000
+      internalID: 1761437217805605313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a459a8256e17d4e20800000000000000
+      internalID: 3336448132992636234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c7a6792de8e9940800000000000000
+      internalID: 5304834446223637593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9290859ba37d970800000000000000
+      internalID: 8779550566302427643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0fd5621b517a730800000000000000
+      internalID: 4010197843793801455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f24132e1ff630600800000000000000
+      internalID: 433313073830380281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8f0f2b071efdd50800000000000000
+      internalID: 6764373039488497908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801ad1b7c5774f3e0800000000000000
+      internalID: -2020859093696274168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Sword_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c914b740b0bdb2a00800000000000000
+      internalID: 732920204744147356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Female Sword_0: 8037361844312266715
+      Female Sword_0_0: -1073927807982059017
+      Female Sword_0_1: 8846977976581431905
+      Female Sword_0_2: -7046081298883410848
+      Female Sword_0_3: 6186380997507589121
+      Female Sword_0_4: -2905223517963908706
+      Female Sword_0_5: 7823251742023801292
+      Female Sword_0_6: -9030268141076453394
+      Female Sword_1: -6344092698610405570
+      Female Sword_10: 3993278334184360017
+      Female Sword_11: -5415680390222457062
+      Female Sword_12: 1665603431809363445
+      Female Sword_13: 4532585745705559727
+      Female Sword_14: -7681603676657832835
+      Female Sword_15: 1991604806563399176
+      Female Sword_16: 5002866269910786960
+      Female Sword_17: 4691473714162617951
+      Female Sword_18: 6974576008670864498
+      Female Sword_19: -7328585462134719963
+      Female Sword_1_0: 5497435322490617289
+      Female Sword_1_1: -4644735511373998948
+      Female Sword_1_2: -8347417229257182177
+      Female Sword_1_3: 442119744008196783
+      Female Sword_1_4: -4426441838270374745
+      Female Sword_1_5: -7769609962976569851
+      Female Sword_1_6: 8223393056571883939
+      Female Sword_2: 6540281911673527943
+      Female Sword_20: 3633701107856346437
+      Female Sword_21: 4529671508912651708
+      Female Sword_22: 171923580860889383
+      Female Sword_23: 8172370696345264807
+      Female Sword_24: -7460867648421428305
+      Female Sword_25: -5227120550674053632
+      Female Sword_26: -7861995457501143293
+      Female Sword_27: -4106591598791567374
+      Female Sword_28: 3317906800881445865
+      Female Sword_29: -4668654763982868498
+      Female Sword_2_0: 384471610614663763
+      Female Sword_2_1: -2747634257074533009
+      Female Sword_2_2: -2698479212770071289
+      Female Sword_2_3: -4598542870011605846
+      Female Sword_2_4: 5429044612434612295
+      Female Sword_2_5: 5120620911589493959
+      Female Sword_2_6: 3180427838295735994
+      Female Sword_3: -5731172498687796500
+      Female Sword_30: 6601597268875859112
+      Female Sword_31: -8589519597195551625
+      Female Sword_32: 6582231670235816195
+      Female Sword_33: -7275079995733072751
+      Female Sword_34: 2977109304729767322
+      Female Sword_35: 2617916212947089696
+      Female Sword_36: -7391487204393234639
+      Female Sword_37: 9208601054021390993
+      Female Sword_38: 7570726165661996393
+      Female Sword_39: 2128704549238045881
+      Female Sword_3_0: -3645835270175113483
+      Female Sword_3_1: -4028122245120902929
+      Female Sword_3_2: 4559971760459623177
+      Female Sword_3_3: 5171291996218721597
+      Female Sword_3_4: -3839611321858163933
+      Female Sword_3_5: 7874028950804193001
+      Female Sword_3_6: -4527215802435510082
+      Female Sword_4: -9175672102757839567
+      Female Sword_40: -4943741296270444458
+      Female Sword_41: 3137911940585751135
+      Female Sword_42: 5579936214552773206
+      Female Sword_43: 7398495618645261265
+      Female Sword_4_0: 358100433402008693
+      Female Sword_4_1: 5499684433075512153
+      Female Sword_4_2: 7032624375440736818
+      Female Sword_4_3: -8024499864745835643
+      Female Sword_4_4: 5665555851802277998
+      Female Sword_4_5: 788348326865333441
+      Female Sword_4_6: -2630028218014120553
+      Female Sword_5: -1276998260769146544
+      Female Sword_50: 3441641836453533911
+      Female Sword_51: 1829441727894677238
+      Female Sword_52: 4561268561112355308
+      Female Sword_53: 1585607782176637213
+      Female Sword_54: 2110573443193474681
+      Female Sword_55: 4184886564327135338
+      Female Sword_5_0: 3165425777708851843
+      Female Sword_5_1: 8108908950473130297
+      Female Sword_5_2: 6204681279772105751
+      Female Sword_5_3: -6849639550003389196
+      Female Sword_5_4: 6468312298588237618
+      Female Sword_5_5: -7256397735441053446
+      Female Sword_5_6: -36824068544107040
+      Female Sword_6: 1850007460274423916
+      Female Sword_60: 3492653806413499419
+      Female Sword_61: 1761437217805605313
+      Female Sword_62: 3336448132992636234
+      Female Sword_63: 5304834446223637593
+      Female Sword_64: 8779550566302427643
+      Female Sword_65: 4010197843793801455
+      Female Sword_66: 433313073830380281
+      Female Sword_67: 6764373039488497908
+      Female Sword_68: -2020859093696274168
+      Female Sword_69: 732920204744147356
+      Female Sword_6_0: 491634764448101414
+      Female Sword_6_1: 3450990429087791091
+      Female Sword_6_2: 4805623308837335879
+      Female Sword_6_3: -6918670848996465482
+      Female Sword_6_4: -6406254362817576121
+      Female Sword_6_5: -6885702183277142279
+      Female Sword_6_6: 8037073728440001478
+      Female Sword_7: 5733420975869438726
+      Female Sword_7_0: 4172219822879444533
+      Female Sword_7_1: -782111738155878847
+      Female Sword_7_2: -3564056950559219052
+      Female Sword_7_3: 6913109310708847199
+      Female Sword_7_4: -2702528026561854025
+      Female Sword_7_5: -2398827161362104387
+      Female Sword_7_6: -7329024304986365442
+      Female Sword_8: -8130385669872607474
+      Female Sword_8_0: -1713689309607659045
+      Female Sword_8_1: 1482951345525042390
+      Female Sword_8_2: -8047228620947893942
+      Female Sword_8_3: -4725506719879985642
+      Female Sword_8_4: 515264575904108550
+      Female Sword_8_5: -8471658181289378789
+      Female Sword_8_6: 5956964442487726380
+      Female Sword_9: -8818173693271426069
+      Female Sword_9_0: 5905272712125571549
+      Female Sword_9_1: 8716975402688556009
+      Female Sword_9_2: -564670480132939413
+      Female Sword_9_3: -3599793234554431424
+      Female Sword_9_4: 3301695427220344711
+      Female Sword_9_5: 2772266197215202708
+      Female Sword_9_6: -4334186429346778283
+      Female Sword_EMPTY_18: 4393451662393338436
+      Female Sword_EMPTY_19: 780387701681406773
+      Female Sword_EMPTY_28: 5185164048173610105
+      Female Sword_EMPTY_29: 3360035846749021712
+      Female Sword_EMPTY_34: 8460057748705605281
+      Female Sword_EMPTY_35: -3766608500722590542
+      Female Sword_EMPTY_36: 3134414066445674385
+      Female Sword_EMPTY_37: 6484129952320446338
+      Female Sword_EMPTY_38: -2894875380553797241
+      Female Sword_EMPTY_39: 7844813367547124125
+      Female Sword_EMPTY_44: 1154622569657946845
+      Female Sword_EMPTY_45: -546399474863761275
+      Female Sword_EMPTY_46: -2440574067537790279
+      Female Sword_EMPTY_47: 4546723500016159816
+      Female Sword_EMPTY_48: -3803486052492854758
+      Female Sword_EMPTY_49: -3101777908564433343
+      Female Sword_EMPTY_5: -7167276215558403979
+      Female Sword_EMPTY_56: 4871844661703278513
+      Female Sword_EMPTY_57: -6809868224164163505
+      Female Sword_EMPTY_58: 3174538933839894622
+      Female Sword_EMPTY_59: 121588531613248972
+      Female Sword_EMPTY_6: 1365992882053449394
+      Female Sword_EMPTY_7: 1637713429295004134
+      Female Sword_EMPTY_8: -4083055161717618588
+      Female Sword_EMPTY_9: 9153407392550040276
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

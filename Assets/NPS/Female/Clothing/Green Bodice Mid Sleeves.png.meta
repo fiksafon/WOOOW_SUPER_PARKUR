@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: 075010c53c8cab144aa416bc06cd9569
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7047704319042239747
+    second: Green Bodice Mid Sleeves_0
+  - first:
+      213: 8816469510470320894
+    second: Green Bodice Mid Sleeves_1
+  - first:
+      213: -3331106197611627943
+    second: Green Bodice Mid Sleeves_2
+  - first:
+      213: -2430417346135136368
+    second: Green Bodice Mid Sleeves_3
+  - first:
+      213: -8852040418799850800
+    second: Green Bodice Mid Sleeves_4
+  - first:
+      213: 5866906017880716841
+    second: Green Bodice Mid Sleeves_5
+  - first:
+      213: 6933590381026310570
+    second: Green Bodice Mid Sleeves_6
+  - first:
+      213: 4255088675332401786
+    second: Green Bodice Mid Sleeves_7
+  - first:
+      213: -6127964314910052926
+    second: Green Bodice Mid Sleeves_8
+  - first:
+      213: -8092731299799782724
+    second: Green Bodice Mid Sleeves_9
+  - first:
+      213: -6535713572441289755
+    second: Green Bodice Mid Sleeves_10
+  - first:
+      213: -495855585650384233
+    second: Green Bodice Mid Sleeves_11
+  - first:
+      213: -6011261091494936216
+    second: Green Bodice Mid Sleeves_12
+  - first:
+      213: 8420008324538840887
+    second: Green Bodice Mid Sleeves_13
+  - first:
+      213: 9034766727938222649
+    second: Green Bodice Mid Sleeves_14
+  - first:
+      213: 6788645789819637170
+    second: Green Bodice Mid Sleeves_15
+  - first:
+      213: 1074169196005629372
+    second: Green Bodice Mid Sleeves_16
+  - first:
+      213: 3009862657042028403
+    second: Green Bodice Mid Sleeves_17
+  - first:
+      213: 5501762379161074179
+    second: Green Bodice Mid Sleeves_18
+  - first:
+      213: 2404769888888959728
+    second: Green Bodice Mid Sleeves_19
+  - first:
+      213: -2617272879373668831
+    second: Green Bodice Mid Sleeves_20
+  - first:
+      213: 9157939233771673593
+    second: Green Bodice Mid Sleeves_21
+  - first:
+      213: 2129740176749583721
+    second: Green Bodice Mid Sleeves_22
+  - first:
+      213: 6431255987758972420
+    second: Green Bodice Mid Sleeves_23
+  - first:
+      213: -9199598931375635693
+    second: Green Bodice Mid Sleeves_24
+  - first:
+      213: 5896931583706726531
+    second: Green Bodice Mid Sleeves_25
+  - first:
+      213: -1633017548875033170
+    second: Green Bodice Mid Sleeves_26
+  - first:
+      213: 5502814367476594000
+    second: Green Bodice Mid Sleeves_27
+  - first:
+      213: 6867765273882587710
+    second: Green Bodice Mid Sleeves_28
+  - first:
+      213: 6405044418226906168
+    second: Green Bodice Mid Sleeves_29
+  - first:
+      213: -4541333505598434203
+    second: Green Bodice Mid Sleeves_30
+  - first:
+      213: -969963653863054548
+    second: Green Bodice Mid Sleeves_31
+  - first:
+      213: 8308920529105873108
+    second: Green Bodice Mid Sleeves_32
+  - first:
+      213: 9089240118613093751
+    second: Green Bodice Mid Sleeves_33
+  - first:
+      213: 3234666040420387779
+    second: Green Bodice Mid Sleeves_34
+  - first:
+      213: 4293054452754923900
+    second: Green Bodice Mid Sleeves_35
+  - first:
+      213: -7824821052736962397
+    second: Green Bodice Mid Sleeves_36
+  - first:
+      213: 8953509873864471145
+    second: Green Bodice Mid Sleeves_37
+  - first:
+      213: 8946757213668124327
+    second: Green Bodice Mid Sleeves_38
+  - first:
+      213: -3939509438043828277
+    second: Green Bodice Mid Sleeves_39
+  - first:
+      213: -8689349333936314212
+    second: Green Bodice Mid Sleeves_40
+  - first:
+      213: -1227877514984385462
+    second: Green Bodice Mid Sleeves_41
+  - first:
+      213: 1583395257939515283
+    second: Green Bodice Mid Sleeves_42
+  - first:
+      213: -5415544863346944317
+    second: Green Bodice Mid Sleeves_43
+  - first:
+      213: 2379219489145030741
+    second: Green Bodice Mid Sleeves_44
+  - first:
+      213: -2523922883092040423
+    second: Green Bodice Mid Sleeves_45
+  - first:
+      213: -2710858033894082165
+    second: Green Bodice Mid Sleeves_46
+  - first:
+      213: -838442499481030406
+    second: Green Bodice Mid Sleeves_47
+  - first:
+      213: -4901452887058979330
+    second: Green Bodice Mid Sleeves_48
+  - first:
+      213: 2474463860403964387
+    second: Green Bodice Mid Sleeves_49
+  - first:
+      213: -1332160365288224226
+    second: Green Bodice Mid Sleeves_0_6
+  - first:
+      213: 155753092744760046
+    second: Green Bodice Mid Sleeves_1_6
+  - first:
+      213: 4814239390382019859
+    second: Green Bodice Mid Sleeves_2_6
+  - first:
+      213: -3818030390448341881
+    second: Green Bodice Mid Sleeves_3_6
+  - first:
+      213: 2449109662209601983
+    second: Green Bodice Mid Sleeves_4_6
+  - first:
+      213: -5777288932721506361
+    second: Green Bodice Mid Sleeves_5_6
+  - first:
+      213: 7672811264083433433
+    second: Green Bodice Mid Sleeves_6_6
+  - first:
+      213: 7235866993634979732
+    second: Green Bodice Mid Sleeves_7_6
+  - first:
+      213: 6211035032567619912
+    second: Green Bodice Mid Sleeves_8_6
+  - first:
+      213: -5891241478946801006
+    second: Green Bodice Mid Sleeves_9_6
+  - first:
+      213: 6196821432358006816
+    second: Green Bodice Mid Sleeves_0_5
+  - first:
+      213: -6194251508467268613
+    second: Green Bodice Mid Sleeves_1_5
+  - first:
+      213: -6046904276350932820
+    second: Green Bodice Mid Sleeves_2_5
+  - first:
+      213: -2586746443433692790
+    second: Green Bodice Mid Sleeves_3_5
+  - first:
+      213: -1158623404474924283
+    second: Green Bodice Mid Sleeves_4_5
+  - first:
+      213: -7376056076612500570
+    second: Green Bodice Mid Sleeves_5_5
+  - first:
+      213: 5623996703870494607
+    second: Green Bodice Mid Sleeves_6_5
+  - first:
+      213: 8032165974657881073
+    second: Green Bodice Mid Sleeves_7_5
+  - first:
+      213: 2574034702005112753
+    second: Green Bodice Mid Sleeves_8_5
+  - first:
+      213: -5340160142016894759
+    second: Green Bodice Mid Sleeves_9_5
+  - first:
+      213: 5004926320113979068
+    second: Green Bodice Mid Sleeves_0_4
+  - first:
+      213: 7434945285243971640
+    second: Green Bodice Mid Sleeves_1_4
+  - first:
+      213: 7712176227961622361
+    second: Green Bodice Mid Sleeves_2_4
+  - first:
+      213: -8731885665162513646
+    second: Green Bodice Mid Sleeves_3_4
+  - first:
+      213: -2123908466868054194
+    second: Green Bodice Mid Sleeves_4_4
+  - first:
+      213: -7318113216765360692
+    second: Green Bodice Mid Sleeves_5_4
+  - first:
+      213: 9201847876678148112
+    second: Green Bodice Mid Sleeves_6_4
+  - first:
+      213: -4843053031391115299
+    second: Green Bodice Mid Sleeves_7_4
+  - first:
+      213: -6418074926939665202
+    second: Green Bodice Mid Sleeves_8_4
+  - first:
+      213: 1120833122962643373
+    second: Green Bodice Mid Sleeves_9_4
+  - first:
+      213: -5362899137620071115
+    second: Green Bodice Mid Sleeves_0_3
+  - first:
+      213: -4649833396717939288
+    second: Green Bodice Mid Sleeves_1_3
+  - first:
+      213: -7127330491336534567
+    second: Green Bodice Mid Sleeves_2_3
+  - first:
+      213: 4576992954088828734
+    second: Green Bodice Mid Sleeves_3_3
+  - first:
+      213: 7603695151287817639
+    second: Green Bodice Mid Sleeves_4_3
+  - first:
+      213: -26268830133035999
+    second: Green Bodice Mid Sleeves_5_3
+  - first:
+      213: -2514928621211887191
+    second: Green Bodice Mid Sleeves_6_3
+  - first:
+      213: -8946458723895941162
+    second: Green Bodice Mid Sleeves_7_3
+  - first:
+      213: 1733354616358859815
+    second: Green Bodice Mid Sleeves_8_3
+  - first:
+      213: -568526594043755973
+    second: Green Bodice Mid Sleeves_9_3
+  - first:
+      213: 8820943851467675220
+    second: Green Bodice Mid Sleeves_0_2
+  - first:
+      213: -6875883059994436533
+    second: Green Bodice Mid Sleeves_1_2
+  - first:
+      213: -6489312737097271479
+    second: Green Bodice Mid Sleeves_2_2
+  - first:
+      213: -2507628415472941670
+    second: Green Bodice Mid Sleeves_3_2
+  - first:
+      213: 3948883083868112442
+    second: Green Bodice Mid Sleeves_4_2
+  - first:
+      213: 6342269455723901919
+    second: Green Bodice Mid Sleeves_5_2
+  - first:
+      213: 7076141964507949118
+    second: Green Bodice Mid Sleeves_6_2
+  - first:
+      213: -9054701167165863950
+    second: Green Bodice Mid Sleeves_7_2
+  - first:
+      213: 3695635097507519138
+    second: Green Bodice Mid Sleeves_8_2
+  - first:
+      213: -3505421920876814871
+    second: Green Bodice Mid Sleeves_9_2
+  - first:
+      213: 3598063204796811054
+    second: Green Bodice Mid Sleeves_0_1
+  - first:
+      213: -4387752806557737987
+    second: Green Bodice Mid Sleeves_1_1
+  - first:
+      213: 1784205198204376387
+    second: Green Bodice Mid Sleeves_2_1
+  - first:
+      213: 7834256575564246881
+    second: Green Bodice Mid Sleeves_3_1
+  - first:
+      213: -5419089169262565837
+    second: Green Bodice Mid Sleeves_4_1
+  - first:
+      213: -167799890187828871
+    second: Green Bodice Mid Sleeves_5_1
+  - first:
+      213: 1780102992576832537
+    second: Green Bodice Mid Sleeves_6_1
+  - first:
+      213: 4217816504445149161
+    second: Green Bodice Mid Sleeves_7_1
+  - first:
+      213: 1518360755611802572
+    second: Green Bodice Mid Sleeves_8_1
+  - first:
+      213: 1453378393454694609
+    second: Green Bodice Mid Sleeves_9_1
+  - first:
+      213: -6104896983128216983
+    second: Green Bodice Mid Sleeves_0_0
+  - first:
+      213: 5856957897742762392
+    second: Green Bodice Mid Sleeves_1_0
+  - first:
+      213: -9024779470232140218
+    second: Green Bodice Mid Sleeves_2_0
+  - first:
+      213: -5032556528846126171
+    second: Green Bodice Mid Sleeves_3_0
+  - first:
+      213: 5568774206821642131
+    second: Green Bodice Mid Sleeves_4_0
+  - first:
+      213: -4133383322885132502
+    second: Green Bodice Mid Sleeves_5_0
+  - first:
+      213: -3503523776578441679
+    second: Green Bodice Mid Sleeves_6_0
+  - first:
+      213: -834273228932837627
+    second: Green Bodice Mid Sleeves_7_0
+  - first:
+      213: -8195833234368629046
+    second: Green Bodice Mid Sleeves_8_0
+  - first:
+      213: 7290026408362298835
+    second: Green Bodice Mid Sleeves_9_0
+  - first:
+      213: 1931922897417915819
+    second: Green Bodice Mid Sleeves_EMPTY_5
+  - first:
+      213: -523163126971277502
+    second: Green Bodice Mid Sleeves_EMPTY_6
+  - first:
+      213: 7608357942874508360
+    second: Green Bodice Mid Sleeves_EMPTY_7
+  - first:
+      213: 8598650419449614622
+    second: Green Bodice Mid Sleeves_EMPTY_8
+  - first:
+      213: -5027007904108892678
+    second: Green Bodice Mid Sleeves_EMPTY_9
+  - first:
+      213: -338098024894522602
+    second: Green Bodice Mid Sleeves_EMPTY_18
+  - first:
+      213: 7691181985619085937
+    second: Green Bodice Mid Sleeves_EMPTY_19
+  - first:
+      213: 5722908745450731029
+    second: Green Bodice Mid Sleeves_EMPTY_28
+  - first:
+      213: 930089244524889300
+    second: Green Bodice Mid Sleeves_EMPTY_29
+  - first:
+      213: 2641471466538157505
+    second: Green Bodice Mid Sleeves_EMPTY_34
+  - first:
+      213: 369437517768599058
+    second: Green Bodice Mid Sleeves_EMPTY_35
+  - first:
+      213: -8863015246307843726
+    second: Green Bodice Mid Sleeves_EMPTY_36
+  - first:
+      213: -2376708760540624245
+    second: Green Bodice Mid Sleeves_EMPTY_37
+  - first:
+      213: 8188059664395112731
+    second: Green Bodice Mid Sleeves_EMPTY_38
+  - first:
+      213: 4103505933414064235
+    second: Green Bodice Mid Sleeves_EMPTY_39
+  - first:
+      213: -3634721708018588565
+    second: Green Bodice Mid Sleeves_EMPTY_44
+  - first:
+      213: 294624743211892280
+    second: Green Bodice Mid Sleeves_EMPTY_45
+  - first:
+      213: 3135428018986656933
+    second: Green Bodice Mid Sleeves_EMPTY_46
+  - first:
+      213: -6275927460064126411
+    second: Green Bodice Mid Sleeves_EMPTY_47
+  - first:
+      213: -8022917881977681382
+    second: Green Bodice Mid Sleeves_EMPTY_48
+  - first:
+      213: -3055741166112662284
+    second: Green Bodice Mid Sleeves_EMPTY_49
+  - first:
+      213: 7789374603450546052
+    second: Green Bodice Mid Sleeves_50
+  - first:
+      213: 7745161894572096328
+    second: Green Bodice Mid Sleeves_51
+  - first:
+      213: 8755067228532532403
+    second: Green Bodice Mid Sleeves_52
+  - first:
+      213: -8360120817232834662
+    second: Green Bodice Mid Sleeves_53
+  - first:
+      213: 6567177567695472084
+    second: Green Bodice Mid Sleeves_54
+  - first:
+      213: 4589841955895117999
+    second: Green Bodice Mid Sleeves_55
+  - first:
+      213: -5742801681981534193
+    second: Green Bodice Mid Sleeves_EMPTY_56
+  - first:
+      213: 4800070405292565034
+    second: Green Bodice Mid Sleeves_EMPTY_57
+  - first:
+      213: -2064665719636324189
+    second: Green Bodice Mid Sleeves_EMPTY_58
+  - first:
+      213: 4538537458740694047
+    second: Green Bodice Mid Sleeves_EMPTY_59
+  - first:
+      213: -5639374014144637881
+    second: Green Bodice Mid Sleeves_60
+  - first:
+      213: 8270793462538521960
+    second: Green Bodice Mid Sleeves_61
+  - first:
+      213: -7783139125978557212
+    second: Green Bodice Mid Sleeves_62
+  - first:
+      213: 8880287258248203230
+    second: Green Bodice Mid Sleeves_63
+  - first:
+      213: 8887595197131450789
+    second: Green Bodice Mid Sleeves_64
+  - first:
+      213: 474795761520413655
+    second: Green Bodice Mid Sleeves_65
+  - first:
+      213: -4157088800333823216
+    second: Green Bodice Mid Sleeves_66
+  - first:
+      213: 7355538472466802524
+    second: Green Bodice Mid Sleeves_67
+  - first:
+      213: 8197075504713210633
+    second: Green Bodice Mid Sleeves_68
+  - first:
+      213: 8264151509885525398
+    second: Green Bodice Mid Sleeves_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dbf72ecb97ec160800000000000000
+      internalID: 7047704319042239747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef245a0ee446a5a70800000000000000
+      internalID: 8816469510470320894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ab14eef8885c1d0800000000000000
+      internalID: -3331106197611627943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097eaa3fc4c654ed0800000000000000
+      internalID: -2430417346135136368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dae804a32c372580800000000000000
+      internalID: -8852040418799850800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badc902b3a19fca10800000000000000
+      internalID: 1931922897417915819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f5b4968e95db8f0800000000000000
+      internalID: -523163126971277502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c8e0dfc31569960800000000000000
+      internalID: 7608357942874508360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11de07bffa845770800000000000000
+      internalID: 8598650419449614622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd228802fa7c3ab0800000000000000
+      internalID: -5027007904108892678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb00f0322b7c45a0800000000000000
+      internalID: -6535713572441289755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7926a65d8fd5e19f0800000000000000
+      internalID: -495855585650384233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8614155e2e5b39ca0800000000000000
+      internalID: -6011261091494936216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73738f5c5f0e9d470800000000000000
+      internalID: 8420008324538840887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93aa6478870f16d70800000000000000
+      internalID: 9034766727938222649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd8628c06d163e50800000000000000
+      internalID: 6788645789819637170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd159c413738ee00800000000000000
+      internalID: 1074169196005629372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37714bfb32e25c920800000000000000
+      internalID: 3009862657042028403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b96ee33a5de4bf0800000000000000
+      internalID: -338098024894522602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a85bb24419cba60800000000000000
+      internalID: 7691181985619085937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e2ba0ee249dabd0800000000000000
+      internalID: -2617272879373668831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7d2975639871f70800000000000000
+      internalID: 9157939233771673593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d590b286b5e8d10800000000000000
+      internalID: 2129740176749583721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e3af12f39604950800000000000000
+      internalID: 6431255987758972420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313ca437385745080800000000000000
+      internalID: -9199598931375635693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3800f97380c16d150800000000000000
+      internalID: 5896931583706726531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5135ff03b5659e0800000000000000
+      internalID: -1633017548875033170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055bb56138ced5c40800000000000000
+      internalID: 5502814367476594000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5163196ce2bdb6f40800000000000000
+      internalID: 5722908745450731029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d441557d3758ec00800000000000000
+      internalID: 930089244524889300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564d938dc31f9f0c0800000000000000
+      internalID: -4541333505598434203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23e376223ff982f0800000000000000
+      internalID: -969963653863054548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d86e4cd2373f4370800000000000000
+      internalID: 8308920529105873108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77da9242bb7732e70800000000000000
+      internalID: 9089240118613093751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5465fbd4468a420800000000000000
+      internalID: 2641471466538157505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216ac4d0771802500800000000000000
+      internalID: 369437517768599058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27123fc779e300580800000000000000
+      internalID: -8863015246307843726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8aca6189fb340fd0800000000000000
+      internalID: -2376708760540624245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1199ffe1e4d1a170800000000000000
+      internalID: 8188059664395112731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b606ad6b7e492f830800000000000000
+      internalID: 4103505933414064235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98e275a1da396780800000000000000
+      internalID: -8689349333936314212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a449aabd7e3b5fee0800000000000000
+      internalID: -1227877514984385462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397d580199959f510800000000000000
+      internalID: 1583395257939515283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6930bb3ae18d4b0800000000000000
+      internalID: -5415544863346944317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64a6283ddfde8dc0800000000000000
+      internalID: -3634721708018588565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e7f2994a7b61400800000000000000
+      internalID: 294624743211892280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4a18acb27438b20800000000000000
+      internalID: 3135428018986656933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a12c2f93d67e8a0800000000000000
+      internalID: -6275927460064126411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a479e81bed8a090800000000000000
+      internalID: -8022917881977681382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc11547993d795d0800000000000000
+      internalID: -3055741166112662284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4877e159eea691c60800000000000000
+      internalID: 7789374603450546052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b7cdd15b75c7b60800000000000000
+      internalID: 7745161894572096328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4685d024f308970800000000000000
+      internalID: 8755067228532532403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f0d791962eafb80800000000000000
+      internalID: -8360120817232834662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d50763143d432b50800000000000000
+      internalID: 6567177567695472084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8005cd0f462bf30800000000000000
+      internalID: 4589841955895117999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0099f10c487d40b0800000000000000
+      internalID: -5742801681981534193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22245c0a964d9240800000000000000
+      internalID: 4800070405292565034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a096219775d853e0800000000000000
+      internalID: -2064665719636324189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c0b04c5cf1cfe30800000000000000
+      internalID: 4538537458740694047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744175b763becb1b0800000000000000
+      internalID: -5639374014144637881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d4b3965d2c7c270800000000000000
+      internalID: 8270793462538521960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e49a96a33cbcf390800000000000000
+      internalID: -7783139125978557212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbcf4b263e1d3b70800000000000000
+      internalID: 8880287258248203230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9ec784eb4175b70800000000000000
+      internalID: 8887595197131450789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db0942ca30d69600800000000000000
+      internalID: 474795761520413655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0130954e2cd0f46c0800000000000000
+      internalID: -4157088800333823216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c576a17f44f141660800000000000000
+      internalID: 7355538472466802524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b9c77ddbcd1c170800000000000000
+      internalID: 8197075504713210633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bodice Mid Sleeves_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d1cbc430a20b270800000000000000
+      internalID: 8264151509885525398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green Bodice Mid Sleeves_0: 7047704319042239747
+      Green Bodice Mid Sleeves_0_0: -6104896983128216983
+      Green Bodice Mid Sleeves_0_1: 3598063204796811054
+      Green Bodice Mid Sleeves_0_2: 8820943851467675220
+      Green Bodice Mid Sleeves_0_3: -5362899137620071115
+      Green Bodice Mid Sleeves_0_4: 5004926320113979068
+      Green Bodice Mid Sleeves_0_5: 6196821432358006816
+      Green Bodice Mid Sleeves_0_6: -1332160365288224226
+      Green Bodice Mid Sleeves_1: 8816469510470320894
+      Green Bodice Mid Sleeves_10: -6535713572441289755
+      Green Bodice Mid Sleeves_11: -495855585650384233
+      Green Bodice Mid Sleeves_12: -6011261091494936216
+      Green Bodice Mid Sleeves_13: 8420008324538840887
+      Green Bodice Mid Sleeves_14: 9034766727938222649
+      Green Bodice Mid Sleeves_15: 6788645789819637170
+      Green Bodice Mid Sleeves_16: 1074169196005629372
+      Green Bodice Mid Sleeves_17: 3009862657042028403
+      Green Bodice Mid Sleeves_18: 5501762379161074179
+      Green Bodice Mid Sleeves_19: 2404769888888959728
+      Green Bodice Mid Sleeves_1_0: 5856957897742762392
+      Green Bodice Mid Sleeves_1_1: -4387752806557737987
+      Green Bodice Mid Sleeves_1_2: -6875883059994436533
+      Green Bodice Mid Sleeves_1_3: -4649833396717939288
+      Green Bodice Mid Sleeves_1_4: 7434945285243971640
+      Green Bodice Mid Sleeves_1_5: -6194251508467268613
+      Green Bodice Mid Sleeves_1_6: 155753092744760046
+      Green Bodice Mid Sleeves_2: -3331106197611627943
+      Green Bodice Mid Sleeves_20: -2617272879373668831
+      Green Bodice Mid Sleeves_21: 9157939233771673593
+      Green Bodice Mid Sleeves_22: 2129740176749583721
+      Green Bodice Mid Sleeves_23: 6431255987758972420
+      Green Bodice Mid Sleeves_24: -9199598931375635693
+      Green Bodice Mid Sleeves_25: 5896931583706726531
+      Green Bodice Mid Sleeves_26: -1633017548875033170
+      Green Bodice Mid Sleeves_27: 5502814367476594000
+      Green Bodice Mid Sleeves_28: 6867765273882587710
+      Green Bodice Mid Sleeves_29: 6405044418226906168
+      Green Bodice Mid Sleeves_2_0: -9024779470232140218
+      Green Bodice Mid Sleeves_2_1: 1784205198204376387
+      Green Bodice Mid Sleeves_2_2: -6489312737097271479
+      Green Bodice Mid Sleeves_2_3: -7127330491336534567
+      Green Bodice Mid Sleeves_2_4: 7712176227961622361
+      Green Bodice Mid Sleeves_2_5: -6046904276350932820
+      Green Bodice Mid Sleeves_2_6: 4814239390382019859
+      Green Bodice Mid Sleeves_3: -2430417346135136368
+      Green Bodice Mid Sleeves_30: -4541333505598434203
+      Green Bodice Mid Sleeves_31: -969963653863054548
+      Green Bodice Mid Sleeves_32: 8308920529105873108
+      Green Bodice Mid Sleeves_33: 9089240118613093751
+      Green Bodice Mid Sleeves_34: 3234666040420387779
+      Green Bodice Mid Sleeves_35: 4293054452754923900
+      Green Bodice Mid Sleeves_36: -7824821052736962397
+      Green Bodice Mid Sleeves_37: 8953509873864471145
+      Green Bodice Mid Sleeves_38: 8946757213668124327
+      Green Bodice Mid Sleeves_39: -3939509438043828277
+      Green Bodice Mid Sleeves_3_0: -5032556528846126171
+      Green Bodice Mid Sleeves_3_1: 7834256575564246881
+      Green Bodice Mid Sleeves_3_2: -2507628415472941670
+      Green Bodice Mid Sleeves_3_3: 4576992954088828734
+      Green Bodice Mid Sleeves_3_4: -8731885665162513646
+      Green Bodice Mid Sleeves_3_5: -2586746443433692790
+      Green Bodice Mid Sleeves_3_6: -3818030390448341881
+      Green Bodice Mid Sleeves_4: -8852040418799850800
+      Green Bodice Mid Sleeves_40: -8689349333936314212
+      Green Bodice Mid Sleeves_41: -1227877514984385462
+      Green Bodice Mid Sleeves_42: 1583395257939515283
+      Green Bodice Mid Sleeves_43: -5415544863346944317
+      Green Bodice Mid Sleeves_44: 2379219489145030741
+      Green Bodice Mid Sleeves_45: -2523922883092040423
+      Green Bodice Mid Sleeves_46: -2710858033894082165
+      Green Bodice Mid Sleeves_47: -838442499481030406
+      Green Bodice Mid Sleeves_48: -4901452887058979330
+      Green Bodice Mid Sleeves_49: 2474463860403964387
+      Green Bodice Mid Sleeves_4_0: 5568774206821642131
+      Green Bodice Mid Sleeves_4_1: -5419089169262565837
+      Green Bodice Mid Sleeves_4_2: 3948883083868112442
+      Green Bodice Mid Sleeves_4_3: 7603695151287817639
+      Green Bodice Mid Sleeves_4_4: -2123908466868054194
+      Green Bodice Mid Sleeves_4_5: -1158623404474924283
+      Green Bodice Mid Sleeves_4_6: 2449109662209601983
+      Green Bodice Mid Sleeves_5: 5866906017880716841
+      Green Bodice Mid Sleeves_50: 7789374603450546052
+      Green Bodice Mid Sleeves_51: 7745161894572096328
+      Green Bodice Mid Sleeves_52: 8755067228532532403
+      Green Bodice Mid Sleeves_53: -8360120817232834662
+      Green Bodice Mid Sleeves_54: 6567177567695472084
+      Green Bodice Mid Sleeves_55: 4589841955895117999
+      Green Bodice Mid Sleeves_5_0: -4133383322885132502
+      Green Bodice Mid Sleeves_5_1: -167799890187828871
+      Green Bodice Mid Sleeves_5_2: 6342269455723901919
+      Green Bodice Mid Sleeves_5_3: -26268830133035999
+      Green Bodice Mid Sleeves_5_4: -7318113216765360692
+      Green Bodice Mid Sleeves_5_5: -7376056076612500570
+      Green Bodice Mid Sleeves_5_6: -5777288932721506361
+      Green Bodice Mid Sleeves_6: 6933590381026310570
+      Green Bodice Mid Sleeves_60: -5639374014144637881
+      Green Bodice Mid Sleeves_61: 8270793462538521960
+      Green Bodice Mid Sleeves_62: -7783139125978557212
+      Green Bodice Mid Sleeves_63: 8880287258248203230
+      Green Bodice Mid Sleeves_64: 8887595197131450789
+      Green Bodice Mid Sleeves_65: 474795761520413655
+      Green Bodice Mid Sleeves_66: -4157088800333823216
+      Green Bodice Mid Sleeves_67: 7355538472466802524
+      Green Bodice Mid Sleeves_68: 8197075504713210633
+      Green Bodice Mid Sleeves_69: 8264151509885525398
+      Green Bodice Mid Sleeves_6_0: -3503523776578441679
+      Green Bodice Mid Sleeves_6_1: 1780102992576832537
+      Green Bodice Mid Sleeves_6_2: 7076141964507949118
+      Green Bodice Mid Sleeves_6_3: -2514928621211887191
+      Green Bodice Mid Sleeves_6_4: 9201847876678148112
+      Green Bodice Mid Sleeves_6_5: 5623996703870494607
+      Green Bodice Mid Sleeves_6_6: 7672811264083433433
+      Green Bodice Mid Sleeves_7: 4255088675332401786
+      Green Bodice Mid Sleeves_7_0: -834273228932837627
+      Green Bodice Mid Sleeves_7_1: 4217816504445149161
+      Green Bodice Mid Sleeves_7_2: -9054701167165863950
+      Green Bodice Mid Sleeves_7_3: -8946458723895941162
+      Green Bodice Mid Sleeves_7_4: -4843053031391115299
+      Green Bodice Mid Sleeves_7_5: 8032165974657881073
+      Green Bodice Mid Sleeves_7_6: 7235866993634979732
+      Green Bodice Mid Sleeves_8: -6127964314910052926
+      Green Bodice Mid Sleeves_8_0: -8195833234368629046
+      Green Bodice Mid Sleeves_8_1: 1518360755611802572
+      Green Bodice Mid Sleeves_8_2: 3695635097507519138
+      Green Bodice Mid Sleeves_8_3: 1733354616358859815
+      Green Bodice Mid Sleeves_8_4: -6418074926939665202
+      Green Bodice Mid Sleeves_8_5: 2574034702005112753
+      Green Bodice Mid Sleeves_8_6: 6211035032567619912
+      Green Bodice Mid Sleeves_9: -8092731299799782724
+      Green Bodice Mid Sleeves_9_0: 7290026408362298835
+      Green Bodice Mid Sleeves_9_1: 1453378393454694609
+      Green Bodice Mid Sleeves_9_2: -3505421920876814871
+      Green Bodice Mid Sleeves_9_3: -568526594043755973
+      Green Bodice Mid Sleeves_9_4: 1120833122962643373
+      Green Bodice Mid Sleeves_9_5: -5340160142016894759
+      Green Bodice Mid Sleeves_9_6: -5891241478946801006
+      Green Bodice Mid Sleeves_EMPTY_18: -338098024894522602
+      Green Bodice Mid Sleeves_EMPTY_19: 7691181985619085937
+      Green Bodice Mid Sleeves_EMPTY_28: 5722908745450731029
+      Green Bodice Mid Sleeves_EMPTY_29: 930089244524889300
+      Green Bodice Mid Sleeves_EMPTY_34: 2641471466538157505
+      Green Bodice Mid Sleeves_EMPTY_35: 369437517768599058
+      Green Bodice Mid Sleeves_EMPTY_36: -8863015246307843726
+      Green Bodice Mid Sleeves_EMPTY_37: -2376708760540624245
+      Green Bodice Mid Sleeves_EMPTY_38: 8188059664395112731
+      Green Bodice Mid Sleeves_EMPTY_39: 4103505933414064235
+      Green Bodice Mid Sleeves_EMPTY_44: -3634721708018588565
+      Green Bodice Mid Sleeves_EMPTY_45: 294624743211892280
+      Green Bodice Mid Sleeves_EMPTY_46: 3135428018986656933
+      Green Bodice Mid Sleeves_EMPTY_47: -6275927460064126411
+      Green Bodice Mid Sleeves_EMPTY_48: -8022917881977681382
+      Green Bodice Mid Sleeves_EMPTY_49: -3055741166112662284
+      Green Bodice Mid Sleeves_EMPTY_5: 1931922897417915819
+      Green Bodice Mid Sleeves_EMPTY_56: -5742801681981534193
+      Green Bodice Mid Sleeves_EMPTY_57: 4800070405292565034
+      Green Bodice Mid Sleeves_EMPTY_58: -2064665719636324189
+      Green Bodice Mid Sleeves_EMPTY_59: 4538537458740694047
+      Green Bodice Mid Sleeves_EMPTY_6: -523163126971277502
+      Green Bodice Mid Sleeves_EMPTY_7: 7608357942874508360
+      Green Bodice Mid Sleeves_EMPTY_8: 8598650419449614622
+      Green Bodice Mid Sleeves_EMPTY_9: -5027007904108892678
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

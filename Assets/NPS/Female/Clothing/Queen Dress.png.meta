@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: 524cf7ddbf8980d488df0649466fe9e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5027488322509756585
+    second: Queen Dress_0
+  - first:
+      213: 3502060282712836344
+    second: Queen Dress_1
+  - first:
+      213: 339118659649322345
+    second: Queen Dress_2
+  - first:
+      213: 8743282116996833007
+    second: Queen Dress_3
+  - first:
+      213: 2536093621726309850
+    second: Queen Dress_4
+  - first:
+      213: -2220673596123751244
+    second: Queen Dress_5
+  - first:
+      213: 5457395692364394222
+    second: Queen Dress_6
+  - first:
+      213: 5357680849108422001
+    second: Queen Dress_7
+  - first:
+      213: 3604288748515444536
+    second: Queen Dress_8
+  - first:
+      213: -8912446840476643071
+    second: Queen Dress_9
+  - first:
+      213: 5669792371727240401
+    second: Queen Dress_10
+  - first:
+      213: 3576870467421236957
+    second: Queen Dress_11
+  - first:
+      213: 2341675338502242769
+    second: Queen Dress_12
+  - first:
+      213: 4547499016520643315
+    second: Queen Dress_13
+  - first:
+      213: 6608484961872088898
+    second: Queen Dress_14
+  - first:
+      213: 7722320419970901568
+    second: Queen Dress_15
+  - first:
+      213: 9082797280086399557
+    second: Queen Dress_16
+  - first:
+      213: -6560971847359923106
+    second: Queen Dress_17
+  - first:
+      213: -5605790885018168567
+    second: Queen Dress_18
+  - first:
+      213: -3189383468445108640
+    second: Queen Dress_19
+  - first:
+      213: 4383721979993210641
+    second: Queen Dress_20
+  - first:
+      213: 9217206445717144680
+    second: Queen Dress_21
+  - first:
+      213: 7375016020252749410
+    second: Queen Dress_22
+  - first:
+      213: -1857293863255721263
+    second: Queen Dress_23
+  - first:
+      213: 1967020548750330067
+    second: Queen Dress_24
+  - first:
+      213: -2477527756141325141
+    second: Queen Dress_25
+  - first:
+      213: -8951305769713627402
+    second: Queen Dress_26
+  - first:
+      213: 2002245582688122087
+    second: Queen Dress_27
+  - first:
+      213: 3193826860168252239
+    second: Queen Dress_28
+  - first:
+      213: 3139208646950601579
+    second: Queen Dress_29
+  - first:
+      213: -376936691399677013
+    second: Queen Dress_30
+  - first:
+      213: -4620912007724759472
+    second: Queen Dress_31
+  - first:
+      213: -7610218970969882544
+    second: Queen Dress_32
+  - first:
+      213: -6597766352358370679
+    second: Queen Dress_33
+  - first:
+      213: 6407543183359381031
+    second: Queen Dress_34
+  - first:
+      213: 4104212325630140010
+    second: Queen Dress_35
+  - first:
+      213: -7630376196366490393
+    second: Queen Dress_36
+  - first:
+      213: 3695225289909871392
+    second: Queen Dress_37
+  - first:
+      213: -5090343734401372603
+    second: Queen Dress_38
+  - first:
+      213: -5866043232944649455
+    second: Queen Dress_39
+  - first:
+      213: -2638653873795200965
+    second: Queen Dress_40
+  - first:
+      213: -394919466960254306
+    second: Queen Dress_41
+  - first:
+      213: -8105627180996618513
+    second: Queen Dress_42
+  - first:
+      213: 7684251211084020293
+    second: Queen Dress_43
+  - first:
+      213: -93444883567176320
+    second: Queen Dress_44
+  - first:
+      213: -5700899672354383388
+    second: Queen Dress_45
+  - first:
+      213: 170283082688325015
+    second: Queen Dress_46
+  - first:
+      213: -3485033177534013086
+    second: Queen Dress_47
+  - first:
+      213: 7438523118581906432
+    second: Queen Dress_48
+  - first:
+      213: 3414843940076451841
+    second: Queen Dress_49
+  - first:
+      213: -9056447237812934253
+    second: Queen Dress_0_6
+  - first:
+      213: 1907426193591680313
+    second: Queen Dress_1_6
+  - first:
+      213: -5694105198074380924
+    second: Queen Dress_2_6
+  - first:
+      213: -7067581673309915990
+    second: Queen Dress_3_6
+  - first:
+      213: -517321005147929340
+    second: Queen Dress_4_6
+  - first:
+      213: 8269413990846546586
+    second: Queen Dress_5_6
+  - first:
+      213: -6460031213451859508
+    second: Queen Dress_6_6
+  - first:
+      213: -2773551166687087887
+    second: Queen Dress_7_6
+  - first:
+      213: 6221459977251475352
+    second: Queen Dress_8_6
+  - first:
+      213: 8128494475435275854
+    second: Queen Dress_9_6
+  - first:
+      213: 8419309638078018143
+    second: Queen Dress_0_5
+  - first:
+      213: -4801851544637507213
+    second: Queen Dress_1_5
+  - first:
+      213: -6727104411308016177
+    second: Queen Dress_2_5
+  - first:
+      213: -871646938825165346
+    second: Queen Dress_3_5
+  - first:
+      213: -6209487674104999369
+    second: Queen Dress_4_5
+  - first:
+      213: 153544683690893829
+    second: Queen Dress_5_5
+  - first:
+      213: -5121923775608529188
+    second: Queen Dress_6_5
+  - first:
+      213: -7355649125856748434
+    second: Queen Dress_7_5
+  - first:
+      213: -5453107676088718299
+    second: Queen Dress_8_5
+  - first:
+      213: 8573619581649539889
+    second: Queen Dress_9_5
+  - first:
+      213: 2993234751859028620
+    second: Queen Dress_0_4
+  - first:
+      213: -3666235507956435505
+    second: Queen Dress_1_4
+  - first:
+      213: -5119892444241548949
+    second: Queen Dress_2_4
+  - first:
+      213: -7375400576188204051
+    second: Queen Dress_3_4
+  - first:
+      213: 2234728555608538467
+    second: Queen Dress_4_4
+  - first:
+      213: -6087459219060047154
+    second: Queen Dress_5_4
+  - first:
+      213: -7300209504434180914
+    second: Queen Dress_6_4
+  - first:
+      213: 8907351606691747795
+    second: Queen Dress_7_4
+  - first:
+      213: -5594076089359125636
+    second: Queen Dress_8_4
+  - first:
+      213: 8969866570445176920
+    second: Queen Dress_9_4
+  - first:
+      213: 865904493528990524
+    second: Queen Dress_0_3
+  - first:
+      213: 5524586771946923160
+    second: Queen Dress_1_3
+  - first:
+      213: 3024475254874599987
+    second: Queen Dress_2_3
+  - first:
+      213: -6245084165327933853
+    second: Queen Dress_3_3
+  - first:
+      213: -2566783827290418915
+    second: Queen Dress_4_3
+  - first:
+      213: -8811739140949234390
+    second: Queen Dress_5_3
+  - first:
+      213: 4766768663931866079
+    second: Queen Dress_6_3
+  - first:
+      213: 8657977517684331857
+    second: Queen Dress_7_3
+  - first:
+      213: 1241056232628327592
+    second: Queen Dress_8_3
+  - first:
+      213: 3212591065843816177
+    second: Queen Dress_9_3
+  - first:
+      213: -4676544583499480764
+    second: Queen Dress_0_2
+  - first:
+      213: -3581116993345078790
+    second: Queen Dress_1_2
+  - first:
+      213: -3242254380464509816
+    second: Queen Dress_2_2
+  - first:
+      213: -1043495880618075884
+    second: Queen Dress_3_2
+  - first:
+      213: 5636542673407597479
+    second: Queen Dress_4_2
+  - first:
+      213: -8120509161040254559
+    second: Queen Dress_5_2
+  - first:
+      213: -4395856449330698092
+    second: Queen Dress_6_2
+  - first:
+      213: -7309871213708319396
+    second: Queen Dress_7_2
+  - first:
+      213: 7783347746098604531
+    second: Queen Dress_8_2
+  - first:
+      213: -2347402473871030581
+    second: Queen Dress_9_2
+  - first:
+      213: 7510698728448213887
+    second: Queen Dress_0_1
+  - first:
+      213: -5863473808096652948
+    second: Queen Dress_1_1
+  - first:
+      213: 8092364775555663814
+    second: Queen Dress_2_1
+  - first:
+      213: 6043896501108024581
+    second: Queen Dress_3_1
+  - first:
+      213: 576846073264985196
+    second: Queen Dress_4_1
+  - first:
+      213: -2344114913576286087
+    second: Queen Dress_5_1
+  - first:
+      213: -7236469397453734976
+    second: Queen Dress_6_1
+  - first:
+      213: 1586654139233270667
+    second: Queen Dress_7_1
+  - first:
+      213: -3622726571657261765
+    second: Queen Dress_8_1
+  - first:
+      213: -2053585901715136719
+    second: Queen Dress_9_1
+  - first:
+      213: 4960448227308571296
+    second: Queen Dress_0_0
+  - first:
+      213: -8391396023360956038
+    second: Queen Dress_1_0
+  - first:
+      213: -780930974059835465
+    second: Queen Dress_2_0
+  - first:
+      213: -896677905667835273
+    second: Queen Dress_3_0
+  - first:
+      213: 3471807672596623406
+    second: Queen Dress_4_0
+  - first:
+      213: 6476964870384323493
+    second: Queen Dress_5_0
+  - first:
+      213: 4403922748690849841
+    second: Queen Dress_6_0
+  - first:
+      213: -5077020835852378326
+    second: Queen Dress_7_0
+  - first:
+      213: -6863582099128075513
+    second: Queen Dress_8_0
+  - first:
+      213: 2669813944459407861
+    second: Queen Dress_9_0
+  - first:
+      213: -7771671313146342967
+    second: Queen Dress_EMPTY_5
+  - first:
+      213: -8597676614807011133
+    second: Queen Dress_EMPTY_6
+  - first:
+      213: 7805599504585330975
+    second: Queen Dress_EMPTY_7
+  - first:
+      213: -4780428989372017445
+    second: Queen Dress_EMPTY_8
+  - first:
+      213: -8826809541910163276
+    second: Queen Dress_EMPTY_9
+  - first:
+      213: -3377147101922806605
+    second: Queen Dress_EMPTY_18
+  - first:
+      213: -1241772790502565859
+    second: Queen Dress_EMPTY_19
+  - first:
+      213: 8862291507410198142
+    second: Queen Dress_EMPTY_28
+  - first:
+      213: -1169137590665528016
+    second: Queen Dress_EMPTY_29
+  - first:
+      213: -381941652193713288
+    second: Queen Dress_EMPTY_34
+  - first:
+      213: 7633434657160054223
+    second: Queen Dress_EMPTY_35
+  - first:
+      213: -7570375763096696466
+    second: Queen Dress_EMPTY_36
+  - first:
+      213: 5016333052629385484
+    second: Queen Dress_EMPTY_37
+  - first:
+      213: 5055811972926115431
+    second: Queen Dress_EMPTY_38
+  - first:
+      213: 8474946724278800610
+    second: Queen Dress_EMPTY_39
+  - first:
+      213: -3062351938772057450
+    second: Queen Dress_EMPTY_44
+  - first:
+      213: 4631291898765588241
+    second: Queen Dress_EMPTY_45
+  - first:
+      213: -2007655946337747945
+    second: Queen Dress_EMPTY_46
+  - first:
+      213: 266113475198219230
+    second: Queen Dress_EMPTY_47
+  - first:
+      213: -513209445380627395
+    second: Queen Dress_EMPTY_48
+  - first:
+      213: -3209656710762271714
+    second: Queen Dress_EMPTY_49
+  - first:
+      213: -2143242939367713363
+    second: Queen Dress_50
+  - first:
+      213: -6725988874967990754
+    second: Queen Dress_51
+  - first:
+      213: -7299297670875737157
+    second: Queen Dress_52
+  - first:
+      213: -5883915480991564445
+    second: Queen Dress_53
+  - first:
+      213: 1391860353370280372
+    second: Queen Dress_54
+  - first:
+      213: 8158244495685451534
+    second: Queen Dress_55
+  - first:
+      213: 1842326707667055919
+    second: Queen Dress_EMPTY_56
+  - first:
+      213: 4906590545092458016
+    second: Queen Dress_EMPTY_57
+  - first:
+      213: -9091569304845801286
+    second: Queen Dress_EMPTY_58
+  - first:
+      213: 1027554917494831015
+    second: Queen Dress_EMPTY_59
+  - first:
+      213: -1181657560998405155
+    second: Queen Dress_60
+  - first:
+      213: -3951511284506895264
+    second: Queen Dress_61
+  - first:
+      213: -355942703468495400
+    second: Queen Dress_62
+  - first:
+      213: 8621540619826384765
+    second: Queen Dress_63
+  - first:
+      213: 5440359570877903742
+    second: Queen Dress_64
+  - first:
+      213: 3710312894158038720
+    second: Queen Dress_65
+  - first:
+      213: 2539532467456803490
+    second: Queen Dress_66
+  - first:
+      213: -8643712724572812453
+    second: Queen Dress_67
+  - first:
+      213: -8469802614548770744
+    second: Queen Dress_68
+  - first:
+      213: -2136531392309822997
+    second: Queen Dress_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Queen Dress_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757a168e106ca3ab0800000000000000
+      internalID: -5027488322509756585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f84a1db541d99030800000000000000
+      internalID: 3502060282712836344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dba1dcf9ac4b400800000000000000
+      internalID: 339118659649322345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee1f92f2c0665970800000000000000
+      internalID: 8743282116996833007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add612056b3023320800000000000000
+      internalID: 2536093621726309850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c191d4ed1a752490800000000000000
+      internalID: -7771671313146342967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0ceb8dbaaeea880800000000000000
+      internalID: -8597676614807011133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1116c1c46f035c60800000000000000
+      internalID: 7805599504585330975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd45086792188adb0800000000000000
+      internalID: -4780428989372017445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b09a62fc7fd08580800000000000000
+      internalID: -8826809541910163276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc850b4f162fae40800000000000000
+      internalID: 5669792371727240401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde6a323db893a130800000000000000
+      internalID: 3576870467421236957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d108ba405d4f7020800000000000000
+      internalID: 2341675338502242769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2b6280346fb1f30800000000000000
+      internalID: 4547499016520643315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f85ef3f0e06bb50800000000000000
+      internalID: 6608484961872088898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0466c12e1813b2b60800000000000000
+      internalID: 7722320419970901568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a1f66e0049c0e70800000000000000
+      internalID: 9082797280086399557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cf5c8cddeb2f4a0800000000000000
+      internalID: -6560971847359923106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4b6ab8a96f121d0800000000000000
+      internalID: -3377147101922806605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18595ae93654cee0800000000000000
+      internalID: -1241772790502565859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f31933aeb16dc30800000000000000
+      internalID: 4383721979993210641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86449627d681aef70800000000000000
+      internalID: 9217206445717144680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26eeaf3fef1595660800000000000000
+      internalID: 7375016020252749410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da312d52119936e0800000000000000
+      internalID: -1857293863255721263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8482274c24c4b10800000000000000
+      internalID: 1967020548750330067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4960ed1ad0e9dd0800000000000000
+      internalID: -2477527756141325141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe805814d296c380800000000000000
+      internalID: -8951305769713627402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e47835cfb769cb10800000000000000
+      internalID: 2002245582688122087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e552beb2f2dfa70800000000000000
+      internalID: 8862291507410198142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d33de3e8366cfe0800000000000000
+      internalID: -1169137590665528016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babaf46831ad4caf0800000000000000
+      internalID: -376936691399677013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0568a39f2093fdfb0800000000000000
+      internalID: -4620912007724759472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050c664aa22136690800000000000000
+      internalID: -7610218970969882544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98297a085760074a0800000000000000
+      internalID: -6597766352358370679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8736118471213baf0800000000000000
+      internalID: -381941652193713288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc54e2480686fe960800000000000000
+      internalID: 7633434657160054223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6905606a5f90f690800000000000000
+      internalID: -7570375763096696466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01860d65589d9540800000000000000
+      internalID: 5016333052629385484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e8d69d33ad92640800000000000000
+      internalID: 5055811972926115431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e09ffeb42f0d9570800000000000000
+      internalID: 8474946724278800610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b388a3f284e916bd0800000000000000
+      internalID: -2638653873795200965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a82f056d6f48af0800000000000000
+      internalID: -394919466960254306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe612fa3607038f80800000000000000
+      internalID: -8105627180996618513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a378973c1f3aa60800000000000000
+      internalID: 7684251211084020293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692434003275085d0800000000000000
+      internalID: -3062351938772057450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117311db177a54040800000000000000
+      internalID: 4631291898765588241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c7657cd8f5324e0800000000000000
+      internalID: -2007655946337747945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed37227bbcc61b300800000000000000
+      internalID: 266113475198219230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3466b08ab6b0e8f0800000000000000
+      internalID: -513209445380627395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ce0102a320573d0800000000000000
+      internalID: -3209656710762271714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da59f9be6eba142e0800000000000000
+      internalID: -2143242939367713363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ebd4801cc78a2a0800000000000000
+      internalID: -6725988874967990754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb39d91117fa3ba90800000000000000
+      internalID: -7299297670875737157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d731b5b02285ea0800000000000000
+      internalID: -5883915480991564445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1d593fd91e05310800000000000000
+      internalID: 1391860353370280372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ffd140528e73170800000000000000
+      internalID: 8158244495685451534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25b5ba2162419910800000000000000
+      internalID: 1842326707667055919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026b682ca16b71440800000000000000
+      internalID: 4906590545092458016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab822dde2e144d180800000000000000
+      internalID: -9091569304845801286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a73c74d0cb924e00800000000000000
+      internalID: 1027554917494831015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb198e75b8e99fe0800000000000000
+      internalID: -1181657560998405155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cd4093c696929c0800000000000000
+      internalID: -3951511284506895264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd3e5f3fff6f0bf0800000000000000
+      internalID: -355942703468495400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f4a5dc38dd5a770800000000000000
+      internalID: 8621540619826384765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73f298943a008b40800000000000000
+      internalID: 5440359570877903742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c667dd4bedad7330800000000000000
+      internalID: 3710312894158038720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2855af25b3e3320800000000000000
+      internalID: 2539532467456803490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b4057c21d5b0880800000000000000
+      internalID: -8643712724572812453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8405522a567357a80800000000000000
+      internalID: -8469802614548770744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen Dress_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9f6edb4048952e0800000000000000
+      internalID: -2136531392309822997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Queen Dress_0: -5027488322509756585
+      Queen Dress_0_0: 4960448227308571296
+      Queen Dress_0_1: 7510698728448213887
+      Queen Dress_0_2: -4676544583499480764
+      Queen Dress_0_3: 865904493528990524
+      Queen Dress_0_4: 2993234751859028620
+      Queen Dress_0_5: 8419309638078018143
+      Queen Dress_0_6: -9056447237812934253
+      Queen Dress_1: 3502060282712836344
+      Queen Dress_10: 5669792371727240401
+      Queen Dress_11: 3576870467421236957
+      Queen Dress_12: 2341675338502242769
+      Queen Dress_13: 4547499016520643315
+      Queen Dress_14: 6608484961872088898
+      Queen Dress_15: 7722320419970901568
+      Queen Dress_16: 9082797280086399557
+      Queen Dress_17: -6560971847359923106
+      Queen Dress_18: -5605790885018168567
+      Queen Dress_19: -3189383468445108640
+      Queen Dress_1_0: -8391396023360956038
+      Queen Dress_1_1: -5863473808096652948
+      Queen Dress_1_2: -3581116993345078790
+      Queen Dress_1_3: 5524586771946923160
+      Queen Dress_1_4: -3666235507956435505
+      Queen Dress_1_5: -4801851544637507213
+      Queen Dress_1_6: 1907426193591680313
+      Queen Dress_2: 339118659649322345
+      Queen Dress_20: 4383721979993210641
+      Queen Dress_21: 9217206445717144680
+      Queen Dress_22: 7375016020252749410
+      Queen Dress_23: -1857293863255721263
+      Queen Dress_24: 1967020548750330067
+      Queen Dress_25: -2477527756141325141
+      Queen Dress_26: -8951305769713627402
+      Queen Dress_27: 2002245582688122087
+      Queen Dress_28: 3193826860168252239
+      Queen Dress_29: 3139208646950601579
+      Queen Dress_2_0: -780930974059835465
+      Queen Dress_2_1: 8092364775555663814
+      Queen Dress_2_2: -3242254380464509816
+      Queen Dress_2_3: 3024475254874599987
+      Queen Dress_2_4: -5119892444241548949
+      Queen Dress_2_5: -6727104411308016177
+      Queen Dress_2_6: -5694105198074380924
+      Queen Dress_3: 8743282116996833007
+      Queen Dress_30: -376936691399677013
+      Queen Dress_31: -4620912007724759472
+      Queen Dress_32: -7610218970969882544
+      Queen Dress_33: -6597766352358370679
+      Queen Dress_34: 6407543183359381031
+      Queen Dress_35: 4104212325630140010
+      Queen Dress_36: -7630376196366490393
+      Queen Dress_37: 3695225289909871392
+      Queen Dress_38: -5090343734401372603
+      Queen Dress_39: -5866043232944649455
+      Queen Dress_3_0: -896677905667835273
+      Queen Dress_3_1: 6043896501108024581
+      Queen Dress_3_2: -1043495880618075884
+      Queen Dress_3_3: -6245084165327933853
+      Queen Dress_3_4: -7375400576188204051
+      Queen Dress_3_5: -871646938825165346
+      Queen Dress_3_6: -7067581673309915990
+      Queen Dress_4: 2536093621726309850
+      Queen Dress_40: -2638653873795200965
+      Queen Dress_41: -394919466960254306
+      Queen Dress_42: -8105627180996618513
+      Queen Dress_43: 7684251211084020293
+      Queen Dress_44: -93444883567176320
+      Queen Dress_45: -5700899672354383388
+      Queen Dress_46: 170283082688325015
+      Queen Dress_47: -3485033177534013086
+      Queen Dress_48: 7438523118581906432
+      Queen Dress_49: 3414843940076451841
+      Queen Dress_4_0: 3471807672596623406
+      Queen Dress_4_1: 576846073264985196
+      Queen Dress_4_2: 5636542673407597479
+      Queen Dress_4_3: -2566783827290418915
+      Queen Dress_4_4: 2234728555608538467
+      Queen Dress_4_5: -6209487674104999369
+      Queen Dress_4_6: -517321005147929340
+      Queen Dress_5: -2220673596123751244
+      Queen Dress_50: -2143242939367713363
+      Queen Dress_51: -6725988874967990754
+      Queen Dress_52: -7299297670875737157
+      Queen Dress_53: -5883915480991564445
+      Queen Dress_54: 1391860353370280372
+      Queen Dress_55: 8158244495685451534
+      Queen Dress_5_0: 6476964870384323493
+      Queen Dress_5_1: -2344114913576286087
+      Queen Dress_5_2: -8120509161040254559
+      Queen Dress_5_3: -8811739140949234390
+      Queen Dress_5_4: -6087459219060047154
+      Queen Dress_5_5: 153544683690893829
+      Queen Dress_5_6: 8269413990846546586
+      Queen Dress_6: 5457395692364394222
+      Queen Dress_60: -1181657560998405155
+      Queen Dress_61: -3951511284506895264
+      Queen Dress_62: -355942703468495400
+      Queen Dress_63: 8621540619826384765
+      Queen Dress_64: 5440359570877903742
+      Queen Dress_65: 3710312894158038720
+      Queen Dress_66: 2539532467456803490
+      Queen Dress_67: -8643712724572812453
+      Queen Dress_68: -8469802614548770744
+      Queen Dress_69: -2136531392309822997
+      Queen Dress_6_0: 4403922748690849841
+      Queen Dress_6_1: -7236469397453734976
+      Queen Dress_6_2: -4395856449330698092
+      Queen Dress_6_3: 4766768663931866079
+      Queen Dress_6_4: -7300209504434180914
+      Queen Dress_6_5: -5121923775608529188
+      Queen Dress_6_6: -6460031213451859508
+      Queen Dress_7: 5357680849108422001
+      Queen Dress_7_0: -5077020835852378326
+      Queen Dress_7_1: 1586654139233270667
+      Queen Dress_7_2: -7309871213708319396
+      Queen Dress_7_3: 8657977517684331857
+      Queen Dress_7_4: 8907351606691747795
+      Queen Dress_7_5: -7355649125856748434
+      Queen Dress_7_6: -2773551166687087887
+      Queen Dress_8: 3604288748515444536
+      Queen Dress_8_0: -6863582099128075513
+      Queen Dress_8_1: -3622726571657261765
+      Queen Dress_8_2: 7783347746098604531
+      Queen Dress_8_3: 1241056232628327592
+      Queen Dress_8_4: -5594076089359125636
+      Queen Dress_8_5: -5453107676088718299
+      Queen Dress_8_6: 6221459977251475352
+      Queen Dress_9: -8912446840476643071
+      Queen Dress_9_0: 2669813944459407861
+      Queen Dress_9_1: -2053585901715136719
+      Queen Dress_9_2: -2347402473871030581
+      Queen Dress_9_3: 3212591065843816177
+      Queen Dress_9_4: 8969866570445176920
+      Queen Dress_9_5: 8573619581649539889
+      Queen Dress_9_6: 8128494475435275854
+      Queen Dress_EMPTY_18: -3377147101922806605
+      Queen Dress_EMPTY_19: -1241772790502565859
+      Queen Dress_EMPTY_28: 8862291507410198142
+      Queen Dress_EMPTY_29: -1169137590665528016
+      Queen Dress_EMPTY_34: -381941652193713288
+      Queen Dress_EMPTY_35: 7633434657160054223
+      Queen Dress_EMPTY_36: -7570375763096696466
+      Queen Dress_EMPTY_37: 5016333052629385484
+      Queen Dress_EMPTY_38: 5055811972926115431
+      Queen Dress_EMPTY_39: 8474946724278800610
+      Queen Dress_EMPTY_44: -3062351938772057450
+      Queen Dress_EMPTY_45: 4631291898765588241
+      Queen Dress_EMPTY_46: -2007655946337747945
+      Queen Dress_EMPTY_47: 266113475198219230
+      Queen Dress_EMPTY_48: -513209445380627395
+      Queen Dress_EMPTY_49: -3209656710762271714
+      Queen Dress_EMPTY_5: -7771671313146342967
+      Queen Dress_EMPTY_56: 1842326707667055919
+      Queen Dress_EMPTY_57: 4906590545092458016
+      Queen Dress_EMPTY_58: -9091569304845801286
+      Queen Dress_EMPTY_59: 1027554917494831015
+      Queen Dress_EMPTY_6: -8597676614807011133
+      Queen Dress_EMPTY_7: 7805599504585330975
+      Queen Dress_EMPTY_8: -4780428989372017445
+      Queen Dress_EMPTY_9: -8826809541910163276
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2299 @@
+fileFormatVersion: 2
+guid: e170eb817c9f2ab4988d90dd4119ab45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7756314003687570017
+    second: Orange Corset Long Sleeves_0
+  - first:
+      213: 1092467888454418492
+    second: Orange Corset Long Sleeves_1
+  - first:
+      213: 8153640273229374564
+    second: Orange Corset Long Sleeves_2
+  - first:
+      213: 1361535812544516244
+    second: Orange Corset Long Sleeves_3
+  - first:
+      213: -7460280290694078963
+    second: Orange Corset Long Sleeves_4
+  - first:
+      213: 4772417629812456419
+    second: Orange Corset Long Sleeves_5
+  - first:
+      213: -5287752605090253141
+    second: Orange Corset Long Sleeves_6
+  - first:
+      213: 4987498222443756752
+    second: Orange Corset Long Sleeves_7
+  - first:
+      213: 7381267931583223070
+    second: Orange Corset Long Sleeves_8
+  - first:
+      213: -8111002626497371060
+    second: Orange Corset Long Sleeves_9
+  - first:
+      213: 8326417101103543952
+    second: Orange Corset Long Sleeves_10
+  - first:
+      213: -715963127549484149
+    second: Orange Corset Long Sleeves_11
+  - first:
+      213: 4089728930900267070
+    second: Orange Corset Long Sleeves_12
+  - first:
+      213: -5580709951916837601
+    second: Orange Corset Long Sleeves_13
+  - first:
+      213: -1981626107103443399
+    second: Orange Corset Long Sleeves_14
+  - first:
+      213: -4101150286636927093
+    second: Orange Corset Long Sleeves_15
+  - first:
+      213: 5129503246428888479
+    second: Orange Corset Long Sleeves_16
+  - first:
+      213: 6727348286381121184
+    second: Orange Corset Long Sleeves_17
+  - first:
+      213: 8950857445895483609
+    second: Orange Corset Long Sleeves_18
+  - first:
+      213: -2972113214067651097
+    second: Orange Corset Long Sleeves_19
+  - first:
+      213: 9022828168205340783
+    second: Orange Corset Long Sleeves_20
+  - first:
+      213: -225473661723512355
+    second: Orange Corset Long Sleeves_21
+  - first:
+      213: -6441963277656927260
+    second: Orange Corset Long Sleeves_22
+  - first:
+      213: -2903984205855480946
+    second: Orange Corset Long Sleeves_23
+  - first:
+      213: -7632738210701220402
+    second: Orange Corset Long Sleeves_24
+  - first:
+      213: -2953006735391763659
+    second: Orange Corset Long Sleeves_25
+  - first:
+      213: -4735969251820422950
+    second: Orange Corset Long Sleeves_26
+  - first:
+      213: 5451755659303708841
+    second: Orange Corset Long Sleeves_27
+  - first:
+      213: -1642255197384541903
+    second: Orange Corset Long Sleeves_28
+  - first:
+      213: -7776717933589188307
+    second: Orange Corset Long Sleeves_29
+  - first:
+      213: 6331607033923315662
+    second: Orange Corset Long Sleeves_30
+  - first:
+      213: 1206441642102493645
+    second: Orange Corset Long Sleeves_31
+  - first:
+      213: 2038069451935725366
+    second: Orange Corset Long Sleeves_32
+  - first:
+      213: -3741315438718436426
+    second: Orange Corset Long Sleeves_33
+  - first:
+      213: -557149265657525633
+    second: Orange Corset Long Sleeves_34
+  - first:
+      213: -717468805094487336
+    second: Orange Corset Long Sleeves_35
+  - first:
+      213: -8051456611999252585
+    second: Orange Corset Long Sleeves_36
+  - first:
+      213: 3284828405798323784
+    second: Orange Corset Long Sleeves_37
+  - first:
+      213: -684243084910076975
+    second: Orange Corset Long Sleeves_38
+  - first:
+      213: -5521680975690939899
+    second: Orange Corset Long Sleeves_39
+  - first:
+      213: -5466582531841362754
+    second: Orange Corset Long Sleeves_40
+  - first:
+      213: -8809789038316145520
+    second: Orange Corset Long Sleeves_41
+  - first:
+      213: 2743033214465338805
+    second: Orange Corset Long Sleeves_42
+  - first:
+      213: 6261955014368273894
+    second: Orange Corset Long Sleeves_43
+  - first:
+      213: -1133786804976519422
+    second: Orange Corset Long Sleeves_44
+  - first:
+      213: -4328962849015602475
+    second: Orange Corset Long Sleeves_45
+  - first:
+      213: 7917888859216704724
+    second: Orange Corset Long Sleeves_46
+  - first:
+      213: -2563025726815563599
+    second: Orange Corset Long Sleeves_47
+  - first:
+      213: 6287391279175845606
+    second: Orange Corset Long Sleeves_48
+  - first:
+      213: 5674796059169543009
+    second: Orange Corset Long Sleeves_0_6
+  - first:
+      213: -3288765231805079775
+    second: Orange Corset Long Sleeves_1_6
+  - first:
+      213: -760018795659569854
+    second: Orange Corset Long Sleeves_2_6
+  - first:
+      213: -3515459858956092758
+    second: Orange Corset Long Sleeves_3_6
+  - first:
+      213: -5852420064168901216
+    second: Orange Corset Long Sleeves_4_6
+  - first:
+      213: 3230622801892896258
+    second: Orange Corset Long Sleeves_5_6
+  - first:
+      213: -7608936368647623411
+    second: Orange Corset Long Sleeves_6_6
+  - first:
+      213: -1770338290101387537
+    second: Orange Corset Long Sleeves_7_6
+  - first:
+      213: 5047476572776339700
+    second: Orange Corset Long Sleeves_8_6
+  - first:
+      213: -6159614397118593278
+    second: Orange Corset Long Sleeves_9_6
+  - first:
+      213: 380362087491165403
+    second: Orange Corset Long Sleeves_0_5
+  - first:
+      213: 8120772764497562072
+    second: Orange Corset Long Sleeves_1_5
+  - first:
+      213: -6267619871175394894
+    second: Orange Corset Long Sleeves_2_5
+  - first:
+      213: 6503505019074647957
+    second: Orange Corset Long Sleeves_3_5
+  - first:
+      213: -1853970002264789795
+    second: Orange Corset Long Sleeves_4_5
+  - first:
+      213: -437551650582914851
+    second: Orange Corset Long Sleeves_5_5
+  - first:
+      213: 1983018525852202077
+    second: Orange Corset Long Sleeves_6_5
+  - first:
+      213: 2068620915703193651
+    second: Orange Corset Long Sleeves_7_5
+  - first:
+      213: 5385438216329947900
+    second: Orange Corset Long Sleeves_8_5
+  - first:
+      213: -1781472379854715312
+    second: Orange Corset Long Sleeves_9_5
+  - first:
+      213: -7611921019589815516
+    second: Orange Corset Long Sleeves_0_4
+  - first:
+      213: 1753321885823918260
+    second: Orange Corset Long Sleeves_1_4
+  - first:
+      213: -1658840394381419570
+    second: Orange Corset Long Sleeves_2_4
+  - first:
+      213: 7380576503492094186
+    second: Orange Corset Long Sleeves_3_4
+  - first:
+      213: 3590595480901741833
+    second: Orange Corset Long Sleeves_4_4
+  - first:
+      213: 4415240718140176077
+    second: Orange Corset Long Sleeves_5_4
+  - first:
+      213: 4323964809269140264
+    second: Orange Corset Long Sleeves_6_4
+  - first:
+      213: 5373984608950151967
+    second: Orange Corset Long Sleeves_7_4
+  - first:
+      213: -218972196642394342
+    second: Orange Corset Long Sleeves_8_4
+  - first:
+      213: 6458724914466723315
+    second: Orange Corset Long Sleeves_9_4
+  - first:
+      213: -1092857226155581971
+    second: Orange Corset Long Sleeves_0_3
+  - first:
+      213: 8859237320797183294
+    second: Orange Corset Long Sleeves_1_3
+  - first:
+      213: 3195890890132525524
+    second: Orange Corset Long Sleeves_2_3
+  - first:
+      213: -3723269546826255356
+    second: Orange Corset Long Sleeves_3_3
+  - first:
+      213: 5465723972615098585
+    second: Orange Corset Long Sleeves_4_3
+  - first:
+      213: -4062511347411665508
+    second: Orange Corset Long Sleeves_5_3
+  - first:
+      213: -5237347788269220287
+    second: Orange Corset Long Sleeves_6_3
+  - first:
+      213: -8134099174536067109
+    second: Orange Corset Long Sleeves_7_3
+  - first:
+      213: 3781352415654755160
+    second: Orange Corset Long Sleeves_8_3
+  - first:
+      213: 8296571158934967073
+    second: Orange Corset Long Sleeves_9_3
+  - first:
+      213: -4531292660750342768
+    second: Orange Corset Long Sleeves_0_2
+  - first:
+      213: -1593802019324581019
+    second: Orange Corset Long Sleeves_1_2
+  - first:
+      213: 3650787970873260146
+    second: Orange Corset Long Sleeves_2_2
+  - first:
+      213: 2955770289041933290
+    second: Orange Corset Long Sleeves_3_2
+  - first:
+      213: 8513498565727640792
+    second: Orange Corset Long Sleeves_4_2
+  - first:
+      213: -7356723562268015419
+    second: Orange Corset Long Sleeves_5_2
+  - first:
+      213: -2488698740705657608
+    second: Orange Corset Long Sleeves_6_2
+  - first:
+      213: -2935297009980211549
+    second: Orange Corset Long Sleeves_7_2
+  - first:
+      213: -7551077701262003758
+    second: Orange Corset Long Sleeves_8_2
+  - first:
+      213: 1522917888183550266
+    second: Orange Corset Long Sleeves_9_2
+  - first:
+      213: 4108219942745461722
+    second: Orange Corset Long Sleeves_0_1
+  - first:
+      213: 4909902667213155120
+    second: Orange Corset Long Sleeves_1_1
+  - first:
+      213: -8836090253922574621
+    second: Orange Corset Long Sleeves_2_1
+  - first:
+      213: 8382856616314950409
+    second: Orange Corset Long Sleeves_3_1
+  - first:
+      213: -7865264646054402928
+    second: Orange Corset Long Sleeves_4_1
+  - first:
+      213: -1409353461611860790
+    second: Orange Corset Long Sleeves_5_1
+  - first:
+      213: -3629332255533255948
+    second: Orange Corset Long Sleeves_6_1
+  - first:
+      213: 4665233735461936742
+    second: Orange Corset Long Sleeves_7_1
+  - first:
+      213: 2738812727614794762
+    second: Orange Corset Long Sleeves_8_1
+  - first:
+      213: 7484967481619313051
+    second: Orange Corset Long Sleeves_9_1
+  - first:
+      213: 5426258444506987210
+    second: Orange Corset Long Sleeves_0_0
+  - first:
+      213: 9017600713888044895
+    second: Orange Corset Long Sleeves_1_0
+  - first:
+      213: 4001130430363738070
+    second: Orange Corset Long Sleeves_2_0
+  - first:
+      213: -240805965399111199
+    second: Orange Corset Long Sleeves_3_0
+  - first:
+      213: 7541272731709869194
+    second: Orange Corset Long Sleeves_4_0
+  - first:
+      213: 1060570529359728673
+    second: Orange Corset Long Sleeves_5_0
+  - first:
+      213: 6350481195518817907
+    second: Orange Corset Long Sleeves_6_0
+  - first:
+      213: -938962209451677375
+    second: Orange Corset Long Sleeves_7_0
+  - first:
+      213: 535272533993069327
+    second: Orange Corset Long Sleeves_8_0
+  - first:
+      213: 6821886943188545455
+    second: Orange Corset Long Sleeves_9_0
+  - first:
+      213: -2095935659306884344
+    second: Orange Corset Long Sleeves_EMPTY_5
+  - first:
+      213: 7487563527211902139
+    second: Orange Corset Long Sleeves_EMPTY_6
+  - first:
+      213: -1483094150733239859
+    second: Orange Corset Long Sleeves_EMPTY_7
+  - first:
+      213: -8289785455941915865
+    second: Orange Corset Long Sleeves_EMPTY_8
+  - first:
+      213: -5049332544020309865
+    second: Orange Corset Long Sleeves_EMPTY_9
+  - first:
+      213: -3169367766952753878
+    second: Orange Corset Long Sleeves_EMPTY_18
+  - first:
+      213: -3522604715916506092
+    second: Orange Corset Long Sleeves_EMPTY_19
+  - first:
+      213: 6163757558561053836
+    second: Orange Corset Long Sleeves_EMPTY_28
+  - first:
+      213: 3908509707707097350
+    second: Orange Corset Long Sleeves_EMPTY_29
+  - first:
+      213: -5677233243472407524
+    second: Orange Corset Long Sleeves_EMPTY_34
+  - first:
+      213: 7451532136656595137
+    second: Orange Corset Long Sleeves_EMPTY_35
+  - first:
+      213: -2757063077693289478
+    second: Orange Corset Long Sleeves_EMPTY_36
+  - first:
+      213: 7337716251223197472
+    second: Orange Corset Long Sleeves_EMPTY_37
+  - first:
+      213: 223489582260741741
+    second: Orange Corset Long Sleeves_EMPTY_38
+  - first:
+      213: -3630597226185584484
+    second: Orange Corset Long Sleeves_EMPTY_39
+  - first:
+      213: 5424336137278597540
+    second: Orange Corset Long Sleeves_EMPTY_44
+  - first:
+      213: -6110258459337004327
+    second: Orange Corset Long Sleeves_EMPTY_45
+  - first:
+      213: 6807351308708203207
+    second: Orange Corset Long Sleeves_EMPTY_46
+  - first:
+      213: 8715791436799180700
+    second: Orange Corset Long Sleeves_EMPTY_47
+  - first:
+      213: 6336268792947993600
+    second: Orange Corset Long Sleeves_EMPTY_48
+  - first:
+      213: -616736136893442739
+    second: Orange Corset Long Sleeves_EMPTY_49
+  - first:
+      213: 2894440011756656478
+    second: Orange Corset Long Sleeves_50
+  - first:
+      213: 5640731350299955282
+    second: Orange Corset Long Sleeves_51
+  - first:
+      213: -5617912993175673384
+    second: Orange Corset Long Sleeves_52
+  - first:
+      213: -5404623950931336587
+    second: Orange Corset Long Sleeves_53
+  - first:
+      213: -5974924546811019296
+    second: Orange Corset Long Sleeves_54
+  - first:
+      213: -7702226925595674126
+    second: Orange Corset Long Sleeves_55
+  - first:
+      213: -7830879012272782034
+    second: Orange Corset Long Sleeves_EMPTY_56
+  - first:
+      213: 4329108574020772965
+    second: Orange Corset Long Sleeves_EMPTY_57
+  - first:
+      213: 1686621110812763070
+    second: Orange Corset Long Sleeves_EMPTY_58
+  - first:
+      213: -2772733214646955134
+    second: Orange Corset Long Sleeves_EMPTY_59
+  - first:
+      213: 2795706975777876657
+    second: Orange Corset Long Sleeves_60
+  - first:
+      213: -5316251353840291138
+    second: Orange Corset Long Sleeves_61
+  - first:
+      213: 7628590510297501736
+    second: Orange Corset Long Sleeves_62
+  - first:
+      213: 6089570867750181727
+    second: Orange Corset Long Sleeves_63
+  - first:
+      213: 7032147903819441357
+    second: Orange Corset Long Sleeves_64
+  - first:
+      213: 49058236123809068
+    second: Orange Corset Long Sleeves_65
+  - first:
+      213: -8746277542888972662
+    second: Orange Corset Long Sleeves_66
+  - first:
+      213: -922587415878377991
+    second: Orange Corset Long Sleeves_67
+  - first:
+      213: 8699747333584389991
+    second: Orange Corset Long Sleeves_68
+  - first:
+      213: 6374089506220563476
+    second: Orange Corset Long Sleeves_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9580d322890c5490800000000000000
+      internalID: -7756314003687570017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30c8d3a1c9392f00800000000000000
+      internalID: 1092467888454418492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464e720f0ac872170800000000000000
+      internalID: 8153640273229374564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49050b79b9525e210800000000000000
+      internalID: 1361535812544516244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ed4541a92c77890800000000000000
+      internalID: -7460280290694078963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80360f26f9db9e2e0800000000000000
+      internalID: -2095935659306884344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4e2a07b5b29e760800000000000000
+      internalID: 7487563527211902139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9e5194abdfa6be0800000000000000
+      internalID: -1483094150733239859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72be16a8c04c4fc80800000000000000
+      internalID: -8289785455941915865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79899d0cdca2de9b0800000000000000
+      internalID: -5049332544020309865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096b30bfc306d8370800000000000000
+      internalID: 8326417101103543952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83a22e24536016f0800000000000000
+      internalID: -715963127549484149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30d2f95bc2a1c830800000000000000
+      internalID: 4089728930900267070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f157289ddd55d82b0800000000000000
+      internalID: -5580709951916837601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93685700e89df74e0800000000000000
+      internalID: -1981626107103443399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87b38a0b89c517c0800000000000000
+      internalID: -4101150286636927093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d5b9d7608af2740800000000000000
+      internalID: 5129503246428888479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae541a9f975c5d50800000000000000
+      internalID: 6727348286381121184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a254538dec42404d0800000000000000
+      internalID: -3169367766952753878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c4ea7aca13d1fc0800000000000000
+      internalID: -3522604715916506092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60944bf966873d70800000000000000
+      internalID: 9022828168205340783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd173c636e4fedcf0800000000000000
+      internalID: -225473661723512355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3d52ba78c8996a0800000000000000
+      internalID: -6441963277656927260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83a3a030c9f2b7d0800000000000000
+      internalID: -2903984205855480946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec56a9f8901131690800000000000000
+      internalID: -7632738210701220402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53353a51500d407d0800000000000000
+      internalID: -2953006735391763659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad83216ce05764eb0800000000000000
+      internalID: -4735969251820422950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8e50333e688ab40800000000000000
+      internalID: 5451755659303708841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c19afa7d01a8550800000000000000
+      internalID: 6163757558561053836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6012c09fed0dd3630800000000000000
+      internalID: 3908509707707097350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec72d521d036ed750800000000000000
+      internalID: 6331607033923315662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc112cf08442eb010800000000000000
+      internalID: 1206441642102493645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637343e4e5da84c10800000000000000
+      internalID: 2038069451935725366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbb08a4e6d241cc0800000000000000
+      internalID: -3741315438718436426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14d9cfb17a6631b0800000000000000
+      internalID: -5677233243472407524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8e2d59ff8296760800000000000000
+      internalID: 7451532136656595137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb0fb60db1fcb9d0800000000000000
+      internalID: -2757063077693289478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02705c8bd0ec4d560800000000000000
+      internalID: 7337716251223197472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66e6a9479ef91300800000000000000
+      internalID: 223489582260741741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9090bafe078d9dc0800000000000000
+      internalID: -3630597226185584484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb47d36862cc224b0800000000000000
+      internalID: -5466582531841362754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0943901cb875db580800000000000000
+      internalID: -8809789038316145520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bded43ec26311620800000000000000
+      internalID: 2743033214465338805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5a5e688eee6e650800000000000000
+      internalID: 6261955014368273894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a92ecc3afc174b40800000000000000
+      internalID: 5424336137278597540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da64650e40043ba0800000000000000
+      internalID: -6110258459337004327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cac7d8c2f1987e50800000000000000
+      internalID: 6807351308708203207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f7ece2226b4f870800000000000000
+      internalID: 8715791436799180700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cee0d65e2fee750800000000000000
+      internalID: 6336268792947993600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45d15840c9e077f0800000000000000
+      internalID: -616736136893442739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57de64fadd1b2820800000000000000
+      internalID: 2894440011756656478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250d908f647e74e40800000000000000
+      internalID: 5640731350299955282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d566bec5e92902b0800000000000000
+      internalID: -5617912993175673384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5726b2cc62beef4b0800000000000000
+      internalID: -5404623950931336587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef319bf7cdc41da0800000000000000
+      internalID: -5974924546811019296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9bb685b613c1590800000000000000
+      internalID: -7702226925595674126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e254b623701235390800000000000000
+      internalID: -7830879012272782034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5642b9cbf45141c30800000000000000
+      internalID: 4329108574020772965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb36ba4d6f4186710800000000000000
+      internalID: 1686621110812763070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2839a04f4d54589d0800000000000000
+      internalID: -2772733214646955134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba6253aea85cc620800000000000000
+      internalID: 2795706975777876657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2f8a57f81e836b0800000000000000
+      internalID: -5316251353840291138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820d23fa6a23ed960800000000000000
+      internalID: 7628590510297501736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b11d6b070828450800000000000000
+      internalID: 6089570867750181727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc46a27b245379160800000000000000
+      internalID: 7032147903819441357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c258771b43a4ea000800000000000000
+      internalID: 49058236123809068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e502d1aeafe9680800000000000000
+      internalID: -8746277542888972662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdd25222af4233f0800000000000000
+      internalID: -922587415878377991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76703fd4b16bbb870800000000000000
+      internalID: 8699747333584389991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset Long Sleeves_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c52d072a0557850800000000000000
+      internalID: 6374089506220563476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orange Corset Long Sleeves_0: -7756314003687570017
+      Orange Corset Long Sleeves_0_0: 5426258444506987210
+      Orange Corset Long Sleeves_0_1: 4108219942745461722
+      Orange Corset Long Sleeves_0_2: -4531292660750342768
+      Orange Corset Long Sleeves_0_3: -1092857226155581971
+      Orange Corset Long Sleeves_0_4: -7611921019589815516
+      Orange Corset Long Sleeves_0_5: 380362087491165403
+      Orange Corset Long Sleeves_0_6: 5674796059169543009
+      Orange Corset Long Sleeves_1: 1092467888454418492
+      Orange Corset Long Sleeves_10: 8326417101103543952
+      Orange Corset Long Sleeves_11: -715963127549484149
+      Orange Corset Long Sleeves_12: 4089728930900267070
+      Orange Corset Long Sleeves_13: -5580709951916837601
+      Orange Corset Long Sleeves_14: -1981626107103443399
+      Orange Corset Long Sleeves_15: -4101150286636927093
+      Orange Corset Long Sleeves_16: 5129503246428888479
+      Orange Corset Long Sleeves_17: 6727348286381121184
+      Orange Corset Long Sleeves_18: 8950857445895483609
+      Orange Corset Long Sleeves_19: -2972113214067651097
+      Orange Corset Long Sleeves_1_0: 9017600713888044895
+      Orange Corset Long Sleeves_1_1: 4909902667213155120
+      Orange Corset Long Sleeves_1_2: -1593802019324581019
+      Orange Corset Long Sleeves_1_3: 8859237320797183294
+      Orange Corset Long Sleeves_1_4: 1753321885823918260
+      Orange Corset Long Sleeves_1_5: 8120772764497562072
+      Orange Corset Long Sleeves_1_6: -3288765231805079775
+      Orange Corset Long Sleeves_2: 8153640273229374564
+      Orange Corset Long Sleeves_20: 9022828168205340783
+      Orange Corset Long Sleeves_21: -225473661723512355
+      Orange Corset Long Sleeves_22: -6441963277656927260
+      Orange Corset Long Sleeves_23: -2903984205855480946
+      Orange Corset Long Sleeves_24: -7632738210701220402
+      Orange Corset Long Sleeves_25: -2953006735391763659
+      Orange Corset Long Sleeves_26: -4735969251820422950
+      Orange Corset Long Sleeves_27: 5451755659303708841
+      Orange Corset Long Sleeves_28: -1642255197384541903
+      Orange Corset Long Sleeves_29: -7776717933589188307
+      Orange Corset Long Sleeves_2_0: 4001130430363738070
+      Orange Corset Long Sleeves_2_1: -8836090253922574621
+      Orange Corset Long Sleeves_2_2: 3650787970873260146
+      Orange Corset Long Sleeves_2_3: 3195890890132525524
+      Orange Corset Long Sleeves_2_4: -1658840394381419570
+      Orange Corset Long Sleeves_2_5: -6267619871175394894
+      Orange Corset Long Sleeves_2_6: -760018795659569854
+      Orange Corset Long Sleeves_3: 1361535812544516244
+      Orange Corset Long Sleeves_30: 6331607033923315662
+      Orange Corset Long Sleeves_31: 1206441642102493645
+      Orange Corset Long Sleeves_32: 2038069451935725366
+      Orange Corset Long Sleeves_33: -3741315438718436426
+      Orange Corset Long Sleeves_34: -557149265657525633
+      Orange Corset Long Sleeves_35: -717468805094487336
+      Orange Corset Long Sleeves_36: -8051456611999252585
+      Orange Corset Long Sleeves_37: 3284828405798323784
+      Orange Corset Long Sleeves_38: -684243084910076975
+      Orange Corset Long Sleeves_39: -5521680975690939899
+      Orange Corset Long Sleeves_3_0: -240805965399111199
+      Orange Corset Long Sleeves_3_1: 8382856616314950409
+      Orange Corset Long Sleeves_3_2: 2955770289041933290
+      Orange Corset Long Sleeves_3_3: -3723269546826255356
+      Orange Corset Long Sleeves_3_4: 7380576503492094186
+      Orange Corset Long Sleeves_3_5: 6503505019074647957
+      Orange Corset Long Sleeves_3_6: -3515459858956092758
+      Orange Corset Long Sleeves_4: -7460280290694078963
+      Orange Corset Long Sleeves_40: -5466582531841362754
+      Orange Corset Long Sleeves_41: -8809789038316145520
+      Orange Corset Long Sleeves_42: 2743033214465338805
+      Orange Corset Long Sleeves_43: 6261955014368273894
+      Orange Corset Long Sleeves_44: -1133786804976519422
+      Orange Corset Long Sleeves_45: -4328962849015602475
+      Orange Corset Long Sleeves_46: 7917888859216704724
+      Orange Corset Long Sleeves_47: -2563025726815563599
+      Orange Corset Long Sleeves_48: 6287391279175845606
+      Orange Corset Long Sleeves_4_0: 7541272731709869194
+      Orange Corset Long Sleeves_4_1: -7865264646054402928
+      Orange Corset Long Sleeves_4_2: 8513498565727640792
+      Orange Corset Long Sleeves_4_3: 5465723972615098585
+      Orange Corset Long Sleeves_4_4: 3590595480901741833
+      Orange Corset Long Sleeves_4_5: -1853970002264789795
+      Orange Corset Long Sleeves_4_6: -5852420064168901216
+      Orange Corset Long Sleeves_5: 4772417629812456419
+      Orange Corset Long Sleeves_50: 2894440011756656478
+      Orange Corset Long Sleeves_51: 5640731350299955282
+      Orange Corset Long Sleeves_52: -5617912993175673384
+      Orange Corset Long Sleeves_53: -5404623950931336587
+      Orange Corset Long Sleeves_54: -5974924546811019296
+      Orange Corset Long Sleeves_55: -7702226925595674126
+      Orange Corset Long Sleeves_5_0: 1060570529359728673
+      Orange Corset Long Sleeves_5_1: -1409353461611860790
+      Orange Corset Long Sleeves_5_2: -7356723562268015419
+      Orange Corset Long Sleeves_5_3: -4062511347411665508
+      Orange Corset Long Sleeves_5_4: 4415240718140176077
+      Orange Corset Long Sleeves_5_5: -437551650582914851
+      Orange Corset Long Sleeves_5_6: 3230622801892896258
+      Orange Corset Long Sleeves_6: -5287752605090253141
+      Orange Corset Long Sleeves_60: 2795706975777876657
+      Orange Corset Long Sleeves_61: -5316251353840291138
+      Orange Corset Long Sleeves_62: 7628590510297501736
+      Orange Corset Long Sleeves_63: 6089570867750181727
+      Orange Corset Long Sleeves_64: 7032147903819441357
+      Orange Corset Long Sleeves_65: 49058236123809068
+      Orange Corset Long Sleeves_66: -8746277542888972662
+      Orange Corset Long Sleeves_67: -922587415878377991
+      Orange Corset Long Sleeves_68: 8699747333584389991
+      Orange Corset Long Sleeves_69: 6374089506220563476
+      Orange Corset Long Sleeves_6_0: 6350481195518817907
+      Orange Corset Long Sleeves_6_1: -3629332255533255948
+      Orange Corset Long Sleeves_6_2: -2488698740705657608
+      Orange Corset Long Sleeves_6_3: -5237347788269220287
+      Orange Corset Long Sleeves_6_4: 4323964809269140264
+      Orange Corset Long Sleeves_6_5: 1983018525852202077
+      Orange Corset Long Sleeves_6_6: -7608936368647623411
+      Orange Corset Long Sleeves_7: 4987498222443756752
+      Orange Corset Long Sleeves_7_0: -938962209451677375
+      Orange Corset Long Sleeves_7_1: 4665233735461936742
+      Orange Corset Long Sleeves_7_2: -2935297009980211549
+      Orange Corset Long Sleeves_7_3: -8134099174536067109
+      Orange Corset Long Sleeves_7_4: 5373984608950151967
+      Orange Corset Long Sleeves_7_5: 2068620915703193651
+      Orange Corset Long Sleeves_7_6: -1770338290101387537
+      Orange Corset Long Sleeves_8: 7381267931583223070
+      Orange Corset Long Sleeves_8_0: 535272533993069327
+      Orange Corset Long Sleeves_8_1: 2738812727614794762
+      Orange Corset Long Sleeves_8_2: -7551077701262003758
+      Orange Corset Long Sleeves_8_3: 3781352415654755160
+      Orange Corset Long Sleeves_8_4: -218972196642394342
+      Orange Corset Long Sleeves_8_5: 5385438216329947900
+      Orange Corset Long Sleeves_8_6: 5047476572776339700
+      Orange Corset Long Sleeves_9: -8111002626497371060
+      Orange Corset Long Sleeves_9_0: 6821886943188545455
+      Orange Corset Long Sleeves_9_1: 7484967481619313051
+      Orange Corset Long Sleeves_9_2: 1522917888183550266
+      Orange Corset Long Sleeves_9_3: 8296571158934967073
+      Orange Corset Long Sleeves_9_4: 6458724914466723315
+      Orange Corset Long Sleeves_9_5: -1781472379854715312
+      Orange Corset Long Sleeves_9_6: -6159614397118593278
+      Orange Corset Long Sleeves_EMPTY_18: -3169367766952753878
+      Orange Corset Long Sleeves_EMPTY_19: -3522604715916506092
+      Orange Corset Long Sleeves_EMPTY_28: 6163757558561053836
+      Orange Corset Long Sleeves_EMPTY_29: 3908509707707097350
+      Orange Corset Long Sleeves_EMPTY_34: -5677233243472407524
+      Orange Corset Long Sleeves_EMPTY_35: 7451532136656595137
+      Orange Corset Long Sleeves_EMPTY_36: -2757063077693289478
+      Orange Corset Long Sleeves_EMPTY_37: 7337716251223197472
+      Orange Corset Long Sleeves_EMPTY_38: 223489582260741741
+      Orange Corset Long Sleeves_EMPTY_39: -3630597226185584484
+      Orange Corset Long Sleeves_EMPTY_44: 5424336137278597540
+      Orange Corset Long Sleeves_EMPTY_45: -6110258459337004327
+      Orange Corset Long Sleeves_EMPTY_46: 6807351308708203207
+      Orange Corset Long Sleeves_EMPTY_47: 8715791436799180700
+      Orange Corset Long Sleeves_EMPTY_48: 6336268792947993600
+      Orange Corset Long Sleeves_EMPTY_49: -616736136893442739
+      Orange Corset Long Sleeves_EMPTY_5: -2095935659306884344
+      Orange Corset Long Sleeves_EMPTY_56: -7830879012272782034
+      Orange Corset Long Sleeves_EMPTY_57: 4329108574020772965
+      Orange Corset Long Sleeves_EMPTY_58: 1686621110812763070
+      Orange Corset Long Sleeves_EMPTY_59: -2772733214646955134
+      Orange Corset Long Sleeves_EMPTY_6: 7487563527211902139
+      Orange Corset Long Sleeves_EMPTY_7: -1483094150733239859
+      Orange Corset Long Sleeves_EMPTY_8: -8289785455941915865
+      Orange Corset Long Sleeves_EMPTY_9: -5049332544020309865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

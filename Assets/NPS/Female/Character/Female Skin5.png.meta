@@ -1,0 +1,1769 @@
+fileFormatVersion: 2
+guid: 3678d8ba351aa9845821aec6609b39b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5062154196501617334
+    second: Female Skin5_0
+  - first:
+      213: -8959733028160550582
+    second: Female Skin5_1
+  - first:
+      213: 2795890626646936449
+    second: Female Skin5_2
+  - first:
+      213: -7869845471681109115
+    second: Female Skin5_3
+  - first:
+      213: 6310447460343311118
+    second: Female Skin5_4
+  - first:
+      213: 5906997893186481224
+    second: Female Skin5_5
+  - first:
+      213: 2862573514172222987
+    second: Female Skin5_6
+  - first:
+      213: -7840709964491594257
+    second: Female Skin5_7
+  - first:
+      213: -7975010303840221579
+    second: Female Skin5_8
+  - first:
+      213: 6887028794831129609
+    second: Female Skin5_9
+  - first:
+      213: 2741653436252791705
+    second: Female Skin5_10
+  - first:
+      213: -4131188500413588019
+    second: Female Skin5_11
+  - first:
+      213: -2153619179409270565
+    second: Female Skin5_12
+  - first:
+      213: 3726750844577444779
+    second: Female Skin5_13
+  - first:
+      213: 2035920323075818941
+    second: Female Skin5_14
+  - first:
+      213: -7296103491937095550
+    second: Female Skin5_15
+  - first:
+      213: 5100549189738706011
+    second: Female Skin5_16
+  - first:
+      213: 257724841553938992
+    second: Female Skin5_17
+  - first:
+      213: -3317806680391485677
+    second: Female Skin5_18
+  - first:
+      213: -7142626853250427732
+    second: Female Skin5_19
+  - first:
+      213: 8547915734072479468
+    second: Female Skin5_20
+  - first:
+      213: 6614942077728914434
+    second: Female Skin5_21
+  - first:
+      213: 3275953710697487625
+    second: Female Skin5_22
+  - first:
+      213: 4541688855917943051
+    second: Female Skin5_23
+  - first:
+      213: -5712282224983229150
+    second: Female Skin5_24
+  - first:
+      213: 6047886013689761238
+    second: Female Skin5_25
+  - first:
+      213: -8290968898722272107
+    second: Female Skin5_26
+  - first:
+      213: 8082836392891526715
+    second: Female Skin5_27
+  - first:
+      213: 5016328422179209193
+    second: Female Skin5_28
+  - first:
+      213: -5707312549860413419
+    second: Female Skin5_29
+  - first:
+      213: -1951584958505200409
+    second: Female Skin5_30
+  - first:
+      213: 4605213187620097417
+    second: Female Skin5_31
+  - first:
+      213: 8782299712808542707
+    second: Female Skin5_32
+  - first:
+      213: -8563433356683018377
+    second: Female Skin5_33
+  - first:
+      213: -6979036312163735839
+    second: Female Skin5_34
+  - first:
+      213: -675058573642305910
+    second: Female Skin5_35
+  - first:
+      213: 8852462548267249924
+    second: Female Skin5_36
+  - first:
+      213: -4861278258309599340
+    second: Female Skin5_37
+  - first:
+      213: 8826464672251006761
+    second: Female Skin5_38
+  - first:
+      213: 2030369499256236332
+    second: Female Skin5_39
+  - first:
+      213: 3960853667155850348
+    second: Female Skin5_40
+  - first:
+      213: 5485681566466581638
+    second: Female Skin5_41
+  - first:
+      213: -1560081920195569391
+    second: Female Skin5_42
+  - first:
+      213: 8964999337135886195
+    second: Female Skin5_43
+  - first:
+      213: -3146382316994053822
+    second: Female Skin5_44
+  - first:
+      213: -3184820760448489831
+    second: Female Skin5_0_6
+  - first:
+      213: 5294478537660606405
+    second: Female Skin5_1_6
+  - first:
+      213: 8223948290724754618
+    second: Female Skin5_2_6
+  - first:
+      213: -5008413199596481687
+    second: Female Skin5_3_6
+  - first:
+      213: -3956475929081959465
+    second: Female Skin5_4_6
+  - first:
+      213: 4533816302478389345
+    second: Female Skin5_5_6
+  - first:
+      213: -612677933757483813
+    second: Female Skin5_6_6
+  - first:
+      213: -5906210399824071696
+    second: Female Skin5_7_6
+  - first:
+      213: -8566005942537527473
+    second: Female Skin5_8_6
+  - first:
+      213: -1017013001928577841
+    second: Female Skin5_9_6
+  - first:
+      213: -6116599472536579152
+    second: Female Skin5_0_5
+  - first:
+      213: 8523285759060536103
+    second: Female Skin5_1_5
+  - first:
+      213: -5644615909689044895
+    second: Female Skin5_2_5
+  - first:
+      213: 1647261976722533878
+    second: Female Skin5_3_5
+  - first:
+      213: 7197729644753280509
+    second: Female Skin5_4_5
+  - first:
+      213: 956406085802050440
+    second: Female Skin5_5_5
+  - first:
+      213: -5707280479568392207
+    second: Female Skin5_6_5
+  - first:
+      213: -8994106479128063725
+    second: Female Skin5_7_5
+  - first:
+      213: 3412176584438982191
+    second: Female Skin5_8_5
+  - first:
+      213: -487664752632564028
+    second: Female Skin5_9_5
+  - first:
+      213: 1048303704493500409
+    second: Female Skin5_0_4
+  - first:
+      213: 1535466688731685088
+    second: Female Skin5_1_4
+  - first:
+      213: -5705480160053236964
+    second: Female Skin5_2_4
+  - first:
+      213: 2841663540287209692
+    second: Female Skin5_3_4
+  - first:
+      213: 7315541818381200591
+    second: Female Skin5_4_4
+  - first:
+      213: 2860994061754984353
+    second: Female Skin5_5_4
+  - first:
+      213: -9024572936627576336
+    second: Female Skin5_6_4
+  - first:
+      213: -3969738086032210396
+    second: Female Skin5_7_4
+  - first:
+      213: -7310449915705352906
+    second: Female Skin5_8_4
+  - first:
+      213: -8586639304170574917
+    second: Female Skin5_9_4
+  - first:
+      213: -4698911193859526644
+    second: Female Skin5_0_3
+  - first:
+      213: 2350309483999798081
+    second: Female Skin5_1_3
+  - first:
+      213: 8070131674248788281
+    second: Female Skin5_2_3
+  - first:
+      213: -8898894052569140066
+    second: Female Skin5_3_3
+  - first:
+      213: -7825099233218655707
+    second: Female Skin5_4_3
+  - first:
+      213: -4789551546214473149
+    second: Female Skin5_5_3
+  - first:
+      213: 8002337125090883791
+    second: Female Skin5_6_3
+  - first:
+      213: 3776710799660646977
+    second: Female Skin5_7_3
+  - first:
+      213: 7473778892552045929
+    second: Female Skin5_8_3
+  - first:
+      213: 4526767412343673620
+    second: Female Skin5_9_3
+  - first:
+      213: -2412379875532227207
+    second: Female Skin5_0_2
+  - first:
+      213: 5433673242698199575
+    second: Female Skin5_1_2
+  - first:
+      213: 4475867096961458021
+    second: Female Skin5_2_2
+  - first:
+      213: 4904307522032008472
+    second: Female Skin5_3_2
+  - first:
+      213: -5022931969342250831
+    second: Female Skin5_4_2
+  - first:
+      213: -7197597323082585506
+    second: Female Skin5_5_2
+  - first:
+      213: -8084456796699034252
+    second: Female Skin5_6_2
+  - first:
+      213: 4109315057446015696
+    second: Female Skin5_7_2
+  - first:
+      213: -8381965820643856149
+    second: Female Skin5_8_2
+  - first:
+      213: -3160621343503308786
+    second: Female Skin5_9_2
+  - first:
+      213: -1507562809178821188
+    second: Female Skin5_0_1
+  - first:
+      213: 7147298407989464550
+    second: Female Skin5_1_1
+  - first:
+      213: 1201555001515507636
+    second: Female Skin5_2_1
+  - first:
+      213: -6831452326529141969
+    second: Female Skin5_3_1
+  - first:
+      213: -3632661629047850443
+    second: Female Skin5_4_1
+  - first:
+      213: 2564515842537059394
+    second: Female Skin5_5_1
+  - first:
+      213: -7467237560532898208
+    second: Female Skin5_6_1
+  - first:
+      213: -2749665627253558951
+    second: Female Skin5_7_1
+  - first:
+      213: 7708134315890799080
+    second: Female Skin5_8_1
+  - first:
+      213: 2418179715931826630
+    second: Female Skin5_9_1
+  - first:
+      213: 6540807122638337740
+    second: Female Skin5_0_0
+  - first:
+      213: 7484740002833640455
+    second: Female Skin5_1_0
+  - first:
+      213: 4722197891209853796
+    second: Female Skin5_2_0
+  - first:
+      213: -4846445876919667944
+    second: Female Skin5_3_0
+  - first:
+      213: -64267776250738068
+    second: Female Skin5_4_0
+  - first:
+      213: 8615923374636588941
+    second: Female Skin5_5_0
+  - first:
+      213: 8670727824622227717
+    second: Female Skin5_6_0
+  - first:
+      213: -3628157858053927830
+    second: Female Skin5_7_0
+  - first:
+      213: -3034661710395563439
+    second: Female Skin5_8_0
+  - first:
+      213: 5444385629540448627
+    second: Female Skin5_9_0
+  - first:
+      213: -2918748111600281081
+    second: Female Skin5_45
+  - first:
+      213: 4162422285220348222
+    second: Female Skin5_46
+  - first:
+      213: 4727817034679251273
+    second: Female Skin5_47
+  - first:
+      213: 8098601905619123708
+    second: Female Skin5_48
+  - first:
+      213: 8606146792501523075
+    second: Female Skin5_49
+  - first:
+      213: 1338655683411969938
+    second: Female Skin5_50
+  - first:
+      213: -3734346103544148661
+    second: Female Skin5_51
+  - first:
+      213: -2050585167683052184
+    second: Female Skin5_52
+  - first:
+      213: -6992087465819577831
+    second: Female Skin5_53
+  - first:
+      213: 5370915347470169922
+    second: Female Skin5_54
+  - first:
+      213: 1960443777217820628
+    second: Female Skin5_55
+  - first:
+      213: -397747921030118567
+    second: Female Skin5_56
+  - first:
+      213: -2711561890659261282
+    second: Female Skin5_57
+  - first:
+      213: 485800810592686124
+    second: Female Skin5_58
+  - first:
+      213: -7117085368127979126
+    second: Female Skin5_59
+  - first:
+      213: 4478762398138833288
+    second: Female Skin5_60
+  - first:
+      213: 1375575146375043873
+    second: Female Skin5_61
+  - first:
+      213: -8157204521904178825
+    second: Female Skin5_62
+  - first:
+      213: 6303953351457085520
+    second: Female Skin5_63
+  - first:
+      213: 4118803214578192228
+    second: Female Skin5_64
+  - first:
+      213: 9067834800749185552
+    second: Female Skin5_65
+  - first:
+      213: 7198063309413713151
+    second: Female Skin5_66
+  - first:
+      213: -1938608363172115315
+    second: Female Skin5_67
+  - first:
+      213: -5582600710294173874
+    second: Female Skin5_68
+  - first:
+      213: 5621188538632582116
+    second: Female Skin5_69
+  - first:
+      213: -8326414399523769078
+    second: Female Skin5_EMPTY_5
+  - first:
+      213: 8013857552617494332
+    second: Female Skin5_EMPTY_6
+  - first:
+      213: 1001508664201200246
+    second: Female Skin5_EMPTY_7
+  - first:
+      213: 478548925373746119
+    second: Female Skin5_EMPTY_8
+  - first:
+      213: 1848506456918788895
+    second: Female Skin5_EMPTY_9
+  - first:
+      213: -5222820513055966309
+    second: Female Skin5_EMPTY_18
+  - first:
+      213: -2818353380347889631
+    second: Female Skin5_EMPTY_19
+  - first:
+      213: 1445147270442385944
+    second: Female Skin5_EMPTY_28
+  - first:
+      213: 8018179765725152042
+    second: Female Skin5_EMPTY_29
+  - first:
+      213: 4976304508463566889
+    second: Female Skin5_EMPTY_34
+  - first:
+      213: 1127338563712895931
+    second: Female Skin5_EMPTY_35
+  - first:
+      213: 2354820208571960065
+    second: Female Skin5_EMPTY_36
+  - first:
+      213: 9095427140963249450
+    second: Female Skin5_EMPTY_37
+  - first:
+      213: -4726224123844613956
+    second: Female Skin5_EMPTY_38
+  - first:
+      213: 8251030995947449491
+    second: Female Skin5_EMPTY_39
+  - first:
+      213: 5908442220610016961
+    second: Female Skin5_EMPTY_44
+  - first:
+      213: -6736243624394592004
+    second: Female Skin5_EMPTY_45
+  - first:
+      213: 763171048848870767
+    second: Female Skin5_EMPTY_46
+  - first:
+      213: -2252385553981432073
+    second: Female Skin5_EMPTY_47
+  - first:
+      213: -6859175831350481433
+    second: Female Skin5_EMPTY_48
+  - first:
+      213: -4703874353862924998
+    second: Female Skin5_EMPTY_49
+  - first:
+      213: -2529852343804519427
+    second: Female Skin5_EMPTY_56
+  - first:
+      213: -3436050796841847425
+    second: Female Skin5_EMPTY_57
+  - first:
+      213: 107010411784911813
+    second: Female Skin5_EMPTY_58
+  - first:
+      213: 5333047163767685665
+    second: Female Skin5_EMPTY_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female Skin5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba5bb8db62604640800000000000000
+      internalID: 5062154196501617334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49c7261842a8a380800000000000000
+      internalID: -8959733028160550582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b822036bffcc620800000000000000
+      internalID: 2795890626646936449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5832b3f5d31b8c290800000000000000
+      internalID: -7869845471681109115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b678fe786339750800000000000000
+      internalID: 6310447460343311118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c6c58894fd9f150800000000000000
+      internalID: 5906997893186481224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e4dafc177e9b720800000000000000
+      internalID: 2862573514172222987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5ec9344d3303390800000000000000
+      internalID: -7840709964491594257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576068fc162135190800000000000000
+      internalID: -7975010303840221579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ccbc92334a39f50800000000000000
+      internalID: 6887028794831129609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993a31d364f4c0620800000000000000
+      internalID: 2741653436252791705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd5ba462f11ba6c0800000000000000
+      internalID: -4131188500413588019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_12
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd897d544cecc12e0800000000000000
+      internalID: -2153619179409270565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3fc61e52418b330800000000000000
+      internalID: 3726750844577444779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5ceef3fba014c10800000000000000
+      internalID: 2035920323075818941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2803a9ec7880fba90800000000000000
+      internalID: -7296103491937095550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5438c5d67ac8c640800000000000000
+      internalID: 5100549189738706011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03acd9eb06f939300800000000000000
+      internalID: 257724841553938992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317f8d51768c4f1d0800000000000000
+      internalID: -3317806680391485677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca497d068ba40ec90800000000000000
+      internalID: -7142626853250427732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_20
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceecc53421c40a670800000000000000
+      internalID: 8547915734072479468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cf0d0b5cefccb50800000000000000
+      internalID: 6614942077728914434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d1fba0b86867d20800000000000000
+      internalID: 3275953710697487625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09d65993f1570f30800000000000000
+      internalID: 4541688855917943051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22db813d495e9b0b0800000000000000
+      internalID: -5712282224983229150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd080059486ee350800000000000000
+      internalID: 6047886013689761238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ce8dbc6bf80fc80800000000000000
+      internalID: -8290968898722272107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e26e7efd00c2070800000000000000
+      internalID: 8082836392891526715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efffa05f149d9540800000000000000
+      internalID: 5016328422179209193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510f07b797d8bc0b0800000000000000
+      internalID: -5707312549860413419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e45d47f1d39ae4e0800000000000000
+      internalID: -1951584958505200409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d4a03aef009ef30800000000000000
+      internalID: 4605213187620097417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1e7f4ee0ff0e970800000000000000
+      internalID: 8782299712808542707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f7d2dabb2982980800000000000000
+      internalID: -8563433356683018377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6adea537b752f90800000000000000
+      internalID: -6979036312163735839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ee77bcdc5b1a6f0800000000000000
+      internalID: -675058573642305910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4013be809c34ada70800000000000000
+      internalID: 8852462548267249924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f60232e25498cb0800000000000000
+      internalID: -4861278258309599340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f4e04dad6ed7a70800000000000000
+      internalID: 8826464672251006761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29a4fd5d425d2c10800000000000000
+      internalID: 2030369499256236332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64b02ebc67c7f630800000000000000
+      internalID: 3960853667155850348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6842620025e012c40800000000000000
+      internalID: 5485681566466581638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_42
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119db3e52c9795ae0800000000000000
+      internalID: -1560081920195569391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fc89506631a6c70800000000000000
+      internalID: 8964999337135886195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Skin5_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249bff3f3fdc554d0800000000000000
+      internalID: -3146382316994053822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Female Skin5_0: 5062154196501617334
+      Female Skin5_0_0: 6540807122638337740
+      Female Skin5_0_1: -1507562809178821188
+      Female Skin5_0_2: -2412379875532227207
+      Female Skin5_0_3: -4698911193859526644
+      Female Skin5_0_4: 1048303704493500409
+      Female Skin5_0_5: -6116599472536579152
+      Female Skin5_0_6: -3184820760448489831
+      Female Skin5_1: -8959733028160550582
+      Female Skin5_10: 2741653436252791705
+      Female Skin5_11: -4131188500413588019
+      Female Skin5_12: -2153619179409270565
+      Female Skin5_13: 3726750844577444779
+      Female Skin5_14: 2035920323075818941
+      Female Skin5_15: -7296103491937095550
+      Female Skin5_16: 5100549189738706011
+      Female Skin5_17: 257724841553938992
+      Female Skin5_18: -3317806680391485677
+      Female Skin5_19: -7142626853250427732
+      Female Skin5_1_0: 7484740002833640455
+      Female Skin5_1_1: 7147298407989464550
+      Female Skin5_1_2: 5433673242698199575
+      Female Skin5_1_3: 2350309483999798081
+      Female Skin5_1_4: 1535466688731685088
+      Female Skin5_1_5: 8523285759060536103
+      Female Skin5_1_6: 5294478537660606405
+      Female Skin5_2: 2795890626646936449
+      Female Skin5_20: 8547915734072479468
+      Female Skin5_21: 6614942077728914434
+      Female Skin5_22: 3275953710697487625
+      Female Skin5_23: 4541688855917943051
+      Female Skin5_24: -5712282224983229150
+      Female Skin5_25: 6047886013689761238
+      Female Skin5_26: -8290968898722272107
+      Female Skin5_27: 8082836392891526715
+      Female Skin5_28: 5016328422179209193
+      Female Skin5_29: -5707312549860413419
+      Female Skin5_2_0: 4722197891209853796
+      Female Skin5_2_1: 1201555001515507636
+      Female Skin5_2_2: 4475867096961458021
+      Female Skin5_2_3: 8070131674248788281
+      Female Skin5_2_4: -5705480160053236964
+      Female Skin5_2_5: -5644615909689044895
+      Female Skin5_2_6: 8223948290724754618
+      Female Skin5_3: -7869845471681109115
+      Female Skin5_30: -1951584958505200409
+      Female Skin5_31: 4605213187620097417
+      Female Skin5_32: 8782299712808542707
+      Female Skin5_33: -8563433356683018377
+      Female Skin5_34: -6979036312163735839
+      Female Skin5_35: -675058573642305910
+      Female Skin5_36: 8852462548267249924
+      Female Skin5_37: -4861278258309599340
+      Female Skin5_38: 8826464672251006761
+      Female Skin5_39: 2030369499256236332
+      Female Skin5_3_0: -4846445876919667944
+      Female Skin5_3_1: -6831452326529141969
+      Female Skin5_3_2: 4904307522032008472
+      Female Skin5_3_3: -8898894052569140066
+      Female Skin5_3_4: 2841663540287209692
+      Female Skin5_3_5: 1647261976722533878
+      Female Skin5_3_6: -5008413199596481687
+      Female Skin5_4: 6310447460343311118
+      Female Skin5_40: 3960853667155850348
+      Female Skin5_41: 5485681566466581638
+      Female Skin5_42: -1560081920195569391
+      Female Skin5_43: 8964999337135886195
+      Female Skin5_44: -3146382316994053822
+      Female Skin5_45: -2918748111600281081
+      Female Skin5_46: 4162422285220348222
+      Female Skin5_47: 4727817034679251273
+      Female Skin5_48: 8098601905619123708
+      Female Skin5_49: 8606146792501523075
+      Female Skin5_4_0: -64267776250738068
+      Female Skin5_4_1: -3632661629047850443
+      Female Skin5_4_2: -5022931969342250831
+      Female Skin5_4_3: -7825099233218655707
+      Female Skin5_4_4: 7315541818381200591
+      Female Skin5_4_5: 7197729644753280509
+      Female Skin5_4_6: -3956475929081959465
+      Female Skin5_5: 5906997893186481224
+      Female Skin5_50: 1338655683411969938
+      Female Skin5_51: -3734346103544148661
+      Female Skin5_52: -2050585167683052184
+      Female Skin5_53: -6992087465819577831
+      Female Skin5_54: 5370915347470169922
+      Female Skin5_55: 1960443777217820628
+      Female Skin5_56: -397747921030118567
+      Female Skin5_57: -2711561890659261282
+      Female Skin5_58: 485800810592686124
+      Female Skin5_59: -7117085368127979126
+      Female Skin5_5_0: 8615923374636588941
+      Female Skin5_5_1: 2564515842537059394
+      Female Skin5_5_2: -7197597323082585506
+      Female Skin5_5_3: -4789551546214473149
+      Female Skin5_5_4: 2860994061754984353
+      Female Skin5_5_5: 956406085802050440
+      Female Skin5_5_6: 4533816302478389345
+      Female Skin5_6: 2862573514172222987
+      Female Skin5_60: 4478762398138833288
+      Female Skin5_61: 1375575146375043873
+      Female Skin5_62: -8157204521904178825
+      Female Skin5_63: 6303953351457085520
+      Female Skin5_64: 4118803214578192228
+      Female Skin5_65: 9067834800749185552
+      Female Skin5_66: 7198063309413713151
+      Female Skin5_67: -1938608363172115315
+      Female Skin5_68: -5582600710294173874
+      Female Skin5_69: 5621188538632582116
+      Female Skin5_6_0: 8670727824622227717
+      Female Skin5_6_1: -7467237560532898208
+      Female Skin5_6_2: -8084456796699034252
+      Female Skin5_6_3: 8002337125090883791
+      Female Skin5_6_4: -9024572936627576336
+      Female Skin5_6_5: -5707280479568392207
+      Female Skin5_6_6: -612677933757483813
+      Female Skin5_7: -7840709964491594257
+      Female Skin5_7_0: -3628157858053927830
+      Female Skin5_7_1: -2749665627253558951
+      Female Skin5_7_2: 4109315057446015696
+      Female Skin5_7_3: 3776710799660646977
+      Female Skin5_7_4: -3969738086032210396
+      Female Skin5_7_5: -8994106479128063725
+      Female Skin5_7_6: -5906210399824071696
+      Female Skin5_8: -7975010303840221579
+      Female Skin5_8_0: -3034661710395563439
+      Female Skin5_8_1: 7708134315890799080
+      Female Skin5_8_2: -8381965820643856149
+      Female Skin5_8_3: 7473778892552045929
+      Female Skin5_8_4: -7310449915705352906
+      Female Skin5_8_5: 3412176584438982191
+      Female Skin5_8_6: -8566005942537527473
+      Female Skin5_9: 6887028794831129609
+      Female Skin5_9_0: 5444385629540448627
+      Female Skin5_9_1: 2418179715931826630
+      Female Skin5_9_2: -3160621343503308786
+      Female Skin5_9_3: 4526767412343673620
+      Female Skin5_9_4: -8586639304170574917
+      Female Skin5_9_5: -487664752632564028
+      Female Skin5_9_6: -1017013001928577841
+      Female Skin5_EMPTY_18: -5222820513055966309
+      Female Skin5_EMPTY_19: -2818353380347889631
+      Female Skin5_EMPTY_28: 1445147270442385944
+      Female Skin5_EMPTY_29: 8018179765725152042
+      Female Skin5_EMPTY_34: 4976304508463566889
+      Female Skin5_EMPTY_35: 1127338563712895931
+      Female Skin5_EMPTY_36: 2354820208571960065
+      Female Skin5_EMPTY_37: 9095427140963249450
+      Female Skin5_EMPTY_38: -4726224123844613956
+      Female Skin5_EMPTY_39: 8251030995947449491
+      Female Skin5_EMPTY_44: 5908442220610016961
+      Female Skin5_EMPTY_45: -6736243624394592004
+      Female Skin5_EMPTY_46: 763171048848870767
+      Female Skin5_EMPTY_47: -2252385553981432073
+      Female Skin5_EMPTY_48: -6859175831350481433
+      Female Skin5_EMPTY_49: -4703874353862924998
+      Female Skin5_EMPTY_5: -8326414399523769078
+      Female Skin5_EMPTY_56: -2529852343804519427
+      Female Skin5_EMPTY_57: -3436050796841847425
+      Female Skin5_EMPTY_58: 107010411784911813
+      Female Skin5_EMPTY_59: 5333047163767685665
+      Female Skin5_EMPTY_6: 8013857552617494332
+      Female Skin5_EMPTY_7: 1001508664201200246
+      Female Skin5_EMPTY_8: 478548925373746119
+      Female Skin5_EMPTY_9: 1848506456918788895
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

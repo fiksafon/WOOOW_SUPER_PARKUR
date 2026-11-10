@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: b71da4cc362b4ed478fae03e7b2b71ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3270823396638546242
+    second: Purple Bodice Mid Sleeves_0
+  - first:
+      213: -3318014138225669025
+    second: Purple Bodice Mid Sleeves_1
+  - first:
+      213: -7429975562742395397
+    second: Purple Bodice Mid Sleeves_2
+  - first:
+      213: -8662864080150510717
+    second: Purple Bodice Mid Sleeves_3
+  - first:
+      213: -7700881072592226999
+    second: Purple Bodice Mid Sleeves_4
+  - first:
+      213: 2259334981507224177
+    second: Purple Bodice Mid Sleeves_5
+  - first:
+      213: -7605738512816845354
+    second: Purple Bodice Mid Sleeves_6
+  - first:
+      213: 8140845523850195514
+    second: Purple Bodice Mid Sleeves_7
+  - first:
+      213: 1487620862803990077
+    second: Purple Bodice Mid Sleeves_8
+  - first:
+      213: 9080590135345687679
+    second: Purple Bodice Mid Sleeves_9
+  - first:
+      213: 6091223588974471567
+    second: Purple Bodice Mid Sleeves_10
+  - first:
+      213: -2634393739252798705
+    second: Purple Bodice Mid Sleeves_11
+  - first:
+      213: 2630058196312225704
+    second: Purple Bodice Mid Sleeves_12
+  - first:
+      213: -5318471358168396902
+    second: Purple Bodice Mid Sleeves_13
+  - first:
+      213: -126434992815847768
+    second: Purple Bodice Mid Sleeves_14
+  - first:
+      213: 5981841457649463581
+    second: Purple Bodice Mid Sleeves_15
+  - first:
+      213: 7500590428474523601
+    second: Purple Bodice Mid Sleeves_16
+  - first:
+      213: 12673033362211567
+    second: Purple Bodice Mid Sleeves_17
+  - first:
+      213: -2691469571325143336
+    second: Purple Bodice Mid Sleeves_18
+  - first:
+      213: -2166070908319216506
+    second: Purple Bodice Mid Sleeves_19
+  - first:
+      213: 1633521686287511099
+    second: Purple Bodice Mid Sleeves_20
+  - first:
+      213: -768613806628333105
+    second: Purple Bodice Mid Sleeves_21
+  - first:
+      213: 465878374282857378
+    second: Purple Bodice Mid Sleeves_22
+  - first:
+      213: 7027469924523900166
+    second: Purple Bodice Mid Sleeves_23
+  - first:
+      213: -7705662719479512004
+    second: Purple Bodice Mid Sleeves_24
+  - first:
+      213: -4675985795521072744
+    second: Purple Bodice Mid Sleeves_25
+  - first:
+      213: 7165982984626701281
+    second: Purple Bodice Mid Sleeves_26
+  - first:
+      213: -3919393658357418936
+    second: Purple Bodice Mid Sleeves_27
+  - first:
+      213: 527351473706558213
+    second: Purple Bodice Mid Sleeves_28
+  - first:
+      213: 494634115971103466
+    second: Purple Bodice Mid Sleeves_29
+  - first:
+      213: -852495972107293626
+    second: Purple Bodice Mid Sleeves_30
+  - first:
+      213: 6697604166594831032
+    second: Purple Bodice Mid Sleeves_31
+  - first:
+      213: 1929280693693630524
+    second: Purple Bodice Mid Sleeves_32
+  - first:
+      213: -5392907881383648136
+    second: Purple Bodice Mid Sleeves_33
+  - first:
+      213: 6643366411073232595
+    second: Purple Bodice Mid Sleeves_34
+  - first:
+      213: -3628998023806159202
+    second: Purple Bodice Mid Sleeves_35
+  - first:
+      213: -7009727793537802006
+    second: Purple Bodice Mid Sleeves_36
+  - first:
+      213: -1315531471922856729
+    second: Purple Bodice Mid Sleeves_37
+  - first:
+      213: 1360035905229700497
+    second: Purple Bodice Mid Sleeves_38
+  - first:
+      213: -6443959854142944922
+    second: Purple Bodice Mid Sleeves_39
+  - first:
+      213: 1403689322932062879
+    second: Purple Bodice Mid Sleeves_40
+  - first:
+      213: -7123607320974187420
+    second: Purple Bodice Mid Sleeves_41
+  - first:
+      213: 4557247698873998218
+    second: Purple Bodice Mid Sleeves_42
+  - first:
+      213: 2609621989237114087
+    second: Purple Bodice Mid Sleeves_43
+  - first:
+      213: -1986117475446403356
+    second: Purple Bodice Mid Sleeves_44
+  - first:
+      213: 3128651970323988362
+    second: Purple Bodice Mid Sleeves_45
+  - first:
+      213: 1212081836957679810
+    second: Purple Bodice Mid Sleeves_46
+  - first:
+      213: -1003855874939501823
+    second: Purple Bodice Mid Sleeves_47
+  - first:
+      213: -6348503135207502271
+    second: Purple Bodice Mid Sleeves_48
+  - first:
+      213: -1934371846744212401
+    second: Purple Bodice Mid Sleeves_49
+  - first:
+      213: 666476413088394742
+    second: Purple Bodice Mid Sleeves_0_6
+  - first:
+      213: 533557836855018714
+    second: Purple Bodice Mid Sleeves_1_6
+  - first:
+      213: 1293485157952025943
+    second: Purple Bodice Mid Sleeves_2_6
+  - first:
+      213: -7616600119206053298
+    second: Purple Bodice Mid Sleeves_3_6
+  - first:
+      213: -4649474870399850467
+    second: Purple Bodice Mid Sleeves_4_6
+  - first:
+      213: -8349549459393140292
+    second: Purple Bodice Mid Sleeves_5_6
+  - first:
+      213: -2525483158459105717
+    second: Purple Bodice Mid Sleeves_6_6
+  - first:
+      213: 4041929393146537075
+    second: Purple Bodice Mid Sleeves_7_6
+  - first:
+      213: -1846253611618442257
+    second: Purple Bodice Mid Sleeves_8_6
+  - first:
+      213: 2034370597734551529
+    second: Purple Bodice Mid Sleeves_9_6
+  - first:
+      213: 4743217394759692365
+    second: Purple Bodice Mid Sleeves_0_5
+  - first:
+      213: -2219842029163100195
+    second: Purple Bodice Mid Sleeves_1_5
+  - first:
+      213: -6472437076891622249
+    second: Purple Bodice Mid Sleeves_2_5
+  - first:
+      213: -4521823201515495862
+    second: Purple Bodice Mid Sleeves_3_5
+  - first:
+      213: 3940555607806173919
+    second: Purple Bodice Mid Sleeves_4_5
+  - first:
+      213: -8925002301661310476
+    second: Purple Bodice Mid Sleeves_5_5
+  - first:
+      213: 2546174516306930892
+    second: Purple Bodice Mid Sleeves_6_5
+  - first:
+      213: -4428210244358152536
+    second: Purple Bodice Mid Sleeves_7_5
+  - first:
+      213: -8102301010489655490
+    second: Purple Bodice Mid Sleeves_8_5
+  - first:
+      213: -8238594751944290222
+    second: Purple Bodice Mid Sleeves_9_5
+  - first:
+      213: 1362432062136946787
+    second: Purple Bodice Mid Sleeves_0_4
+  - first:
+      213: -11380041486506372
+    second: Purple Bodice Mid Sleeves_1_4
+  - first:
+      213: 7747223482488477914
+    second: Purple Bodice Mid Sleeves_2_4
+  - first:
+      213: 3759003031746038967
+    second: Purple Bodice Mid Sleeves_3_4
+  - first:
+      213: -7000109760314614477
+    second: Purple Bodice Mid Sleeves_4_4
+  - first:
+      213: 3020904147294031304
+    second: Purple Bodice Mid Sleeves_5_4
+  - first:
+      213: 4113506800040827995
+    second: Purple Bodice Mid Sleeves_6_4
+  - first:
+      213: -7251893749819669516
+    second: Purple Bodice Mid Sleeves_7_4
+  - first:
+      213: -4586273579027384855
+    second: Purple Bodice Mid Sleeves_8_4
+  - first:
+      213: 8411798095377503425
+    second: Purple Bodice Mid Sleeves_9_4
+  - first:
+      213: 2974791315103091149
+    second: Purple Bodice Mid Sleeves_0_3
+  - first:
+      213: -8962284872175139810
+    second: Purple Bodice Mid Sleeves_1_3
+  - first:
+      213: 1513462160555937764
+    second: Purple Bodice Mid Sleeves_2_3
+  - first:
+      213: 2502160591972833170
+    second: Purple Bodice Mid Sleeves_3_3
+  - first:
+      213: 6554756721307723725
+    second: Purple Bodice Mid Sleeves_4_3
+  - first:
+      213: -5104463261464500638
+    second: Purple Bodice Mid Sleeves_5_3
+  - first:
+      213: 1732560396259834593
+    second: Purple Bodice Mid Sleeves_6_3
+  - first:
+      213: 9132153027722766381
+    second: Purple Bodice Mid Sleeves_7_3
+  - first:
+      213: 787193191288247815
+    second: Purple Bodice Mid Sleeves_8_3
+  - first:
+      213: 930326726752787621
+    second: Purple Bodice Mid Sleeves_9_3
+  - first:
+      213: 6589577261257642224
+    second: Purple Bodice Mid Sleeves_0_2
+  - first:
+      213: 5208773761472027639
+    second: Purple Bodice Mid Sleeves_1_2
+  - first:
+      213: -6724776423663151468
+    second: Purple Bodice Mid Sleeves_2_2
+  - first:
+      213: 2980129815422059969
+    second: Purple Bodice Mid Sleeves_3_2
+  - first:
+      213: 2146170527208607802
+    second: Purple Bodice Mid Sleeves_4_2
+  - first:
+      213: -507427561773187575
+    second: Purple Bodice Mid Sleeves_5_2
+  - first:
+      213: -1101582065367498125
+    second: Purple Bodice Mid Sleeves_6_2
+  - first:
+      213: -3933839825688944214
+    second: Purple Bodice Mid Sleeves_7_2
+  - first:
+      213: 7157720962374562484
+    second: Purple Bodice Mid Sleeves_8_2
+  - first:
+      213: -7216897948109031730
+    second: Purple Bodice Mid Sleeves_9_2
+  - first:
+      213: 4891088302926455744
+    second: Purple Bodice Mid Sleeves_0_1
+  - first:
+      213: 1181216056051336660
+    second: Purple Bodice Mid Sleeves_1_1
+  - first:
+      213: 4497597898127998769
+    second: Purple Bodice Mid Sleeves_2_1
+  - first:
+      213: 1973915150438576890
+    second: Purple Bodice Mid Sleeves_3_1
+  - first:
+      213: -4189094040991931971
+    second: Purple Bodice Mid Sleeves_4_1
+  - first:
+      213: -3061353864880201063
+    second: Purple Bodice Mid Sleeves_5_1
+  - first:
+      213: 976500361262005789
+    second: Purple Bodice Mid Sleeves_6_1
+  - first:
+      213: -194588054515294179
+    second: Purple Bodice Mid Sleeves_7_1
+  - first:
+      213: -7931537790401281174
+    second: Purple Bodice Mid Sleeves_8_1
+  - first:
+      213: -4864431328202877569
+    second: Purple Bodice Mid Sleeves_9_1
+  - first:
+      213: -3399180834701813192
+    second: Purple Bodice Mid Sleeves_0_0
+  - first:
+      213: -7222497946533788286
+    second: Purple Bodice Mid Sleeves_1_0
+  - first:
+      213: 1314858016083244941
+    second: Purple Bodice Mid Sleeves_2_0
+  - first:
+      213: -3352264777331359253
+    second: Purple Bodice Mid Sleeves_3_0
+  - first:
+      213: 6607012194326258916
+    second: Purple Bodice Mid Sleeves_4_0
+  - first:
+      213: 7169905941998177865
+    second: Purple Bodice Mid Sleeves_5_0
+  - first:
+      213: 5297258504220590886
+    second: Purple Bodice Mid Sleeves_6_0
+  - first:
+      213: -2174420114859029142
+    second: Purple Bodice Mid Sleeves_7_0
+  - first:
+      213: -5855128361500977830
+    second: Purple Bodice Mid Sleeves_8_0
+  - first:
+      213: 116479798284491234
+    second: Purple Bodice Mid Sleeves_9_0
+  - first:
+      213: -9061937185779679531
+    second: Purple Bodice Mid Sleeves_EMPTY_5
+  - first:
+      213: -4113668088375039119
+    second: Purple Bodice Mid Sleeves_EMPTY_6
+  - first:
+      213: -6850218111575893573
+    second: Purple Bodice Mid Sleeves_EMPTY_7
+  - first:
+      213: -4180922056249281938
+    second: Purple Bodice Mid Sleeves_EMPTY_8
+  - first:
+      213: 6032025499470401770
+    second: Purple Bodice Mid Sleeves_EMPTY_9
+  - first:
+      213: 8591923426770121788
+    second: Purple Bodice Mid Sleeves_EMPTY_18
+  - first:
+      213: 1913429286933004168
+    second: Purple Bodice Mid Sleeves_EMPTY_19
+  - first:
+      213: 7892068686850358906
+    second: Purple Bodice Mid Sleeves_EMPTY_28
+  - first:
+      213: 5439497480730264103
+    second: Purple Bodice Mid Sleeves_EMPTY_29
+  - first:
+      213: 5451769712257862997
+    second: Purple Bodice Mid Sleeves_EMPTY_34
+  - first:
+      213: -3363175569136027845
+    second: Purple Bodice Mid Sleeves_EMPTY_35
+  - first:
+      213: -3284618461574708851
+    second: Purple Bodice Mid Sleeves_EMPTY_36
+  - first:
+      213: -5965479851724813809
+    second: Purple Bodice Mid Sleeves_EMPTY_37
+  - first:
+      213: -6147306932324431943
+    second: Purple Bodice Mid Sleeves_EMPTY_38
+  - first:
+      213: -8856309559701053041
+    second: Purple Bodice Mid Sleeves_EMPTY_39
+  - first:
+      213: -2404445148545181655
+    second: Purple Bodice Mid Sleeves_EMPTY_44
+  - first:
+      213: 8835577908357421205
+    second: Purple Bodice Mid Sleeves_EMPTY_45
+  - first:
+      213: 3308211944421146396
+    second: Purple Bodice Mid Sleeves_EMPTY_46
+  - first:
+      213: 9144012574721063658
+    second: Purple Bodice Mid Sleeves_EMPTY_47
+  - first:
+      213: 6414054250774902148
+    second: Purple Bodice Mid Sleeves_EMPTY_48
+  - first:
+      213: -8587454685059809789
+    second: Purple Bodice Mid Sleeves_EMPTY_49
+  - first:
+      213: -5810428983834175402
+    second: Purple Bodice Mid Sleeves_50
+  - first:
+      213: 8745898492921415233
+    second: Purple Bodice Mid Sleeves_51
+  - first:
+      213: -4742171692799279358
+    second: Purple Bodice Mid Sleeves_52
+  - first:
+      213: -8596698664856466042
+    second: Purple Bodice Mid Sleeves_53
+  - first:
+      213: -2205928404144135144
+    second: Purple Bodice Mid Sleeves_54
+  - first:
+      213: -4577203296390596868
+    second: Purple Bodice Mid Sleeves_55
+  - first:
+      213: -725171968337509566
+    second: Purple Bodice Mid Sleeves_EMPTY_56
+  - first:
+      213: 2030951374864355934
+    second: Purple Bodice Mid Sleeves_EMPTY_57
+  - first:
+      213: 5237748925098119926
+    second: Purple Bodice Mid Sleeves_EMPTY_58
+  - first:
+      213: 1627605594624297688
+    second: Purple Bodice Mid Sleeves_EMPTY_59
+  - first:
+      213: 4367356060733678891
+    second: Purple Bodice Mid Sleeves_60
+  - first:
+      213: 3755768671581788883
+    second: Purple Bodice Mid Sleeves_61
+  - first:
+      213: 3514228548219404675
+    second: Purple Bodice Mid Sleeves_62
+  - first:
+      213: 7573185243633375303
+    second: Purple Bodice Mid Sleeves_63
+  - first:
+      213: -4008290191556522641
+    second: Purple Bodice Mid Sleeves_64
+  - first:
+      213: -118074899636646313
+    second: Purple Bodice Mid Sleeves_65
+  - first:
+      213: -1332631540772305260
+    second: Purple Bodice Mid Sleeves_66
+  - first:
+      213: 5194201535312315533
+    second: Purple Bodice Mid Sleeves_67
+  - first:
+      213: -470319505529079894
+    second: Purple Bodice Mid Sleeves_68
+  - first:
+      213: 7274920465470440872
+    second: Purple Bodice Mid Sleeves_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6a2584373bb92d0800000000000000
+      internalID: -3270823396638546242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cc55b88bb04f1d0800000000000000
+      internalID: -3318014138225669025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd08e4679c63e890800000000000000
+      internalID: -7429975562742395397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3834325540357c780800000000000000
+      internalID: -8662864080150510717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9457c9a2779f02590800000000000000
+      internalID: -7700881072592226999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5def2b844288d3280800000000000000
+      internalID: -9061937185779679531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bab843ba059e6c0800000000000000
+      internalID: -4113668088375039119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb95299ebe22fe0a0800000000000000
+      internalID: -6850218111575893573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e627aa39a816af5c0800000000000000
+      internalID: -4180922056249281938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae018049b3f06b350800000000000000
+      internalID: 6032025499470401770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89ad4cd49f588450800000000000000
+      internalID: 6091223588974471567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0be25d0ad0c07bd0800000000000000
+      internalID: -2634393739252798705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a77bc1bef7df7420800000000000000
+      internalID: 2630058196312225704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b884c6a7ef036b0800000000000000
+      internalID: -5318471358168396902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6480e3b00de3ef0800000000000000
+      internalID: -126434992815847768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11b6e1dc15c30350800000000000000
+      internalID: 5981841457649463581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df3bee3143771860800000000000000
+      internalID: 7500590428474523601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe208c38e060d2000800000000000000
+      internalID: 12673033362211567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c347dfda5d4ac3770800000000000000
+      internalID: 8591923426770121788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f78767ccddd8a10800000000000000
+      internalID: 1913429286933004168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e6014a15f6ba610800000000000000
+      internalID: 1633521686287511099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9157ea0d55555f0800000000000000
+      internalID: -768613806628333105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab8aafb9e1277600800000000000000
+      internalID: 465878374282857378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dfcf8c9a6968160800000000000000
+      internalID: 7027469924523900166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34047e359cff0590800000000000000
+      internalID: -7705662719479512004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891b13381bf8b1fb0800000000000000
+      internalID: -4675985795521072744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e30b29be8fa27360800000000000000
+      internalID: 7165982984626701281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844ffaacb348b99c0800000000000000
+      internalID: -3919393658357418936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ef2be18a2468d60800000000000000
+      internalID: 7892068686850358906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7224f87932afc7b40800000000000000
+      internalID: 5439497480730264103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ce71a1e635b24f0800000000000000
+      internalID: -852495972107293626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2af0c018ba2fc50800000000000000
+      internalID: 6697604166594831032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38c0a3b19e26ca10800000000000000
+      internalID: 1929280693693630524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87429bfcada8825b0800000000000000
+      internalID: -5392907881383648136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d0d582ba398ab40800000000000000
+      internalID: 5451769712257862997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37ff5483a99351d0800000000000000
+      internalID: -3363175569136027845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81462f69e0ba62d0800000000000000
+      internalID: -3284618461574708851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a413b6eab563da0800000000000000
+      internalID: -5965479851724813809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b781853ae060baa0800000000000000
+      internalID: -6147306932324431943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f816f11d061181580800000000000000
+      internalID: -8856309559701053041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9acf5c8008ea7310800000000000000
+      internalID: 1403689322932062879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46426f152ecd32d90800000000000000
+      internalID: -7123607320974187420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bd9d403a89e3f30800000000000000
+      internalID: 4557247698873998218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4c6827f5d373420800000000000000
+      internalID: 2609621989237114087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9289d0f60e1b1aed0800000000000000
+      internalID: -2404445148545181655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598dee47b474e9a70800000000000000
+      internalID: 8835577908357421205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f3dec5c3129ed20800000000000000
+      internalID: 3308211944421146396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea34f95dfe06ee70800000000000000
+      internalID: 9144012574721063658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485b583ab5c430950800000000000000
+      internalID: 6414054250774902148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30efe34567b33d880800000000000000
+      internalID: -8587454685059809789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6581ee9cf953d5fa0800000000000000
+      internalID: -5810428983834175402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1468430775caf5970800000000000000
+      internalID: 8745898492921415233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f39c278fb603eb0800000000000000
+      internalID: -4742171692799279358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dc7209c1462b880800000000000000
+      internalID: -8596698664856466042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8146b0fcdc7f261e0800000000000000
+      internalID: -2205928404144135144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf634ed5ad18a70c0800000000000000
+      internalID: -4577203296390596868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2430c2adfebafe5f0800000000000000
+      internalID: -725171968337509566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5291e6d3836f2c10800000000000000
+      internalID: 2030951374864355934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2582785e830b840800000000000000
+      internalID: 5237748925098119926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da05063aaa669610800000000000000
+      internalID: 1627605594624297688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b252eafa237fb9c30800000000000000
+      internalID: 4367356060733678891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da5c2835bb2f1430800000000000000
+      internalID: 3755768671581788883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3818724de3c05c030800000000000000
+      internalID: 3514228548219404675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7485ff8cadb591960800000000000000
+      internalID: 7573185243633375303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d479fbe41bf58c0800000000000000
+      internalID: -4008290191556522641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e844e11838c5ef0800000000000000
+      internalID: -118074899636646313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49609cb9caa818de0800000000000000
+      internalID: -1332631540772305260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84441cb6c2851840800000000000000
+      internalID: 5194201535312315533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7700ec6e61979f0800000000000000
+      internalID: -470319505529079894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Bodice Mid Sleeves_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5c5918e95b5f460800000000000000
+      internalID: 7274920465470440872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Purple Bodice Mid Sleeves_0: -3270823396638546242
+      Purple Bodice Mid Sleeves_0_0: -3399180834701813192
+      Purple Bodice Mid Sleeves_0_1: 4891088302926455744
+      Purple Bodice Mid Sleeves_0_2: 6589577261257642224
+      Purple Bodice Mid Sleeves_0_3: 2974791315103091149
+      Purple Bodice Mid Sleeves_0_4: 1362432062136946787
+      Purple Bodice Mid Sleeves_0_5: 4743217394759692365
+      Purple Bodice Mid Sleeves_0_6: 666476413088394742
+      Purple Bodice Mid Sleeves_1: -3318014138225669025
+      Purple Bodice Mid Sleeves_10: 6091223588974471567
+      Purple Bodice Mid Sleeves_11: -2634393739252798705
+      Purple Bodice Mid Sleeves_12: 2630058196312225704
+      Purple Bodice Mid Sleeves_13: -5318471358168396902
+      Purple Bodice Mid Sleeves_14: -126434992815847768
+      Purple Bodice Mid Sleeves_15: 5981841457649463581
+      Purple Bodice Mid Sleeves_16: 7500590428474523601
+      Purple Bodice Mid Sleeves_17: 12673033362211567
+      Purple Bodice Mid Sleeves_18: -2691469571325143336
+      Purple Bodice Mid Sleeves_19: -2166070908319216506
+      Purple Bodice Mid Sleeves_1_0: -7222497946533788286
+      Purple Bodice Mid Sleeves_1_1: 1181216056051336660
+      Purple Bodice Mid Sleeves_1_2: 5208773761472027639
+      Purple Bodice Mid Sleeves_1_3: -8962284872175139810
+      Purple Bodice Mid Sleeves_1_4: -11380041486506372
+      Purple Bodice Mid Sleeves_1_5: -2219842029163100195
+      Purple Bodice Mid Sleeves_1_6: 533557836855018714
+      Purple Bodice Mid Sleeves_2: -7429975562742395397
+      Purple Bodice Mid Sleeves_20: 1633521686287511099
+      Purple Bodice Mid Sleeves_21: -768613806628333105
+      Purple Bodice Mid Sleeves_22: 465878374282857378
+      Purple Bodice Mid Sleeves_23: 7027469924523900166
+      Purple Bodice Mid Sleeves_24: -7705662719479512004
+      Purple Bodice Mid Sleeves_25: -4675985795521072744
+      Purple Bodice Mid Sleeves_26: 7165982984626701281
+      Purple Bodice Mid Sleeves_27: -3919393658357418936
+      Purple Bodice Mid Sleeves_28: 527351473706558213
+      Purple Bodice Mid Sleeves_29: 494634115971103466
+      Purple Bodice Mid Sleeves_2_0: 1314858016083244941
+      Purple Bodice Mid Sleeves_2_1: 4497597898127998769
+      Purple Bodice Mid Sleeves_2_2: -6724776423663151468
+      Purple Bodice Mid Sleeves_2_3: 1513462160555937764
+      Purple Bodice Mid Sleeves_2_4: 7747223482488477914
+      Purple Bodice Mid Sleeves_2_5: -6472437076891622249
+      Purple Bodice Mid Sleeves_2_6: 1293485157952025943
+      Purple Bodice Mid Sleeves_3: -8662864080150510717
+      Purple Bodice Mid Sleeves_30: -852495972107293626
+      Purple Bodice Mid Sleeves_31: 6697604166594831032
+      Purple Bodice Mid Sleeves_32: 1929280693693630524
+      Purple Bodice Mid Sleeves_33: -5392907881383648136
+      Purple Bodice Mid Sleeves_34: 6643366411073232595
+      Purple Bodice Mid Sleeves_35: -3628998023806159202
+      Purple Bodice Mid Sleeves_36: -7009727793537802006
+      Purple Bodice Mid Sleeves_37: -1315531471922856729
+      Purple Bodice Mid Sleeves_38: 1360035905229700497
+      Purple Bodice Mid Sleeves_39: -6443959854142944922
+      Purple Bodice Mid Sleeves_3_0: -3352264777331359253
+      Purple Bodice Mid Sleeves_3_1: 1973915150438576890
+      Purple Bodice Mid Sleeves_3_2: 2980129815422059969
+      Purple Bodice Mid Sleeves_3_3: 2502160591972833170
+      Purple Bodice Mid Sleeves_3_4: 3759003031746038967
+      Purple Bodice Mid Sleeves_3_5: -4521823201515495862
+      Purple Bodice Mid Sleeves_3_6: -7616600119206053298
+      Purple Bodice Mid Sleeves_4: -7700881072592226999
+      Purple Bodice Mid Sleeves_40: 1403689322932062879
+      Purple Bodice Mid Sleeves_41: -7123607320974187420
+      Purple Bodice Mid Sleeves_42: 4557247698873998218
+      Purple Bodice Mid Sleeves_43: 2609621989237114087
+      Purple Bodice Mid Sleeves_44: -1986117475446403356
+      Purple Bodice Mid Sleeves_45: 3128651970323988362
+      Purple Bodice Mid Sleeves_46: 1212081836957679810
+      Purple Bodice Mid Sleeves_47: -1003855874939501823
+      Purple Bodice Mid Sleeves_48: -6348503135207502271
+      Purple Bodice Mid Sleeves_49: -1934371846744212401
+      Purple Bodice Mid Sleeves_4_0: 6607012194326258916
+      Purple Bodice Mid Sleeves_4_1: -4189094040991931971
+      Purple Bodice Mid Sleeves_4_2: 2146170527208607802
+      Purple Bodice Mid Sleeves_4_3: 6554756721307723725
+      Purple Bodice Mid Sleeves_4_4: -7000109760314614477
+      Purple Bodice Mid Sleeves_4_5: 3940555607806173919
+      Purple Bodice Mid Sleeves_4_6: -4649474870399850467
+      Purple Bodice Mid Sleeves_5: 2259334981507224177
+      Purple Bodice Mid Sleeves_50: -5810428983834175402
+      Purple Bodice Mid Sleeves_51: 8745898492921415233
+      Purple Bodice Mid Sleeves_52: -4742171692799279358
+      Purple Bodice Mid Sleeves_53: -8596698664856466042
+      Purple Bodice Mid Sleeves_54: -2205928404144135144
+      Purple Bodice Mid Sleeves_55: -4577203296390596868
+      Purple Bodice Mid Sleeves_5_0: 7169905941998177865
+      Purple Bodice Mid Sleeves_5_1: -3061353864880201063
+      Purple Bodice Mid Sleeves_5_2: -507427561773187575
+      Purple Bodice Mid Sleeves_5_3: -5104463261464500638
+      Purple Bodice Mid Sleeves_5_4: 3020904147294031304
+      Purple Bodice Mid Sleeves_5_5: -8925002301661310476
+      Purple Bodice Mid Sleeves_5_6: -8349549459393140292
+      Purple Bodice Mid Sleeves_6: -7605738512816845354
+      Purple Bodice Mid Sleeves_60: 4367356060733678891
+      Purple Bodice Mid Sleeves_61: 3755768671581788883
+      Purple Bodice Mid Sleeves_62: 3514228548219404675
+      Purple Bodice Mid Sleeves_63: 7573185243633375303
+      Purple Bodice Mid Sleeves_64: -4008290191556522641
+      Purple Bodice Mid Sleeves_65: -118074899636646313
+      Purple Bodice Mid Sleeves_66: -1332631540772305260
+      Purple Bodice Mid Sleeves_67: 5194201535312315533
+      Purple Bodice Mid Sleeves_68: -470319505529079894
+      Purple Bodice Mid Sleeves_69: 7274920465470440872
+      Purple Bodice Mid Sleeves_6_0: 5297258504220590886
+      Purple Bodice Mid Sleeves_6_1: 976500361262005789
+      Purple Bodice Mid Sleeves_6_2: -1101582065367498125
+      Purple Bodice Mid Sleeves_6_3: 1732560396259834593
+      Purple Bodice Mid Sleeves_6_4: 4113506800040827995
+      Purple Bodice Mid Sleeves_6_5: 2546174516306930892
+      Purple Bodice Mid Sleeves_6_6: -2525483158459105717
+      Purple Bodice Mid Sleeves_7: 8140845523850195514
+      Purple Bodice Mid Sleeves_7_0: -2174420114859029142
+      Purple Bodice Mid Sleeves_7_1: -194588054515294179
+      Purple Bodice Mid Sleeves_7_2: -3933839825688944214
+      Purple Bodice Mid Sleeves_7_3: 9132153027722766381
+      Purple Bodice Mid Sleeves_7_4: -7251893749819669516
+      Purple Bodice Mid Sleeves_7_5: -4428210244358152536
+      Purple Bodice Mid Sleeves_7_6: 4041929393146537075
+      Purple Bodice Mid Sleeves_8: 1487620862803990077
+      Purple Bodice Mid Sleeves_8_0: -5855128361500977830
+      Purple Bodice Mid Sleeves_8_1: -7931537790401281174
+      Purple Bodice Mid Sleeves_8_2: 7157720962374562484
+      Purple Bodice Mid Sleeves_8_3: 787193191288247815
+      Purple Bodice Mid Sleeves_8_4: -4586273579027384855
+      Purple Bodice Mid Sleeves_8_5: -8102301010489655490
+      Purple Bodice Mid Sleeves_8_6: -1846253611618442257
+      Purple Bodice Mid Sleeves_9: 9080590135345687679
+      Purple Bodice Mid Sleeves_9_0: 116479798284491234
+      Purple Bodice Mid Sleeves_9_1: -4864431328202877569
+      Purple Bodice Mid Sleeves_9_2: -7216897948109031730
+      Purple Bodice Mid Sleeves_9_3: 930326726752787621
+      Purple Bodice Mid Sleeves_9_4: 8411798095377503425
+      Purple Bodice Mid Sleeves_9_5: -8238594751944290222
+      Purple Bodice Mid Sleeves_9_6: 2034370597734551529
+      Purple Bodice Mid Sleeves_EMPTY_18: 8591923426770121788
+      Purple Bodice Mid Sleeves_EMPTY_19: 1913429286933004168
+      Purple Bodice Mid Sleeves_EMPTY_28: 7892068686850358906
+      Purple Bodice Mid Sleeves_EMPTY_29: 5439497480730264103
+      Purple Bodice Mid Sleeves_EMPTY_34: 5451769712257862997
+      Purple Bodice Mid Sleeves_EMPTY_35: -3363175569136027845
+      Purple Bodice Mid Sleeves_EMPTY_36: -3284618461574708851
+      Purple Bodice Mid Sleeves_EMPTY_37: -5965479851724813809
+      Purple Bodice Mid Sleeves_EMPTY_38: -6147306932324431943
+      Purple Bodice Mid Sleeves_EMPTY_39: -8856309559701053041
+      Purple Bodice Mid Sleeves_EMPTY_44: -2404445148545181655
+      Purple Bodice Mid Sleeves_EMPTY_45: 8835577908357421205
+      Purple Bodice Mid Sleeves_EMPTY_46: 3308211944421146396
+      Purple Bodice Mid Sleeves_EMPTY_47: 9144012574721063658
+      Purple Bodice Mid Sleeves_EMPTY_48: 6414054250774902148
+      Purple Bodice Mid Sleeves_EMPTY_49: -8587454685059809789
+      Purple Bodice Mid Sleeves_EMPTY_5: -9061937185779679531
+      Purple Bodice Mid Sleeves_EMPTY_56: -725171968337509566
+      Purple Bodice Mid Sleeves_EMPTY_57: 2030951374864355934
+      Purple Bodice Mid Sleeves_EMPTY_58: 5237748925098119926
+      Purple Bodice Mid Sleeves_EMPTY_59: 1627605594624297688
+      Purple Bodice Mid Sleeves_EMPTY_6: -4113668088375039119
+      Purple Bodice Mid Sleeves_EMPTY_7: -6850218111575893573
+      Purple Bodice Mid Sleeves_EMPTY_8: -4180922056249281938
+      Purple Bodice Mid Sleeves_EMPTY_9: 6032025499470401770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

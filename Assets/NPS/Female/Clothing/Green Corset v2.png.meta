@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: bb5865969d66d1f4ea8365ec55d4bb7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5108714253725818839
+    second: Green Corset v2_0
+  - first:
+      213: -3297811079388802491
+    second: Green Corset v2_1
+  - first:
+      213: -1804092855839418762
+    second: Green Corset v2_2
+  - first:
+      213: 7135602681024197023
+    second: Green Corset v2_3
+  - first:
+      213: 2782536754512622554
+    second: Green Corset v2_4
+  - first:
+      213: -7962044378892152485
+    second: Green Corset v2_5
+  - first:
+      213: -2105846424752527068
+    second: Green Corset v2_6
+  - first:
+      213: 2680571965037100597
+    second: Green Corset v2_7
+  - first:
+      213: -2065206554616411773
+    second: Green Corset v2_8
+  - first:
+      213: 5336817540873851931
+    second: Green Corset v2_9
+  - first:
+      213: 6358295734964889932
+    second: Green Corset v2_10
+  - first:
+      213: -7062922661995777852
+    second: Green Corset v2_11
+  - first:
+      213: 5846560156585003944
+    second: Green Corset v2_12
+  - first:
+      213: 7025487021596218635
+    second: Green Corset v2_13
+  - first:
+      213: -7267257935652383055
+    second: Green Corset v2_14
+  - first:
+      213: -992740771032662482
+    second: Green Corset v2_15
+  - first:
+      213: -4012200238649824693
+    second: Green Corset v2_16
+  - first:
+      213: 3752247605845270783
+    second: Green Corset v2_17
+  - first:
+      213: -9049297719626643054
+    second: Green Corset v2_18
+  - first:
+      213: 295936131914501036
+    second: Green Corset v2_19
+  - first:
+      213: -6780008491774687965
+    second: Green Corset v2_20
+  - first:
+      213: -1327665950100108275
+    second: Green Corset v2_21
+  - first:
+      213: 1808941181082880036
+    second: Green Corset v2_22
+  - first:
+      213: 8916700564855740073
+    second: Green Corset v2_23
+  - first:
+      213: 7315030701359776216
+    second: Green Corset v2_24
+  - first:
+      213: 2298339891304261816
+    second: Green Corset v2_25
+  - first:
+      213: 3265979173216741842
+    second: Green Corset v2_26
+  - first:
+      213: -4438944944101626395
+    second: Green Corset v2_27
+  - first:
+      213: -4138040802125197758
+    second: Green Corset v2_28
+  - first:
+      213: 5003694064470450178
+    second: Green Corset v2_29
+  - first:
+      213: 7991555937764926184
+    second: Green Corset v2_30
+  - first:
+      213: 4982419851096924760
+    second: Green Corset v2_31
+  - first:
+      213: 1943926032721233855
+    second: Green Corset v2_32
+  - first:
+      213: 4015235103567115136
+    second: Green Corset v2_33
+  - first:
+      213: -3002715521058142661
+    second: Green Corset v2_34
+  - first:
+      213: -4291764015210268917
+    second: Green Corset v2_35
+  - first:
+      213: -4699397406289364245
+    second: Green Corset v2_36
+  - first:
+      213: 326466787867988102
+    second: Green Corset v2_37
+  - first:
+      213: 7298607850746422638
+    second: Green Corset v2_38
+  - first:
+      213: 2337746435867471683
+    second: Green Corset v2_39
+  - first:
+      213: 7636259061621556248
+    second: Green Corset v2_40
+  - first:
+      213: -4315119060055421714
+    second: Green Corset v2_41
+  - first:
+      213: -3227768167368559537
+    second: Green Corset v2_42
+  - first:
+      213: 7207430832088416658
+    second: Green Corset v2_43
+  - first:
+      213: -2808876526887475569
+    second: Green Corset v2_44
+  - first:
+      213: 1038641074266969246
+    second: Green Corset v2_45
+  - first:
+      213: 3081985976071234435
+    second: Green Corset v2_46
+  - first:
+      213: 2824571801997046996
+    second: Green Corset v2_47
+  - first:
+      213: 2694852457731367987
+    second: Green Corset v2_48
+  - first:
+      213: 3843444657711551848
+    second: Green Corset v2_49
+  - first:
+      213: -6950542077270734565
+    second: Green Corset v2_50
+  - first:
+      213: -2717231885471279429
+    second: Green Corset v2_51
+  - first:
+      213: -1824407520534094486
+    second: Green Corset v2_52
+  - first:
+      213: -6131931073476397489
+    second: Green Corset v2_53
+  - first:
+      213: 2295567999119855451
+    second: Green Corset v2_0_6
+  - first:
+      213: 6413499504488956862
+    second: Green Corset v2_1_6
+  - first:
+      213: -873668872254625718
+    second: Green Corset v2_2_6
+  - first:
+      213: -8108630517719155838
+    second: Green Corset v2_3_6
+  - first:
+      213: -6864284104753902509
+    second: Green Corset v2_4_6
+  - first:
+      213: 4344153267998671721
+    second: Green Corset v2_5_6
+  - first:
+      213: -6983909109400855045
+    second: Green Corset v2_6_6
+  - first:
+      213: -5023775335237456420
+    second: Green Corset v2_7_6
+  - first:
+      213: -5592911329421905857
+    second: Green Corset v2_8_6
+  - first:
+      213: 4910732886242252762
+    second: Green Corset v2_9_6
+  - first:
+      213: 1077270569054920972
+    second: Green Corset v2_0_5
+  - first:
+      213: -8296727012681373718
+    second: Green Corset v2_1_5
+  - first:
+      213: 5924754151643378963
+    second: Green Corset v2_2_5
+  - first:
+      213: 2815916451920474404
+    second: Green Corset v2_3_5
+  - first:
+      213: 2585216358203385544
+    second: Green Corset v2_4_5
+  - first:
+      213: 1958599249982978114
+    second: Green Corset v2_5_5
+  - first:
+      213: -9131256643037250283
+    second: Green Corset v2_6_5
+  - first:
+      213: -5593398920725616722
+    second: Green Corset v2_7_5
+  - first:
+      213: 7663004778332507647
+    second: Green Corset v2_8_5
+  - first:
+      213: -29018824648692089
+    second: Green Corset v2_9_5
+  - first:
+      213: 8809646755787798977
+    second: Green Corset v2_0_4
+  - first:
+      213: -500673104242873379
+    second: Green Corset v2_1_4
+  - first:
+      213: -4645464127159157212
+    second: Green Corset v2_2_4
+  - first:
+      213: 939255854586879836
+    second: Green Corset v2_3_4
+  - first:
+      213: -2206982908560495963
+    second: Green Corset v2_4_4
+  - first:
+      213: 1951911077838014660
+    second: Green Corset v2_5_4
+  - first:
+      213: 2741296700772118659
+    second: Green Corset v2_6_4
+  - first:
+      213: -7667905280549144033
+    second: Green Corset v2_7_4
+  - first:
+      213: 6754665396121616103
+    second: Green Corset v2_8_4
+  - first:
+      213: -990414260938013794
+    second: Green Corset v2_9_4
+  - first:
+      213: 8660731828272077653
+    second: Green Corset v2_0_3
+  - first:
+      213: 2994744981445505900
+    second: Green Corset v2_1_3
+  - first:
+      213: 2329198361961363976
+    second: Green Corset v2_2_3
+  - first:
+      213: -4636983105534657028
+    second: Green Corset v2_3_3
+  - first:
+      213: -1221920957938999463
+    second: Green Corset v2_4_3
+  - first:
+      213: 6082027122589992459
+    second: Green Corset v2_5_3
+  - first:
+      213: 7240231319459492918
+    second: Green Corset v2_6_3
+  - first:
+      213: 5093821161975035182
+    second: Green Corset v2_7_3
+  - first:
+      213: 1115474993952683385
+    second: Green Corset v2_8_3
+  - first:
+      213: -295752610591265860
+    second: Green Corset v2_9_3
+  - first:
+      213: -4238672745152119754
+    second: Green Corset v2_0_2
+  - first:
+      213: -6650707931021126662
+    second: Green Corset v2_1_2
+  - first:
+      213: -3398018201776247269
+    second: Green Corset v2_2_2
+  - first:
+      213: 3696318132731845302
+    second: Green Corset v2_3_2
+  - first:
+      213: 6351543931177625974
+    second: Green Corset v2_4_2
+  - first:
+      213: -6582901922868494681
+    second: Green Corset v2_5_2
+  - first:
+      213: 2320498438449710855
+    second: Green Corset v2_6_2
+  - first:
+      213: -4040657961782254693
+    second: Green Corset v2_7_2
+  - first:
+      213: -6359228507826151595
+    second: Green Corset v2_8_2
+  - first:
+      213: 5160157966266445970
+    second: Green Corset v2_9_2
+  - first:
+      213: 2321601969011254346
+    second: Green Corset v2_0_1
+  - first:
+      213: -695664598254810809
+    second: Green Corset v2_1_1
+  - first:
+      213: -2316157463744221655
+    second: Green Corset v2_2_1
+  - first:
+      213: 4109689943250918519
+    second: Green Corset v2_3_1
+  - first:
+      213: -3997634606789303963
+    second: Green Corset v2_4_1
+  - first:
+      213: -8851704525147768188
+    second: Green Corset v2_5_1
+  - first:
+      213: 493843595105582249
+    second: Green Corset v2_6_1
+  - first:
+      213: 6238084154772191611
+    second: Green Corset v2_7_1
+  - first:
+      213: -9159080034282599701
+    second: Green Corset v2_8_1
+  - first:
+      213: -5543353214280106092
+    second: Green Corset v2_9_1
+  - first:
+      213: -398818640882359211
+    second: Green Corset v2_0_0
+  - first:
+      213: 2640157544173991284
+    second: Green Corset v2_1_0
+  - first:
+      213: 1761348858360277668
+    second: Green Corset v2_2_0
+  - first:
+      213: -5260309522401087814
+    second: Green Corset v2_3_0
+  - first:
+      213: -614538629016067791
+    second: Green Corset v2_4_0
+  - first:
+      213: 3778488673663751401
+    second: Green Corset v2_5_0
+  - first:
+      213: -3510199273537160358
+    second: Green Corset v2_6_0
+  - first:
+      213: -1767924280757270621
+    second: Green Corset v2_7_0
+  - first:
+      213: -5017643998709387643
+    second: Green Corset v2_8_0
+  - first:
+      213: 7228667565696570702
+    second: Green Corset v2_9_0
+  - first:
+      213: 8536033963444302426
+    second: Green Corset v2_EMPTY_5
+  - first:
+      213: 832426207805005293
+    second: Green Corset v2_EMPTY_6
+  - first:
+      213: -1476827504454815323
+    second: Green Corset v2_EMPTY_7
+  - first:
+      213: -3304121563473176701
+    second: Green Corset v2_EMPTY_8
+  - first:
+      213: -8499791016164091141
+    second: Green Corset v2_EMPTY_9
+  - first:
+      213: 150247861400361084
+    second: Green Corset v2_EMPTY_18
+  - first:
+      213: -1485208356618626621
+    second: Green Corset v2_EMPTY_19
+  - first:
+      213: -3339662399197239355
+    second: Green Corset v2_EMPTY_28
+  - first:
+      213: 5518601442790373314
+    second: Green Corset v2_EMPTY_29
+  - first:
+      213: -4826643487738063105
+    second: Green Corset v2_EMPTY_34
+  - first:
+      213: 1466753152903329504
+    second: Green Corset v2_EMPTY_35
+  - first:
+      213: -2541448209433413882
+    second: Green Corset v2_EMPTY_36
+  - first:
+      213: -8091957601502255848
+    second: Green Corset v2_EMPTY_37
+  - first:
+      213: 394066315369541910
+    second: Green Corset v2_EMPTY_38
+  - first:
+      213: 7838287867180671685
+    second: Green Corset v2_EMPTY_39
+  - first:
+      213: 2038812046691017953
+    second: Green Corset v2_EMPTY_44
+  - first:
+      213: -7162925726525764981
+    second: Green Corset v2_EMPTY_45
+  - first:
+      213: 6436335135035164723
+    second: Green Corset v2_EMPTY_46
+  - first:
+      213: -1931459590572432954
+    second: Green Corset v2_EMPTY_47
+  - first:
+      213: -6814033036107179455
+    second: Green Corset v2_EMPTY_48
+  - first:
+      213: 1635579478975217006
+    second: Green Corset v2_EMPTY_49
+  - first:
+      213: 2783197568856194724
+    second: Green Corset v2_54
+  - first:
+      213: -8494080281681427847
+    second: Green Corset v2_55
+  - first:
+      213: -1553015838121160855
+    second: Green Corset v2_EMPTY_56
+  - first:
+      213: -8249339033928874205
+    second: Green Corset v2_EMPTY_57
+  - first:
+      213: 590138916074577664
+    second: Green Corset v2_EMPTY_58
+  - first:
+      213: 5203272235976364173
+    second: Green Corset v2_EMPTY_59
+  - first:
+      213: 8842247899981780612
+    second: Green Corset v2_60
+  - first:
+      213: -875455227189940396
+    second: Green Corset v2_61
+  - first:
+      213: 7446839977267259139
+    second: Green Corset v2_62
+  - first:
+      213: 5420930582199953945
+    second: Green Corset v2_63
+  - first:
+      213: 1719500938559942529
+    second: Green Corset v2_64
+  - first:
+      213: -8568419954247488577
+    second: Green Corset v2_65
+  - first:
+      213: 7396128395601358890
+    second: Green Corset v2_66
+  - first:
+      213: 8230958910827754739
+    second: Green Corset v2_67
+  - first:
+      213: -519686179962441473
+    second: Green Corset v2_68
+  - first:
+      213: 373226786150609255
+    second: Green Corset v2_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Corset v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df5d40fb8cc5e640800000000000000
+      internalID: 5108714253725818839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542deacbb42db32d0800000000000000
+      internalID: -3297811079388802491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6761fd92b1396f6e0800000000000000
+      internalID: -1804092855839418762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91b5c415d0c60360800000000000000
+      internalID: 7135602681024197023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3713b8f6e8d9620800000000000000
+      internalID: 2782536754512622554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5274c5f9a5167670800000000000000
+      internalID: 8536033963444302426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded51f1c93f5d8b00800000000000000
+      internalID: 832426207805005293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1b1729531418be0800000000000000
+      internalID: -1476827504454815323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387197aa1f66522d0800000000000000
+      internalID: -3304121563473176701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa9b78ca1daa0a80800000000000000
+      internalID: -8499791016164091141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49a67388443d3850800000000000000
+      internalID: 6358295734964889932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c07fa782457bfd90800000000000000
+      internalID: -7062922661995777852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab833b6c77232150800000000000000
+      internalID: 5846560156585003944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b051c58393b8f7160800000000000000
+      internalID: 7025487021596218635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b61d4e3963852b90800000000000000
+      internalID: -7267257935652383055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2efc8c47831932f0800000000000000
+      internalID: -992740771032662482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a2a87f32dc158c0800000000000000
+      internalID: -4012200238649824693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0a7b73159a21430800000000000000
+      internalID: 3752247605845270783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78d70742a9c51200800000000000000
+      internalID: 150247861400361084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c91e4e5eda736be0800000000000000
+      internalID: -1485208356618626621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32543a1e23298e1a0800000000000000
+      internalID: -6780008491774687965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cc6e74ade239de0800000000000000
+      internalID: -1327665950100108275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42845068b66aa1910800000000000000
+      internalID: 1808941181082880036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a650c8cbeb7ebb70800000000000000
+      internalID: 8916700564855740073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d140ab8aa5348560800000000000000
+      internalID: 7315030701359776216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8ec4a34f755ef10800000000000000
+      internalID: 2298339891304261816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9686f01c6135d20800000000000000
+      internalID: 3265979173216741842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed6e458713b562c0800000000000000
+      internalID: -4438944944101626395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7ae120eb227a1d0800000000000000
+      internalID: -3339662399197239355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c77a7ef5c2069c40800000000000000
+      internalID: 5518601442790373314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e26429c8c5b7ee60800000000000000
+      internalID: 7991555937764926184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852ac72e47c152540800000000000000
+      internalID: 4982419851096924760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7cbf96d663afa10800000000000000
+      internalID: 1943926032721233855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083fbc59d0bf8b730800000000000000
+      internalID: 4015235103567115136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff69bef0251540db0800000000000000
+      internalID: -4826643487738063105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6bcfba834fa5410800000000000000
+      internalID: 1466753152903329504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6073ba59156fabcd0800000000000000
+      internalID: -2541448209433413882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815afe83f6793bf80800000000000000
+      internalID: -8091957601502255848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6117c89d931087500800000000000000
+      internalID: 394066315369541910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2ee82494137cc60800000000000000
+      internalID: 7838287867180671685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8148fcc682179f960800000000000000
+      internalID: 7636259061621556248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec01edc31e9d14c0800000000000000
+      internalID: -4315119060055421714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44fea604f9a433d0800000000000000
+      internalID: -3227768167368559537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29104d9b720f50460800000000000000
+      internalID: 7207430832088416658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e42ece11c05b4c10800000000000000
+      internalID: 2038812046691017953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8acce5a00d289c90800000000000000
+      internalID: -7162925726525764981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338032344b4725950800000000000000
+      internalID: 6436335135035164723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1a8e55cb31235e0800000000000000
+      internalID: -1931459590572432954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a1e035e01bf61a0800000000000000
+      internalID: -6814033036107179455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d7c36dedeb2b610800000000000000
+      internalID: 1635579478975217006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b194fd76ec6ba8f90800000000000000
+      internalID: -6950542077270734565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb69e162ff37a4ad0800000000000000
+      internalID: -2717231885471279429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d9305b6076ea6e0800000000000000
+      internalID: -1824407520534094486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4672425d2107eaa0800000000000000
+      internalID: -6131931073476397489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae776f5177ef9620800000000000000
+      internalID: 2783197568856194724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9728ab4ccf6fe1a80800000000000000
+      internalID: -8494080281681427847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f8b3ec254927ae0800000000000000
+      internalID: -1553015838121160855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327c7e20bd5748d80800000000000000
+      internalID: -8249339033928874205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f52cca738903800800000000000000
+      internalID: 590138916074577664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80160fc78cb53840800000000000000
+      internalID: 5203272235976364173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4869b56ed99f5ba70800000000000000
+      internalID: 8842247899981780612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fa596fb12c9d3f0800000000000000
+      internalID: -875455227189940396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3076138118d785760800000000000000
+      internalID: 7446839977267259139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a6418a4a30b3b40800000000000000
+      internalID: 5420930582199953945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fe0d94ef4ecd710800000000000000
+      internalID: 1719500938559942529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbba5b4f27bd61980800000000000000
+      internalID: -8568419954247488577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20bff4e69354a660800000000000000
+      internalID: 7396128395601358890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f479b8158d3a3270800000000000000
+      internalID: 8230958910827754739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0b8a83c24b9c8f0800000000000000
+      internalID: -519686179962441473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Corset v2_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761fa29d8c7fd2500800000000000000
+      internalID: 373226786150609255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green Corset v2_0: 5108714253725818839
+      Green Corset v2_0_0: -398818640882359211
+      Green Corset v2_0_1: 2321601969011254346
+      Green Corset v2_0_2: -4238672745152119754
+      Green Corset v2_0_3: 8660731828272077653
+      Green Corset v2_0_4: 8809646755787798977
+      Green Corset v2_0_5: 1077270569054920972
+      Green Corset v2_0_6: 2295567999119855451
+      Green Corset v2_1: -3297811079388802491
+      Green Corset v2_10: 6358295734964889932
+      Green Corset v2_11: -7062922661995777852
+      Green Corset v2_12: 5846560156585003944
+      Green Corset v2_13: 7025487021596218635
+      Green Corset v2_14: -7267257935652383055
+      Green Corset v2_15: -992740771032662482
+      Green Corset v2_16: -4012200238649824693
+      Green Corset v2_17: 3752247605845270783
+      Green Corset v2_18: -9049297719626643054
+      Green Corset v2_19: 295936131914501036
+      Green Corset v2_1_0: 2640157544173991284
+      Green Corset v2_1_1: -695664598254810809
+      Green Corset v2_1_2: -6650707931021126662
+      Green Corset v2_1_3: 2994744981445505900
+      Green Corset v2_1_4: -500673104242873379
+      Green Corset v2_1_5: -8296727012681373718
+      Green Corset v2_1_6: 6413499504488956862
+      Green Corset v2_2: -1804092855839418762
+      Green Corset v2_20: -6780008491774687965
+      Green Corset v2_21: -1327665950100108275
+      Green Corset v2_22: 1808941181082880036
+      Green Corset v2_23: 8916700564855740073
+      Green Corset v2_24: 7315030701359776216
+      Green Corset v2_25: 2298339891304261816
+      Green Corset v2_26: 3265979173216741842
+      Green Corset v2_27: -4438944944101626395
+      Green Corset v2_28: -4138040802125197758
+      Green Corset v2_29: 5003694064470450178
+      Green Corset v2_2_0: 1761348858360277668
+      Green Corset v2_2_1: -2316157463744221655
+      Green Corset v2_2_2: -3398018201776247269
+      Green Corset v2_2_3: 2329198361961363976
+      Green Corset v2_2_4: -4645464127159157212
+      Green Corset v2_2_5: 5924754151643378963
+      Green Corset v2_2_6: -873668872254625718
+      Green Corset v2_3: 7135602681024197023
+      Green Corset v2_30: 7991555937764926184
+      Green Corset v2_31: 4982419851096924760
+      Green Corset v2_32: 1943926032721233855
+      Green Corset v2_33: 4015235103567115136
+      Green Corset v2_34: -3002715521058142661
+      Green Corset v2_35: -4291764015210268917
+      Green Corset v2_36: -4699397406289364245
+      Green Corset v2_37: 326466787867988102
+      Green Corset v2_38: 7298607850746422638
+      Green Corset v2_39: 2337746435867471683
+      Green Corset v2_3_0: -5260309522401087814
+      Green Corset v2_3_1: 4109689943250918519
+      Green Corset v2_3_2: 3696318132731845302
+      Green Corset v2_3_3: -4636983105534657028
+      Green Corset v2_3_4: 939255854586879836
+      Green Corset v2_3_5: 2815916451920474404
+      Green Corset v2_3_6: -8108630517719155838
+      Green Corset v2_4: 2782536754512622554
+      Green Corset v2_40: 7636259061621556248
+      Green Corset v2_41: -4315119060055421714
+      Green Corset v2_42: -3227768167368559537
+      Green Corset v2_43: 7207430832088416658
+      Green Corset v2_44: -2808876526887475569
+      Green Corset v2_45: 1038641074266969246
+      Green Corset v2_46: 3081985976071234435
+      Green Corset v2_47: 2824571801997046996
+      Green Corset v2_48: 2694852457731367987
+      Green Corset v2_49: 3843444657711551848
+      Green Corset v2_4_0: -614538629016067791
+      Green Corset v2_4_1: -3997634606789303963
+      Green Corset v2_4_2: 6351543931177625974
+      Green Corset v2_4_3: -1221920957938999463
+      Green Corset v2_4_4: -2206982908560495963
+      Green Corset v2_4_5: 2585216358203385544
+      Green Corset v2_4_6: -6864284104753902509
+      Green Corset v2_5: -7962044378892152485
+      Green Corset v2_50: -6950542077270734565
+      Green Corset v2_51: -2717231885471279429
+      Green Corset v2_52: -1824407520534094486
+      Green Corset v2_53: -6131931073476397489
+      Green Corset v2_54: 2783197568856194724
+      Green Corset v2_55: -8494080281681427847
+      Green Corset v2_5_0: 3778488673663751401
+      Green Corset v2_5_1: -8851704525147768188
+      Green Corset v2_5_2: -6582901922868494681
+      Green Corset v2_5_3: 6082027122589992459
+      Green Corset v2_5_4: 1951911077838014660
+      Green Corset v2_5_5: 1958599249982978114
+      Green Corset v2_5_6: 4344153267998671721
+      Green Corset v2_6: -2105846424752527068
+      Green Corset v2_60: 8842247899981780612
+      Green Corset v2_61: -875455227189940396
+      Green Corset v2_62: 7446839977267259139
+      Green Corset v2_63: 5420930582199953945
+      Green Corset v2_64: 1719500938559942529
+      Green Corset v2_65: -8568419954247488577
+      Green Corset v2_66: 7396128395601358890
+      Green Corset v2_67: 8230958910827754739
+      Green Corset v2_68: -519686179962441473
+      Green Corset v2_69: 373226786150609255
+      Green Corset v2_6_0: -3510199273537160358
+      Green Corset v2_6_1: 493843595105582249
+      Green Corset v2_6_2: 2320498438449710855
+      Green Corset v2_6_3: 7240231319459492918
+      Green Corset v2_6_4: 2741296700772118659
+      Green Corset v2_6_5: -9131256643037250283
+      Green Corset v2_6_6: -6983909109400855045
+      Green Corset v2_7: 2680571965037100597
+      Green Corset v2_7_0: -1767924280757270621
+      Green Corset v2_7_1: 6238084154772191611
+      Green Corset v2_7_2: -4040657961782254693
+      Green Corset v2_7_3: 5093821161975035182
+      Green Corset v2_7_4: -7667905280549144033
+      Green Corset v2_7_5: -5593398920725616722
+      Green Corset v2_7_6: -5023775335237456420
+      Green Corset v2_8: -2065206554616411773
+      Green Corset v2_8_0: -5017643998709387643
+      Green Corset v2_8_1: -9159080034282599701
+      Green Corset v2_8_2: -6359228507826151595
+      Green Corset v2_8_3: 1115474993952683385
+      Green Corset v2_8_4: 6754665396121616103
+      Green Corset v2_8_5: 7663004778332507647
+      Green Corset v2_8_6: -5592911329421905857
+      Green Corset v2_9: 5336817540873851931
+      Green Corset v2_9_0: 7228667565696570702
+      Green Corset v2_9_1: -5543353214280106092
+      Green Corset v2_9_2: 5160157966266445970
+      Green Corset v2_9_3: -295752610591265860
+      Green Corset v2_9_4: -990414260938013794
+      Green Corset v2_9_5: -29018824648692089
+      Green Corset v2_9_6: 4910732886242252762
+      Green Corset v2_EMPTY_18: 150247861400361084
+      Green Corset v2_EMPTY_19: -1485208356618626621
+      Green Corset v2_EMPTY_28: -3339662399197239355
+      Green Corset v2_EMPTY_29: 5518601442790373314
+      Green Corset v2_EMPTY_34: -4826643487738063105
+      Green Corset v2_EMPTY_35: 1466753152903329504
+      Green Corset v2_EMPTY_36: -2541448209433413882
+      Green Corset v2_EMPTY_37: -8091957601502255848
+      Green Corset v2_EMPTY_38: 394066315369541910
+      Green Corset v2_EMPTY_39: 7838287867180671685
+      Green Corset v2_EMPTY_44: 2038812046691017953
+      Green Corset v2_EMPTY_45: -7162925726525764981
+      Green Corset v2_EMPTY_46: 6436335135035164723
+      Green Corset v2_EMPTY_47: -1931459590572432954
+      Green Corset v2_EMPTY_48: -6814033036107179455
+      Green Corset v2_EMPTY_49: 1635579478975217006
+      Green Corset v2_EMPTY_5: 8536033963444302426
+      Green Corset v2_EMPTY_56: -1553015838121160855
+      Green Corset v2_EMPTY_57: -8249339033928874205
+      Green Corset v2_EMPTY_58: 590138916074577664
+      Green Corset v2_EMPTY_59: 5203272235976364173
+      Green Corset v2_EMPTY_6: 832426207805005293
+      Green Corset v2_EMPTY_7: -1476827504454815323
+      Green Corset v2_EMPTY_8: -3304121563473176701
+      Green Corset v2_EMPTY_9: -8499791016164091141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

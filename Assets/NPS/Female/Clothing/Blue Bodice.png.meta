@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: 1285a0f3f361a0a4ca54e7f590ce8b8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6082007644197065496
+    second: Blue Bodice_0
+  - first:
+      213: -2983075864903461171
+    second: Blue Bodice_1
+  - first:
+      213: 1315242011566822435
+    second: Blue Bodice_2
+  - first:
+      213: 6215393473080211540
+    second: Blue Bodice_3
+  - first:
+      213: 3981300559448182243
+    second: Blue Bodice_4
+  - first:
+      213: 431921574986380913
+    second: Blue Bodice_5
+  - first:
+      213: -750711413282754592
+    second: Blue Bodice_6
+  - first:
+      213: 427527763228296448
+    second: Blue Bodice_7
+  - first:
+      213: 8929381037647795034
+    second: Blue Bodice_8
+  - first:
+      213: -7097642156697443322
+    second: Blue Bodice_9
+  - first:
+      213: 1071833333897122926
+    second: Blue Bodice_10
+  - first:
+      213: 7394834181765277582
+    second: Blue Bodice_11
+  - first:
+      213: -7040923768006214660
+    second: Blue Bodice_12
+  - first:
+      213: 9167533814469417063
+    second: Blue Bodice_13
+  - first:
+      213: 7354143842709758193
+    second: Blue Bodice_14
+  - first:
+      213: 1013244666038093670
+    second: Blue Bodice_15
+  - first:
+      213: 6211177031161946605
+    second: Blue Bodice_16
+  - first:
+      213: 475765176088619955
+    second: Blue Bodice_17
+  - first:
+      213: -1005708735262412772
+    second: Blue Bodice_18
+  - first:
+      213: 2099303626399435839
+    second: Blue Bodice_19
+  - first:
+      213: -1406214681073761538
+    second: Blue Bodice_20
+  - first:
+      213: -8889398586489009578
+    second: Blue Bodice_21
+  - first:
+      213: -8050820753167367830
+    second: Blue Bodice_22
+  - first:
+      213: -3591794833606838991
+    second: Blue Bodice_23
+  - first:
+      213: -3879718093750929032
+    second: Blue Bodice_24
+  - first:
+      213: -5647008231712209223
+    second: Blue Bodice_25
+  - first:
+      213: 6911969234387249119
+    second: Blue Bodice_26
+  - first:
+      213: 3443029043911106954
+    second: Blue Bodice_27
+  - first:
+      213: -3467038603679554989
+    second: Blue Bodice_28
+  - first:
+      213: 517567099210725244
+    second: Blue Bodice_29
+  - first:
+      213: 1892534056846219320
+    second: Blue Bodice_30
+  - first:
+      213: -7707180067735312134
+    second: Blue Bodice_31
+  - first:
+      213: -8463540466439136813
+    second: Blue Bodice_32
+  - first:
+      213: -5080876549473309191
+    second: Blue Bodice_33
+  - first:
+      213: -6249117445350368108
+    second: Blue Bodice_34
+  - first:
+      213: -5864417021069827881
+    second: Blue Bodice_35
+  - first:
+      213: -1256629044008335864
+    second: Blue Bodice_36
+  - first:
+      213: -4997008579700858919
+    second: Blue Bodice_37
+  - first:
+      213: -4244130061924876385
+    second: Blue Bodice_38
+  - first:
+      213: 2541005344035387301
+    second: Blue Bodice_39
+  - first:
+      213: -8601802635097931452
+    second: Blue Bodice_40
+  - first:
+      213: 263278768813100940
+    second: Blue Bodice_41
+  - first:
+      213: -6138733631758597729
+    second: Blue Bodice_42
+  - first:
+      213: 4133434267563018586
+    second: Blue Bodice_43
+  - first:
+      213: -8180656647304156582
+    second: Blue Bodice_44
+  - first:
+      213: 4948445005245083012
+    second: Blue Bodice_45
+  - first:
+      213: -8383109262603314597
+    second: Blue Bodice_46
+  - first:
+      213: -3637292144319276258
+    second: Blue Bodice_47
+  - first:
+      213: 412747882087055598
+    second: Blue Bodice_48
+  - first:
+      213: -3456284614193593506
+    second: Blue Bodice_49
+  - first:
+      213: 4015781437855240160
+    second: Blue Bodice_50
+  - first:
+      213: 3508811837415711602
+    second: Blue Bodice_51
+  - first:
+      213: -3786267245875050784
+    second: Blue Bodice_0_6
+  - first:
+      213: -8018052992865734098
+    second: Blue Bodice_1_6
+  - first:
+      213: -1982676849206597512
+    second: Blue Bodice_2_6
+  - first:
+      213: -641057316438037838
+    second: Blue Bodice_3_6
+  - first:
+      213: 7897447877608150284
+    second: Blue Bodice_4_6
+  - first:
+      213: -2929993852259249852
+    second: Blue Bodice_5_6
+  - first:
+      213: 7468691699208708758
+    second: Blue Bodice_6_6
+  - first:
+      213: 6532110354298933620
+    second: Blue Bodice_7_6
+  - first:
+      213: 7069881266898006776
+    second: Blue Bodice_8_6
+  - first:
+      213: -4787697175310075325
+    second: Blue Bodice_9_6
+  - first:
+      213: 4403700000250940786
+    second: Blue Bodice_0_5
+  - first:
+      213: 7674567372419623734
+    second: Blue Bodice_1_5
+  - first:
+      213: -6332773686579902742
+    second: Blue Bodice_2_5
+  - first:
+      213: -5953836581542874330
+    second: Blue Bodice_3_5
+  - first:
+      213: -5160943459059383846
+    second: Blue Bodice_4_5
+  - first:
+      213: 346176283465884770
+    second: Blue Bodice_5_5
+  - first:
+      213: 6219044357918426214
+    second: Blue Bodice_6_5
+  - first:
+      213: 330137418165240053
+    second: Blue Bodice_7_5
+  - first:
+      213: -331606556135251543
+    second: Blue Bodice_8_5
+  - first:
+      213: 6448533017654069732
+    second: Blue Bodice_9_5
+  - first:
+      213: -72658588103108336
+    second: Blue Bodice_0_4
+  - first:
+      213: -1248904561893759756
+    second: Blue Bodice_1_4
+  - first:
+      213: -8120606314583562012
+    second: Blue Bodice_2_4
+  - first:
+      213: 9215152399998679172
+    second: Blue Bodice_3_4
+  - first:
+      213: 1405402353804701884
+    second: Blue Bodice_4_4
+  - first:
+      213: -2724828573907771491
+    second: Blue Bodice_5_4
+  - first:
+      213: 220957074227127107
+    second: Blue Bodice_6_4
+  - first:
+      213: -2319728988107395382
+    second: Blue Bodice_7_4
+  - first:
+      213: 2519058295668015337
+    second: Blue Bodice_8_4
+  - first:
+      213: -2556298453993561349
+    second: Blue Bodice_9_4
+  - first:
+      213: -8142860089320402076
+    second: Blue Bodice_0_3
+  - first:
+      213: -2415258820684088837
+    second: Blue Bodice_1_3
+  - first:
+      213: 4443766094089538420
+    second: Blue Bodice_2_3
+  - first:
+      213: -4230478960768853046
+    second: Blue Bodice_3_3
+  - first:
+      213: -4705327907541266879
+    second: Blue Bodice_4_3
+  - first:
+      213: 3941798780886198737
+    second: Blue Bodice_5_3
+  - first:
+      213: 882579686340928947
+    second: Blue Bodice_6_3
+  - first:
+      213: 8354415521198208551
+    second: Blue Bodice_7_3
+  - first:
+      213: -3394435551174306550
+    second: Blue Bodice_8_3
+  - first:
+      213: -5600693809933171066
+    second: Blue Bodice_9_3
+  - first:
+      213: -2812508875075315388
+    second: Blue Bodice_0_2
+  - first:
+      213: 6960616714014902491
+    second: Blue Bodice_1_2
+  - first:
+      213: -7450555122248031349
+    second: Blue Bodice_2_2
+  - first:
+      213: 8209390696514084002
+    second: Blue Bodice_3_2
+  - first:
+      213: -1154930134735506632
+    second: Blue Bodice_4_2
+  - first:
+      213: 1656785436390626854
+    second: Blue Bodice_5_2
+  - first:
+      213: -834958845718567609
+    second: Blue Bodice_6_2
+  - first:
+      213: -1915582026685816005
+    second: Blue Bodice_7_2
+  - first:
+      213: 8604257420670064385
+    second: Blue Bodice_8_2
+  - first:
+      213: -1945438892811372701
+    second: Blue Bodice_9_2
+  - first:
+      213: 8112154655293097424
+    second: Blue Bodice_0_1
+  - first:
+      213: -1649648313010188014
+    second: Blue Bodice_1_1
+  - first:
+      213: 8570851664475939384
+    second: Blue Bodice_2_1
+  - first:
+      213: -7744372165254340518
+    second: Blue Bodice_3_1
+  - first:
+      213: 1037954686068131643
+    second: Blue Bodice_4_1
+  - first:
+      213: 4046084227594223203
+    second: Blue Bodice_5_1
+  - first:
+      213: 5391149038052836632
+    second: Blue Bodice_6_1
+  - first:
+      213: 3538421195439322597
+    second: Blue Bodice_7_1
+  - first:
+      213: -6397650317505912773
+    second: Blue Bodice_8_1
+  - first:
+      213: 1264751354534758807
+    second: Blue Bodice_9_1
+  - first:
+      213: 8064628082702756774
+    second: Blue Bodice_0_0
+  - first:
+      213: -6647082769991175824
+    second: Blue Bodice_1_0
+  - first:
+      213: -6505575160215021820
+    second: Blue Bodice_2_0
+  - first:
+      213: -8340279872215213081
+    second: Blue Bodice_3_0
+  - first:
+      213: -2517672423874373443
+    second: Blue Bodice_4_0
+  - first:
+      213: -7936662918308841402
+    second: Blue Bodice_5_0
+  - first:
+      213: 5833359177590758670
+    second: Blue Bodice_6_0
+  - first:
+      213: 8710579380303779749
+    second: Blue Bodice_7_0
+  - first:
+      213: 1293554876646588831
+    second: Blue Bodice_8_0
+  - first:
+      213: 5989445738417572694
+    second: Blue Bodice_9_0
+  - first:
+      213: 3170840420458854777
+    second: Blue Bodice_EMPTY_5
+  - first:
+      213: 7879377757615887314
+    second: Blue Bodice_EMPTY_6
+  - first:
+      213: -6884436582755065343
+    second: Blue Bodice_EMPTY_7
+  - first:
+      213: -1950001103502376905
+    second: Blue Bodice_EMPTY_8
+  - first:
+      213: 8703882046469861032
+    second: Blue Bodice_EMPTY_9
+  - first:
+      213: -7898887547236141614
+    second: Blue Bodice_EMPTY_18
+  - first:
+      213: -5145701222325390172
+    second: Blue Bodice_EMPTY_19
+  - first:
+      213: 5947340531286241613
+    second: Blue Bodice_EMPTY_28
+  - first:
+      213: -8449645744878744352
+    second: Blue Bodice_EMPTY_29
+  - first:
+      213: 3790557241857246375
+    second: Blue Bodice_EMPTY_34
+  - first:
+      213: -3416120592390586020
+    second: Blue Bodice_EMPTY_35
+  - first:
+      213: 7460948222121012533
+    second: Blue Bodice_EMPTY_36
+  - first:
+      213: -3142257304928402860
+    second: Blue Bodice_EMPTY_37
+  - first:
+      213: 1737643642557387451
+    second: Blue Bodice_EMPTY_38
+  - first:
+      213: 368297520126212200
+    second: Blue Bodice_EMPTY_39
+  - first:
+      213: 2110069932840068004
+    second: Blue Bodice_EMPTY_44
+  - first:
+      213: -1821183348419862961
+    second: Blue Bodice_EMPTY_45
+  - first:
+      213: -2591667715788405589
+    second: Blue Bodice_EMPTY_46
+  - first:
+      213: 5243030046097044834
+    second: Blue Bodice_EMPTY_47
+  - first:
+      213: 8610391415243887105
+    second: Blue Bodice_EMPTY_48
+  - first:
+      213: -7077852870769620131
+    second: Blue Bodice_EMPTY_49
+  - first:
+      213: 8338686116716518802
+    second: Blue Bodice_52
+  - first:
+      213: 9053011174077788555
+    second: Blue Bodice_53
+  - first:
+      213: 2548135114882175699
+    second: Blue Bodice_54
+  - first:
+      213: -6223349592954461407
+    second: Blue Bodice_55
+  - first:
+      213: 8521338534877328277
+    second: Blue Bodice_EMPTY_56
+  - first:
+      213: -7724869637778916357
+    second: Blue Bodice_EMPTY_57
+  - first:
+      213: -310125009242433932
+    second: Blue Bodice_EMPTY_58
+  - first:
+      213: 2668541148630157194
+    second: Blue Bodice_EMPTY_59
+  - first:
+      213: 3004773170802169355
+    second: Blue Bodice_60
+  - first:
+      213: 2096380260948119257
+    second: Blue Bodice_61
+  - first:
+      213: 5504639791768101894
+    second: Blue Bodice_62
+  - first:
+      213: -6578630060275537394
+    second: Blue Bodice_63
+  - first:
+      213: -6509046273051360008
+    second: Blue Bodice_64
+  - first:
+      213: -8361895211531987956
+    second: Blue Bodice_65
+  - first:
+      213: -8149168891433521859
+    second: Blue Bodice_66
+  - first:
+      213: 7099936744678010368
+    second: Blue Bodice_67
+  - first:
+      213: -8801424539548745166
+    second: Blue Bodice_68
+  - first:
+      213: 6035218906811165784
+    second: Blue Bodice_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Bodice_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec6c6e754e589ba0800000000000000
+      internalID: -6082007644197065496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6536e4e4cf996d0800000000000000
+      internalID: -2983075864903461171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3245c1d14ada04210800000000000000
+      internalID: 1315242011566822435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4583a36ee63814650800000000000000
+      internalID: 6215393473080211540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed09f5d3cb604730800000000000000
+      internalID: 3981300559448182243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97976e40096110c20800000000000000
+      internalID: 3170840420458854777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d31fc5e25c295d60800000000000000
+      internalID: 7879377757615887314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1022e2e37619570a0800000000000000
+      internalID: -6884436582755065343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7300f12f35430f4e0800000000000000
+      internalID: -1950001103502376905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae6cba2b966ac870800000000000000
+      internalID: 8703882046469861032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e645c550dbaefde00800000000000000
+      internalID: 1071833333897122926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e872901428abf9660800000000000000
+      internalID: 7394834181765277582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb726d232d994e90800000000000000
+      internalID: -7040923768006214660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768d4ddbe6f993f70800000000000000
+      internalID: 9167533814469417063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f067db6cda2f0660800000000000000
+      internalID: 7354143842709758193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66782c5c7a4cf0e00800000000000000
+      internalID: 1013244666038093670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de129730a98823650800000000000000
+      internalID: 6211177031161946605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb634d28e14a9600800000000000000
+      internalID: 475765176088619955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5bb3a30a3816290800000000000000
+      internalID: -7898887547236141614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4700b500cc698b0800000000000000
+      internalID: -5145701222325390172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2c8a0b23f1c7ce0800000000000000
+      internalID: -1406214681073761538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a8679651382a480800000000000000
+      internalID: -8889398586489009578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61cd191e2db54090800000000000000
+      internalID: -8050820753167367830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135f7c401a1672ec0800000000000000
+      internalID: -3591794833606838991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879f15903f8782ac0800000000000000
+      internalID: -3879718093750929032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b64611beebc1a1b0800000000000000
+      internalID: -5647008231712209223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7a412c56f3cef50800000000000000
+      internalID: 6911969234387249119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81aca96ca818cf20800000000000000
+      internalID: 3443029043911106954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41799de3b2398250800000000000000
+      internalID: 5947340531286241613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec8c9296f3dcba80800000000000000
+      internalID: -8449645744878744352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838d5a792b1a34a10800000000000000
+      internalID: 1892534056846219320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af86aa210989a0590800000000000000
+      internalID: -7707180067735312134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d950cb99c67b8a80800000000000000
+      internalID: -8463540466439136813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fde709a2b91d79b0800000000000000
+      internalID: -5080876549473309191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a48fad6ab3ca9430800000000000000
+      internalID: 3790557241857246375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5189acab608790d0800000000000000
+      internalID: -3416120592390586020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dea13d0ec9a8760800000000000000
+      internalID: 7460948222121012533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452cdda21a57464d0800000000000000
+      internalID: -3142257304928402860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb259dcbfa95d1810800000000000000
+      internalID: 1737643642557387451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868b7caa4a47c1500800000000000000
+      internalID: 368297520126212200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44108f2e31240a880800000000000000
+      internalID: -8601802635097931452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fc10435aa57a300800000000000000
+      internalID: 263278768813100940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91094c4946decaa0800000000000000
+      internalID: -6138733631758597729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5945840198ec5930800000000000000
+      internalID: 4133434267563018586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a32a2e9c69784d10800000000000000
+      internalID: 2110069932840068004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ed396c46bd9b6e0800000000000000
+      internalID: -1821183348419862961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4859891fb880cd0800000000000000
+      internalID: -2591667715788405589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26570545c0cf2c840800000000000000
+      internalID: 5243030046097044834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1025fa25f514e7770800000000000000
+      internalID: 8610391415243887105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b4c49605a66cd90800000000000000
+      internalID: -7077852870769620131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef08f2f0fbeab730800000000000000
+      internalID: 4015781437855240160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27369d096cdc1b030800000000000000
+      internalID: 3508811837415711602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d9e58c7d6f8b370800000000000000
+      internalID: 8338686116716518802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b817c8aa2b1c2ad70800000000000000
+      internalID: 9053011174077788555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2504ae26bcc5320800000000000000
+      internalID: 2548135114882175699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123a0e6948832a9a0800000000000000
+      internalID: -6223349592954461407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593f53edf30e14670800000000000000
+      internalID: 8521338534877328277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbbcf71effbbc490800000000000000
+      internalID: -7724869637778916357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476d32c72f632bbf0800000000000000
+      internalID: -310125009242433932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a870d904900980520800000000000000
+      internalID: 2668541148630157194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b069944674913b920800000000000000
+      internalID: 3004773170802169355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de04ff7db6d71d10800000000000000
+      internalID: 2096380260948119257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60461dcc9b8646c40800000000000000
+      internalID: 5504639791768101894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ae194b0d204b4a0800000000000000
+      internalID: -6578630060275537394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4813ca6e83ba5a0800000000000000
+      internalID: -6509046273051360008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04989bbb9494fb80800000000000000
+      internalID: -8361895211531987956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3de073c11658ee80800000000000000
+      internalID: -8149168891433521859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ea64a2ada088260800000000000000
+      internalID: 7099936744678010368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2328ac2630f0bd580800000000000000
+      internalID: -8801424539548745166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bodice_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c633aae9761c350800000000000000
+      internalID: 6035218906811165784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blue Bodice_0: -6082007644197065496
+      Blue Bodice_0_0: 8064628082702756774
+      Blue Bodice_0_1: 8112154655293097424
+      Blue Bodice_0_2: -2812508875075315388
+      Blue Bodice_0_3: -8142860089320402076
+      Blue Bodice_0_4: -72658588103108336
+      Blue Bodice_0_5: 4403700000250940786
+      Blue Bodice_0_6: -3786267245875050784
+      Blue Bodice_1: -2983075864903461171
+      Blue Bodice_10: 1071833333897122926
+      Blue Bodice_11: 7394834181765277582
+      Blue Bodice_12: -7040923768006214660
+      Blue Bodice_13: 9167533814469417063
+      Blue Bodice_14: 7354143842709758193
+      Blue Bodice_15: 1013244666038093670
+      Blue Bodice_16: 6211177031161946605
+      Blue Bodice_17: 475765176088619955
+      Blue Bodice_18: -1005708735262412772
+      Blue Bodice_19: 2099303626399435839
+      Blue Bodice_1_0: -6647082769991175824
+      Blue Bodice_1_1: -1649648313010188014
+      Blue Bodice_1_2: 6960616714014902491
+      Blue Bodice_1_3: -2415258820684088837
+      Blue Bodice_1_4: -1248904561893759756
+      Blue Bodice_1_5: 7674567372419623734
+      Blue Bodice_1_6: -8018052992865734098
+      Blue Bodice_2: 1315242011566822435
+      Blue Bodice_20: -1406214681073761538
+      Blue Bodice_21: -8889398586489009578
+      Blue Bodice_22: -8050820753167367830
+      Blue Bodice_23: -3591794833606838991
+      Blue Bodice_24: -3879718093750929032
+      Blue Bodice_25: -5647008231712209223
+      Blue Bodice_26: 6911969234387249119
+      Blue Bodice_27: 3443029043911106954
+      Blue Bodice_28: -3467038603679554989
+      Blue Bodice_29: 517567099210725244
+      Blue Bodice_2_0: -6505575160215021820
+      Blue Bodice_2_1: 8570851664475939384
+      Blue Bodice_2_2: -7450555122248031349
+      Blue Bodice_2_3: 4443766094089538420
+      Blue Bodice_2_4: -8120606314583562012
+      Blue Bodice_2_5: -6332773686579902742
+      Blue Bodice_2_6: -1982676849206597512
+      Blue Bodice_3: 6215393473080211540
+      Blue Bodice_30: 1892534056846219320
+      Blue Bodice_31: -7707180067735312134
+      Blue Bodice_32: -8463540466439136813
+      Blue Bodice_33: -5080876549473309191
+      Blue Bodice_34: -6249117445350368108
+      Blue Bodice_35: -5864417021069827881
+      Blue Bodice_36: -1256629044008335864
+      Blue Bodice_37: -4997008579700858919
+      Blue Bodice_38: -4244130061924876385
+      Blue Bodice_39: 2541005344035387301
+      Blue Bodice_3_0: -8340279872215213081
+      Blue Bodice_3_1: -7744372165254340518
+      Blue Bodice_3_2: 8209390696514084002
+      Blue Bodice_3_3: -4230478960768853046
+      Blue Bodice_3_4: 9215152399998679172
+      Blue Bodice_3_5: -5953836581542874330
+      Blue Bodice_3_6: -641057316438037838
+      Blue Bodice_4: 3981300559448182243
+      Blue Bodice_40: -8601802635097931452
+      Blue Bodice_41: 263278768813100940
+      Blue Bodice_42: -6138733631758597729
+      Blue Bodice_43: 4133434267563018586
+      Blue Bodice_44: -8180656647304156582
+      Blue Bodice_45: 4948445005245083012
+      Blue Bodice_46: -8383109262603314597
+      Blue Bodice_47: -3637292144319276258
+      Blue Bodice_48: 412747882087055598
+      Blue Bodice_49: -3456284614193593506
+      Blue Bodice_4_0: -2517672423874373443
+      Blue Bodice_4_1: 1037954686068131643
+      Blue Bodice_4_2: -1154930134735506632
+      Blue Bodice_4_3: -4705327907541266879
+      Blue Bodice_4_4: 1405402353804701884
+      Blue Bodice_4_5: -5160943459059383846
+      Blue Bodice_4_6: 7897447877608150284
+      Blue Bodice_5: 431921574986380913
+      Blue Bodice_50: 4015781437855240160
+      Blue Bodice_51: 3508811837415711602
+      Blue Bodice_52: 8338686116716518802
+      Blue Bodice_53: 9053011174077788555
+      Blue Bodice_54: 2548135114882175699
+      Blue Bodice_55: -6223349592954461407
+      Blue Bodice_5_0: -7936662918308841402
+      Blue Bodice_5_1: 4046084227594223203
+      Blue Bodice_5_2: 1656785436390626854
+      Blue Bodice_5_3: 3941798780886198737
+      Blue Bodice_5_4: -2724828573907771491
+      Blue Bodice_5_5: 346176283465884770
+      Blue Bodice_5_6: -2929993852259249852
+      Blue Bodice_6: -750711413282754592
+      Blue Bodice_60: 3004773170802169355
+      Blue Bodice_61: 2096380260948119257
+      Blue Bodice_62: 5504639791768101894
+      Blue Bodice_63: -6578630060275537394
+      Blue Bodice_64: -6509046273051360008
+      Blue Bodice_65: -8361895211531987956
+      Blue Bodice_66: -8149168891433521859
+      Blue Bodice_67: 7099936744678010368
+      Blue Bodice_68: -8801424539548745166
+      Blue Bodice_69: 6035218906811165784
+      Blue Bodice_6_0: 5833359177590758670
+      Blue Bodice_6_1: 5391149038052836632
+      Blue Bodice_6_2: -834958845718567609
+      Blue Bodice_6_3: 882579686340928947
+      Blue Bodice_6_4: 220957074227127107
+      Blue Bodice_6_5: 6219044357918426214
+      Blue Bodice_6_6: 7468691699208708758
+      Blue Bodice_7: 427527763228296448
+      Blue Bodice_7_0: 8710579380303779749
+      Blue Bodice_7_1: 3538421195439322597
+      Blue Bodice_7_2: -1915582026685816005
+      Blue Bodice_7_3: 8354415521198208551
+      Blue Bodice_7_4: -2319728988107395382
+      Blue Bodice_7_5: 330137418165240053
+      Blue Bodice_7_6: 6532110354298933620
+      Blue Bodice_8: 8929381037647795034
+      Blue Bodice_8_0: 1293554876646588831
+      Blue Bodice_8_1: -6397650317505912773
+      Blue Bodice_8_2: 8604257420670064385
+      Blue Bodice_8_3: -3394435551174306550
+      Blue Bodice_8_4: 2519058295668015337
+      Blue Bodice_8_5: -331606556135251543
+      Blue Bodice_8_6: 7069881266898006776
+      Blue Bodice_9: -7097642156697443322
+      Blue Bodice_9_0: 5989445738417572694
+      Blue Bodice_9_1: 1264751354534758807
+      Blue Bodice_9_2: -1945438892811372701
+      Blue Bodice_9_3: -5600693809933171066
+      Blue Bodice_9_4: -2556298453993561349
+      Blue Bodice_9_5: 6448533017654069732
+      Blue Bodice_9_6: -4787697175310075325
+      Blue Bodice_EMPTY_18: -7898887547236141614
+      Blue Bodice_EMPTY_19: -5145701222325390172
+      Blue Bodice_EMPTY_28: 5947340531286241613
+      Blue Bodice_EMPTY_29: -8449645744878744352
+      Blue Bodice_EMPTY_34: 3790557241857246375
+      Blue Bodice_EMPTY_35: -3416120592390586020
+      Blue Bodice_EMPTY_36: 7460948222121012533
+      Blue Bodice_EMPTY_37: -3142257304928402860
+      Blue Bodice_EMPTY_38: 1737643642557387451
+      Blue Bodice_EMPTY_39: 368297520126212200
+      Blue Bodice_EMPTY_44: 2110069932840068004
+      Blue Bodice_EMPTY_45: -1821183348419862961
+      Blue Bodice_EMPTY_46: -2591667715788405589
+      Blue Bodice_EMPTY_47: 5243030046097044834
+      Blue Bodice_EMPTY_48: 8610391415243887105
+      Blue Bodice_EMPTY_49: -7077852870769620131
+      Blue Bodice_EMPTY_5: 3170840420458854777
+      Blue Bodice_EMPTY_56: 8521338534877328277
+      Blue Bodice_EMPTY_57: -7724869637778916357
+      Blue Bodice_EMPTY_58: -310125009242433932
+      Blue Bodice_EMPTY_59: 2668541148630157194
+      Blue Bodice_EMPTY_6: 7879377757615887314
+      Blue Bodice_EMPTY_7: -6884436582755065343
+      Blue Bodice_EMPTY_8: -1950001103502376905
+      Blue Bodice_EMPTY_9: 8703882046469861032
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

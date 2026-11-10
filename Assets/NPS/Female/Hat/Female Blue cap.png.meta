@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: 4132bedcb978fb14d80019e0c43f2181
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 580910815541147780
+    second: Female Blue cap_0
+  - first:
+      213: -4890454303671927466
+    second: Female Blue cap_1
+  - first:
+      213: 2927778690816850038
+    second: Female Blue cap_2
+  - first:
+      213: -8371999257843492608
+    second: Female Blue cap_3
+  - first:
+      213: 3392543749377411537
+    second: Female Blue cap_4
+  - first:
+      213: 2987993178090017710
+    second: Female Blue cap_5
+  - first:
+      213: -6265353760836040378
+    second: Female Blue cap_6
+  - first:
+      213: -4624998747310777320
+    second: Female Blue cap_7
+  - first:
+      213: -491818893973368299
+    second: Female Blue cap_8
+  - first:
+      213: 7938044919438964529
+    second: Female Blue cap_9
+  - first:
+      213: 3727355727398245590
+    second: Female Blue cap_10
+  - first:
+      213: 5516043844224906586
+    second: Female Blue cap_11
+  - first:
+      213: 1434100702998924699
+    second: Female Blue cap_12
+  - first:
+      213: 4230046182255492955
+    second: Female Blue cap_13
+  - first:
+      213: 2755215409814460902
+    second: Female Blue cap_14
+  - first:
+      213: -9183458450880267688
+    second: Female Blue cap_15
+  - first:
+      213: 708990682555844735
+    second: Female Blue cap_16
+  - first:
+      213: 2210339135842488099
+    second: Female Blue cap_17
+  - first:
+      213: 7342845038676058489
+    second: Female Blue cap_18
+  - first:
+      213: -3880971445221812240
+    second: Female Blue cap_19
+  - first:
+      213: 5850601240198381320
+    second: Female Blue cap_20
+  - first:
+      213: 307914361894511636
+    second: Female Blue cap_21
+  - first:
+      213: -1422327390773432740
+    second: Female Blue cap_22
+  - first:
+      213: -8007285840552170995
+    second: Female Blue cap_23
+  - first:
+      213: -2669953176646347406
+    second: Female Blue cap_24
+  - first:
+      213: -826734888748293263
+    second: Female Blue cap_25
+  - first:
+      213: 1934680946046924064
+    second: Female Blue cap_26
+  - first:
+      213: -294094307636078757
+    second: Female Blue cap_27
+  - first:
+      213: 7758887800230999872
+    second: Female Blue cap_28
+  - first:
+      213: 7616788878533227629
+    second: Female Blue cap_29
+  - first:
+      213: 2651393346525864570
+    second: Female Blue cap_30
+  - first:
+      213: -3867941534217809454
+    second: Female Blue cap_31
+  - first:
+      213: 2459209515502433306
+    second: Female Blue cap_32
+  - first:
+      213: 8248372355659586051
+    second: Female Blue cap_33
+  - first:
+      213: -6990906903779846352
+    second: Female Blue cap_34
+  - first:
+      213: -5810383806389953561
+    second: Female Blue cap_35
+  - first:
+      213: -3938717849395215819
+    second: Female Blue cap_36
+  - first:
+      213: -3737177424888812501
+    second: Female Blue cap_37
+  - first:
+      213: 3318474728984066484
+    second: Female Blue cap_38
+  - first:
+      213: 6605218931362088873
+    second: Female Blue cap_39
+  - first:
+      213: -2977351021293270767
+    second: Female Blue cap_40
+  - first:
+      213: 8381226533035162251
+    second: Female Blue cap_41
+  - first:
+      213: -370006678394461994
+    second: Female Blue cap_42
+  - first:
+      213: 6904644726905245498
+    second: Female Blue cap_43
+  - first:
+      213: 2579954916748867370
+    second: Female Blue cap_44
+  - first:
+      213: -5573746355705629174
+    second: Female Blue cap_0_6
+  - first:
+      213: -7345594148465201313
+    second: Female Blue cap_1_6
+  - first:
+      213: 6904805419795045743
+    second: Female Blue cap_2_6
+  - first:
+      213: -2037537230621595521
+    second: Female Blue cap_3_6
+  - first:
+      213: 7844237331105607411
+    second: Female Blue cap_4_6
+  - first:
+      213: -5959474015526872136
+    second: Female Blue cap_5_6
+  - first:
+      213: -3400315367313911933
+    second: Female Blue cap_6_6
+  - first:
+      213: -367177163353618429
+    second: Female Blue cap_7_6
+  - first:
+      213: -8832200799698427433
+    second: Female Blue cap_8_6
+  - first:
+      213: 8665191267338334103
+    second: Female Blue cap_9_6
+  - first:
+      213: 976395276636951132
+    second: Female Blue cap_0_5
+  - first:
+      213: 7681913599017416006
+    second: Female Blue cap_1_5
+  - first:
+      213: 6537078240345579352
+    second: Female Blue cap_2_5
+  - first:
+      213: -7463265769552684188
+    second: Female Blue cap_3_5
+  - first:
+      213: 1251996882795498848
+    second: Female Blue cap_4_5
+  - first:
+      213: 2458715958904591016
+    second: Female Blue cap_5_5
+  - first:
+      213: 29400947726453895
+    second: Female Blue cap_6_5
+  - first:
+      213: -2298901081341967265
+    second: Female Blue cap_7_5
+  - first:
+      213: -112062854638643784
+    second: Female Blue cap_8_5
+  - first:
+      213: -3614146596911275051
+    second: Female Blue cap_9_5
+  - first:
+      213: -3745407460794362863
+    second: Female Blue cap_0_4
+  - first:
+      213: 3142200876696904558
+    second: Female Blue cap_1_4
+  - first:
+      213: 7650146039493409196
+    second: Female Blue cap_2_4
+  - first:
+      213: 3804657311320697494
+    second: Female Blue cap_3_4
+  - first:
+      213: 1444062609571889293
+    second: Female Blue cap_4_4
+  - first:
+      213: -7930381757995188764
+    second: Female Blue cap_5_4
+  - first:
+      213: -1685492575850702828
+    second: Female Blue cap_6_4
+  - first:
+      213: 5098591762132139581
+    second: Female Blue cap_7_4
+  - first:
+      213: 763267931414378310
+    second: Female Blue cap_8_4
+  - first:
+      213: -2775037854206231720
+    second: Female Blue cap_9_4
+  - first:
+      213: 2102160883825504555
+    second: Female Blue cap_0_3
+  - first:
+      213: 1443461825633161141
+    second: Female Blue cap_1_3
+  - first:
+      213: 7987985052798995320
+    second: Female Blue cap_2_3
+  - first:
+      213: -6782768151485143289
+    second: Female Blue cap_3_3
+  - first:
+      213: 5704326787870762350
+    second: Female Blue cap_4_3
+  - first:
+      213: -468099706833447674
+    second: Female Blue cap_5_3
+  - first:
+      213: 3720607513666276855
+    second: Female Blue cap_6_3
+  - first:
+      213: 8851234538721905665
+    second: Female Blue cap_7_3
+  - first:
+      213: 8647915617864577657
+    second: Female Blue cap_8_3
+  - first:
+      213: 583560761748044264
+    second: Female Blue cap_9_3
+  - first:
+      213: 5670074161057715169
+    second: Female Blue cap_0_2
+  - first:
+      213: -4157064717845350944
+    second: Female Blue cap_1_2
+  - first:
+      213: 2713011763592066520
+    second: Female Blue cap_2_2
+  - first:
+      213: -1411852738826161768
+    second: Female Blue cap_3_2
+  - first:
+      213: -2915220399121218551
+    second: Female Blue cap_4_2
+  - first:
+      213: -3771929760292327423
+    second: Female Blue cap_5_2
+  - first:
+      213: 5096271446174497614
+    second: Female Blue cap_6_2
+  - first:
+      213: -3323317706604579562
+    second: Female Blue cap_7_2
+  - first:
+      213: -2298973706557782003
+    second: Female Blue cap_8_2
+  - first:
+      213: 6851667873753726555
+    second: Female Blue cap_9_2
+  - first:
+      213: -9220579175081849319
+    second: Female Blue cap_0_1
+  - first:
+      213: -5261562070404540341
+    second: Female Blue cap_1_1
+  - first:
+      213: -3864449449426488616
+    second: Female Blue cap_2_1
+  - first:
+      213: -4873032982810018405
+    second: Female Blue cap_3_1
+  - first:
+      213: 5436482327173659351
+    second: Female Blue cap_4_1
+  - first:
+      213: 8975391380916380286
+    second: Female Blue cap_5_1
+  - first:
+      213: -8377919492552428632
+    second: Female Blue cap_6_1
+  - first:
+      213: -3073053258542919256
+    second: Female Blue cap_7_1
+  - first:
+      213: 7653692692290211928
+    second: Female Blue cap_8_1
+  - first:
+      213: 1563019496719087435
+    second: Female Blue cap_9_1
+  - first:
+      213: -60832583299026436
+    second: Female Blue cap_0_0
+  - first:
+      213: 4005034737280220638
+    second: Female Blue cap_1_0
+  - first:
+      213: -7628399773619479781
+    second: Female Blue cap_2_0
+  - first:
+      213: 570620945949935465
+    second: Female Blue cap_3_0
+  - first:
+      213: 5714356929362107233
+    second: Female Blue cap_4_0
+  - first:
+      213: 2355788206270398532
+    second: Female Blue cap_5_0
+  - first:
+      213: 1264150433896487243
+    second: Female Blue cap_6_0
+  - first:
+      213: 7411582202305437894
+    second: Female Blue cap_7_0
+  - first:
+      213: 6080664148270393036
+    second: Female Blue cap_8_0
+  - first:
+      213: 1903472931715706993
+    second: Female Blue cap_9_0
+  - first:
+      213: 1676520543313908683
+    second: Female Blue cap_EMPTY_5
+  - first:
+      213: -8259822286412702255
+    second: Female Blue cap_EMPTY_6
+  - first:
+      213: 2985677993375827570
+    second: Female Blue cap_EMPTY_7
+  - first:
+      213: 3939925994641205885
+    second: Female Blue cap_EMPTY_8
+  - first:
+      213: 9041463352458627000
+    second: Female Blue cap_EMPTY_9
+  - first:
+      213: 1380850160005165191
+    second: Female Blue cap_EMPTY_18
+  - first:
+      213: -5470475928180163084
+    second: Female Blue cap_EMPTY_19
+  - first:
+      213: -2270581986112084982
+    second: Female Blue cap_EMPTY_28
+  - first:
+      213: 818471611186304203
+    second: Female Blue cap_EMPTY_29
+  - first:
+      213: 8691679534061211716
+    second: Female Blue cap_EMPTY_34
+  - first:
+      213: 1908308357492826599
+    second: Female Blue cap_EMPTY_35
+  - first:
+      213: -7238673854693326100
+    second: Female Blue cap_EMPTY_36
+  - first:
+      213: -8028163512273369649
+    second: Female Blue cap_EMPTY_37
+  - first:
+      213: 4098620473949547661
+    second: Female Blue cap_EMPTY_38
+  - first:
+      213: 237998649831318907
+    second: Female Blue cap_EMPTY_39
+  - first:
+      213: 6690506416779110794
+    second: Female Blue cap_EMPTY_44
+  - first:
+      213: -7298486733755397918
+    second: Female Blue cap_EMPTY_45
+  - first:
+      213: -624905948685368840
+    second: Female Blue cap_EMPTY_46
+  - first:
+      213: 3856080704744310548
+    second: Female Blue cap_EMPTY_47
+  - first:
+      213: -4066872204431493390
+    second: Female Blue cap_EMPTY_48
+  - first:
+      213: 2941137347944509060
+    second: Female Blue cap_EMPTY_49
+  - first:
+      213: 289792138488451961
+    second: Female Blue cap_50
+  - first:
+      213: -1459518257101009190
+    second: Female Blue cap_51
+  - first:
+      213: 1581535658055802898
+    second: Female Blue cap_52
+  - first:
+      213: -9197872227530911052
+    second: Female Blue cap_53
+  - first:
+      213: -5888542203480764578
+    second: Female Blue cap_54
+  - first:
+      213: -7921279310853789574
+    second: Female Blue cap_55
+  - first:
+      213: -2040395283626651216
+    second: Female Blue cap_EMPTY_56
+  - first:
+      213: 5497383649451980528
+    second: Female Blue cap_EMPTY_57
+  - first:
+      213: -3677046484369738664
+    second: Female Blue cap_EMPTY_58
+  - first:
+      213: 5714804906645678548
+    second: Female Blue cap_EMPTY_59
+  - first:
+      213: 102307738883760467
+    second: Female Blue cap_60
+  - first:
+      213: -7909723045053103592
+    second: Female Blue cap_61
+  - first:
+      213: -3181018596624738768
+    second: Female Blue cap_62
+  - first:
+      213: -2992058815197266219
+    second: Female Blue cap_63
+  - first:
+      213: -3259879556429765984
+    second: Female Blue cap_64
+  - first:
+      213: 4442717385467259476
+    second: Female Blue cap_65
+  - first:
+      213: -204281983074936147
+    second: Female Blue cap_66
+  - first:
+      213: 1874147939358315164
+    second: Female Blue cap_67
+  - first:
+      213: -9213270072103475998
+    second: Female Blue cap_68
+  - first:
+      213: -3644623594774755291
+    second: Female Blue cap_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female Blue cap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48833861f4fcf0800800000000000000
+      internalID: 580910815541147780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dba57b8bd912cb0800000000000000
+      internalID: -4890454303671927466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678b81f053f81a820800000000000000
+      internalID: 2927778690816850038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0099760280fa0db80800000000000000
+      internalID: -8371999257843492608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9cc9ac09cb41f20800000000000000
+      internalID: 3392543749377411537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3ded23d82344710800000000000000
+      internalID: 1676520543313908683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd148694673f5d80800000000000000
+      internalID: -8259822286412702255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2760ed0f0524f6920800000000000000
+      internalID: 2985677993375827570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aaae741dd6da630800000000000000
+      internalID: 3939925994641205885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7420de30bb97d70800000000000000
+      internalID: 9041463352458627000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d41713294a3ab330800000000000000
+      internalID: 3727355727398245590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55718ca6acec8c40800000000000000
+      internalID: 5516043844224906586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d836ebdf2f6e310800000000000000
+      internalID: 1434100702998924699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ff5dc479424ba30800000000000000
+      internalID: 4230046182255492955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e95ca541dd7c3620800000000000000
+      internalID: 2755215409814460902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85af8b9e13dcd8080800000000000000
+      internalID: -9183458450880267688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f788dc6f447d6d900800000000000000
+      internalID: 708990682555844735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f0901bbb3bcae10800000000000000
+      internalID: 2210339135842488099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780362b87e3c92310800000000000000
+      internalID: 1380850160005165191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdfe7c8027f414b0800000000000000
+      internalID: -5470475928180163084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ffb7484d2813150800000000000000
+      internalID: 5850601240198381320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414a6f11b7ee54400800000000000000
+      internalID: 307914361894511636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e24ae16c0e24ce0800000000000000
+      internalID: -1422327390773432740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a6fd2d3f760e090800000000000000
+      internalID: -8007285840552170995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275911b5bbb62fad0800000000000000
+      internalID: -2669953176646347406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1736cb8bff8d684f0800000000000000
+      internalID: -826734888748293263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025f7dee11e59da10800000000000000
+      internalID: 1934680946046924064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5713ee09ca2bebf0800000000000000
+      internalID: -294094307636078757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a046364b6b54d70e0800000000000000
+      internalID: -2270581986112084982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4508b089bcb5b00800000000000000
+      internalID: 818471611186304203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7222837334abc420800000000000000
+      internalID: 2651393346525864570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1d7f8faaf425ac0800000000000000
+      internalID: -3867941534217809454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1478cf560ed02220800000000000000
+      internalID: 2459209515502433306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30add3aa4fa187270800000000000000
+      internalID: 8248372355659586051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44050495c7c0f9870800000000000000
+      internalID: 8691679534061211716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1e44a275cab7a10800000000000000
+      internalID: 1908308357492826599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2c8163b701b8b90800000000000000
+      internalID: -7238673854693326100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5813412db369090800000000000000
+      internalID: -8028163512273369649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ce7ea0b9931e830800000000000000
+      internalID: 4098620473949547661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75e734d28a8d4300800000000000000
+      internalID: 237998649831318907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1190b2455035ea6d0800000000000000
+      internalID: -2977351021293270767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ab3ab4029105470800000000000000
+      internalID: 8381226533035162251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0a6c9e2e87ddaf0800000000000000
+      internalID: -370006678394461994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f0677fbc932df50800000000000000
+      internalID: 6904644726905245498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a892793632479dc50800000000000000
+      internalID: 6690506416779110794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8cb941cf096ba90800000000000000
+      internalID: -7298486733755397918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1849eb953e357f0800000000000000
+      internalID: -624905948685368840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417c58778fc838530800000000000000
+      internalID: 3856080704744310548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f673fbf6419f87c0800000000000000
+      internalID: -4066872204431493390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eeddbc5d401d820800000000000000
+      internalID: 2941137347944509060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9731e412a6c850400800000000000000
+      internalID: 289792138488451961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade0c46c0efbebbe0800000000000000
+      internalID: -1459518257101009190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210a70a3d4eb2f510800000000000000
+      internalID: 1581535658055802898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2d69401f79a5080800000000000000
+      internalID: -9197872227530911052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f02a49012b74ea0800000000000000
+      internalID: -5888542203480764578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78a8ed7f66f11290800000000000000
+      internalID: -7921279310853789574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b11d0ecc4f0fa3e0800000000000000
+      internalID: -2040395283626651216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f630a38d41aa4c40800000000000000
+      internalID: 5497383649451980528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854fa8c44b188fcc0800000000000000
+      internalID: -3677046484369738664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d96645c8c01f4f40800000000000000
+      internalID: 5714804906645678548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351a0f1b8587b6100800000000000000
+      internalID: 102307738883760467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81283eb4cc40b3290800000000000000
+      internalID: -7909723045053103592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036554ca070cad3d0800000000000000
+      internalID: -3181018596624738768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de37153c521a76d0800000000000000
+      internalID: -2992058815197266219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a22274a0d492c2d0800000000000000
+      internalID: -3259879556429765984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a6a3e6ce3b7ad30800000000000000
+      internalID: 4442717385467259476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa5ec46e9e3a2df0800000000000000
+      internalID: -204281983074936147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c929bf50f9f420a10800000000000000
+      internalID: 1874147939358315164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4e884fea3e32080800000000000000
+      internalID: -9213270072103475998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Blue cap_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528817d8622bb6dc0800000000000000
+      internalID: -3644623594774755291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Female Blue cap_0: 580910815541147780
+      Female Blue cap_0_0: -60832583299026436
+      Female Blue cap_0_1: -9220579175081849319
+      Female Blue cap_0_2: 5670074161057715169
+      Female Blue cap_0_3: 2102160883825504555
+      Female Blue cap_0_4: -3745407460794362863
+      Female Blue cap_0_5: 976395276636951132
+      Female Blue cap_0_6: -5573746355705629174
+      Female Blue cap_1: -4890454303671927466
+      Female Blue cap_10: 3727355727398245590
+      Female Blue cap_11: 5516043844224906586
+      Female Blue cap_12: 1434100702998924699
+      Female Blue cap_13: 4230046182255492955
+      Female Blue cap_14: 2755215409814460902
+      Female Blue cap_15: -9183458450880267688
+      Female Blue cap_16: 708990682555844735
+      Female Blue cap_17: 2210339135842488099
+      Female Blue cap_18: 7342845038676058489
+      Female Blue cap_19: -3880971445221812240
+      Female Blue cap_1_0: 4005034737280220638
+      Female Blue cap_1_1: -5261562070404540341
+      Female Blue cap_1_2: -4157064717845350944
+      Female Blue cap_1_3: 1443461825633161141
+      Female Blue cap_1_4: 3142200876696904558
+      Female Blue cap_1_5: 7681913599017416006
+      Female Blue cap_1_6: -7345594148465201313
+      Female Blue cap_2: 2927778690816850038
+      Female Blue cap_20: 5850601240198381320
+      Female Blue cap_21: 307914361894511636
+      Female Blue cap_22: -1422327390773432740
+      Female Blue cap_23: -8007285840552170995
+      Female Blue cap_24: -2669953176646347406
+      Female Blue cap_25: -826734888748293263
+      Female Blue cap_26: 1934680946046924064
+      Female Blue cap_27: -294094307636078757
+      Female Blue cap_28: 7758887800230999872
+      Female Blue cap_29: 7616788878533227629
+      Female Blue cap_2_0: -7628399773619479781
+      Female Blue cap_2_1: -3864449449426488616
+      Female Blue cap_2_2: 2713011763592066520
+      Female Blue cap_2_3: 7987985052798995320
+      Female Blue cap_2_4: 7650146039493409196
+      Female Blue cap_2_5: 6537078240345579352
+      Female Blue cap_2_6: 6904805419795045743
+      Female Blue cap_3: -8371999257843492608
+      Female Blue cap_30: 2651393346525864570
+      Female Blue cap_31: -3867941534217809454
+      Female Blue cap_32: 2459209515502433306
+      Female Blue cap_33: 8248372355659586051
+      Female Blue cap_34: -6990906903779846352
+      Female Blue cap_35: -5810383806389953561
+      Female Blue cap_36: -3938717849395215819
+      Female Blue cap_37: -3737177424888812501
+      Female Blue cap_38: 3318474728984066484
+      Female Blue cap_39: 6605218931362088873
+      Female Blue cap_3_0: 570620945949935465
+      Female Blue cap_3_1: -4873032982810018405
+      Female Blue cap_3_2: -1411852738826161768
+      Female Blue cap_3_3: -6782768151485143289
+      Female Blue cap_3_4: 3804657311320697494
+      Female Blue cap_3_5: -7463265769552684188
+      Female Blue cap_3_6: -2037537230621595521
+      Female Blue cap_4: 3392543749377411537
+      Female Blue cap_40: -2977351021293270767
+      Female Blue cap_41: 8381226533035162251
+      Female Blue cap_42: -370006678394461994
+      Female Blue cap_43: 6904644726905245498
+      Female Blue cap_44: 2579954916748867370
+      Female Blue cap_4_0: 5714356929362107233
+      Female Blue cap_4_1: 5436482327173659351
+      Female Blue cap_4_2: -2915220399121218551
+      Female Blue cap_4_3: 5704326787870762350
+      Female Blue cap_4_4: 1444062609571889293
+      Female Blue cap_4_5: 1251996882795498848
+      Female Blue cap_4_6: 7844237331105607411
+      Female Blue cap_5: 2987993178090017710
+      Female Blue cap_50: 289792138488451961
+      Female Blue cap_51: -1459518257101009190
+      Female Blue cap_52: 1581535658055802898
+      Female Blue cap_53: -9197872227530911052
+      Female Blue cap_54: -5888542203480764578
+      Female Blue cap_55: -7921279310853789574
+      Female Blue cap_5_0: 2355788206270398532
+      Female Blue cap_5_1: 8975391380916380286
+      Female Blue cap_5_2: -3771929760292327423
+      Female Blue cap_5_3: -468099706833447674
+      Female Blue cap_5_4: -7930381757995188764
+      Female Blue cap_5_5: 2458715958904591016
+      Female Blue cap_5_6: -5959474015526872136
+      Female Blue cap_6: -6265353760836040378
+      Female Blue cap_60: 102307738883760467
+      Female Blue cap_61: -7909723045053103592
+      Female Blue cap_62: -3181018596624738768
+      Female Blue cap_63: -2992058815197266219
+      Female Blue cap_64: -3259879556429765984
+      Female Blue cap_65: 4442717385467259476
+      Female Blue cap_66: -204281983074936147
+      Female Blue cap_67: 1874147939358315164
+      Female Blue cap_68: -9213270072103475998
+      Female Blue cap_69: -3644623594774755291
+      Female Blue cap_6_0: 1264150433896487243
+      Female Blue cap_6_1: -8377919492552428632
+      Female Blue cap_6_2: 5096271446174497614
+      Female Blue cap_6_3: 3720607513666276855
+      Female Blue cap_6_4: -1685492575850702828
+      Female Blue cap_6_5: 29400947726453895
+      Female Blue cap_6_6: -3400315367313911933
+      Female Blue cap_7: -4624998747310777320
+      Female Blue cap_7_0: 7411582202305437894
+      Female Blue cap_7_1: -3073053258542919256
+      Female Blue cap_7_2: -3323317706604579562
+      Female Blue cap_7_3: 8851234538721905665
+      Female Blue cap_7_4: 5098591762132139581
+      Female Blue cap_7_5: -2298901081341967265
+      Female Blue cap_7_6: -367177163353618429
+      Female Blue cap_8: -491818893973368299
+      Female Blue cap_8_0: 6080664148270393036
+      Female Blue cap_8_1: 7653692692290211928
+      Female Blue cap_8_2: -2298973706557782003
+      Female Blue cap_8_3: 8647915617864577657
+      Female Blue cap_8_4: 763267931414378310
+      Female Blue cap_8_5: -112062854638643784
+      Female Blue cap_8_6: -8832200799698427433
+      Female Blue cap_9: 7938044919438964529
+      Female Blue cap_9_0: 1903472931715706993
+      Female Blue cap_9_1: 1563019496719087435
+      Female Blue cap_9_2: 6851667873753726555
+      Female Blue cap_9_3: 583560761748044264
+      Female Blue cap_9_4: -2775037854206231720
+      Female Blue cap_9_5: -3614146596911275051
+      Female Blue cap_9_6: 8665191267338334103
+      Female Blue cap_EMPTY_18: 1380850160005165191
+      Female Blue cap_EMPTY_19: -5470475928180163084
+      Female Blue cap_EMPTY_28: -2270581986112084982
+      Female Blue cap_EMPTY_29: 818471611186304203
+      Female Blue cap_EMPTY_34: 8691679534061211716
+      Female Blue cap_EMPTY_35: 1908308357492826599
+      Female Blue cap_EMPTY_36: -7238673854693326100
+      Female Blue cap_EMPTY_37: -8028163512273369649
+      Female Blue cap_EMPTY_38: 4098620473949547661
+      Female Blue cap_EMPTY_39: 237998649831318907
+      Female Blue cap_EMPTY_44: 6690506416779110794
+      Female Blue cap_EMPTY_45: -7298486733755397918
+      Female Blue cap_EMPTY_46: -624905948685368840
+      Female Blue cap_EMPTY_47: 3856080704744310548
+      Female Blue cap_EMPTY_48: -4066872204431493390
+      Female Blue cap_EMPTY_49: 2941137347944509060
+      Female Blue cap_EMPTY_5: 1676520543313908683
+      Female Blue cap_EMPTY_56: -2040395283626651216
+      Female Blue cap_EMPTY_57: 5497383649451980528
+      Female Blue cap_EMPTY_58: -3677046484369738664
+      Female Blue cap_EMPTY_59: 5714804906645678548
+      Female Blue cap_EMPTY_6: -8259822286412702255
+      Female Blue cap_EMPTY_7: 2985677993375827570
+      Female Blue cap_EMPTY_8: 3939925994641205885
+      Female Blue cap_EMPTY_9: 9041463352458627000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

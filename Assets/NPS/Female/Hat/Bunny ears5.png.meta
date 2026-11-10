@@ -1,0 +1,2395 @@
+fileFormatVersion: 2
+guid: d8a69d88392226649ac00372c75c94fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8473356543819252503
+    second: Bunny ears5_0
+  - first:
+      213: 6029569540255018424
+    second: Bunny ears5_1
+  - first:
+      213: 3606159810777426706
+    second: Bunny ears5_2
+  - first:
+      213: -8882987026678438660
+    second: Bunny ears5_3
+  - first:
+      213: -1191417647223558140
+    second: Bunny ears5_4
+  - first:
+      213: 7976658008377023373
+    second: Bunny ears5_5
+  - first:
+      213: -3676831091914003628
+    second: Bunny ears5_6
+  - first:
+      213: -607643060738512952
+    second: Bunny ears5_7
+  - first:
+      213: -80364370591965221
+    second: Bunny ears5_8
+  - first:
+      213: 7352570712424187672
+    second: Bunny ears5_9
+  - first:
+      213: 6390920865328339569
+    second: Bunny ears5_10
+  - first:
+      213: 2633092238996901715
+    second: Bunny ears5_11
+  - first:
+      213: -8742870925100139335
+    second: Bunny ears5_12
+  - first:
+      213: -7271286446557101771
+    second: Bunny ears5_13
+  - first:
+      213: -4217008575944534737
+    second: Bunny ears5_14
+  - first:
+      213: 5099392491102691522
+    second: Bunny ears5_15
+  - first:
+      213: -1784191425197844044
+    second: Bunny ears5_16
+  - first:
+      213: -1265001994046559521
+    second: Bunny ears5_17
+  - first:
+      213: -6932380901374548528
+    second: Bunny ears5_18
+  - first:
+      213: 1838710108432312249
+    second: Bunny ears5_19
+  - first:
+      213: 8326681256248217222
+    second: Bunny ears5_20
+  - first:
+      213: -1559329093429252551
+    second: Bunny ears5_21
+  - first:
+      213: 5352087777763240616
+    second: Bunny ears5_22
+  - first:
+      213: -2426203120116214940
+    second: Bunny ears5_23
+  - first:
+      213: 8913254164680038947
+    second: Bunny ears5_24
+  - first:
+      213: 9000626199464412774
+    second: Bunny ears5_25
+  - first:
+      213: 9090409463860687398
+    second: Bunny ears5_26
+  - first:
+      213: -5037428666724183949
+    second: Bunny ears5_27
+  - first:
+      213: 4442468006739811161
+    second: Bunny ears5_28
+  - first:
+      213: -3353853419346414375
+    second: Bunny ears5_29
+  - first:
+      213: -3731759579893963668
+    second: Bunny ears5_30
+  - first:
+      213: 7694097092439205354
+    second: Bunny ears5_31
+  - first:
+      213: -7720258166240350977
+    second: Bunny ears5_32
+  - first:
+      213: -3794137272535894312
+    second: Bunny ears5_33
+  - first:
+      213: -8784877382933798750
+    second: Bunny ears5_34
+  - first:
+      213: 2920367399537002541
+    second: Bunny ears5_35
+  - first:
+      213: 1721380348904957958
+    second: Bunny ears5_36
+  - first:
+      213: -4647215299879659236
+    second: Bunny ears5_37
+  - first:
+      213: -7915393780565948490
+    second: Bunny ears5_38
+  - first:
+      213: -3172099200770895783
+    second: Bunny ears5_39
+  - first:
+      213: 2505011954524738109
+    second: Bunny ears5_40
+  - first:
+      213: -35164455592637032
+    second: Bunny ears5_41
+  - first:
+      213: -7049188982800002972
+    second: Bunny ears5_42
+  - first:
+      213: -5542152052670258195
+    second: Bunny ears5_43
+  - first:
+      213: 5768485628095441875
+    second: Bunny ears5_44
+  - first:
+      213: -7170096439184255489
+    second: Bunny ears5_45
+  - first:
+      213: 8622095144883647737
+    second: Bunny ears5_46
+  - first:
+      213: -5224670293836696112
+    second: Bunny ears5_47
+  - first:
+      213: 1056245920969650114
+    second: Bunny ears5_48
+  - first:
+      213: -2465946268459700610
+    second: Bunny ears5_49
+  - first:
+      213: -5748529186022337316
+    second: Bunny ears5_50
+  - first:
+      213: -602658326787002450
+    second: Bunny ears5_51
+  - first:
+      213: 3058597079337419685
+    second: Bunny ears5_52
+  - first:
+      213: 5376666672367380369
+    second: Bunny ears5_53
+  - first:
+      213: -6259758319112160356
+    second: Bunny ears5_54
+  - first:
+      213: -7552423767881311800
+    second: Bunny ears5_55
+  - first:
+      213: 1421170914012180784
+    second: Bunny ears5_56
+  - first:
+      213: 3906435756628601705
+    second: Bunny ears5_57
+  - first:
+      213: -2785292659155999590
+    second: Bunny ears5_58
+  - first:
+      213: -5960795194071971674
+    second: Bunny ears5_59
+  - first:
+      213: -5335408664779096367
+    second: Bunny ears5_60
+  - first:
+      213: 7199585197157106873
+    second: Bunny ears5_61
+  - first:
+      213: 2699251802257015583
+    second: Bunny ears5_62
+  - first:
+      213: -7591474093689270085
+    second: Bunny ears5_63
+  - first:
+      213: 3558392005796271199
+    second: Bunny ears5_64
+  - first:
+      213: -9111343200723048801
+    second: Bunny ears5_65
+  - first:
+      213: -8075331946647355023
+    second: Bunny ears5_66
+  - first:
+      213: 3844474702702030743
+    second: Bunny ears5_67
+  - first:
+      213: 5562470740907428471
+    second: Bunny ears5_68
+  - first:
+      213: -7683717855675755014
+    second: Bunny ears5_69
+  - first:
+      213: 1189312183720371416
+    second: Bunny ears5_70
+  - first:
+      213: -7144953668761996013
+    second: Bunny ears5_71
+  - first:
+      213: -3624092207847295768
+    second: Bunny ears5_72
+  - first:
+      213: -8214177622031535623
+    second: Bunny ears5_73
+  - first:
+      213: -275612629240883957
+    second: Bunny ears5_74
+  - first:
+      213: -8848984380624794974
+    second: Bunny ears5_75
+  - first:
+      213: -8748592910546343199
+    second: Bunny ears5_76
+  - first:
+      213: -7360807223836167807
+    second: Bunny ears5_77
+  - first:
+      213: 994801812492777250
+    second: Bunny ears5_78
+  - first:
+      213: -2245516194120833633
+    second: Bunny ears5_79
+  - first:
+      213: -7327510790148451395
+    second: Bunny ears5_80
+  - first:
+      213: -1251352834328609685
+    second: Bunny ears5_81
+  - first:
+      213: 5203887634955612157
+    second: Bunny ears5_82
+  - first:
+      213: -3005918670433592031
+    second: Bunny ears5_83
+  - first:
+      213: -602678835378330597
+    second: Bunny ears5_84
+  - first:
+      213: -9029678501158173536
+    second: Bunny ears5_85
+  - first:
+      213: 6970115447586309721
+    second: Bunny ears5_86
+  - first:
+      213: 117514494107798470
+    second: Bunny ears5_87
+  - first:
+      213: 5184404710996651400
+    second: Bunny ears5_88
+  - first:
+      213: -902605966598650215
+    second: Bunny ears5_0_6
+  - first:
+      213: -5173504057486816178
+    second: Bunny ears5_1_6
+  - first:
+      213: 5776615216908739973
+    second: Bunny ears5_2_6
+  - first:
+      213: -439998737694224160
+    second: Bunny ears5_3_6
+  - first:
+      213: -1465110635362730625
+    second: Bunny ears5_4_6
+  - first:
+      213: 2952214810750055935
+    second: Bunny ears5_5_6
+  - first:
+      213: -4611619389303318165
+    second: Bunny ears5_6_6
+  - first:
+      213: 874403772742858212
+    second: Bunny ears5_7_6
+  - first:
+      213: -2416335273420008686
+    second: Bunny ears5_8_6
+  - first:
+      213: 4773816496450313972
+    second: Bunny ears5_9_6
+  - first:
+      213: -4690626316848786207
+    second: Bunny ears5_0_5
+  - first:
+      213: -6800425271411058330
+    second: Bunny ears5_1_5
+  - first:
+      213: -8919075345885720053
+    second: Bunny ears5_2_5
+  - first:
+      213: 4295174989700071888
+    second: Bunny ears5_3_5
+  - first:
+      213: 281826712855565357
+    second: Bunny ears5_4_5
+  - first:
+      213: 9009058657353032623
+    second: Bunny ears5_5_5
+  - first:
+      213: 4992991443474722387
+    second: Bunny ears5_6_5
+  - first:
+      213: -954274303907849019
+    second: Bunny ears5_7_5
+  - first:
+      213: -3597107326144511324
+    second: Bunny ears5_8_5
+  - first:
+      213: -6499906445133771667
+    second: Bunny ears5_9_5
+  - first:
+      213: 973428381090998425
+    second: Bunny ears5_0_4
+  - first:
+      213: 637514061591245189
+    second: Bunny ears5_1_4
+  - first:
+      213: 2773213261372038606
+    second: Bunny ears5_2_4
+  - first:
+      213: 6726500687903111341
+    second: Bunny ears5_3_4
+  - first:
+      213: 4017423265474511940
+    second: Bunny ears5_4_4
+  - first:
+      213: 762139210711237189
+    second: Bunny ears5_5_4
+  - first:
+      213: 3648899989208480816
+    second: Bunny ears5_6_4
+  - first:
+      213: -4268932533051446894
+    second: Bunny ears5_7_4
+  - first:
+      213: -3600858431978252303
+    second: Bunny ears5_8_4
+  - first:
+      213: 5466387735800266039
+    second: Bunny ears5_9_4
+  - first:
+      213: 306621899767547808
+    second: Bunny ears5_0_3
+  - first:
+      213: -306351718903244848
+    second: Bunny ears5_1_3
+  - first:
+      213: -6055662642982324201
+    second: Bunny ears5_2_3
+  - first:
+      213: 6609647326958681101
+    second: Bunny ears5_3_3
+  - first:
+      213: 136969681949367865
+    second: Bunny ears5_4_3
+  - first:
+      213: -2757877614058052558
+    second: Bunny ears5_5_3
+  - first:
+      213: 228662263810235396
+    second: Bunny ears5_6_3
+  - first:
+      213: 2798442988973172645
+    second: Bunny ears5_7_3
+  - first:
+      213: -1635995858268982743
+    second: Bunny ears5_8_3
+  - first:
+      213: 3601087161396914158
+    second: Bunny ears5_9_3
+  - first:
+      213: 632157515580619112
+    second: Bunny ears5_0_2
+  - first:
+      213: -3994289063148601472
+    second: Bunny ears5_1_2
+  - first:
+      213: -1721426346817408764
+    second: Bunny ears5_2_2
+  - first:
+      213: -6168363755483424172
+    second: Bunny ears5_3_2
+  - first:
+      213: 4072693670828889566
+    second: Bunny ears5_4_2
+  - first:
+      213: 6479387866141150815
+    second: Bunny ears5_5_2
+  - first:
+      213: -5080706460696320297
+    second: Bunny ears5_6_2
+  - first:
+      213: -4509737012194265974
+    second: Bunny ears5_7_2
+  - first:
+      213: -1741764666661851740
+    second: Bunny ears5_8_2
+  - first:
+      213: 7097416354614041367
+    second: Bunny ears5_9_2
+  - first:
+      213: -1879551874596099500
+    second: Bunny ears5_0_1
+  - first:
+      213: -794708276003667455
+    second: Bunny ears5_1_1
+  - first:
+      213: 1832039592646311708
+    second: Bunny ears5_2_1
+  - first:
+      213: -6633446800298888140
+    second: Bunny ears5_3_1
+  - first:
+      213: 3195285604162292076
+    second: Bunny ears5_4_1
+  - first:
+      213: 3286314518550419785
+    second: Bunny ears5_5_1
+  - first:
+      213: 1324669515460120325
+    second: Bunny ears5_6_1
+  - first:
+      213: -8779670985027858763
+    second: Bunny ears5_7_1
+  - first:
+      213: -7177167293138129107
+    second: Bunny ears5_8_1
+  - first:
+      213: 244155708140273263
+    second: Bunny ears5_9_1
+  - first:
+      213: -7225387754440382204
+    second: Bunny ears5_0_0
+  - first:
+      213: -5241346296161540113
+    second: Bunny ears5_1_0
+  - first:
+      213: -948358838280503276
+    second: Bunny ears5_2_0
+  - first:
+      213: -2661028241676945917
+    second: Bunny ears5_3_0
+  - first:
+      213: 1888164029346029889
+    second: Bunny ears5_4_0
+  - first:
+      213: 8672367432970644108
+    second: Bunny ears5_5_0
+  - first:
+      213: 6807677900921184993
+    second: Bunny ears5_6_0
+  - first:
+      213: 7687477073684818115
+    second: Bunny ears5_7_0
+  - first:
+      213: -4188945432811103971
+    second: Bunny ears5_8_0
+  - first:
+      213: -2906640962514926808
+    second: Bunny ears5_9_0
+  - first:
+      213: -4944008728697734804
+    second: Bunny ears5_EMPTY_5
+  - first:
+      213: -7858797546219398282
+    second: Bunny ears5_EMPTY_6
+  - first:
+      213: -4685961097317465887
+    second: Bunny ears5_EMPTY_7
+  - first:
+      213: 2058858980792865600
+    second: Bunny ears5_EMPTY_8
+  - first:
+      213: -6260031168767492797
+    second: Bunny ears5_EMPTY_9
+  - first:
+      213: -1104533164212566505
+    second: Bunny ears5_EMPTY_18
+  - first:
+      213: -8458207064235131248
+    second: Bunny ears5_EMPTY_19
+  - first:
+      213: 4662347425071639000
+    second: Bunny ears5_EMPTY_28
+  - first:
+      213: -7944512057679867485
+    second: Bunny ears5_EMPTY_29
+  - first:
+      213: -32441186751946380
+    second: Bunny ears5_EMPTY_34
+  - first:
+      213: -9040685763963924615
+    second: Bunny ears5_EMPTY_35
+  - first:
+      213: 4228866658942397699
+    second: Bunny ears5_EMPTY_36
+  - first:
+      213: 1315862095159044044
+    second: Bunny ears5_EMPTY_37
+  - first:
+      213: 201490412829129407
+    second: Bunny ears5_EMPTY_38
+  - first:
+      213: -8849806148260772174
+    second: Bunny ears5_EMPTY_39
+  - first:
+      213: -8205435755858616980
+    second: Bunny ears5_EMPTY_44
+  - first:
+      213: -7488198151548276415
+    second: Bunny ears5_EMPTY_45
+  - first:
+      213: -9081610722064809848
+    second: Bunny ears5_EMPTY_46
+  - first:
+      213: 2433796927706563218
+    second: Bunny ears5_EMPTY_47
+  - first:
+      213: 6341808575876752976
+    second: Bunny ears5_EMPTY_48
+  - first:
+      213: 8082452416617693715
+    second: Bunny ears5_EMPTY_49
+  - first:
+      213: -3772181648407589879
+    second: Bunny ears5_EMPTY_56
+  - first:
+      213: -6882658663130455170
+    second: Bunny ears5_EMPTY_57
+  - first:
+      213: 9089571377630111658
+    second: Bunny ears5_EMPTY_58
+  - first:
+      213: 1304328223156746537
+    second: Bunny ears5_EMPTY_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bunny ears5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713049102e8679570800000000000000
+      internalID: 8473356543819252503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd6a630d855da350800000000000000
+      internalID: 6029569540255018424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21badacdd37ab0230800000000000000
+      internalID: 3606159810777426706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4ad620d5a49b480800000000000000
+      internalID: -8882987026678438660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400bb1656fb377fe0800000000000000
+      internalID: -1191417647223558140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c697a87714a536bb0800000000000000
+      internalID: -4944008728697734804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b91e7f441ffe290800000000000000
+      internalID: -7858797546219398282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0c713953f18feb0800000000000000
+      internalID: -4685961097317465887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04318c0b559829c10800000000000000
+      internalID: 2058858980792865600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d7dbea1d6ef19a0800000000000000
+      internalID: -6260031168767492797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a178d9aac11b850800000000000000
+      internalID: 6390920865328339569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f8f3ec07f9a8420800000000000000
+      internalID: 2633092238996901715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcb05027351ba680800000000000000
+      internalID: -8742870925100139335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5310ad47083371b90800000000000000
+      internalID: -7271286446557101771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25dc08fa0d2a75c0800000000000000
+      internalID: -4217008575944534737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c06872f37ea4c640800000000000000
+      internalID: 5099392491102691522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9d8c11a574d37e0800000000000000
+      internalID: -1784191425197844044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaa1b0836fc17ee0800000000000000
+      internalID: -1265001994046559521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716c87070f8eba0f0800000000000000
+      internalID: -1104533164212566505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eb0931d796e9a80800000000000000
+      internalID: -8458207064235131248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e04946c705e8370800000000000000
+      internalID: 8326681256248217222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ea73283762c5ae0800000000000000
+      internalID: -1559329093429252551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaa9403a7f664a40800000000000000
+      internalID: 5352087777763240616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4635788ed15645ed0800000000000000
+      internalID: -2426203120116214940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a5686307d32bb70800000000000000
+      internalID: 8913254164680038947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666862f47d5a8ec70800000000000000
+      internalID: 9000626199464412774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622f34c8e3f972e70800000000000000
+      internalID: 9090409463860687398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370198a2155771ab0800000000000000
+      internalID: -5037428666724183949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d92adae74cf3b040800000000000000
+      internalID: 4662347425071639000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a11f28106c6fb190800000000000000
+      internalID: -7944512057679867485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64624d0f60263cc0800000000000000
+      internalID: -3731759579893963668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5643e5a8ce6ca60800000000000000
+      internalID: 7694097092439205354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc6feaf9122cd490800000000000000
+      internalID: -7720258166240350977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6bd69b044885bc0800000000000000
+      internalID: -3794137272535894312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471ee8b99eebc8ff0800000000000000
+      internalID: -32441186751946380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fcff08238098280800000000000000
+      internalID: -9040685763963924615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d21c022d3ffaa30800000000000000
+      internalID: 4228866658942397699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc72b539a91e24210800000000000000
+      internalID: 1315862095159044044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbab3528676dbc200800000000000000
+      internalID: 201490412829129407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b649d9423c2f2580800000000000000
+      internalID: -8849806148260772174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32dd8bb91793c220800000000000000
+      internalID: 2505011954524738109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d4eab2d12138ff0800000000000000
+      internalID: -35164455592637032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460db95e7ff3c2e90800000000000000
+      internalID: -7049188982800002972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3236952125613b0800000000000000
+      internalID: -5542152052670258195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d12c087af602e80800000000000000
+      internalID: -8205435755858616980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1417a319473941890800000000000000
+      internalID: -7488198151548276415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880c2fa2a23a7f180800000000000000
+      internalID: -9081610722064809848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2920363396596c120800000000000000
+      internalID: 2433796927706563218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056e8a6ac41a20850800000000000000
+      internalID: 6341808575876752976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312ce7676a3aa2070800000000000000
+      internalID: 8082452416617693715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd45c2e892f1930b0800000000000000
+      internalID: -5748529186022337316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafedeed17de2a7f0800000000000000
+      internalID: -602658326787002450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a344f8a6d1527a20800000000000000
+      internalID: 3058597079337419685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197a32a0ad1cd9a40800000000000000
+      internalID: 5376666672367380369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bf58179fed029a0800000000000000
+      internalID: -6259758319112160356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9973af896603790800000000000000
+      internalID: -7552423767881311800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c0b62d6c486abc0800000000000000
+      internalID: -3772181648407589879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7328d96962eb70a0800000000000000
+      internalID: -6882658663130455170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa763346205a42e70800000000000000
+      internalID: 9089571377630111658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92936cbbb97e91210800000000000000
+      internalID: 1304328223156746537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1defc4c6612d4f5b0800000000000000
+      internalID: -5335408664779096367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4c5be77901ae360800000000000000
+      internalID: 7199585197157106873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13ccd0863ba57520800000000000000
+      internalID: 2699251802257015583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0121c788aa5a690800000000000000
+      internalID: -7591474093689270085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5493151da2f16130800000000000000
+      internalID: 3558392005796271199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f966b3602a10e8180800000000000000
+      internalID: -9111343200723048801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17188b42168aeef80800000000000000
+      internalID: -8075331946647355023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fa78a8f515a5530800000000000000
+      internalID: 3844474702702030743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a8a49eaadd13d40800000000000000
+      internalID: 5562470740907428471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny ears5_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5de120253fd5590800000000000000
+      internalID: -7683717855675755014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bunny ears5_0: 8473356543819252503
+      Bunny ears5_0_0: -7225387754440382204
+      Bunny ears5_0_1: -1879551874596099500
+      Bunny ears5_0_2: 632157515580619112
+      Bunny ears5_0_3: 306621899767547808
+      Bunny ears5_0_4: 973428381090998425
+      Bunny ears5_0_5: -4690626316848786207
+      Bunny ears5_0_6: -902605966598650215
+      Bunny ears5_1: 6029569540255018424
+      Bunny ears5_10: 6390920865328339569
+      Bunny ears5_11: 2633092238996901715
+      Bunny ears5_12: -8742870925100139335
+      Bunny ears5_13: -7271286446557101771
+      Bunny ears5_14: -4217008575944534737
+      Bunny ears5_15: 5099392491102691522
+      Bunny ears5_16: -1784191425197844044
+      Bunny ears5_17: -1265001994046559521
+      Bunny ears5_18: -6932380901374548528
+      Bunny ears5_19: 1838710108432312249
+      Bunny ears5_1_0: -5241346296161540113
+      Bunny ears5_1_1: -794708276003667455
+      Bunny ears5_1_2: -3994289063148601472
+      Bunny ears5_1_3: -306351718903244848
+      Bunny ears5_1_4: 637514061591245189
+      Bunny ears5_1_5: -6800425271411058330
+      Bunny ears5_1_6: -5173504057486816178
+      Bunny ears5_2: 3606159810777426706
+      Bunny ears5_20: 8326681256248217222
+      Bunny ears5_21: -1559329093429252551
+      Bunny ears5_22: 5352087777763240616
+      Bunny ears5_23: -2426203120116214940
+      Bunny ears5_24: 8913254164680038947
+      Bunny ears5_25: 9000626199464412774
+      Bunny ears5_26: 9090409463860687398
+      Bunny ears5_27: -5037428666724183949
+      Bunny ears5_28: 4442468006739811161
+      Bunny ears5_29: -3353853419346414375
+      Bunny ears5_2_0: -948358838280503276
+      Bunny ears5_2_1: 1832039592646311708
+      Bunny ears5_2_2: -1721426346817408764
+      Bunny ears5_2_3: -6055662642982324201
+      Bunny ears5_2_4: 2773213261372038606
+      Bunny ears5_2_5: -8919075345885720053
+      Bunny ears5_2_6: 5776615216908739973
+      Bunny ears5_3: -8882987026678438660
+      Bunny ears5_30: -3731759579893963668
+      Bunny ears5_31: 7694097092439205354
+      Bunny ears5_32: -7720258166240350977
+      Bunny ears5_33: -3794137272535894312
+      Bunny ears5_34: -8784877382933798750
+      Bunny ears5_35: 2920367399537002541
+      Bunny ears5_36: 1721380348904957958
+      Bunny ears5_37: -4647215299879659236
+      Bunny ears5_38: -7915393780565948490
+      Bunny ears5_39: -3172099200770895783
+      Bunny ears5_3_0: -2661028241676945917
+      Bunny ears5_3_1: -6633446800298888140
+      Bunny ears5_3_2: -6168363755483424172
+      Bunny ears5_3_3: 6609647326958681101
+      Bunny ears5_3_4: 6726500687903111341
+      Bunny ears5_3_5: 4295174989700071888
+      Bunny ears5_3_6: -439998737694224160
+      Bunny ears5_4: -1191417647223558140
+      Bunny ears5_40: 2505011954524738109
+      Bunny ears5_41: -35164455592637032
+      Bunny ears5_42: -7049188982800002972
+      Bunny ears5_43: -5542152052670258195
+      Bunny ears5_44: 5768485628095441875
+      Bunny ears5_45: -7170096439184255489
+      Bunny ears5_46: 8622095144883647737
+      Bunny ears5_47: -5224670293836696112
+      Bunny ears5_48: 1056245920969650114
+      Bunny ears5_49: -2465946268459700610
+      Bunny ears5_4_0: 1888164029346029889
+      Bunny ears5_4_1: 3195285604162292076
+      Bunny ears5_4_2: 4072693670828889566
+      Bunny ears5_4_3: 136969681949367865
+      Bunny ears5_4_4: 4017423265474511940
+      Bunny ears5_4_5: 281826712855565357
+      Bunny ears5_4_6: -1465110635362730625
+      Bunny ears5_5: 7976658008377023373
+      Bunny ears5_50: -5748529186022337316
+      Bunny ears5_51: -602658326787002450
+      Bunny ears5_52: 3058597079337419685
+      Bunny ears5_53: 5376666672367380369
+      Bunny ears5_54: -6259758319112160356
+      Bunny ears5_55: -7552423767881311800
+      Bunny ears5_56: 1421170914012180784
+      Bunny ears5_57: 3906435756628601705
+      Bunny ears5_58: -2785292659155999590
+      Bunny ears5_59: -5960795194071971674
+      Bunny ears5_5_0: 8672367432970644108
+      Bunny ears5_5_1: 3286314518550419785
+      Bunny ears5_5_2: 6479387866141150815
+      Bunny ears5_5_3: -2757877614058052558
+      Bunny ears5_5_4: 762139210711237189
+      Bunny ears5_5_5: 9009058657353032623
+      Bunny ears5_5_6: 2952214810750055935
+      Bunny ears5_6: -3676831091914003628
+      Bunny ears5_60: -5335408664779096367
+      Bunny ears5_61: 7199585197157106873
+      Bunny ears5_62: 2699251802257015583
+      Bunny ears5_63: -7591474093689270085
+      Bunny ears5_64: 3558392005796271199
+      Bunny ears5_65: -9111343200723048801
+      Bunny ears5_66: -8075331946647355023
+      Bunny ears5_67: 3844474702702030743
+      Bunny ears5_68: 5562470740907428471
+      Bunny ears5_69: -7683717855675755014
+      Bunny ears5_6_0: 6807677900921184993
+      Bunny ears5_6_1: 1324669515460120325
+      Bunny ears5_6_2: -5080706460696320297
+      Bunny ears5_6_3: 228662263810235396
+      Bunny ears5_6_4: 3648899989208480816
+      Bunny ears5_6_5: 4992991443474722387
+      Bunny ears5_6_6: -4611619389303318165
+      Bunny ears5_7: -607643060738512952
+      Bunny ears5_70: 1189312183720371416
+      Bunny ears5_71: -7144953668761996013
+      Bunny ears5_72: -3624092207847295768
+      Bunny ears5_73: -8214177622031535623
+      Bunny ears5_74: -275612629240883957
+      Bunny ears5_75: -8848984380624794974
+      Bunny ears5_76: -8748592910546343199
+      Bunny ears5_77: -7360807223836167807
+      Bunny ears5_78: 994801812492777250
+      Bunny ears5_79: -2245516194120833633
+      Bunny ears5_7_0: 7687477073684818115
+      Bunny ears5_7_1: -8779670985027858763
+      Bunny ears5_7_2: -4509737012194265974
+      Bunny ears5_7_3: 2798442988973172645
+      Bunny ears5_7_4: -4268932533051446894
+      Bunny ears5_7_5: -954274303907849019
+      Bunny ears5_7_6: 874403772742858212
+      Bunny ears5_8: -80364370591965221
+      Bunny ears5_80: -7327510790148451395
+      Bunny ears5_81: -1251352834328609685
+      Bunny ears5_82: 5203887634955612157
+      Bunny ears5_83: -3005918670433592031
+      Bunny ears5_84: -602678835378330597
+      Bunny ears5_85: -9029678501158173536
+      Bunny ears5_86: 6970115447586309721
+      Bunny ears5_87: 117514494107798470
+      Bunny ears5_88: 5184404710996651400
+      Bunny ears5_8_0: -4188945432811103971
+      Bunny ears5_8_1: -7177167293138129107
+      Bunny ears5_8_2: -1741764666661851740
+      Bunny ears5_8_3: -1635995858268982743
+      Bunny ears5_8_4: -3600858431978252303
+      Bunny ears5_8_5: -3597107326144511324
+      Bunny ears5_8_6: -2416335273420008686
+      Bunny ears5_9: 7352570712424187672
+      Bunny ears5_9_0: -2906640962514926808
+      Bunny ears5_9_1: 244155708140273263
+      Bunny ears5_9_2: 7097416354614041367
+      Bunny ears5_9_3: 3601087161396914158
+      Bunny ears5_9_4: 5466387735800266039
+      Bunny ears5_9_5: -6499906445133771667
+      Bunny ears5_9_6: 4773816496450313972
+      Bunny ears5_EMPTY_18: -1104533164212566505
+      Bunny ears5_EMPTY_19: -8458207064235131248
+      Bunny ears5_EMPTY_28: 4662347425071639000
+      Bunny ears5_EMPTY_29: -7944512057679867485
+      Bunny ears5_EMPTY_34: -32441186751946380
+      Bunny ears5_EMPTY_35: -9040685763963924615
+      Bunny ears5_EMPTY_36: 4228866658942397699
+      Bunny ears5_EMPTY_37: 1315862095159044044
+      Bunny ears5_EMPTY_38: 201490412829129407
+      Bunny ears5_EMPTY_39: -8849806148260772174
+      Bunny ears5_EMPTY_44: -8205435755858616980
+      Bunny ears5_EMPTY_45: -7488198151548276415
+      Bunny ears5_EMPTY_46: -9081610722064809848
+      Bunny ears5_EMPTY_47: 2433796927706563218
+      Bunny ears5_EMPTY_48: 6341808575876752976
+      Bunny ears5_EMPTY_49: 8082452416617693715
+      Bunny ears5_EMPTY_5: -4944008728697734804
+      Bunny ears5_EMPTY_56: -3772181648407589879
+      Bunny ears5_EMPTY_57: -6882658663130455170
+      Bunny ears5_EMPTY_58: 9089571377630111658
+      Bunny ears5_EMPTY_59: 1304328223156746537
+      Bunny ears5_EMPTY_6: -7858797546219398282
+      Bunny ears5_EMPTY_7: -4685961097317465887
+      Bunny ears5_EMPTY_8: 2058858980792865600
+      Bunny ears5_EMPTY_9: -6260031168767492797
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

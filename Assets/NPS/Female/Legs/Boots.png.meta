@@ -1,0 +1,2242 @@
+fileFormatVersion: 2
+guid: 497f12d602c045b4cabefeb12401999b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7902364575885455685
+    second: Boots_0
+  - first:
+      213: 2169108831768422281
+    second: Boots_1
+  - first:
+      213: 2735168142104648615
+    second: Boots_2
+  - first:
+      213: 8685976663460313974
+    second: Boots_3
+  - first:
+      213: -8560114170687154983
+    second: Boots_4
+  - first:
+      213: -3666419239443730923
+    second: Boots_5
+  - first:
+      213: 2133949394721856815
+    second: Boots_6
+  - first:
+      213: 8965818648321018345
+    second: Boots_7
+  - first:
+      213: 6186074670415576633
+    second: Boots_8
+  - first:
+      213: 1103875800500833553
+    second: Boots_9
+  - first:
+      213: 3403540703943192008
+    second: Boots_10
+  - first:
+      213: 2905414361243516694
+    second: Boots_11
+  - first:
+      213: 4425101604600841870
+    second: Boots_12
+  - first:
+      213: -2689558595535551029
+    second: Boots_13
+  - first:
+      213: -1164056946651051195
+    second: Boots_14
+  - first:
+      213: -3058764527447439876
+    second: Boots_15
+  - first:
+      213: -3091976126788844960
+    second: Boots_16
+  - first:
+      213: 6342780297633576388
+    second: Boots_17
+  - first:
+      213: 2477961729312797318
+    second: Boots_18
+  - first:
+      213: -4281239568092322366
+    second: Boots_19
+  - first:
+      213: 6952563267458692082
+    second: Boots_20
+  - first:
+      213: -4832156238759940304
+    second: Boots_21
+  - first:
+      213: -838101024702443590
+    second: Boots_22
+  - first:
+      213: 9069710170448035313
+    second: Boots_23
+  - first:
+      213: -4201751053834341053
+    second: Boots_24
+  - first:
+      213: 3574826683130064258
+    second: Boots_25
+  - first:
+      213: 5041004634807429981
+    second: Boots_26
+  - first:
+      213: -6034264318402975256
+    second: Boots_27
+  - first:
+      213: 5731664962281880093
+    second: Boots_28
+  - first:
+      213: -8004997777711428296
+    second: Boots_29
+  - first:
+      213: 4958635752044304497
+    second: Boots_30
+  - first:
+      213: -871129930021606530
+    second: Boots_31
+  - first:
+      213: -3893622323031814572
+    second: Boots_32
+  - first:
+      213: -4116364996239804864
+    second: Boots_33
+  - first:
+      213: 751269262179298687
+    second: Boots_34
+  - first:
+      213: 6038475192482454091
+    second: Boots_35
+  - first:
+      213: -3980242570784549983
+    second: Boots_36
+  - first:
+      213: 490451208488619268
+    second: Boots_37
+  - first:
+      213: -2615925282413513778
+    second: Boots_38
+  - first:
+      213: -3131671676920270612
+    second: Boots_39
+  - first:
+      213: -8443259892083204731
+    second: Boots_40
+  - first:
+      213: -4922406473249449295
+    second: Boots_41
+  - first:
+      213: 6127249683791571989
+    second: Boots_42
+  - first:
+      213: 6341258220722900628
+    second: Boots_43
+  - first:
+      213: -7443588123016136833
+    second: Boots_44
+  - first:
+      213: -3865046976218737488
+    second: Boots_45
+  - first:
+      213: -4215001753663947170
+    second: Boots_46
+  - first:
+      213: 5347323401284685795
+    second: Boots_47
+  - first:
+      213: -1668029626300010909
+    second: Boots_48
+  - first:
+      213: 7474514296314586244
+    second: Boots_49
+  - first:
+      213: -5817505964590854809
+    second: Boots_50
+  - first:
+      213: 5027641171292092765
+    second: Boots_51
+  - first:
+      213: 8917889613506608084
+    second: Boots_52
+  - first:
+      213: -4277480716022168120
+    second: Boots_53
+  - first:
+      213: 5150619759139115113
+    second: Boots_54
+  - first:
+      213: 814515111753874684
+    second: Boots_55
+  - first:
+      213: 4311181822954794035
+    second: Boots_56
+  - first:
+      213: -6563623640689676619
+    second: Boots_57
+  - first:
+      213: 8352194636078131765
+    second: Boots_58
+  - first:
+      213: -5872029607154489002
+    second: Boots_59
+  - first:
+      213: -5361968073492258567
+    second: Boots_60
+  - first:
+      213: 2367673671928270598
+    second: Boots_61
+  - first:
+      213: 1743207917554854896
+    second: Boots_0_6
+  - first:
+      213: 7821883653908457692
+    second: Boots_1_6
+  - first:
+      213: 8657777998131704087
+    second: Boots_2_6
+  - first:
+      213: 2841190468779649057
+    second: Boots_3_6
+  - first:
+      213: 8689804339244579054
+    second: Boots_4_6
+  - first:
+      213: 2724423442734204568
+    second: Boots_5_6
+  - first:
+      213: -445339598361554127
+    second: Boots_6_6
+  - first:
+      213: -3428499226615531348
+    second: Boots_7_6
+  - first:
+      213: -6779048490945122761
+    second: Boots_8_6
+  - first:
+      213: -9137373859506682524
+    second: Boots_9_6
+  - first:
+      213: 6644933547347040925
+    second: Boots_0_5
+  - first:
+      213: -541102647035398943
+    second: Boots_1_5
+  - first:
+      213: 6981117648702151257
+    second: Boots_2_5
+  - first:
+      213: 2772369410967347971
+    second: Boots_3_5
+  - first:
+      213: 1536862697455834723
+    second: Boots_4_5
+  - first:
+      213: 5485992546391757810
+    second: Boots_5_5
+  - first:
+      213: 3105260194532158156
+    second: Boots_6_5
+  - first:
+      213: 2434902056190112498
+    second: Boots_7_5
+  - first:
+      213: -2625260951958977281
+    second: Boots_8_5
+  - first:
+      213: 5105704558895892743
+    second: Boots_9_5
+  - first:
+      213: -4981783602882994356
+    second: Boots_0_4
+  - first:
+      213: 3557244863237797071
+    second: Boots_1_4
+  - first:
+      213: 4139132586982325910
+    second: Boots_2_4
+  - first:
+      213: 7341392611957157037
+    second: Boots_3_4
+  - first:
+      213: -1161746762544392337
+    second: Boots_4_4
+  - first:
+      213: -6653746698441303993
+    second: Boots_5_4
+  - first:
+      213: 1255860869714708808
+    second: Boots_6_4
+  - first:
+      213: -1687840755872678391
+    second: Boots_7_4
+  - first:
+      213: -1772846124287466725
+    second: Boots_8_4
+  - first:
+      213: -8771608470116076580
+    second: Boots_9_4
+  - first:
+      213: -8458662715016393235
+    second: Boots_0_3
+  - first:
+      213: 7312964482246601727
+    second: Boots_1_3
+  - first:
+      213: -7879132071112720126
+    second: Boots_2_3
+  - first:
+      213: 5283552144111325866
+    second: Boots_3_3
+  - first:
+      213: 2151779644330022022
+    second: Boots_4_3
+  - first:
+      213: 4681571967456231596
+    second: Boots_5_3
+  - first:
+      213: -7370849145208723648
+    second: Boots_6_3
+  - first:
+      213: 597499122106948104
+    second: Boots_7_3
+  - first:
+      213: -2468627301012436148
+    second: Boots_8_3
+  - first:
+      213: -1412192886666688033
+    second: Boots_9_3
+  - first:
+      213: 6769499022621796790
+    second: Boots_0_2
+  - first:
+      213: 2130671638278004860
+    second: Boots_1_2
+  - first:
+      213: -1328015418980219912
+    second: Boots_2_2
+  - first:
+      213: 5808194559449326605
+    second: Boots_3_2
+  - first:
+      213: 5484104917545877346
+    second: Boots_4_2
+  - first:
+      213: 5797229372308053767
+    second: Boots_5_2
+  - first:
+      213: -5559794726393211924
+    second: Boots_6_2
+  - first:
+      213: -2543470223607613953
+    second: Boots_7_2
+  - first:
+      213: -294604268935506465
+    second: Boots_8_2
+  - first:
+      213: 570074224110574315
+    second: Boots_9_2
+  - first:
+      213: 4722524806248928963
+    second: Boots_0_1
+  - first:
+      213: 675563197688666580
+    second: Boots_1_1
+  - first:
+      213: -7317776333245961267
+    second: Boots_2_1
+  - first:
+      213: -3948595353249093660
+    second: Boots_3_1
+  - first:
+      213: 6924686546823812542
+    second: Boots_4_1
+  - first:
+      213: -544313135257409980
+    second: Boots_5_1
+  - first:
+      213: -8844546076301560724
+    second: Boots_6_1
+  - first:
+      213: 4493032154405883373
+    second: Boots_7_1
+  - first:
+      213: -3815092718768644699
+    second: Boots_8_1
+  - first:
+      213: 2437948550919614640
+    second: Boots_9_1
+  - first:
+      213: -1936966704847482299
+    second: Boots_0_0
+  - first:
+      213: 9202697477182796419
+    second: Boots_1_0
+  - first:
+      213: 2873324603513775769
+    second: Boots_2_0
+  - first:
+      213: -3910015699832886551
+    second: Boots_3_0
+  - first:
+      213: -3742406409851420463
+    second: Boots_4_0
+  - first:
+      213: 8323964525777357258
+    second: Boots_5_0
+  - first:
+      213: 5814012412616094510
+    second: Boots_6_0
+  - first:
+      213: -7837904259464793552
+    second: Boots_7_0
+  - first:
+      213: -2839725504806376990
+    second: Boots_8_0
+  - first:
+      213: -232963657506997069
+    second: Boots_9_0
+  - first:
+      213: -8815785416864143373
+    second: Boots_EMPTY_5
+  - first:
+      213: -6352101191020497831
+    second: Boots_EMPTY_6
+  - first:
+      213: 5538110644733674579
+    second: Boots_EMPTY_7
+  - first:
+      213: -874764332272720750
+    second: Boots_EMPTY_8
+  - first:
+      213: 401616731386651556
+    second: Boots_EMPTY_9
+  - first:
+      213: -7868743765088929860
+    second: Boots_EMPTY_18
+  - first:
+      213: 6034677818170481768
+    second: Boots_EMPTY_19
+  - first:
+      213: -8065184871856458369
+    second: Boots_EMPTY_28
+  - first:
+      213: -1109349988824741086
+    second: Boots_EMPTY_29
+  - first:
+      213: 1599362178739586834
+    second: Boots_EMPTY_34
+  - first:
+      213: 4900831453917160377
+    second: Boots_EMPTY_35
+  - first:
+      213: 3865071126790077530
+    second: Boots_EMPTY_36
+  - first:
+      213: -3005417247242421852
+    second: Boots_EMPTY_37
+  - first:
+      213: 6228852769687297971
+    second: Boots_EMPTY_38
+  - first:
+      213: 3912927409481532582
+    second: Boots_EMPTY_39
+  - first:
+      213: -1249649039644229556
+    second: Boots_EMPTY_44
+  - first:
+      213: 7797842291098329899
+    second: Boots_EMPTY_45
+  - first:
+      213: -4152186478286508672
+    second: Boots_EMPTY_46
+  - first:
+      213: -3563585293317689125
+    second: Boots_EMPTY_47
+  - first:
+      213: 974947167843987056
+    second: Boots_EMPTY_48
+  - first:
+      213: 6063949028659711985
+    second: Boots_EMPTY_49
+  - first:
+      213: -4577793512772073155
+    second: Boots_EMPTY_56
+  - first:
+      213: -8769524884242427334
+    second: Boots_EMPTY_57
+  - first:
+      213: -3362010936241405577
+    second: Boots_EMPTY_58
+  - first:
+      213: 2064048349364288574
+    second: Boots_EMPTY_59
+  - first:
+      213: 1438494549046924217
+    second: Boots_62
+  - first:
+      213: 3070796997815236970
+    second: Boots_63
+  - first:
+      213: 7168437731827487327
+    second: Boots_64
+  - first:
+      213: 5458426673699875854
+    second: Boots_65
+  - first:
+      213: -4129019409624448754
+    second: Boots_66
+  - first:
+      213: 8631031299863283492
+    second: Boots_67
+  - first:
+      213: 7185842730069685089
+    second: Boots_68
+  - first:
+      213: -7574690798724834877
+    second: Boots_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boots_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541784796b6daad60800000000000000
+      internalID: 7902364575885455685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98728b47df83a1e10800000000000000
+      internalID: 2169108831768422281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abdc170fe445f520800000000000000
+      internalID: 2735168142104648615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b72e051c9ca8870800000000000000
+      internalID: 8685976663460313974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d49763e38d543980800000000000000
+      internalID: -8560114170687154983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f76eb31fd908a580800000000000000
+      internalID: -8815785416864143373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95433e32f9dc8d7a0800000000000000
+      internalID: -6352101191020497831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354092a0a425bdc40800000000000000
+      internalID: 5538110644733674579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294e3b879763cd3f0800000000000000
+      internalID: -874764332272720750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3a7221a44d29500800000000000000
+      internalID: 401616731386651556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cded1dcc3ecb3f20800000000000000
+      internalID: 3403540703943192008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ffc3fc7fa125820800000000000000
+      internalID: 2905414361243516694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e868e35d67e196d30800000000000000
+      internalID: 4425101604600841870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5418e05b4ccaad0800000000000000
+      internalID: -2689558595535551029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bc98cdf5078dfe0800000000000000
+      internalID: -1164056946651051195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf50ee94ed51d85d0800000000000000
+      internalID: -3058764527447439876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06243cc38181715d0800000000000000
+      internalID: -3091976126788844960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5bbc04315160850800000000000000
+      internalID: 6342780297633576388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7fd4d6c3b9cc290800000000000000
+      internalID: -7868743765088929860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c1bf5a08b7fb350800000000000000
+      internalID: 6034677818170481768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3fd4b94777c7060800000000000000
+      internalID: 6952563267458692082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fa681b08bb0fcb0800000000000000
+      internalID: -4832156238759940304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf48b8fe877e54f0800000000000000
+      internalID: -838101024702443590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd7d4db8551edd70800000000000000
+      internalID: 9069710170448035313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345b499ada160b5c0800000000000000
+      internalID: -4201751053834341053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d2e859de55c9130800000000000000
+      internalID: 3574826683130064258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b6bc8c10f35f540800000000000000
+      internalID: 5041004634807429981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9a6c4c29cf14ca0800000000000000
+      internalID: -6034264318402975256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7534291715b21090800000000000000
+      internalID: -8065184871856458369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b8480101cca90f0800000000000000
+      internalID: -1109349988824741086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178172bc1fc90d440800000000000000
+      internalID: 4958635752044304497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7be9dfa1ff19e3f0800000000000000
+      internalID: -871129930021606530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e4822602317f9c0800000000000000
+      internalID: -3893622323031814572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046364968dbbfd6c0800000000000000
+      internalID: -4116364996239804864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217c7f28d63123610800000000000000
+      internalID: 1599362178739586834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b32bcadd30430440800000000000000
+      internalID: 4900831453917160377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cf0f736bd73a530800000000000000
+      internalID: 3865071126790077530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a97840efec9a46d0800000000000000
+      internalID: -3005417247242421852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf5b679794517650800000000000000
+      internalID: 6228852769687297971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a449025fb28d4630800000000000000
+      internalID: 3912927409481532582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dd31accd383da80800000000000000
+      internalID: -8443259892083204731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba12e1846910bbb0800000000000000
+      internalID: -4922406473249449295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c6584bf1d580550800000000000000
+      internalID: 6127249683791571989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ec63b11cca00850800000000000000
+      internalID: 6341258220722900628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c400912c1da58aee0800000000000000
+      internalID: -1249649039644229556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b232f6fbf30873c60800000000000000
+      internalID: 7797842291098329899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d6d80b5687066c0800000000000000
+      internalID: -4152186478286508672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd03ef07e0a9b8ec0800000000000000
+      internalID: -3563585293317689125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e2d1e9845b78d00800000000000000
+      internalID: 974947167843987056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff465d6389772450800000000000000
+      internalID: 6063949028659711985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d88ddc521144fa0800000000000000
+      internalID: -5817505964590854809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d597ef8f105c5c540800000000000000
+      internalID: 5027641171292092765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbf43fba55b2cb70800000000000000
+      internalID: 8917889613506608084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c54aeba3f553a4c0800000000000000
+      internalID: -4277480716022168120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960589cb16daa7740800000000000000
+      internalID: 5150619759139115113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcf64cbd2dbd4b00800000000000000
+      internalID: 814515111753874684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d390228ed096870c0800000000000000
+      internalID: -4577793512772073155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3218c9a4936c4680800000000000000
+      internalID: -8769524884242427334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7714a5ebddcb751d0800000000000000
+      internalID: -3362010936241405577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cf617b909f4ac10800000000000000
+      internalID: 2064048349364288574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0228232767695b0800000000000000
+      internalID: -5361968073492258567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f445ff8aaabd020800000000000000
+      internalID: 2367673671928270598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3174fbb2f86f310800000000000000
+      internalID: 1438494549046924217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69fc188999ad9a20800000000000000
+      internalID: 3070796997815236970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52951813286b7360800000000000000
+      internalID: 7168437731827487327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ce566c32a30cb40800000000000000
+      internalID: 5458426673699875854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0144a239b6c2b6c0800000000000000
+      internalID: -4129019409624448754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42701a1fc3597c770800000000000000
+      internalID: 8631031299863283492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16370a904ed39b360800000000000000
+      internalID: 7185842730069685089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9169ad9da41e690800000000000000
+      internalID: -7574690798724834877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3d35ed1d3de327b429af9c37312e2336
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":80.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Boots_0: 7902364575885455685
+      Boots_1: 2169108831768422281
+      Boots_10: 3403540703943192008
+      Boots_11: 2905414361243516694
+      Boots_12: 4425101604600841870
+      Boots_13: -2689558595535551029
+      Boots_14: -1164056946651051195
+      Boots_15: -3058764527447439876
+      Boots_16: -3091976126788844960
+      Boots_17: 6342780297633576388
+      Boots_18: 2477961729312797318
+      Boots_19: -4281239568092322366
+      Boots_2: 2735168142104648615
+      Boots_20: 6952563267458692082
+      Boots_21: -4832156238759940304
+      Boots_22: -838101024702443590
+      Boots_23: 9069710170448035313
+      Boots_24: -4201751053834341053
+      Boots_25: 3574826683130064258
+      Boots_26: 5041004634807429981
+      Boots_27: -6034264318402975256
+      Boots_28: 5731664962281880093
+      Boots_29: -8004997777711428296
+      Boots_3: 8685976663460313974
+      Boots_30: 4958635752044304497
+      Boots_31: -871129930021606530
+      Boots_32: -3893622323031814572
+      Boots_33: -4116364996239804864
+      Boots_34: 751269262179298687
+      Boots_35: 6038475192482454091
+      Boots_36: -3980242570784549983
+      Boots_37: 490451208488619268
+      Boots_38: -2615925282413513778
+      Boots_39: -3131671676920270612
+      Boots_4: -8560114170687154983
+      Boots_40: -8443259892083204731
+      Boots_41: -4922406473249449295
+      Boots_42: 6127249683791571989
+      Boots_43: 6341258220722900628
+      Boots_44: -7443588123016136833
+      Boots_5: -3666419239443730923
+      Boots_50: -5817505964590854809
+      Boots_51: 5027641171292092765
+      Boots_52: 8917889613506608084
+      Boots_53: -4277480716022168120
+      Boots_54: 5150619759139115113
+      Boots_55: 814515111753874684
+      Boots_6: 2133949394721856815
+      Boots_60: -5361968073492258567
+      Boots_61: 2367673671928270598
+      Boots_62: 1438494549046924217
+      Boots_63: 3070796997815236970
+      Boots_64: 7168437731827487327
+      Boots_65: 5458426673699875854
+      Boots_66: -4129019409624448754
+      Boots_67: 8631031299863283492
+      Boots_68: 7185842730069685089
+      Boots_69: -7574690798724834877
+      Boots_7: 8965818648321018345
+      Boots_8: 6186074670415576633
+      Boots_9: 1103875800500833553
+      Boots_EMPTY_18: -7868743765088929860
+      Boots_EMPTY_19: 6034677818170481768
+      Boots_EMPTY_28: -8065184871856458369
+      Boots_EMPTY_29: -1109349988824741086
+      Boots_EMPTY_34: 1599362178739586834
+      Boots_EMPTY_35: 4900831453917160377
+      Boots_EMPTY_36: 3865071126790077530
+      Boots_EMPTY_37: -3005417247242421852
+      Boots_EMPTY_38: 6228852769687297971
+      Boots_EMPTY_39: 3912927409481532582
+      Boots_EMPTY_44: -1249649039644229556
+      Boots_EMPTY_45: 7797842291098329899
+      Boots_EMPTY_46: -4152186478286508672
+      Boots_EMPTY_47: -3563585293317689125
+      Boots_EMPTY_48: 974947167843987056
+      Boots_EMPTY_49: 6063949028659711985
+      Boots_EMPTY_5: -8815785416864143373
+      Boots_EMPTY_56: -4577793512772073155
+      Boots_EMPTY_57: -8769524884242427334
+      Boots_EMPTY_58: -3362010936241405577
+      Boots_EMPTY_59: 2064048349364288574
+      Boots_EMPTY_6: -6352101191020497831
+      Boots_EMPTY_7: 5538110644733674579
+      Boots_EMPTY_8: -874764332272720750
+      Boots_EMPTY_9: 401616731386651556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

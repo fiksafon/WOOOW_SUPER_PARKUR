@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: 89c8e56400ffab4479355bdabb578a99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -766380703945839314
+    second: Corset v2_0
+  - first:
+      213: 1883183213100653859
+    second: Corset v2_1
+  - first:
+      213: -5801052335306368309
+    second: Corset v2_2
+  - first:
+      213: 312120641816780507
+    second: Corset v2_3
+  - first:
+      213: -1090139823041424356
+    second: Corset v2_4
+  - first:
+      213: -2032052601371114593
+    second: Corset v2_5
+  - first:
+      213: -5937696612494534613
+    second: Corset v2_6
+  - first:
+      213: -7294204470666953206
+    second: Corset v2_7
+  - first:
+      213: -3860606121440760188
+    second: Corset v2_8
+  - first:
+      213: 9095536552921397596
+    second: Corset v2_9
+  - first:
+      213: -5013142978914096387
+    second: Corset v2_10
+  - first:
+      213: 8912676835337228212
+    second: Corset v2_11
+  - first:
+      213: 8409753537581702284
+    second: Corset v2_12
+  - first:
+      213: 4651468927208341054
+    second: Corset v2_13
+  - first:
+      213: 8526119484240707189
+    second: Corset v2_14
+  - first:
+      213: 9045675954208538087
+    second: Corset v2_15
+  - first:
+      213: -1684853466605402882
+    second: Corset v2_16
+  - first:
+      213: 7011122800864970448
+    second: Corset v2_17
+  - first:
+      213: 6934226720731243771
+    second: Corset v2_18
+  - first:
+      213: 1537110659685120205
+    second: Corset v2_19
+  - first:
+      213: -3586390446213362866
+    second: Corset v2_20
+  - first:
+      213: 4179438833228004934
+    second: Corset v2_21
+  - first:
+      213: 7328943696763692467
+    second: Corset v2_22
+  - first:
+      213: 7057259788320989097
+    second: Corset v2_23
+  - first:
+      213: 266480308119446183
+    second: Corset v2_24
+  - first:
+      213: 6962851695689806826
+    second: Corset v2_25
+  - first:
+      213: 4610355698051115338
+    second: Corset v2_26
+  - first:
+      213: -1166502837376574761
+    second: Corset v2_27
+  - first:
+      213: -3507314210509788052
+    second: Corset v2_28
+  - first:
+      213: -6158149326311569868
+    second: Corset v2_29
+  - first:
+      213: -5131296086450027682
+    second: Corset v2_30
+  - first:
+      213: -7718190275613227937
+    second: Corset v2_31
+  - first:
+      213: 5489702167207395560
+    second: Corset v2_32
+  - first:
+      213: -5926820905011632822
+    second: Corset v2_33
+  - first:
+      213: -6683882876890805052
+    second: Corset v2_34
+  - first:
+      213: -7926010941643790152
+    second: Corset v2_35
+  - first:
+      213: -1669696647884927620
+    second: Corset v2_36
+  - first:
+      213: 3966214073089780169
+    second: Corset v2_37
+  - first:
+      213: -3138785371421755079
+    second: Corset v2_38
+  - first:
+      213: -4955786339841631271
+    second: Corset v2_39
+  - first:
+      213: -9197519464514034756
+    second: Corset v2_40
+  - first:
+      213: 6315101392013866219
+    second: Corset v2_41
+  - first:
+      213: 7923411562491454844
+    second: Corset v2_42
+  - first:
+      213: 4864348166477419318
+    second: Corset v2_43
+  - first:
+      213: -3918728036045581372
+    second: Corset v2_44
+  - first:
+      213: -3373363785097176383
+    second: Corset v2_45
+  - first:
+      213: -3508513877432227840
+    second: Corset v2_46
+  - first:
+      213: -5483725432487653094
+    second: Corset v2_47
+  - first:
+      213: 463381417949342003
+    second: Corset v2_48
+  - first:
+      213: 5257890542174055812
+    second: Corset v2_49
+  - first:
+      213: -7944310043555314069
+    second: Corset v2_50
+  - first:
+      213: 8485708394031255282
+    second: Corset v2_51
+  - first:
+      213: -4717879921116364404
+    second: Corset v2_52
+  - first:
+      213: 9141273123408608826
+    second: Corset v2_53
+  - first:
+      213: -3783365876427730852
+    second: Corset v2_0_6
+  - first:
+      213: -1161969212114851579
+    second: Corset v2_1_6
+  - first:
+      213: -99786947677655073
+    second: Corset v2_2_6
+  - first:
+      213: -7128832301252543135
+    second: Corset v2_3_6
+  - first:
+      213: 5358789552251298889
+    second: Corset v2_4_6
+  - first:
+      213: -4676863514417003381
+    second: Corset v2_5_6
+  - first:
+      213: -7742183969354062176
+    second: Corset v2_6_6
+  - first:
+      213: 6084521437471518119
+    second: Corset v2_7_6
+  - first:
+      213: 9011992756348620274
+    second: Corset v2_8_6
+  - first:
+      213: -7264480062388903153
+    second: Corset v2_9_6
+  - first:
+      213: -5687283644767925254
+    second: Corset v2_0_5
+  - first:
+      213: 7664612629219998741
+    second: Corset v2_1_5
+  - first:
+      213: 2778998373224210902
+    second: Corset v2_2_5
+  - first:
+      213: 6871199932985450520
+    second: Corset v2_3_5
+  - first:
+      213: 8840102258820860248
+    second: Corset v2_4_5
+  - first:
+      213: 74974015721656055
+    second: Corset v2_5_5
+  - first:
+      213: 5159471063362839112
+    second: Corset v2_6_5
+  - first:
+      213: 3714082137143966580
+    second: Corset v2_7_5
+  - first:
+      213: 2591940817285088811
+    second: Corset v2_8_5
+  - first:
+      213: -1802971696819501865
+    second: Corset v2_9_5
+  - first:
+      213: 8024917663950933233
+    second: Corset v2_0_4
+  - first:
+      213: 1825403886404182731
+    second: Corset v2_1_4
+  - first:
+      213: 9183233947592462882
+    second: Corset v2_2_4
+  - first:
+      213: 4536346665373543969
+    second: Corset v2_3_4
+  - first:
+      213: -6152874444563784560
+    second: Corset v2_4_4
+  - first:
+      213: -3668948037074822956
+    second: Corset v2_5_4
+  - first:
+      213: -2667216086953694194
+    second: Corset v2_6_4
+  - first:
+      213: 6897924401714302397
+    second: Corset v2_7_4
+  - first:
+      213: 5612192683708904278
+    second: Corset v2_8_4
+  - first:
+      213: -9171361956079721865
+    second: Corset v2_9_4
+  - first:
+      213: 6612447237589072698
+    second: Corset v2_0_3
+  - first:
+      213: -9106042774618087985
+    second: Corset v2_1_3
+  - first:
+      213: -4302802222694227201
+    second: Corset v2_2_3
+  - first:
+      213: -657935226436676919
+    second: Corset v2_3_3
+  - first:
+      213: 2613722556970008869
+    second: Corset v2_4_3
+  - first:
+      213: 4848116099249497286
+    second: Corset v2_5_3
+  - first:
+      213: 1173504326694522148
+    second: Corset v2_6_3
+  - first:
+      213: 5104324090951693879
+    second: Corset v2_7_3
+  - first:
+      213: 5907568520822080646
+    second: Corset v2_8_3
+  - first:
+      213: 1371682289849921176
+    second: Corset v2_9_3
+  - first:
+      213: -8548967371865574570
+    second: Corset v2_0_2
+  - first:
+      213: -6393791096820069563
+    second: Corset v2_1_2
+  - first:
+      213: -6398501224376819272
+    second: Corset v2_2_2
+  - first:
+      213: -994684422680730051
+    second: Corset v2_3_2
+  - first:
+      213: 5379778534227007850
+    second: Corset v2_4_2
+  - first:
+      213: 1887642319584097505
+    second: Corset v2_5_2
+  - first:
+      213: 6317036753898559610
+    second: Corset v2_6_2
+  - first:
+      213: -2154692383463923645
+    second: Corset v2_7_2
+  - first:
+      213: 7259197293283645188
+    second: Corset v2_8_2
+  - first:
+      213: 5998773363519628022
+    second: Corset v2_9_2
+  - first:
+      213: -5563245469816522089
+    second: Corset v2_0_1
+  - first:
+      213: 2030805543086175165
+    second: Corset v2_1_1
+  - first:
+      213: 7912585495887512934
+    second: Corset v2_2_1
+  - first:
+      213: -5938793976290965378
+    second: Corset v2_3_1
+  - first:
+      213: -3232465455702608689
+    second: Corset v2_4_1
+  - first:
+      213: -4588789797742898159
+    second: Corset v2_5_1
+  - first:
+      213: -7973656336662238936
+    second: Corset v2_6_1
+  - first:
+      213: -2036038966112708397
+    second: Corset v2_7_1
+  - first:
+      213: 9135621622062681875
+    second: Corset v2_8_1
+  - first:
+      213: 709417569809349620
+    second: Corset v2_9_1
+  - first:
+      213: 3963235186114570111
+    second: Corset v2_0_0
+  - first:
+      213: -3964044227440624037
+    second: Corset v2_1_0
+  - first:
+      213: 346307649097577370
+    second: Corset v2_2_0
+  - first:
+      213: -6911149937232502979
+    second: Corset v2_3_0
+  - first:
+      213: 6766708245860970747
+    second: Corset v2_4_0
+  - first:
+      213: 7635688531964978868
+    second: Corset v2_5_0
+  - first:
+      213: 6661613533434613226
+    second: Corset v2_6_0
+  - first:
+      213: -75388861427749680
+    second: Corset v2_7_0
+  - first:
+      213: -2119020070265351907
+    second: Corset v2_8_0
+  - first:
+      213: -1273505624608944411
+    second: Corset v2_9_0
+  - first:
+      213: 4371029057076065046
+    second: Corset v2_EMPTY_5
+  - first:
+      213: -5295451942978800944
+    second: Corset v2_EMPTY_6
+  - first:
+      213: -5898152756684056070
+    second: Corset v2_EMPTY_7
+  - first:
+      213: 7815731446212036280
+    second: Corset v2_EMPTY_8
+  - first:
+      213: 4756256892398864428
+    second: Corset v2_EMPTY_9
+  - first:
+      213: -2639380662890913342
+    second: Corset v2_EMPTY_18
+  - first:
+      213: -1489344707764590950
+    second: Corset v2_EMPTY_19
+  - first:
+      213: -1710744242369216708
+    second: Corset v2_EMPTY_28
+  - first:
+      213: 3748043555096371266
+    second: Corset v2_EMPTY_29
+  - first:
+      213: -5009443985270661089
+    second: Corset v2_EMPTY_34
+  - first:
+      213: 2558928535386828783
+    second: Corset v2_EMPTY_35
+  - first:
+      213: 5533991956987395564
+    second: Corset v2_EMPTY_36
+  - first:
+      213: -7892909002412426962
+    second: Corset v2_EMPTY_37
+  - first:
+      213: 3592445919504658614
+    second: Corset v2_EMPTY_38
+  - first:
+      213: 5605004848749003147
+    second: Corset v2_EMPTY_39
+  - first:
+      213: -2194642717293370076
+    second: Corset v2_EMPTY_44
+  - first:
+      213: -5140530261866146372
+    second: Corset v2_EMPTY_45
+  - first:
+      213: -2169285586277514732
+    second: Corset v2_EMPTY_46
+  - first:
+      213: 4922072350931666688
+    second: Corset v2_EMPTY_47
+  - first:
+      213: -968398456654977432
+    second: Corset v2_EMPTY_48
+  - first:
+      213: 4820165325446443689
+    second: Corset v2_EMPTY_49
+  - first:
+      213: -2800886971322607137
+    second: Corset v2_54
+  - first:
+      213: -214312342829234966
+    second: Corset v2_55
+  - first:
+      213: 2858283466342608348
+    second: Corset v2_EMPTY_56
+  - first:
+      213: 1027384462475619233
+    second: Corset v2_EMPTY_57
+  - first:
+      213: 7745392798834013371
+    second: Corset v2_EMPTY_58
+  - first:
+      213: 2970633795834687218
+    second: Corset v2_EMPTY_59
+  - first:
+      213: 6974515240017993821
+    second: Corset v2_60
+  - first:
+      213: 5834008379000302306
+    second: Corset v2_61
+  - first:
+      213: -1958861197074445911
+    second: Corset v2_62
+  - first:
+      213: -4083296572857178375
+    second: Corset v2_63
+  - first:
+      213: 4073200505475972450
+    second: Corset v2_64
+  - first:
+      213: 698241100640211537
+    second: Corset v2_65
+  - first:
+      213: 139943019380614143
+    second: Corset v2_66
+  - first:
+      213: 7325154391690071456
+    second: Corset v2_67
+  - first:
+      213: 1294589164494340577
+    second: Corset v2_68
+  - first:
+      213: -2651857638980142988
+    second: Corset v2_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Corset v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d289a6fc44d55f0800000000000000
+      internalID: -766380703945839314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dd7df9729622a10800000000000000
+      internalID: 1883183213100653859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca1d96e2a58e7fa0800000000000000
+      internalID: -5801052335306368309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde5e8ee110e45400800000000000000
+      internalID: 312120641816780507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14db145b9b0fd0f0800000000000000
+      internalID: -1090139823041424356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613fde9c4c309ac30800000000000000
+      internalID: 4371029057076065046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2b89da386c286b0800000000000000
+      internalID: -5295451942978800944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af91bda415d852ea0800000000000000
+      internalID: -5898152756684056070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6815f375e077c60800000000000000
+      internalID: 7815731446212036280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2800f3a17e910240800000000000000
+      internalID: 4756256892398864428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfae49d750dbd6ab0800000000000000
+      internalID: -5013142978914096387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfc0204c5030bb70800000000000000
+      internalID: 8912676835337228212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c5420294275b470800000000000000
+      internalID: 8409753537581702284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e350248565d8040800000000000000
+      internalID: 4651468927208341054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e34b26f7cd25670800000000000000
+      internalID: 8526119484240707189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed74e3ba52b88d70800000000000000
+      internalID: 9045675954208538087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef44668e2b23e98e0800000000000000
+      internalID: -1684853466605402882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6c2367a038c4160800000000000000
+      internalID: 7011122800864970448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c12a5965490f5bd0800000000000000
+      internalID: -2639380662890913342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96659111e8c45be0800000000000000
+      internalID: -1489344707764590950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b099304e49a3ec0800000000000000
+      internalID: -3586390446213362866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e3707a979500a30800000000000000
+      internalID: 4179438833228004934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b520783673a5b560800000000000000
+      internalID: 7328943696763692467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af5582f26c60f160800000000000000
+      internalID: 7057259788320989097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2a819ad6ab2b300800000000000000
+      internalID: 266480308119446183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae33159f9b401a060800000000000000
+      internalID: 6962851695689806826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49e886a4164bff30800000000000000
+      internalID: 4610355698051115338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da1fac89dfbfcfe0800000000000000
+      internalID: -1166502837376574761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fb90cec273248e0800000000000000
+      internalID: -1710744242369216708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240263061c9b30430800000000000000
+      internalID: 3748043555096371266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e534bc96569f9c8b0800000000000000
+      internalID: -5131296086450027682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54033946da73e490800000000000000
+      internalID: -7718190275613227937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0c61f09075f2c40800000000000000
+      internalID: 5489702167207395560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a452c6dd9c3bfbda0800000000000000
+      internalID: -5926820905011632822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10a9bf8c31ea7ab0800000000000000
+      internalID: -5009443985270661089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefa755f1f3238320800000000000000
+      internalID: 2558928535386828783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced3a125d50bccc40800000000000000
+      internalID: 5533991956987395564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2979baa411c67290800000000000000
+      internalID: -7892909002412426962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b070eab78eead130800000000000000
+      internalID: 3592445919504658614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81c60e963af8cd40800000000000000
+      internalID: 5605004848749003147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb366ee07c8db5080800000000000000
+      internalID: -9197519464514034756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4bf87d14fb3a750800000000000000
+      internalID: 6315101392013866219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75a68706dc95fd60800000000000000
+      internalID: 7923411562491454844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63395be82e2a18340800000000000000
+      internalID: 4864348166477419318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425a4da83101b81e0800000000000000
+      internalID: -2194642717293370076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5925866fa29a8b0800000000000000
+      internalID: -5140530261866146372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412cd8da04625e1e0800000000000000
+      internalID: -2169285586277514732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007cd0499b6be4440800000000000000
+      internalID: 4922072350931666688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8662b060cbe8f82f0800000000000000
+      internalID: -968398456654977432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2f3ed33daa4e240800000000000000
+      internalID: 4820165325446443689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66415c2b1420c190800000000000000
+      internalID: -7944310043555314069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe88cd33da43c570800000000000000
+      internalID: 8485708394031255282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8149e84539b68eb0800000000000000
+      internalID: -4717879921116364404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e789329735cde70800000000000000
+      internalID: 9141273123408608826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9db4aa3204129d0800000000000000
+      internalID: -2800886971322607137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae48ea64f0c960df0800000000000000
+      internalID: -214312342829234966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd29b63ba9aaa720800000000000000
+      internalID: 2858283466342608348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab6d9da9b0024e00800000000000000
+      internalID: 1027384462475619233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4be54b6b92d7b60800000000000000
+      internalID: 7745392798834013371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe2f7eb2bfc93920800000000000000
+      internalID: 2970633795834687218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5022d188a47ac060800000000000000
+      internalID: 6974515240017993821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea27f6f5bf86f050800000000000000
+      internalID: 5834008379000302306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9c418ae1ab0d4e0800000000000000
+      internalID: -1958861197074445911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f62746b6673557c0800000000000000
+      internalID: -4083296572857178375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d36db674ae68830800000000000000
+      internalID: 4073200505475972450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152dc33e496a0b900800000000000000
+      internalID: 698241100640211537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff32af64f6d21f100800000000000000
+      internalID: 139943019380614143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad4491eb1d28a560800000000000000
+      internalID: 7325154391690071456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e141cf6cfd47f110800000000000000
+      internalID: 1294589164494340577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corset v2_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478bea90785b23bd0800000000000000
+      internalID: -2651857638980142988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Corset v2_0: -766380703945839314
+      Corset v2_0_0: 3963235186114570111
+      Corset v2_0_1: -5563245469816522089
+      Corset v2_0_2: -8548967371865574570
+      Corset v2_0_3: 6612447237589072698
+      Corset v2_0_4: 8024917663950933233
+      Corset v2_0_5: -5687283644767925254
+      Corset v2_0_6: -3783365876427730852
+      Corset v2_1: 1883183213100653859
+      Corset v2_10: -5013142978914096387
+      Corset v2_11: 8912676835337228212
+      Corset v2_12: 8409753537581702284
+      Corset v2_13: 4651468927208341054
+      Corset v2_14: 8526119484240707189
+      Corset v2_15: 9045675954208538087
+      Corset v2_16: -1684853466605402882
+      Corset v2_17: 7011122800864970448
+      Corset v2_18: 6934226720731243771
+      Corset v2_19: 1537110659685120205
+      Corset v2_1_0: -3964044227440624037
+      Corset v2_1_1: 2030805543086175165
+      Corset v2_1_2: -6393791096820069563
+      Corset v2_1_3: -9106042774618087985
+      Corset v2_1_4: 1825403886404182731
+      Corset v2_1_5: 7664612629219998741
+      Corset v2_1_6: -1161969212114851579
+      Corset v2_2: -5801052335306368309
+      Corset v2_20: -3586390446213362866
+      Corset v2_21: 4179438833228004934
+      Corset v2_22: 7328943696763692467
+      Corset v2_23: 7057259788320989097
+      Corset v2_24: 266480308119446183
+      Corset v2_25: 6962851695689806826
+      Corset v2_26: 4610355698051115338
+      Corset v2_27: -1166502837376574761
+      Corset v2_28: -3507314210509788052
+      Corset v2_29: -6158149326311569868
+      Corset v2_2_0: 346307649097577370
+      Corset v2_2_1: 7912585495887512934
+      Corset v2_2_2: -6398501224376819272
+      Corset v2_2_3: -4302802222694227201
+      Corset v2_2_4: 9183233947592462882
+      Corset v2_2_5: 2778998373224210902
+      Corset v2_2_6: -99786947677655073
+      Corset v2_3: 312120641816780507
+      Corset v2_30: -5131296086450027682
+      Corset v2_31: -7718190275613227937
+      Corset v2_32: 5489702167207395560
+      Corset v2_33: -5926820905011632822
+      Corset v2_34: -6683882876890805052
+      Corset v2_35: -7926010941643790152
+      Corset v2_36: -1669696647884927620
+      Corset v2_37: 3966214073089780169
+      Corset v2_38: -3138785371421755079
+      Corset v2_39: -4955786339841631271
+      Corset v2_3_0: -6911149937232502979
+      Corset v2_3_1: -5938793976290965378
+      Corset v2_3_2: -994684422680730051
+      Corset v2_3_3: -657935226436676919
+      Corset v2_3_4: 4536346665373543969
+      Corset v2_3_5: 6871199932985450520
+      Corset v2_3_6: -7128832301252543135
+      Corset v2_4: -1090139823041424356
+      Corset v2_40: -9197519464514034756
+      Corset v2_41: 6315101392013866219
+      Corset v2_42: 7923411562491454844
+      Corset v2_43: 4864348166477419318
+      Corset v2_44: -3918728036045581372
+      Corset v2_45: -3373363785097176383
+      Corset v2_46: -3508513877432227840
+      Corset v2_47: -5483725432487653094
+      Corset v2_48: 463381417949342003
+      Corset v2_49: 5257890542174055812
+      Corset v2_4_0: 6766708245860970747
+      Corset v2_4_1: -3232465455702608689
+      Corset v2_4_2: 5379778534227007850
+      Corset v2_4_3: 2613722556970008869
+      Corset v2_4_4: -6152874444563784560
+      Corset v2_4_5: 8840102258820860248
+      Corset v2_4_6: 5358789552251298889
+      Corset v2_5: -2032052601371114593
+      Corset v2_50: -7944310043555314069
+      Corset v2_51: 8485708394031255282
+      Corset v2_52: -4717879921116364404
+      Corset v2_53: 9141273123408608826
+      Corset v2_54: -2800886971322607137
+      Corset v2_55: -214312342829234966
+      Corset v2_5_0: 7635688531964978868
+      Corset v2_5_1: -4588789797742898159
+      Corset v2_5_2: 1887642319584097505
+      Corset v2_5_3: 4848116099249497286
+      Corset v2_5_4: -3668948037074822956
+      Corset v2_5_5: 74974015721656055
+      Corset v2_5_6: -4676863514417003381
+      Corset v2_6: -5937696612494534613
+      Corset v2_60: 6974515240017993821
+      Corset v2_61: 5834008379000302306
+      Corset v2_62: -1958861197074445911
+      Corset v2_63: -4083296572857178375
+      Corset v2_64: 4073200505475972450
+      Corset v2_65: 698241100640211537
+      Corset v2_66: 139943019380614143
+      Corset v2_67: 7325154391690071456
+      Corset v2_68: 1294589164494340577
+      Corset v2_69: -2651857638980142988
+      Corset v2_6_0: 6661613533434613226
+      Corset v2_6_1: -7973656336662238936
+      Corset v2_6_2: 6317036753898559610
+      Corset v2_6_3: 1173504326694522148
+      Corset v2_6_4: -2667216086953694194
+      Corset v2_6_5: 5159471063362839112
+      Corset v2_6_6: -7742183969354062176
+      Corset v2_7: -7294204470666953206
+      Corset v2_7_0: -75388861427749680
+      Corset v2_7_1: -2036038966112708397
+      Corset v2_7_2: -2154692383463923645
+      Corset v2_7_3: 5104324090951693879
+      Corset v2_7_4: 6897924401714302397
+      Corset v2_7_5: 3714082137143966580
+      Corset v2_7_6: 6084521437471518119
+      Corset v2_8: -3860606121440760188
+      Corset v2_8_0: -2119020070265351907
+      Corset v2_8_1: 9135621622062681875
+      Corset v2_8_2: 7259197293283645188
+      Corset v2_8_3: 5907568520822080646
+      Corset v2_8_4: 5612192683708904278
+      Corset v2_8_5: 2591940817285088811
+      Corset v2_8_6: 9011992756348620274
+      Corset v2_9: 9095536552921397596
+      Corset v2_9_0: -1273505624608944411
+      Corset v2_9_1: 709417569809349620
+      Corset v2_9_2: 5998773363519628022
+      Corset v2_9_3: 1371682289849921176
+      Corset v2_9_4: -9171361956079721865
+      Corset v2_9_5: -1802971696819501865
+      Corset v2_9_6: -7264480062388903153
+      Corset v2_EMPTY_18: -2639380662890913342
+      Corset v2_EMPTY_19: -1489344707764590950
+      Corset v2_EMPTY_28: -1710744242369216708
+      Corset v2_EMPTY_29: 3748043555096371266
+      Corset v2_EMPTY_34: -5009443985270661089
+      Corset v2_EMPTY_35: 2558928535386828783
+      Corset v2_EMPTY_36: 5533991956987395564
+      Corset v2_EMPTY_37: -7892909002412426962
+      Corset v2_EMPTY_38: 3592445919504658614
+      Corset v2_EMPTY_39: 5605004848749003147
+      Corset v2_EMPTY_44: -2194642717293370076
+      Corset v2_EMPTY_45: -5140530261866146372
+      Corset v2_EMPTY_46: -2169285586277514732
+      Corset v2_EMPTY_47: 4922072350931666688
+      Corset v2_EMPTY_48: -968398456654977432
+      Corset v2_EMPTY_49: 4820165325446443689
+      Corset v2_EMPTY_5: 4371029057076065046
+      Corset v2_EMPTY_56: 2858283466342608348
+      Corset v2_EMPTY_57: 1027384462475619233
+      Corset v2_EMPTY_58: 7745392798834013371
+      Corset v2_EMPTY_59: 2970633795834687218
+      Corset v2_EMPTY_6: -5295451942978800944
+      Corset v2_EMPTY_7: -5898152756684056070
+      Corset v2_EMPTY_8: 7815731446212036280
+      Corset v2_EMPTY_9: 4756256892398864428
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: 445f6a3d56938cd418dd7517ab0322c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4184373519247033896
+    second: Female Purple cap_0
+  - first:
+      213: 4017088540006041535
+    second: Female Purple cap_1
+  - first:
+      213: -5401279042785652767
+    second: Female Purple cap_2
+  - first:
+      213: 125728139192666385
+    second: Female Purple cap_3
+  - first:
+      213: -3150094893384655465
+    second: Female Purple cap_4
+  - first:
+      213: 5046978400579139710
+    second: Female Purple cap_5
+  - first:
+      213: 8998464533744957175
+    second: Female Purple cap_6
+  - first:
+      213: -7608619981938776766
+    second: Female Purple cap_7
+  - first:
+      213: 1307883063712655886
+    second: Female Purple cap_8
+  - first:
+      213: 8617633956181419508
+    second: Female Purple cap_9
+  - first:
+      213: -8885119991986491650
+    second: Female Purple cap_10
+  - first:
+      213: 5896221934204288229
+    second: Female Purple cap_11
+  - first:
+      213: -866005794346907215
+    second: Female Purple cap_12
+  - first:
+      213: -1556614261393367886
+    second: Female Purple cap_13
+  - first:
+      213: 5778934407183956885
+    second: Female Purple cap_14
+  - first:
+      213: 6014293793921722629
+    second: Female Purple cap_15
+  - first:
+      213: -3380507562633523486
+    second: Female Purple cap_16
+  - first:
+      213: -7216560764661570649
+    second: Female Purple cap_17
+  - first:
+      213: -2570731605036980491
+    second: Female Purple cap_18
+  - first:
+      213: 5056460652955574073
+    second: Female Purple cap_19
+  - first:
+      213: -5954384137181917811
+    second: Female Purple cap_20
+  - first:
+      213: 814380479472120896
+    second: Female Purple cap_21
+  - first:
+      213: 7931413348595816763
+    second: Female Purple cap_22
+  - first:
+      213: 1665155289294038095
+    second: Female Purple cap_23
+  - first:
+      213: 8983433564224902848
+    second: Female Purple cap_24
+  - first:
+      213: 8799505740666792309
+    second: Female Purple cap_25
+  - first:
+      213: -4791556689366755092
+    second: Female Purple cap_26
+  - first:
+      213: 6533751964349400685
+    second: Female Purple cap_27
+  - first:
+      213: 636344859721045317
+    second: Female Purple cap_28
+  - first:
+      213: -2821232264887403357
+    second: Female Purple cap_29
+  - first:
+      213: -1779508322314697516
+    second: Female Purple cap_30
+  - first:
+      213: 5267646112151527626
+    second: Female Purple cap_31
+  - first:
+      213: -473256167941220567
+    second: Female Purple cap_32
+  - first:
+      213: 4167491339182100630
+    second: Female Purple cap_33
+  - first:
+      213: 1848845298443814421
+    second: Female Purple cap_34
+  - first:
+      213: -1298782068412762884
+    second: Female Purple cap_35
+  - first:
+      213: -5439699040042500088
+    second: Female Purple cap_36
+  - first:
+      213: 5102608821349753953
+    second: Female Purple cap_37
+  - first:
+      213: -5753034052782470068
+    second: Female Purple cap_38
+  - first:
+      213: -3611065148068240117
+    second: Female Purple cap_39
+  - first:
+      213: -73329413428260906
+    second: Female Purple cap_40
+  - first:
+      213: 1751487231390786482
+    second: Female Purple cap_41
+  - first:
+      213: -5841105227500105628
+    second: Female Purple cap_42
+  - first:
+      213: -1294741910159565193
+    second: Female Purple cap_43
+  - first:
+      213: -7244083246398772383
+    second: Female Purple cap_44
+  - first:
+      213: 6689405032719921378
+    second: Female Purple cap_0_6
+  - first:
+      213: 730572913236926269
+    second: Female Purple cap_1_6
+  - first:
+      213: -3973370853490084219
+    second: Female Purple cap_2_6
+  - first:
+      213: -8606117787170965755
+    second: Female Purple cap_3_6
+  - first:
+      213: -5541124309945902181
+    second: Female Purple cap_4_6
+  - first:
+      213: 862821790614728553
+    second: Female Purple cap_5_6
+  - first:
+      213: 3066069036776571471
+    second: Female Purple cap_6_6
+  - first:
+      213: 5541387266187460354
+    second: Female Purple cap_7_6
+  - first:
+      213: 6520781493799939413
+    second: Female Purple cap_8_6
+  - first:
+      213: 2491320048918389193
+    second: Female Purple cap_9_6
+  - first:
+      213: -2572480192541665185
+    second: Female Purple cap_0_5
+  - first:
+      213: 6443378330814887337
+    second: Female Purple cap_1_5
+  - first:
+      213: -7964927357332497589
+    second: Female Purple cap_2_5
+  - first:
+      213: 5308098014896059558
+    second: Female Purple cap_3_5
+  - first:
+      213: 1861409684917612427
+    second: Female Purple cap_4_5
+  - first:
+      213: -8069375180770993448
+    second: Female Purple cap_5_5
+  - first:
+      213: -183273446783536282
+    second: Female Purple cap_6_5
+  - first:
+      213: 9032157225103352360
+    second: Female Purple cap_7_5
+  - first:
+      213: -4723917583392853846
+    second: Female Purple cap_8_5
+  - first:
+      213: 3699613421160488096
+    second: Female Purple cap_9_5
+  - first:
+      213: 889308602359250350
+    second: Female Purple cap_0_4
+  - first:
+      213: 6736721402074212869
+    second: Female Purple cap_1_4
+  - first:
+      213: -9022700579812527651
+    second: Female Purple cap_2_4
+  - first:
+      213: -6640423227933033274
+    second: Female Purple cap_3_4
+  - first:
+      213: -1784838838243183365
+    second: Female Purple cap_4_4
+  - first:
+      213: -5341387651567122417
+    second: Female Purple cap_5_4
+  - first:
+      213: -1196040895867157751
+    second: Female Purple cap_6_4
+  - first:
+      213: -7521344910439071427
+    second: Female Purple cap_7_4
+  - first:
+      213: 4133892666110288079
+    second: Female Purple cap_8_4
+  - first:
+      213: -5156607615492281042
+    second: Female Purple cap_9_4
+  - first:
+      213: -4702887259248419728
+    second: Female Purple cap_0_3
+  - first:
+      213: 227020158982468315
+    second: Female Purple cap_1_3
+  - first:
+      213: 9017233442749630135
+    second: Female Purple cap_2_3
+  - first:
+      213: 3241085710541516280
+    second: Female Purple cap_3_3
+  - first:
+      213: -8148671151234199395
+    second: Female Purple cap_4_3
+  - first:
+      213: -3887314819323491885
+    second: Female Purple cap_5_3
+  - first:
+      213: 2926102620935563994
+    second: Female Purple cap_6_3
+  - first:
+      213: 8173566211074526576
+    second: Female Purple cap_7_3
+  - first:
+      213: -448566245042019972
+    second: Female Purple cap_8_3
+  - first:
+      213: -431682360063541374
+    second: Female Purple cap_9_3
+  - first:
+      213: 6147444909816593312
+    second: Female Purple cap_0_2
+  - first:
+      213: 3712284645079971151
+    second: Female Purple cap_1_2
+  - first:
+      213: -2381093570171871868
+    second: Female Purple cap_2_2
+  - first:
+      213: -4302249448161869822
+    second: Female Purple cap_3_2
+  - first:
+      213: 7703177724385585101
+    second: Female Purple cap_4_2
+  - first:
+      213: 7782363831993556802
+    second: Female Purple cap_5_2
+  - first:
+      213: 5403740189199339809
+    second: Female Purple cap_6_2
+  - first:
+      213: -5613885309343513412
+    second: Female Purple cap_7_2
+  - first:
+      213: -1371724206878308223
+    second: Female Purple cap_8_2
+  - first:
+      213: 5612038572045872
+    second: Female Purple cap_9_2
+  - first:
+      213: -1473007316642544807
+    second: Female Purple cap_0_1
+  - first:
+      213: -3640502725612534211
+    second: Female Purple cap_1_1
+  - first:
+      213: 537913064806535824
+    second: Female Purple cap_2_1
+  - first:
+      213: -1642876229927632355
+    second: Female Purple cap_3_1
+  - first:
+      213: 4546063680130020597
+    second: Female Purple cap_4_1
+  - first:
+      213: 1231650162651355564
+    second: Female Purple cap_5_1
+  - first:
+      213: -8932283597780537841
+    second: Female Purple cap_6_1
+  - first:
+      213: -1722473886269892218
+    second: Female Purple cap_7_1
+  - first:
+      213: -8410264605001425462
+    second: Female Purple cap_8_1
+  - first:
+      213: -2103012866245706710
+    second: Female Purple cap_9_1
+  - first:
+      213: 6077430687761515871
+    second: Female Purple cap_0_0
+  - first:
+      213: 3534051607520491888
+    second: Female Purple cap_1_0
+  - first:
+      213: 5445933491046138718
+    second: Female Purple cap_2_0
+  - first:
+      213: -8210765091744758407
+    second: Female Purple cap_3_0
+  - first:
+      213: 7352321691904908851
+    second: Female Purple cap_4_0
+  - first:
+      213: -6857841905705039977
+    second: Female Purple cap_5_0
+  - first:
+      213: -8679242371271012471
+    second: Female Purple cap_6_0
+  - first:
+      213: -4496339967391906542
+    second: Female Purple cap_7_0
+  - first:
+      213: -2578379203326571515
+    second: Female Purple cap_8_0
+  - first:
+      213: 5285429706635071847
+    second: Female Purple cap_9_0
+  - first:
+      213: -3300788706812346587
+    second: Female Purple cap_EMPTY_5
+  - first:
+      213: -8868287255789818100
+    second: Female Purple cap_EMPTY_6
+  - first:
+      213: -3704682873569025786
+    second: Female Purple cap_EMPTY_7
+  - first:
+      213: 6965890348217774378
+    second: Female Purple cap_EMPTY_8
+  - first:
+      213: -1711998714675865356
+    second: Female Purple cap_EMPTY_9
+  - first:
+      213: -1121550900389923459
+    second: Female Purple cap_EMPTY_18
+  - first:
+      213: -5670214897923566011
+    second: Female Purple cap_EMPTY_19
+  - first:
+      213: 1703635613426135198
+    second: Female Purple cap_EMPTY_28
+  - first:
+      213: -2952792683977568657
+    second: Female Purple cap_EMPTY_29
+  - first:
+      213: 3387712123101470318
+    second: Female Purple cap_EMPTY_34
+  - first:
+      213: 8343138156239886530
+    second: Female Purple cap_EMPTY_35
+  - first:
+      213: 2160817649992914909
+    second: Female Purple cap_EMPTY_36
+  - first:
+      213: -5781870072513837333
+    second: Female Purple cap_EMPTY_37
+  - first:
+      213: -8374494392121230725
+    second: Female Purple cap_EMPTY_38
+  - first:
+      213: -2064193659440274516
+    second: Female Purple cap_EMPTY_39
+  - first:
+      213: -5392233533052033693
+    second: Female Purple cap_EMPTY_44
+  - first:
+      213: -1335601287521693232
+    second: Female Purple cap_EMPTY_45
+  - first:
+      213: -6748510012746375691
+    second: Female Purple cap_EMPTY_46
+  - first:
+      213: -4183415112005140564
+    second: Female Purple cap_EMPTY_47
+  - first:
+      213: 4810831030466186095
+    second: Female Purple cap_EMPTY_48
+  - first:
+      213: -5927516332949767320
+    second: Female Purple cap_EMPTY_49
+  - first:
+      213: -6229606824322726644
+    second: Female Purple cap_50
+  - first:
+      213: -1205452494434177738
+    second: Female Purple cap_51
+  - first:
+      213: 4545004049430505
+    second: Female Purple cap_52
+  - first:
+      213: 8044551986404054509
+    second: Female Purple cap_53
+  - first:
+      213: 3201112284393399815
+    second: Female Purple cap_54
+  - first:
+      213: -8706584944717924143
+    second: Female Purple cap_55
+  - first:
+      213: -5300955514847988633
+    second: Female Purple cap_EMPTY_56
+  - first:
+      213: -2089968342783174270
+    second: Female Purple cap_EMPTY_57
+  - first:
+      213: -8993774490028613005
+    second: Female Purple cap_EMPTY_58
+  - first:
+      213: 7157267386034290327
+    second: Female Purple cap_EMPTY_59
+  - first:
+      213: 6651097961910395033
+    second: Female Purple cap_60
+  - first:
+      213: -3395020056303457908
+    second: Female Purple cap_61
+  - first:
+      213: -1692523118912826309
+    second: Female Purple cap_62
+  - first:
+      213: -5120230983297713882
+    second: Female Purple cap_63
+  - first:
+      213: -3898777876586724338
+    second: Female Purple cap_64
+  - first:
+      213: -263535198187577617
+    second: Female Purple cap_65
+  - first:
+      213: -2966936705071965628
+    second: Female Purple cap_66
+  - first:
+      213: 989890248402645073
+    second: Female Purple cap_67
+  - first:
+      213: 9208125251805604057
+    second: Female Purple cap_68
+  - first:
+      213: 9200088298184668079
+    second: Female Purple cap_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female Purple cap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8264546cb81e11a30800000000000000
+      internalID: 4184373519247033896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb74a526eb09fb730800000000000000
+      internalID: 4017088540006041535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efcff9e35dca05b0800000000000000
+      internalID: -5401279042785652767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11989d2931daeb100800000000000000
+      internalID: 125728139192666385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d1907626d9844d0800000000000000
+      internalID: -3150094893384655465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f34d3d82e3132d0800000000000000
+      internalID: -3300788706812346587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f26802ab38de480800000000000000
+      internalID: -8868287255789818100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601e1730e82569cc0800000000000000
+      internalID: -3704682873569025786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21b7d56d50dba060800000000000000
+      internalID: 6965890348217774378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8d1d35d32cd38e0800000000000000
+      internalID: -1711998714675865356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe6ce25176b1b480800000000000000
+      internalID: -8885119991986491650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecfc111c9693d150800000000000000
+      internalID: 5896221934204288229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9c58e71545bf3f0800000000000000
+      internalID: -866005794346907215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc5759939bc56ae0800000000000000
+      internalID: -1556614261393367886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b7b78a936e23050800000000000000
+      internalID: 5778934407183956885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5096a892750177350800000000000000
+      internalID: 6014293793921722629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee05b058460611d0800000000000000
+      internalID: -3380507562633523486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a363523830a9db90800000000000000
+      internalID: -7216560764661570649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d753db8f5637f60f0800000000000000
+      internalID: -1121550900389923459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5465329a7995f41b0800000000000000
+      internalID: -5670214897923566011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d0d07cc27cd5da0800000000000000
+      internalID: -5954384137181917811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044b2f63bb24d4b00800000000000000
+      internalID: 814380479472120896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3958d90b6a021e60800000000000000
+      internalID: 7931413348595816763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44eb3ac9e1db1710800000000000000
+      internalID: 1665155289294038095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c652fafa319bac70800000000000000
+      internalID: 8983433564224902848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579647f69df1e1a70800000000000000
+      internalID: 8799505740666792309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8d529e398f08db0800000000000000
+      internalID: -4791556689366755092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d668e855bcc8caa50800000000000000
+      internalID: 6533751964349400685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9038fc609784a710800000000000000
+      internalID: 1703635613426135198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e0520d2b29507d0800000000000000
+      internalID: -2952792683977568657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4c49deb9aed47e0800000000000000
+      internalID: -1779508322314697516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac06245da307a1940800000000000000
+      internalID: 5267646112151527626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927d91ec508ae69f0800000000000000
+      internalID: -473256167941220567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690577cea47e5d930800000000000000
+      internalID: 4167491339182100630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e5fb22a32930f20800000000000000
+      internalID: 3387712123101470318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c89fa203f7c8c370800000000000000
+      internalID: 8343138156239886530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7d8344434ccfd10800000000000000
+      internalID: 2160817649992914909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6c95e7dcba2cfa0800000000000000
+      internalID: -5781870072513837333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7afc1868b1d7cb80800000000000000
+      internalID: -8374494392121230725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3e275adc28a53e0800000000000000
+      internalID: -2064193659440274516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df4509794b7bfef0800000000000000
+      internalID: -73329413428260906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b32eaf6b588e4810800000000000000
+      internalID: 1751487231390786482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460dd2b3eb930fea0800000000000000
+      internalID: -5841105227500105628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ed021b717280ee0800000000000000
+      internalID: -1294741910159565193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365eb74cb20fa25b0800000000000000
+      internalID: -5392233533052033693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d117bf84bdf67de0800000000000000
+      internalID: -1335601287521693232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdd51706e97852a0800000000000000
+      internalID: -6748510012746375691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafbeecce1681f5c0800000000000000
+      internalID: -4183415112005140564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b0d55555183c240800000000000000
+      internalID: 4810831030466186095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bf33eec4b3dbda0800000000000000
+      internalID: -5927516332949767320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0505e1699dfb89a0800000000000000
+      internalID: -6229606824322726644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d64a3d75f554fe0800000000000000
+      internalID: -1205452494434177738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e77ed738a5201000800000000000000
+      internalID: 4545004049430505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5d6c6e86df3af60800000000000000
+      internalID: 8044551986404054509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706686599a2ac6c20800000000000000
+      internalID: 3201112284393399815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8f25b4f1ffb2780800000000000000
+      internalID: -8706584944717924143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764765f7b093f66b0800000000000000
+      internalID: -5300955514847988633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289d8988dd0fef2e0800000000000000
+      internalID: -2089968342783174270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372efdb90c1bf2380800000000000000
+      internalID: -8993774490028613005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79eff0b44c8b35360800000000000000
+      internalID: 7157267386034290327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9906ef97b527d4c50800000000000000
+      internalID: 6651097961910395033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89a4b21f3772e0d0800000000000000
+      internalID: -3395020056303457908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b349013d033f288e0800000000000000
+      internalID: -1692523118912826309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62937908c0941f8b0800000000000000
+      internalID: -5120230983297713882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0485e78d22c4e9c0800000000000000
+      internalID: -3898777876586724338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee973e222cb75cf0800000000000000
+      internalID: -263535198187577617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a1e1749c253d6d0800000000000000
+      internalID: -2966936705071965628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150b9aeafebccbd00800000000000000
+      internalID: 989890248402645073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d86d293125d9cf70800000000000000
+      internalID: 9208125251805604057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Purple cap_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3768320974daf70800000000000000
+      internalID: 9200088298184668079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Female Purple cap_0: 4184373519247033896
+      Female Purple cap_0_0: 6077430687761515871
+      Female Purple cap_0_1: -1473007316642544807
+      Female Purple cap_0_2: 6147444909816593312
+      Female Purple cap_0_3: -4702887259248419728
+      Female Purple cap_0_4: 889308602359250350
+      Female Purple cap_0_5: -2572480192541665185
+      Female Purple cap_0_6: 6689405032719921378
+      Female Purple cap_1: 4017088540006041535
+      Female Purple cap_10: -8885119991986491650
+      Female Purple cap_11: 5896221934204288229
+      Female Purple cap_12: -866005794346907215
+      Female Purple cap_13: -1556614261393367886
+      Female Purple cap_14: 5778934407183956885
+      Female Purple cap_15: 6014293793921722629
+      Female Purple cap_16: -3380507562633523486
+      Female Purple cap_17: -7216560764661570649
+      Female Purple cap_18: -2570731605036980491
+      Female Purple cap_19: 5056460652955574073
+      Female Purple cap_1_0: 3534051607520491888
+      Female Purple cap_1_1: -3640502725612534211
+      Female Purple cap_1_2: 3712284645079971151
+      Female Purple cap_1_3: 227020158982468315
+      Female Purple cap_1_4: 6736721402074212869
+      Female Purple cap_1_5: 6443378330814887337
+      Female Purple cap_1_6: 730572913236926269
+      Female Purple cap_2: -5401279042785652767
+      Female Purple cap_20: -5954384137181917811
+      Female Purple cap_21: 814380479472120896
+      Female Purple cap_22: 7931413348595816763
+      Female Purple cap_23: 1665155289294038095
+      Female Purple cap_24: 8983433564224902848
+      Female Purple cap_25: 8799505740666792309
+      Female Purple cap_26: -4791556689366755092
+      Female Purple cap_27: 6533751964349400685
+      Female Purple cap_28: 636344859721045317
+      Female Purple cap_29: -2821232264887403357
+      Female Purple cap_2_0: 5445933491046138718
+      Female Purple cap_2_1: 537913064806535824
+      Female Purple cap_2_2: -2381093570171871868
+      Female Purple cap_2_3: 9017233442749630135
+      Female Purple cap_2_4: -9022700579812527651
+      Female Purple cap_2_5: -7964927357332497589
+      Female Purple cap_2_6: -3973370853490084219
+      Female Purple cap_3: 125728139192666385
+      Female Purple cap_30: -1779508322314697516
+      Female Purple cap_31: 5267646112151527626
+      Female Purple cap_32: -473256167941220567
+      Female Purple cap_33: 4167491339182100630
+      Female Purple cap_34: 1848845298443814421
+      Female Purple cap_35: -1298782068412762884
+      Female Purple cap_36: -5439699040042500088
+      Female Purple cap_37: 5102608821349753953
+      Female Purple cap_38: -5753034052782470068
+      Female Purple cap_39: -3611065148068240117
+      Female Purple cap_3_0: -8210765091744758407
+      Female Purple cap_3_1: -1642876229927632355
+      Female Purple cap_3_2: -4302249448161869822
+      Female Purple cap_3_3: 3241085710541516280
+      Female Purple cap_3_4: -6640423227933033274
+      Female Purple cap_3_5: 5308098014896059558
+      Female Purple cap_3_6: -8606117787170965755
+      Female Purple cap_4: -3150094893384655465
+      Female Purple cap_40: -73329413428260906
+      Female Purple cap_41: 1751487231390786482
+      Female Purple cap_42: -5841105227500105628
+      Female Purple cap_43: -1294741910159565193
+      Female Purple cap_44: -7244083246398772383
+      Female Purple cap_4_0: 7352321691904908851
+      Female Purple cap_4_1: 4546063680130020597
+      Female Purple cap_4_2: 7703177724385585101
+      Female Purple cap_4_3: -8148671151234199395
+      Female Purple cap_4_4: -1784838838243183365
+      Female Purple cap_4_5: 1861409684917612427
+      Female Purple cap_4_6: -5541124309945902181
+      Female Purple cap_5: 5046978400579139710
+      Female Purple cap_50: -6229606824322726644
+      Female Purple cap_51: -1205452494434177738
+      Female Purple cap_52: 4545004049430505
+      Female Purple cap_53: 8044551986404054509
+      Female Purple cap_54: 3201112284393399815
+      Female Purple cap_55: -8706584944717924143
+      Female Purple cap_5_0: -6857841905705039977
+      Female Purple cap_5_1: 1231650162651355564
+      Female Purple cap_5_2: 7782363831993556802
+      Female Purple cap_5_3: -3887314819323491885
+      Female Purple cap_5_4: -5341387651567122417
+      Female Purple cap_5_5: -8069375180770993448
+      Female Purple cap_5_6: 862821790614728553
+      Female Purple cap_6: 8998464533744957175
+      Female Purple cap_60: 6651097961910395033
+      Female Purple cap_61: -3395020056303457908
+      Female Purple cap_62: -1692523118912826309
+      Female Purple cap_63: -5120230983297713882
+      Female Purple cap_64: -3898777876586724338
+      Female Purple cap_65: -263535198187577617
+      Female Purple cap_66: -2966936705071965628
+      Female Purple cap_67: 989890248402645073
+      Female Purple cap_68: 9208125251805604057
+      Female Purple cap_69: 9200088298184668079
+      Female Purple cap_6_0: -8679242371271012471
+      Female Purple cap_6_1: -8932283597780537841
+      Female Purple cap_6_2: 5403740189199339809
+      Female Purple cap_6_3: 2926102620935563994
+      Female Purple cap_6_4: -1196040895867157751
+      Female Purple cap_6_5: -183273446783536282
+      Female Purple cap_6_6: 3066069036776571471
+      Female Purple cap_7: -7608619981938776766
+      Female Purple cap_7_0: -4496339967391906542
+      Female Purple cap_7_1: -1722473886269892218
+      Female Purple cap_7_2: -5613885309343513412
+      Female Purple cap_7_3: 8173566211074526576
+      Female Purple cap_7_4: -7521344910439071427
+      Female Purple cap_7_5: 9032157225103352360
+      Female Purple cap_7_6: 5541387266187460354
+      Female Purple cap_8: 1307883063712655886
+      Female Purple cap_8_0: -2578379203326571515
+      Female Purple cap_8_1: -8410264605001425462
+      Female Purple cap_8_2: -1371724206878308223
+      Female Purple cap_8_3: -448566245042019972
+      Female Purple cap_8_4: 4133892666110288079
+      Female Purple cap_8_5: -4723917583392853846
+      Female Purple cap_8_6: 6520781493799939413
+      Female Purple cap_9: 8617633956181419508
+      Female Purple cap_9_0: 5285429706635071847
+      Female Purple cap_9_1: -2103012866245706710
+      Female Purple cap_9_2: 5612038572045872
+      Female Purple cap_9_3: -431682360063541374
+      Female Purple cap_9_4: -5156607615492281042
+      Female Purple cap_9_5: 3699613421160488096
+      Female Purple cap_9_6: 2491320048918389193
+      Female Purple cap_EMPTY_18: -1121550900389923459
+      Female Purple cap_EMPTY_19: -5670214897923566011
+      Female Purple cap_EMPTY_28: 1703635613426135198
+      Female Purple cap_EMPTY_29: -2952792683977568657
+      Female Purple cap_EMPTY_34: 3387712123101470318
+      Female Purple cap_EMPTY_35: 8343138156239886530
+      Female Purple cap_EMPTY_36: 2160817649992914909
+      Female Purple cap_EMPTY_37: -5781870072513837333
+      Female Purple cap_EMPTY_38: -8374494392121230725
+      Female Purple cap_EMPTY_39: -2064193659440274516
+      Female Purple cap_EMPTY_44: -5392233533052033693
+      Female Purple cap_EMPTY_45: -1335601287521693232
+      Female Purple cap_EMPTY_46: -6748510012746375691
+      Female Purple cap_EMPTY_47: -4183415112005140564
+      Female Purple cap_EMPTY_48: 4810831030466186095
+      Female Purple cap_EMPTY_49: -5927516332949767320
+      Female Purple cap_EMPTY_5: -3300788706812346587
+      Female Purple cap_EMPTY_56: -5300955514847988633
+      Female Purple cap_EMPTY_57: -2089968342783174270
+      Female Purple cap_EMPTY_58: -8993774490028613005
+      Female Purple cap_EMPTY_59: 7157267386034290327
+      Female Purple cap_EMPTY_6: -8868287255789818100
+      Female Purple cap_EMPTY_7: -3704682873569025786
+      Female Purple cap_EMPTY_8: 6965890348217774378
+      Female Purple cap_EMPTY_9: -1711998714675865356
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

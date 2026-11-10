@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: f00c4a156ce637f4283fea68274f50ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4145468641041116482
+    second: Red Bodice Mid Sleeves_0
+  - first:
+      213: 7778995956337083975
+    second: Red Bodice Mid Sleeves_1
+  - first:
+      213: -8871547595747222545
+    second: Red Bodice Mid Sleeves_2
+  - first:
+      213: 2401696219618816720
+    second: Red Bodice Mid Sleeves_3
+  - first:
+      213: 4780472677082289802
+    second: Red Bodice Mid Sleeves_4
+  - first:
+      213: -8406829623080484594
+    second: Red Bodice Mid Sleeves_5
+  - first:
+      213: -3611028033122793012
+    second: Red Bodice Mid Sleeves_6
+  - first:
+      213: -7793967663985138399
+    second: Red Bodice Mid Sleeves_7
+  - first:
+      213: 2236464377492250415
+    second: Red Bodice Mid Sleeves_8
+  - first:
+      213: 1366724130651357548
+    second: Red Bodice Mid Sleeves_9
+  - first:
+      213: 3932337336719515540
+    second: Red Bodice Mid Sleeves_10
+  - first:
+      213: -8213883880999777326
+    second: Red Bodice Mid Sleeves_11
+  - first:
+      213: -4151311928057158171
+    second: Red Bodice Mid Sleeves_12
+  - first:
+      213: -2304537148390729020
+    second: Red Bodice Mid Sleeves_13
+  - first:
+      213: 4281680240114531678
+    second: Red Bodice Mid Sleeves_14
+  - first:
+      213: -5667172742695095990
+    second: Red Bodice Mid Sleeves_15
+  - first:
+      213: 2175620502513529917
+    second: Red Bodice Mid Sleeves_16
+  - first:
+      213: -322930611867172854
+    second: Red Bodice Mid Sleeves_17
+  - first:
+      213: 2994550818162611484
+    second: Red Bodice Mid Sleeves_18
+  - first:
+      213: 8155895526731854522
+    second: Red Bodice Mid Sleeves_19
+  - first:
+      213: -7932539621297128525
+    second: Red Bodice Mid Sleeves_20
+  - first:
+      213: 701808351329030463
+    second: Red Bodice Mid Sleeves_21
+  - first:
+      213: 6055624001693158591
+    second: Red Bodice Mid Sleeves_22
+  - first:
+      213: 5972645028342176770
+    second: Red Bodice Mid Sleeves_23
+  - first:
+      213: -2247391141229358476
+    second: Red Bodice Mid Sleeves_24
+  - first:
+      213: -3362686717833625990
+    second: Red Bodice Mid Sleeves_25
+  - first:
+      213: -2278428960653562920
+    second: Red Bodice Mid Sleeves_26
+  - first:
+      213: 7464310983014897003
+    second: Red Bodice Mid Sleeves_27
+  - first:
+      213: -1035952101160054174
+    second: Red Bodice Mid Sleeves_28
+  - first:
+      213: 3998884674634714791
+    second: Red Bodice Mid Sleeves_29
+  - first:
+      213: -4346923327854892632
+    second: Red Bodice Mid Sleeves_30
+  - first:
+      213: -5879284777740534126
+    second: Red Bodice Mid Sleeves_31
+  - first:
+      213: -7032429719296808212
+    second: Red Bodice Mid Sleeves_32
+  - first:
+      213: -7716416678936845600
+    second: Red Bodice Mid Sleeves_33
+  - first:
+      213: 2763989995121501301
+    second: Red Bodice Mid Sleeves_34
+  - first:
+      213: -2030377751464891510
+    second: Red Bodice Mid Sleeves_35
+  - first:
+      213: 4572650696573234995
+    second: Red Bodice Mid Sleeves_36
+  - first:
+      213: -5140002653702114608
+    second: Red Bodice Mid Sleeves_37
+  - first:
+      213: -83213896463797753
+    second: Red Bodice Mid Sleeves_38
+  - first:
+      213: -4293205420345056778
+    second: Red Bodice Mid Sleeves_39
+  - first:
+      213: -7731152428285996233
+    second: Red Bodice Mid Sleeves_40
+  - first:
+      213: -1617985405192247377
+    second: Red Bodice Mid Sleeves_41
+  - first:
+      213: -7960289846787591959
+    second: Red Bodice Mid Sleeves_42
+  - first:
+      213: -8178180777114939462
+    second: Red Bodice Mid Sleeves_43
+  - first:
+      213: -2209883021639788308
+    second: Red Bodice Mid Sleeves_44
+  - first:
+      213: 6055465590176449910
+    second: Red Bodice Mid Sleeves_45
+  - first:
+      213: 7382650832468330373
+    second: Red Bodice Mid Sleeves_46
+  - first:
+      213: -3627470505526873178
+    second: Red Bodice Mid Sleeves_47
+  - first:
+      213: -5680164185074920967
+    second: Red Bodice Mid Sleeves_48
+  - first:
+      213: 412846909706434542
+    second: Red Bodice Mid Sleeves_49
+  - first:
+      213: 3415108939373533383
+    second: Red Bodice Mid Sleeves_0_6
+  - first:
+      213: 1630214404634295263
+    second: Red Bodice Mid Sleeves_1_6
+  - first:
+      213: 3571264134654611612
+    second: Red Bodice Mid Sleeves_2_6
+  - first:
+      213: 1655682574166954844
+    second: Red Bodice Mid Sleeves_3_6
+  - first:
+      213: -6884369595479125267
+    second: Red Bodice Mid Sleeves_4_6
+  - first:
+      213: 1502357349373416767
+    second: Red Bodice Mid Sleeves_5_6
+  - first:
+      213: 3656822226208378696
+    second: Red Bodice Mid Sleeves_6_6
+  - first:
+      213: -3240504365007991508
+    second: Red Bodice Mid Sleeves_7_6
+  - first:
+      213: -6084343796757699958
+    second: Red Bodice Mid Sleeves_8_6
+  - first:
+      213: 5604424511758683889
+    second: Red Bodice Mid Sleeves_9_6
+  - first:
+      213: -5396862448594465252
+    second: Red Bodice Mid Sleeves_0_5
+  - first:
+      213: 5332214100592519512
+    second: Red Bodice Mid Sleeves_1_5
+  - first:
+      213: 5312827917168821937
+    second: Red Bodice Mid Sleeves_2_5
+  - first:
+      213: -8218064059442502563
+    second: Red Bodice Mid Sleeves_3_5
+  - first:
+      213: -1581139883162778458
+    second: Red Bodice Mid Sleeves_4_5
+  - first:
+      213: -8797289492233365861
+    second: Red Bodice Mid Sleeves_5_5
+  - first:
+      213: -8741475774070706220
+    second: Red Bodice Mid Sleeves_6_5
+  - first:
+      213: 1341981302383095963
+    second: Red Bodice Mid Sleeves_7_5
+  - first:
+      213: 3337479680928878129
+    second: Red Bodice Mid Sleeves_8_5
+  - first:
+      213: 1744368678828957535
+    second: Red Bodice Mid Sleeves_9_5
+  - first:
+      213: 171061225922363607
+    second: Red Bodice Mid Sleeves_0_4
+  - first:
+      213: 8905095100546971813
+    second: Red Bodice Mid Sleeves_1_4
+  - first:
+      213: 4416706052246347539
+    second: Red Bodice Mid Sleeves_2_4
+  - first:
+      213: 6864311176684106869
+    second: Red Bodice Mid Sleeves_3_4
+  - first:
+      213: 8421515073485943090
+    second: Red Bodice Mid Sleeves_4_4
+  - first:
+      213: 2974354196059752881
+    second: Red Bodice Mid Sleeves_5_4
+  - first:
+      213: -2921992255336163362
+    second: Red Bodice Mid Sleeves_6_4
+  - first:
+      213: 8513818148381332729
+    second: Red Bodice Mid Sleeves_7_4
+  - first:
+      213: -571150281637693174
+    second: Red Bodice Mid Sleeves_8_4
+  - first:
+      213: 7784102587111447027
+    second: Red Bodice Mid Sleeves_9_4
+  - first:
+      213: 8864954238072684073
+    second: Red Bodice Mid Sleeves_0_3
+  - first:
+      213: -301976992820399009
+    second: Red Bodice Mid Sleeves_1_3
+  - first:
+      213: 3596128303565702761
+    second: Red Bodice Mid Sleeves_2_3
+  - first:
+      213: 8595669634466815842
+    second: Red Bodice Mid Sleeves_3_3
+  - first:
+      213: 8157105084925877303
+    second: Red Bodice Mid Sleeves_4_3
+  - first:
+      213: -8721534294581109514
+    second: Red Bodice Mid Sleeves_5_3
+  - first:
+      213: -7230669467802372819
+    second: Red Bodice Mid Sleeves_6_3
+  - first:
+      213: 6322578138817296209
+    second: Red Bodice Mid Sleeves_7_3
+  - first:
+      213: 362425091285006421
+    second: Red Bodice Mid Sleeves_8_3
+  - first:
+      213: 6287449779230750601
+    second: Red Bodice Mid Sleeves_9_3
+  - first:
+      213: 7414077199691760102
+    second: Red Bodice Mid Sleeves_0_2
+  - first:
+      213: 432255395723775240
+    second: Red Bodice Mid Sleeves_1_2
+  - first:
+      213: 6679933347644843462
+    second: Red Bodice Mid Sleeves_2_2
+  - first:
+      213: 8882782570435484968
+    second: Red Bodice Mid Sleeves_3_2
+  - first:
+      213: 8695118139049150436
+    second: Red Bodice Mid Sleeves_4_2
+  - first:
+      213: -3309554012624835298
+    second: Red Bodice Mid Sleeves_5_2
+  - first:
+      213: 2112159355991732616
+    second: Red Bodice Mid Sleeves_6_2
+  - first:
+      213: 7208640518346974215
+    second: Red Bodice Mid Sleeves_7_2
+  - first:
+      213: 3548889117881054899
+    second: Red Bodice Mid Sleeves_8_2
+  - first:
+      213: 7052032448928453003
+    second: Red Bodice Mid Sleeves_9_2
+  - first:
+      213: -1206032667915290470
+    second: Red Bodice Mid Sleeves_0_1
+  - first:
+      213: 2384513676104251319
+    second: Red Bodice Mid Sleeves_1_1
+  - first:
+      213: 3834054436549833537
+    second: Red Bodice Mid Sleeves_2_1
+  - first:
+      213: 425110445842616619
+    second: Red Bodice Mid Sleeves_3_1
+  - first:
+      213: -6426743364364177327
+    second: Red Bodice Mid Sleeves_4_1
+  - first:
+      213: 226986163231534499
+    second: Red Bodice Mid Sleeves_5_1
+  - first:
+      213: -799571269644905094
+    second: Red Bodice Mid Sleeves_6_1
+  - first:
+      213: 4493915595764761224
+    second: Red Bodice Mid Sleeves_7_1
+  - first:
+      213: 7958944947261711992
+    second: Red Bodice Mid Sleeves_8_1
+  - first:
+      213: 3007803218444890773
+    second: Red Bodice Mid Sleeves_9_1
+  - first:
+      213: -6603273505466953523
+    second: Red Bodice Mid Sleeves_0_0
+  - first:
+      213: 1353499355152259429
+    second: Red Bodice Mid Sleeves_1_0
+  - first:
+      213: -4564796954329445192
+    second: Red Bodice Mid Sleeves_2_0
+  - first:
+      213: 5385497921231178612
+    second: Red Bodice Mid Sleeves_3_0
+  - first:
+      213: 7837713356089530565
+    second: Red Bodice Mid Sleeves_4_0
+  - first:
+      213: -3433167466391522204
+    second: Red Bodice Mid Sleeves_5_0
+  - first:
+      213: -7866992675073527491
+    second: Red Bodice Mid Sleeves_6_0
+  - first:
+      213: -6230757754952964811
+    second: Red Bodice Mid Sleeves_7_0
+  - first:
+      213: -6941401941794520192
+    second: Red Bodice Mid Sleeves_8_0
+  - first:
+      213: 5200298806835019926
+    second: Red Bodice Mid Sleeves_9_0
+  - first:
+      213: -7081282406882859173
+    second: Red Bodice Mid Sleeves_EMPTY_5
+  - first:
+      213: 3229371361371523063
+    second: Red Bodice Mid Sleeves_EMPTY_6
+  - first:
+      213: 7723304877425859989
+    second: Red Bodice Mid Sleeves_EMPTY_7
+  - first:
+      213: 8753992376096845807
+    second: Red Bodice Mid Sleeves_EMPTY_8
+  - first:
+      213: -4627617038580871915
+    second: Red Bodice Mid Sleeves_EMPTY_9
+  - first:
+      213: -6784901779231599379
+    second: Red Bodice Mid Sleeves_EMPTY_18
+  - first:
+      213: -509459007881697952
+    second: Red Bodice Mid Sleeves_EMPTY_19
+  - first:
+      213: 326480092847811045
+    second: Red Bodice Mid Sleeves_EMPTY_28
+  - first:
+      213: 8466350848801904745
+    second: Red Bodice Mid Sleeves_EMPTY_29
+  - first:
+      213: 6609239223772818758
+    second: Red Bodice Mid Sleeves_EMPTY_34
+  - first:
+      213: -8785552703143379028
+    second: Red Bodice Mid Sleeves_EMPTY_35
+  - first:
+      213: -7460735478022076407
+    second: Red Bodice Mid Sleeves_EMPTY_36
+  - first:
+      213: -590917240640083363
+    second: Red Bodice Mid Sleeves_EMPTY_37
+  - first:
+      213: 5694051742222590512
+    second: Red Bodice Mid Sleeves_EMPTY_38
+  - first:
+      213: -5471567577436526774
+    second: Red Bodice Mid Sleeves_EMPTY_39
+  - first:
+      213: 7224016480766494925
+    second: Red Bodice Mid Sleeves_EMPTY_44
+  - first:
+      213: 5507105284651421805
+    second: Red Bodice Mid Sleeves_EMPTY_45
+  - first:
+      213: 1242064565163329639
+    second: Red Bodice Mid Sleeves_EMPTY_46
+  - first:
+      213: -4238227971139474737
+    second: Red Bodice Mid Sleeves_EMPTY_47
+  - first:
+      213: 5601448695270058310
+    second: Red Bodice Mid Sleeves_EMPTY_48
+  - first:
+      213: -1781170008845527177
+    second: Red Bodice Mid Sleeves_EMPTY_49
+  - first:
+      213: -2671301373550714784
+    second: Red Bodice Mid Sleeves_50
+  - first:
+      213: -572390866041406585
+    second: Red Bodice Mid Sleeves_51
+  - first:
+      213: -963730529562471666
+    second: Red Bodice Mid Sleeves_52
+  - first:
+      213: 7622389975389137939
+    second: Red Bodice Mid Sleeves_53
+  - first:
+      213: 980625735877243139
+    second: Red Bodice Mid Sleeves_54
+  - first:
+      213: 3528567891576361616
+    second: Red Bodice Mid Sleeves_55
+  - first:
+      213: -6195372341095898483
+    second: Red Bodice Mid Sleeves_EMPTY_56
+  - first:
+      213: -3145386896420721009
+    second: Red Bodice Mid Sleeves_EMPTY_57
+  - first:
+      213: -173624860504489649
+    second: Red Bodice Mid Sleeves_EMPTY_58
+  - first:
+      213: -1751111097683735289
+    second: Red Bodice Mid Sleeves_EMPTY_59
+  - first:
+      213: 1713354498844037474
+    second: Red Bodice Mid Sleeves_60
+  - first:
+      213: 2744115386262426677
+    second: Red Bodice Mid Sleeves_61
+  - first:
+      213: -2046578364927325704
+    second: Red Bodice Mid Sleeves_62
+  - first:
+      213: -6765908539622562671
+    second: Red Bodice Mid Sleeves_63
+  - first:
+      213: 2989243524465073275
+    second: Red Bodice Mid Sleeves_64
+  - first:
+      213: 775380555143684517
+    second: Red Bodice Mid Sleeves_65
+  - first:
+      213: -189619341305975041
+    second: Red Bodice Mid Sleeves_66
+  - first:
+      213: 1659247876094905991
+    second: Red Bodice Mid Sleeves_67
+  - first:
+      213: 3650377577599993862
+    second: Red Bodice Mid Sleeves_68
+  - first:
+      213: -4530336182704420785
+    second: Red Bodice Mid Sleeves_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24de6c0f3c9a78930800000000000000
+      internalID: 4145468641041116482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7460cae7b9b84fb60800000000000000
+      internalID: 7778995956337083975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb1483177ee1e480800000000000000
+      internalID: -8871547595747222545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d237ccacf9845120800000000000000
+      internalID: 2401696219618816720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8653ff5296a75240800000000000000
+      internalID: 4780472677082289802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57268f4b2b3abd90800000000000000
+      internalID: -7081282406882859173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f78e5aa42801dc20800000000000000
+      internalID: 3229371361371523063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d920fbdd0be2b60800000000000000
+      internalID: 7723304877425859989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefeab77fad6c7970800000000000000
+      internalID: 8753992376096845807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d87d252d667cfb0800000000000000
+      internalID: -4627617038580871915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f1c2c29f7729630800000000000000
+      internalID: 3932337336719515540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db83b6112c620e80800000000000000
+      internalID: -8213883880999777326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5af48cbc39366c0800000000000000
+      internalID: -4151311928057158171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca9a7a6ca3a400e0800000000000000
+      internalID: -2304537148390729020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5df5d93e759b6b30800000000000000
+      internalID: 4281680240114531678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41f1ee9a682a51b0800000000000000
+      internalID: -5667172742695095990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d343062f15b513e10800000000000000
+      internalID: 2175620502513529917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00ce88c158b48bf0800000000000000
+      internalID: -322930611867172854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de41cfc97cf27d1a0800000000000000
+      internalID: -6784901779231599379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065a6974bb90ee8f0800000000000000
+      internalID: -509459007881697952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb7fd92e35f9e190800000000000000
+      internalID: -7932539621297128525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f319e592af25db900800000000000000
+      internalID: 701808351329030463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc004a02f5e90450800000000000000
+      internalID: 6055624001693158591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c96d3420913e250800000000000000
+      internalID: 5972645028342176770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4721aab0aa9afc0e0800000000000000
+      internalID: -2247391141229358476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e3a941f365551d0800000000000000
+      internalID: -3362686717833625990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db28429ee46160e0800000000000000
+      internalID: -2278428960653562920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6556ab9a4f869760800000000000000
+      internalID: 7464310983014897003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e92e682ae3e78400800000000000000
+      internalID: 326480092847811045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9681aa68d358e7570800000000000000
+      internalID: 8466350848801904745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9a959a340aca3c0800000000000000
+      internalID: -4346923327854892632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ef969f4a5986ea0800000000000000
+      internalID: -5879284777740534126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceae9610e6ac76e90800000000000000
+      internalID: -7032429719296808212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2e111f9e7c9e490800000000000000
+      internalID: -7716416678936845600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dae888e0cb8bb50800000000000000
+      internalID: 6609239223772818758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf7aa54d52731680800000000000000
+      internalID: -8785552703143379028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90807558c94267890800000000000000
+      internalID: -7460735478022076407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a6ef386e3acc7f0800000000000000
+      internalID: -590917240640083363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0322fd324e5550f40800000000000000
+      internalID: 5694051742222590512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47e95627461114b0800000000000000
+      internalID: -5471567577436526774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7335d9fe3dd65b490800000000000000
+      internalID: -7731152428285996233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7efbfa8d2cb89e0800000000000000
+      internalID: -1617985405192247377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0b31d4f8e578190800000000000000
+      internalID: -7960289846787591959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfc22fb9e3418e80800000000000000
+      internalID: -8178180777114939462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc887abf6bcd04460800000000000000
+      internalID: 7224016480766494925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d601358141b2d6c40800000000000000
+      internalID: 5507105284651421805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76809aa2423bc3110800000000000000
+      internalID: 1242064565163329639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca6b178d1ace25c0800000000000000
+      internalID: -4238227971139474737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649a52d19e75cbd40800000000000000
+      internalID: 5601448695270058310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777de2260530847e0800000000000000
+      internalID: -1781170008845527177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0602f7dcd81adead0800000000000000
+      internalID: -2671301373550714784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b7cec3a857e08f0800000000000000
+      internalID: -572390866041406585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03da3e703420a2f0800000000000000
+      internalID: -963730529562471666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c61962c4b28c960800000000000000
+      internalID: 7622389975389137939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301b19449e1eb9d00800000000000000
+      internalID: 980625735877243139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092124f5dcdf7f030800000000000000
+      internalID: 3528567891576361616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82e2b52ead950aa0800000000000000
+      internalID: -6195372341095898483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eacad58475954d0800000000000000
+      internalID: -3145386896420721009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f410479fb19279df0800000000000000
+      internalID: -173624860504489649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d01540cbdc2b7e0800000000000000
+      internalID: -1751111097683735289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2619ae5c6de07c710800000000000000
+      internalID: 1713354498844037474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5341bd4a76e051620800000000000000
+      internalID: 2744115386262426677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9c18102d71993e0800000000000000
+      internalID: -2046578364927325704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194e301d70aaa12a0800000000000000
+      internalID: -6765908539622562671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c90e6d52deb7920800000000000000
+      internalID: 2989243524465073275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1a51bb184b2ca00800000000000000
+      internalID: 775380555143684517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffee9e6b6365e5df0800000000000000
+      internalID: -189619341305975041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e45f8f625d60710800000000000000
+      internalID: 1659247876094905991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60806e8f01fb8a230800000000000000
+      internalID: 3650377577599993862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bodice Mid Sleeves_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48cdcc9e330121c0800000000000000
+      internalID: -4530336182704420785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red Bodice Mid Sleeves_0: 4145468641041116482
+      Red Bodice Mid Sleeves_0_0: -6603273505466953523
+      Red Bodice Mid Sleeves_0_1: -1206032667915290470
+      Red Bodice Mid Sleeves_0_2: 7414077199691760102
+      Red Bodice Mid Sleeves_0_3: 8864954238072684073
+      Red Bodice Mid Sleeves_0_4: 171061225922363607
+      Red Bodice Mid Sleeves_0_5: -5396862448594465252
+      Red Bodice Mid Sleeves_0_6: 3415108939373533383
+      Red Bodice Mid Sleeves_1: 7778995956337083975
+      Red Bodice Mid Sleeves_10: 3932337336719515540
+      Red Bodice Mid Sleeves_11: -8213883880999777326
+      Red Bodice Mid Sleeves_12: -4151311928057158171
+      Red Bodice Mid Sleeves_13: -2304537148390729020
+      Red Bodice Mid Sleeves_14: 4281680240114531678
+      Red Bodice Mid Sleeves_15: -5667172742695095990
+      Red Bodice Mid Sleeves_16: 2175620502513529917
+      Red Bodice Mid Sleeves_17: -322930611867172854
+      Red Bodice Mid Sleeves_18: 2994550818162611484
+      Red Bodice Mid Sleeves_19: 8155895526731854522
+      Red Bodice Mid Sleeves_1_0: 1353499355152259429
+      Red Bodice Mid Sleeves_1_1: 2384513676104251319
+      Red Bodice Mid Sleeves_1_2: 432255395723775240
+      Red Bodice Mid Sleeves_1_3: -301976992820399009
+      Red Bodice Mid Sleeves_1_4: 8905095100546971813
+      Red Bodice Mid Sleeves_1_5: 5332214100592519512
+      Red Bodice Mid Sleeves_1_6: 1630214404634295263
+      Red Bodice Mid Sleeves_2: -8871547595747222545
+      Red Bodice Mid Sleeves_20: -7932539621297128525
+      Red Bodice Mid Sleeves_21: 701808351329030463
+      Red Bodice Mid Sleeves_22: 6055624001693158591
+      Red Bodice Mid Sleeves_23: 5972645028342176770
+      Red Bodice Mid Sleeves_24: -2247391141229358476
+      Red Bodice Mid Sleeves_25: -3362686717833625990
+      Red Bodice Mid Sleeves_26: -2278428960653562920
+      Red Bodice Mid Sleeves_27: 7464310983014897003
+      Red Bodice Mid Sleeves_28: -1035952101160054174
+      Red Bodice Mid Sleeves_29: 3998884674634714791
+      Red Bodice Mid Sleeves_2_0: -4564796954329445192
+      Red Bodice Mid Sleeves_2_1: 3834054436549833537
+      Red Bodice Mid Sleeves_2_2: 6679933347644843462
+      Red Bodice Mid Sleeves_2_3: 3596128303565702761
+      Red Bodice Mid Sleeves_2_4: 4416706052246347539
+      Red Bodice Mid Sleeves_2_5: 5312827917168821937
+      Red Bodice Mid Sleeves_2_6: 3571264134654611612
+      Red Bodice Mid Sleeves_3: 2401696219618816720
+      Red Bodice Mid Sleeves_30: -4346923327854892632
+      Red Bodice Mid Sleeves_31: -5879284777740534126
+      Red Bodice Mid Sleeves_32: -7032429719296808212
+      Red Bodice Mid Sleeves_33: -7716416678936845600
+      Red Bodice Mid Sleeves_34: 2763989995121501301
+      Red Bodice Mid Sleeves_35: -2030377751464891510
+      Red Bodice Mid Sleeves_36: 4572650696573234995
+      Red Bodice Mid Sleeves_37: -5140002653702114608
+      Red Bodice Mid Sleeves_38: -83213896463797753
+      Red Bodice Mid Sleeves_39: -4293205420345056778
+      Red Bodice Mid Sleeves_3_0: 5385497921231178612
+      Red Bodice Mid Sleeves_3_1: 425110445842616619
+      Red Bodice Mid Sleeves_3_2: 8882782570435484968
+      Red Bodice Mid Sleeves_3_3: 8595669634466815842
+      Red Bodice Mid Sleeves_3_4: 6864311176684106869
+      Red Bodice Mid Sleeves_3_5: -8218064059442502563
+      Red Bodice Mid Sleeves_3_6: 1655682574166954844
+      Red Bodice Mid Sleeves_4: 4780472677082289802
+      Red Bodice Mid Sleeves_40: -7731152428285996233
+      Red Bodice Mid Sleeves_41: -1617985405192247377
+      Red Bodice Mid Sleeves_42: -7960289846787591959
+      Red Bodice Mid Sleeves_43: -8178180777114939462
+      Red Bodice Mid Sleeves_44: -2209883021639788308
+      Red Bodice Mid Sleeves_45: 6055465590176449910
+      Red Bodice Mid Sleeves_46: 7382650832468330373
+      Red Bodice Mid Sleeves_47: -3627470505526873178
+      Red Bodice Mid Sleeves_48: -5680164185074920967
+      Red Bodice Mid Sleeves_49: 412846909706434542
+      Red Bodice Mid Sleeves_4_0: 7837713356089530565
+      Red Bodice Mid Sleeves_4_1: -6426743364364177327
+      Red Bodice Mid Sleeves_4_2: 8695118139049150436
+      Red Bodice Mid Sleeves_4_3: 8157105084925877303
+      Red Bodice Mid Sleeves_4_4: 8421515073485943090
+      Red Bodice Mid Sleeves_4_5: -1581139883162778458
+      Red Bodice Mid Sleeves_4_6: -6884369595479125267
+      Red Bodice Mid Sleeves_5: -8406829623080484594
+      Red Bodice Mid Sleeves_50: -2671301373550714784
+      Red Bodice Mid Sleeves_51: -572390866041406585
+      Red Bodice Mid Sleeves_52: -963730529562471666
+      Red Bodice Mid Sleeves_53: 7622389975389137939
+      Red Bodice Mid Sleeves_54: 980625735877243139
+      Red Bodice Mid Sleeves_55: 3528567891576361616
+      Red Bodice Mid Sleeves_5_0: -3433167466391522204
+      Red Bodice Mid Sleeves_5_1: 226986163231534499
+      Red Bodice Mid Sleeves_5_2: -3309554012624835298
+      Red Bodice Mid Sleeves_5_3: -8721534294581109514
+      Red Bodice Mid Sleeves_5_4: 2974354196059752881
+      Red Bodice Mid Sleeves_5_5: -8797289492233365861
+      Red Bodice Mid Sleeves_5_6: 1502357349373416767
+      Red Bodice Mid Sleeves_6: -3611028033122793012
+      Red Bodice Mid Sleeves_60: 1713354498844037474
+      Red Bodice Mid Sleeves_61: 2744115386262426677
+      Red Bodice Mid Sleeves_62: -2046578364927325704
+      Red Bodice Mid Sleeves_63: -6765908539622562671
+      Red Bodice Mid Sleeves_64: 2989243524465073275
+      Red Bodice Mid Sleeves_65: 775380555143684517
+      Red Bodice Mid Sleeves_66: -189619341305975041
+      Red Bodice Mid Sleeves_67: 1659247876094905991
+      Red Bodice Mid Sleeves_68: 3650377577599993862
+      Red Bodice Mid Sleeves_69: -4530336182704420785
+      Red Bodice Mid Sleeves_6_0: -7866992675073527491
+      Red Bodice Mid Sleeves_6_1: -799571269644905094
+      Red Bodice Mid Sleeves_6_2: 2112159355991732616
+      Red Bodice Mid Sleeves_6_3: -7230669467802372819
+      Red Bodice Mid Sleeves_6_4: -2921992255336163362
+      Red Bodice Mid Sleeves_6_5: -8741475774070706220
+      Red Bodice Mid Sleeves_6_6: 3656822226208378696
+      Red Bodice Mid Sleeves_7: -7793967663985138399
+      Red Bodice Mid Sleeves_7_0: -6230757754952964811
+      Red Bodice Mid Sleeves_7_1: 4493915595764761224
+      Red Bodice Mid Sleeves_7_2: 7208640518346974215
+      Red Bodice Mid Sleeves_7_3: 6322578138817296209
+      Red Bodice Mid Sleeves_7_4: 8513818148381332729
+      Red Bodice Mid Sleeves_7_5: 1341981302383095963
+      Red Bodice Mid Sleeves_7_6: -3240504365007991508
+      Red Bodice Mid Sleeves_8: 2236464377492250415
+      Red Bodice Mid Sleeves_8_0: -6941401941794520192
+      Red Bodice Mid Sleeves_8_1: 7958944947261711992
+      Red Bodice Mid Sleeves_8_2: 3548889117881054899
+      Red Bodice Mid Sleeves_8_3: 362425091285006421
+      Red Bodice Mid Sleeves_8_4: -571150281637693174
+      Red Bodice Mid Sleeves_8_5: 3337479680928878129
+      Red Bodice Mid Sleeves_8_6: -6084343796757699958
+      Red Bodice Mid Sleeves_9: 1366724130651357548
+      Red Bodice Mid Sleeves_9_0: 5200298806835019926
+      Red Bodice Mid Sleeves_9_1: 3007803218444890773
+      Red Bodice Mid Sleeves_9_2: 7052032448928453003
+      Red Bodice Mid Sleeves_9_3: 6287449779230750601
+      Red Bodice Mid Sleeves_9_4: 7784102587111447027
+      Red Bodice Mid Sleeves_9_5: 1744368678828957535
+      Red Bodice Mid Sleeves_9_6: 5604424511758683889
+      Red Bodice Mid Sleeves_EMPTY_18: -6784901779231599379
+      Red Bodice Mid Sleeves_EMPTY_19: -509459007881697952
+      Red Bodice Mid Sleeves_EMPTY_28: 326480092847811045
+      Red Bodice Mid Sleeves_EMPTY_29: 8466350848801904745
+      Red Bodice Mid Sleeves_EMPTY_34: 6609239223772818758
+      Red Bodice Mid Sleeves_EMPTY_35: -8785552703143379028
+      Red Bodice Mid Sleeves_EMPTY_36: -7460735478022076407
+      Red Bodice Mid Sleeves_EMPTY_37: -590917240640083363
+      Red Bodice Mid Sleeves_EMPTY_38: 5694051742222590512
+      Red Bodice Mid Sleeves_EMPTY_39: -5471567577436526774
+      Red Bodice Mid Sleeves_EMPTY_44: 7224016480766494925
+      Red Bodice Mid Sleeves_EMPTY_45: 5507105284651421805
+      Red Bodice Mid Sleeves_EMPTY_46: 1242064565163329639
+      Red Bodice Mid Sleeves_EMPTY_47: -4238227971139474737
+      Red Bodice Mid Sleeves_EMPTY_48: 5601448695270058310
+      Red Bodice Mid Sleeves_EMPTY_49: -1781170008845527177
+      Red Bodice Mid Sleeves_EMPTY_5: -7081282406882859173
+      Red Bodice Mid Sleeves_EMPTY_56: -6195372341095898483
+      Red Bodice Mid Sleeves_EMPTY_57: -3145386896420721009
+      Red Bodice Mid Sleeves_EMPTY_58: -173624860504489649
+      Red Bodice Mid Sleeves_EMPTY_59: -1751111097683735289
+      Red Bodice Mid Sleeves_EMPTY_6: 3229371361371523063
+      Red Bodice Mid Sleeves_EMPTY_7: 7723304877425859989
+      Red Bodice Mid Sleeves_EMPTY_8: 8753992376096845807
+      Red Bodice Mid Sleeves_EMPTY_9: -4627617038580871915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

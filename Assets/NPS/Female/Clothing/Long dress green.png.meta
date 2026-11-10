@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: 3c13ea59fbbc18f48bc2df9d49ba6bc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7305552261711095000
+    second: Long dress green_0
+  - first:
+      213: -6120801269746624964
+    second: Long dress green_1
+  - first:
+      213: -1427764962904777197
+    second: Long dress green_2
+  - first:
+      213: 3950083893848140832
+    second: Long dress green_3
+  - first:
+      213: -5274791798455877579
+    second: Long dress green_4
+  - first:
+      213: -2375577117080179916
+    second: Long dress green_5
+  - first:
+      213: -5839822514379837590
+    second: Long dress green_6
+  - first:
+      213: -9126019392956416430
+    second: Long dress green_7
+  - first:
+      213: -3103002648893894437
+    second: Long dress green_8
+  - first:
+      213: -6148873332814366145
+    second: Long dress green_9
+  - first:
+      213: -7266485454354841492
+    second: Long dress green_10
+  - first:
+      213: 4113807354751167802
+    second: Long dress green_11
+  - first:
+      213: 6813363981650910044
+    second: Long dress green_12
+  - first:
+      213: -5684790849164743593
+    second: Long dress green_13
+  - first:
+      213: 257352284435863775
+    second: Long dress green_14
+  - first:
+      213: 3555855387255653611
+    second: Long dress green_15
+  - first:
+      213: -1002732641179873510
+    second: Long dress green_16
+  - first:
+      213: 5127509776993500976
+    second: Long dress green_17
+  - first:
+      213: -8928416337514163144
+    second: Long dress green_18
+  - first:
+      213: 7743594749489746209
+    second: Long dress green_19
+  - first:
+      213: 5431854144264765500
+    second: Long dress green_20
+  - first:
+      213: -772453842357925742
+    second: Long dress green_21
+  - first:
+      213: 516094769824027015
+    second: Long dress green_22
+  - first:
+      213: 8820663850760637471
+    second: Long dress green_23
+  - first:
+      213: -8552603966607275096
+    second: Long dress green_24
+  - first:
+      213: 2542843768448741671
+    second: Long dress green_25
+  - first:
+      213: 2334354839839375852
+    second: Long dress green_26
+  - first:
+      213: -3793764058888792748
+    second: Long dress green_27
+  - first:
+      213: -388940061189253348
+    second: Long dress green_28
+  - first:
+      213: 4214283069438934004
+    second: Long dress green_29
+  - first:
+      213: 7341969735312198958
+    second: Long dress green_30
+  - first:
+      213: -943324296661206786
+    second: Long dress green_31
+  - first:
+      213: 5206970893884515098
+    second: Long dress green_32
+  - first:
+      213: 1745956191622468340
+    second: Long dress green_33
+  - first:
+      213: -7216340852318739572
+    second: Long dress green_34
+  - first:
+      213: -6415668093098158548
+    second: Long dress green_35
+  - first:
+      213: -7374426667718215016
+    second: Long dress green_36
+  - first:
+      213: -4846905037239480310
+    second: Long dress green_37
+  - first:
+      213: -2997942890571380582
+    second: Long dress green_38
+  - first:
+      213: 5852356061611939162
+    second: Long dress green_39
+  - first:
+      213: 801404541435056486
+    second: Long dress green_40
+  - first:
+      213: -8670708610778094272
+    second: Long dress green_41
+  - first:
+      213: 1952062761712404047
+    second: Long dress green_42
+  - first:
+      213: 7401465450207664163
+    second: Long dress green_43
+  - first:
+      213: 8718386872605747391
+    second: Long dress green_44
+  - first:
+      213: 250854833542515924
+    second: Long dress green_45
+  - first:
+      213: 4829190668677895510
+    second: Long dress green_46
+  - first:
+      213: -12124490908652986
+    second: Long dress green_47
+  - first:
+      213: 6522151412162282293
+    second: Long dress green_48
+  - first:
+      213: 1768338313907283091
+    second: Long dress green_49
+  - first:
+      213: -3602031730611423363
+    second: Long dress green_50
+  - first:
+      213: -2184808556719859892
+    second: Long dress green_51
+  - first:
+      213: 8263323671888912960
+    second: Long dress green_0_6
+  - first:
+      213: -882131034565517616
+    second: Long dress green_1_6
+  - first:
+      213: 7242368481838875907
+    second: Long dress green_2_6
+  - first:
+      213: 7290343078447649726
+    second: Long dress green_3_6
+  - first:
+      213: 9112747064039412847
+    second: Long dress green_4_6
+  - first:
+      213: 7402607237213539155
+    second: Long dress green_5_6
+  - first:
+      213: 7860796861435826141
+    second: Long dress green_6_6
+  - first:
+      213: 5243951893801573084
+    second: Long dress green_7_6
+  - first:
+      213: 6241068483101166001
+    second: Long dress green_8_6
+  - first:
+      213: 8012929681712103464
+    second: Long dress green_9_6
+  - first:
+      213: -6856991936189833289
+    second: Long dress green_0_5
+  - first:
+      213: -3722427091736088626
+    second: Long dress green_1_5
+  - first:
+      213: -5237615286910750070
+    second: Long dress green_2_5
+  - first:
+      213: -560255833142942635
+    second: Long dress green_3_5
+  - first:
+      213: 4715334400293288901
+    second: Long dress green_4_5
+  - first:
+      213: 2008296655768124620
+    second: Long dress green_5_5
+  - first:
+      213: 4884005156592815351
+    second: Long dress green_6_5
+  - first:
+      213: 5620081122651498716
+    second: Long dress green_7_5
+  - first:
+      213: 3291278187283112365
+    second: Long dress green_8_5
+  - first:
+      213: 7609507420328377611
+    second: Long dress green_9_5
+  - first:
+      213: 2603467884874529659
+    second: Long dress green_0_4
+  - first:
+      213: -191255651896245465
+    second: Long dress green_1_4
+  - first:
+      213: 159936524234734257
+    second: Long dress green_2_4
+  - first:
+      213: -6890957904615335374
+    second: Long dress green_3_4
+  - first:
+      213: 7004610602193746970
+    second: Long dress green_4_4
+  - first:
+      213: 219417680441953964
+    second: Long dress green_5_4
+  - first:
+      213: 7352770799149627420
+    second: Long dress green_6_4
+  - first:
+      213: 6729801116647488816
+    second: Long dress green_7_4
+  - first:
+      213: 2444140605219843698
+    second: Long dress green_8_4
+  - first:
+      213: 8296169402200943168
+    second: Long dress green_9_4
+  - first:
+      213: 3835671900471497424
+    second: Long dress green_0_3
+  - first:
+      213: -8280192436026456500
+    second: Long dress green_1_3
+  - first:
+      213: 5415660788697597098
+    second: Long dress green_2_3
+  - first:
+      213: -6551760902452966476
+    second: Long dress green_3_3
+  - first:
+      213: -7052173483798644253
+    second: Long dress green_4_3
+  - first:
+      213: -5227200928881006464
+    second: Long dress green_5_3
+  - first:
+      213: 3152360099059346356
+    second: Long dress green_6_3
+  - first:
+      213: 4834221236202011906
+    second: Long dress green_7_3
+  - first:
+      213: -5905313216771850403
+    second: Long dress green_8_3
+  - first:
+      213: 5248091506485072940
+    second: Long dress green_9_3
+  - first:
+      213: 3165149776134900979
+    second: Long dress green_0_2
+  - first:
+      213: -651216473329257074
+    second: Long dress green_1_2
+  - first:
+      213: -5170044062222720130
+    second: Long dress green_2_2
+  - first:
+      213: -1079610033384294881
+    second: Long dress green_3_2
+  - first:
+      213: -8999991154725858466
+    second: Long dress green_4_2
+  - first:
+      213: 7412965115432117937
+    second: Long dress green_5_2
+  - first:
+      213: 7242426759062884824
+    second: Long dress green_6_2
+  - first:
+      213: 3729720742036830641
+    second: Long dress green_7_2
+  - first:
+      213: 3347475998366830585
+    second: Long dress green_8_2
+  - first:
+      213: -2218166449487290305
+    second: Long dress green_9_2
+  - first:
+      213: -6692787029609325922
+    second: Long dress green_0_1
+  - first:
+      213: 3447316470702331229
+    second: Long dress green_1_1
+  - first:
+      213: -7939895954046916658
+    second: Long dress green_2_1
+  - first:
+      213: -7562964603205353889
+    second: Long dress green_3_1
+  - first:
+      213: -517204718709848666
+    second: Long dress green_4_1
+  - first:
+      213: -4768711614381529026
+    second: Long dress green_5_1
+  - first:
+      213: -5993803552770642592
+    second: Long dress green_6_1
+  - first:
+      213: -8221040372539743096
+    second: Long dress green_7_1
+  - first:
+      213: -5006586005030254469
+    second: Long dress green_8_1
+  - first:
+      213: -1968329671997961553
+    second: Long dress green_9_1
+  - first:
+      213: 1518123674595024882
+    second: Long dress green_0_0
+  - first:
+      213: -8239937403839501789
+    second: Long dress green_1_0
+  - first:
+      213: 9124070097620180582
+    second: Long dress green_2_0
+  - first:
+      213: -5145023978245955471
+    second: Long dress green_3_0
+  - first:
+      213: -8833869881918984713
+    second: Long dress green_4_0
+  - first:
+      213: 9198636494524127148
+    second: Long dress green_5_0
+  - first:
+      213: -2461105079483330511
+    second: Long dress green_6_0
+  - first:
+      213: -3837834430395232072
+    second: Long dress green_7_0
+  - first:
+      213: 6914401923996796135
+    second: Long dress green_8_0
+  - first:
+      213: -929667988991468747
+    second: Long dress green_9_0
+  - first:
+      213: -6957727770871124640
+    second: Long dress green_EMPTY_5
+  - first:
+      213: 823909609868441407
+    second: Long dress green_EMPTY_6
+  - first:
+      213: -3700928461293085625
+    second: Long dress green_EMPTY_7
+  - first:
+      213: 3298072743476624629
+    second: Long dress green_EMPTY_8
+  - first:
+      213: 2018579346475143597
+    second: Long dress green_EMPTY_9
+  - first:
+      213: 6225467868241883426
+    second: Long dress green_EMPTY_18
+  - first:
+      213: 7633839187853628456
+    second: Long dress green_EMPTY_19
+  - first:
+      213: -3332818061158934513
+    second: Long dress green_EMPTY_28
+  - first:
+      213: 3149188821223772543
+    second: Long dress green_EMPTY_29
+  - first:
+      213: -6539339346522748740
+    second: Long dress green_EMPTY_34
+  - first:
+      213: -2030080074041843704
+    second: Long dress green_EMPTY_35
+  - first:
+      213: -2661659016005533633
+    second: Long dress green_EMPTY_36
+  - first:
+      213: 7528709108056887004
+    second: Long dress green_EMPTY_37
+  - first:
+      213: 1692479322797023532
+    second: Long dress green_EMPTY_38
+  - first:
+      213: -5184263793061029986
+    second: Long dress green_EMPTY_39
+  - first:
+      213: -5881752285501647884
+    second: Long dress green_EMPTY_44
+  - first:
+      213: -3467134774506108767
+    second: Long dress green_EMPTY_45
+  - first:
+      213: -1435650206425751779
+    second: Long dress green_EMPTY_46
+  - first:
+      213: 7970304675592633268
+    second: Long dress green_EMPTY_47
+  - first:
+      213: -9055380705517833828
+    second: Long dress green_EMPTY_48
+  - first:
+      213: -2267254306080629272
+    second: Long dress green_EMPTY_49
+  - first:
+      213: 5284229659563467577
+    second: Long dress green_52
+  - first:
+      213: 4689533514012444105
+    second: Long dress green_53
+  - first:
+      213: -8201973511902519790
+    second: Long dress green_54
+  - first:
+      213: -5884926393119517373
+    second: Long dress green_55
+  - first:
+      213: -6995236908974373028
+    second: Long dress green_EMPTY_56
+  - first:
+      213: 5542878192490337805
+    second: Long dress green_EMPTY_57
+  - first:
+      213: 6146109209760045834
+    second: Long dress green_EMPTY_58
+  - first:
+      213: -8201613268976276935
+    second: Long dress green_EMPTY_59
+  - first:
+      213: -5749135461961586373
+    second: Long dress green_60
+  - first:
+      213: 7739146204205991271
+    second: Long dress green_61
+  - first:
+      213: 4113992586544116069
+    second: Long dress green_62
+  - first:
+      213: -6140334427554279109
+    second: Long dress green_63
+  - first:
+      213: 2017700605343429911
+    second: Long dress green_64
+  - first:
+      213: 1376093230719412303
+    second: Long dress green_65
+  - first:
+      213: -5258447759317165048
+    second: Long dress green_66
+  - first:
+      213: -8821746567554246244
+    second: Long dress green_67
+  - first:
+      213: 8679802424063693224
+    second: Long dress green_68
+  - first:
+      213: -4198610434473287688
+    second: Long dress green_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Long dress green_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b98a8ace67d9a90800000000000000
+      internalID: -7305552261711095000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c361effacab8e0ba0800000000000000
+      internalID: -6120801269746624964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31edf43b45f8f2ce0800000000000000
+      internalID: -1427764962904777197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c6fcd7f5481d630800000000000000
+      internalID: 3950083893848140832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530c4ec6ecc2cc6b0800000000000000
+      internalID: -5274791798455877579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d2b5db47f217f90800000000000000
+      internalID: -6957727770871124640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f373d37cc6d1f6b00800000000000000
+      internalID: 823909609868441407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c1e7d3c29a3acc0800000000000000
+      internalID: -3700928461293085625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc725eafab15cd20800000000000000
+      internalID: 3298072743476624629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da15791883f630c10800000000000000
+      internalID: 2018579346475143597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6003af8af1482b90800000000000000
+      internalID: -7266485454354841492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d25564efd271930800000000000000
+      internalID: 4113807354751167802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b5ebb417eed8e50800000000000000
+      internalID: 6813363981650910044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ce42d87d09b11b0800000000000000
+      internalID: -5684790849164743593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd85fe70a8c429300800000000000000
+      internalID: 257352284435863775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4480e82afe85130800000000000000
+      internalID: 3555855387255653611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fc8cdb9f39512f0800000000000000
+      internalID: -1002732641179873510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f3a08b9f2982740800000000000000
+      internalID: 5127509776993500976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2217a2fca0e456650800000000000000
+      internalID: 6225467868241883426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824d878ab48d0f960800000000000000
+      internalID: 7633839187853628456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3082a4a092d16b40800000000000000
+      internalID: 5431854144264765500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298ced0b251b745f0800000000000000
+      internalID: -772453842357925742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7815cc17579892700800000000000000
+      internalID: 516094769824027015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c87b3d90b496a70800000000000000
+      internalID: 8820663850760637471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abc6c9810c0f4980800000000000000
+      internalID: -8552603966607275096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721f3b15feef94320800000000000000
+      internalID: 2542843768448741671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce10750eb5b456020800000000000000
+      internalID: 2334354839839375852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4551a4c40b7d95bc0800000000000000
+      internalID: -3793764058888792748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f089d93a1a37fb1d0800000000000000
+      internalID: -3332818061158934513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f719cab3c8a24bb20800000000000000
+      internalID: 3149188821223772543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dc3f8239ae3e560800000000000000
+      internalID: 7341969735312198958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef87385dc83a8e2f0800000000000000
+      internalID: -943324296661206786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13e8c5b070e24840800000000000000
+      internalID: 5206970893884515098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f21d03e7e1ea3810800000000000000
+      internalID: 1745956191622468340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8c6c0e2899f35a0800000000000000
+      internalID: -6539339346522748740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8002321bde4b3d3e0800000000000000
+      internalID: -2030080074041843704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3046cd1a33ef0bd0800000000000000
+      internalID: -2661659016005533633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde8af28b095b7860800000000000000
+      internalID: 7528709108056887004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21a2091af4ec7710800000000000000
+      internalID: 1692479322797023532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e979da03c8bcd08b0800000000000000
+      internalID: -5184263793061029986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6611f953f292f1b00800000000000000
+      internalID: 801404541435056486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045a6a735747ba780800000000000000
+      internalID: -8670708610778094272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46c2234dbe171b10800000000000000
+      internalID: 1952062761712404047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32854f0cc9947b660800000000000000
+      internalID: 7401465450207664163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f315dd8571df5ea0800000000000000
+      internalID: -5881752285501647884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8c821da4342efc0800000000000000
+      internalID: -3467134774506108767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fd6406ebb831ce0800000000000000
+      internalID: -1435650206425751779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb755cbfd53c9e60800000000000000
+      internalID: 7970304675592633268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91feadc933d45280800000000000000
+      internalID: -9055380705517833828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edd69698381980e0800000000000000
+      internalID: -2267254306080629272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d777833b933030ec0800000000000000
+      internalID: -3602031730611423363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c479a7a71300ea1e0800000000000000
+      internalID: -2184808556719859892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9332dd9d0ea555940800000000000000
+      internalID: 5284229659563467577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5400182e1941140800000000000000
+      internalID: 4689533514012444105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e13edfb8cbc2e80800000000000000
+      internalID: -8201973511902519790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3455ac800aa845ea0800000000000000
+      internalID: -5884926393119517373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5781e8f71debee90800000000000000
+      internalID: -6995236908974373028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0655a049524cec40800000000000000
+      internalID: 5542878192490337805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b118643cd5b4550800000000000000
+      internalID: 6146109209760045834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ae9859f240e2e80800000000000000
+      internalID: -8201613268976276935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39ad20f1c7f630b0800000000000000
+      internalID: -5749135461961586373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765c28e0878f66b60800000000000000
+      internalID: 7739146204205991271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5617d89e576d71930800000000000000
+      internalID: 4113992586544116069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31968bfe5629caa0800000000000000
+      internalID: -6140334427554279109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715f594a200500c10800000000000000
+      internalID: 2017700605343429911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48a9d2a08dd81310800000000000000
+      internalID: 1376093230719412303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c93f39f9d3607b0800000000000000
+      internalID: -5258447759317165048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9958668c3cd29580800000000000000
+      internalID: -8821746567554246244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a114ee215ad47870800000000000000
+      internalID: 8679802424063693224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long dress green_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff98f61e0a8bb5c0800000000000000
+      internalID: -4198610434473287688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Long dress green_0: -7305552261711095000
+      Long dress green_0_0: 1518123674595024882
+      Long dress green_0_1: -6692787029609325922
+      Long dress green_0_2: 3165149776134900979
+      Long dress green_0_3: 3835671900471497424
+      Long dress green_0_4: 2603467884874529659
+      Long dress green_0_5: -6856991936189833289
+      Long dress green_0_6: 8263323671888912960
+      Long dress green_1: -6120801269746624964
+      Long dress green_10: -7266485454354841492
+      Long dress green_11: 4113807354751167802
+      Long dress green_12: 6813363981650910044
+      Long dress green_13: -5684790849164743593
+      Long dress green_14: 257352284435863775
+      Long dress green_15: 3555855387255653611
+      Long dress green_16: -1002732641179873510
+      Long dress green_17: 5127509776993500976
+      Long dress green_18: -8928416337514163144
+      Long dress green_19: 7743594749489746209
+      Long dress green_1_0: -8239937403839501789
+      Long dress green_1_1: 3447316470702331229
+      Long dress green_1_2: -651216473329257074
+      Long dress green_1_3: -8280192436026456500
+      Long dress green_1_4: -191255651896245465
+      Long dress green_1_5: -3722427091736088626
+      Long dress green_1_6: -882131034565517616
+      Long dress green_2: -1427764962904777197
+      Long dress green_20: 5431854144264765500
+      Long dress green_21: -772453842357925742
+      Long dress green_22: 516094769824027015
+      Long dress green_23: 8820663850760637471
+      Long dress green_24: -8552603966607275096
+      Long dress green_25: 2542843768448741671
+      Long dress green_26: 2334354839839375852
+      Long dress green_27: -3793764058888792748
+      Long dress green_28: -388940061189253348
+      Long dress green_29: 4214283069438934004
+      Long dress green_2_0: 9124070097620180582
+      Long dress green_2_1: -7939895954046916658
+      Long dress green_2_2: -5170044062222720130
+      Long dress green_2_3: 5415660788697597098
+      Long dress green_2_4: 159936524234734257
+      Long dress green_2_5: -5237615286910750070
+      Long dress green_2_6: 7242368481838875907
+      Long dress green_3: 3950083893848140832
+      Long dress green_30: 7341969735312198958
+      Long dress green_31: -943324296661206786
+      Long dress green_32: 5206970893884515098
+      Long dress green_33: 1745956191622468340
+      Long dress green_34: -7216340852318739572
+      Long dress green_35: -6415668093098158548
+      Long dress green_36: -7374426667718215016
+      Long dress green_37: -4846905037239480310
+      Long dress green_38: -2997942890571380582
+      Long dress green_39: 5852356061611939162
+      Long dress green_3_0: -5145023978245955471
+      Long dress green_3_1: -7562964603205353889
+      Long dress green_3_2: -1079610033384294881
+      Long dress green_3_3: -6551760902452966476
+      Long dress green_3_4: -6890957904615335374
+      Long dress green_3_5: -560255833142942635
+      Long dress green_3_6: 7290343078447649726
+      Long dress green_4: -5274791798455877579
+      Long dress green_40: 801404541435056486
+      Long dress green_41: -8670708610778094272
+      Long dress green_42: 1952062761712404047
+      Long dress green_43: 7401465450207664163
+      Long dress green_44: 8718386872605747391
+      Long dress green_45: 250854833542515924
+      Long dress green_46: 4829190668677895510
+      Long dress green_47: -12124490908652986
+      Long dress green_48: 6522151412162282293
+      Long dress green_49: 1768338313907283091
+      Long dress green_4_0: -8833869881918984713
+      Long dress green_4_1: -517204718709848666
+      Long dress green_4_2: -8999991154725858466
+      Long dress green_4_3: -7052173483798644253
+      Long dress green_4_4: 7004610602193746970
+      Long dress green_4_5: 4715334400293288901
+      Long dress green_4_6: 9112747064039412847
+      Long dress green_5: -2375577117080179916
+      Long dress green_50: -3602031730611423363
+      Long dress green_51: -2184808556719859892
+      Long dress green_52: 5284229659563467577
+      Long dress green_53: 4689533514012444105
+      Long dress green_54: -8201973511902519790
+      Long dress green_55: -5884926393119517373
+      Long dress green_5_0: 9198636494524127148
+      Long dress green_5_1: -4768711614381529026
+      Long dress green_5_2: 7412965115432117937
+      Long dress green_5_3: -5227200928881006464
+      Long dress green_5_4: 219417680441953964
+      Long dress green_5_5: 2008296655768124620
+      Long dress green_5_6: 7402607237213539155
+      Long dress green_6: -5839822514379837590
+      Long dress green_60: -5749135461961586373
+      Long dress green_61: 7739146204205991271
+      Long dress green_62: 4113992586544116069
+      Long dress green_63: -6140334427554279109
+      Long dress green_64: 2017700605343429911
+      Long dress green_65: 1376093230719412303
+      Long dress green_66: -5258447759317165048
+      Long dress green_67: -8821746567554246244
+      Long dress green_68: 8679802424063693224
+      Long dress green_69: -4198610434473287688
+      Long dress green_6_0: -2461105079483330511
+      Long dress green_6_1: -5993803552770642592
+      Long dress green_6_2: 7242426759062884824
+      Long dress green_6_3: 3152360099059346356
+      Long dress green_6_4: 7352770799149627420
+      Long dress green_6_5: 4884005156592815351
+      Long dress green_6_6: 7860796861435826141
+      Long dress green_7: -9126019392956416430
+      Long dress green_7_0: -3837834430395232072
+      Long dress green_7_1: -8221040372539743096
+      Long dress green_7_2: 3729720742036830641
+      Long dress green_7_3: 4834221236202011906
+      Long dress green_7_4: 6729801116647488816
+      Long dress green_7_5: 5620081122651498716
+      Long dress green_7_6: 5243951893801573084
+      Long dress green_8: -3103002648893894437
+      Long dress green_8_0: 6914401923996796135
+      Long dress green_8_1: -5006586005030254469
+      Long dress green_8_2: 3347475998366830585
+      Long dress green_8_3: -5905313216771850403
+      Long dress green_8_4: 2444140605219843698
+      Long dress green_8_5: 3291278187283112365
+      Long dress green_8_6: 6241068483101166001
+      Long dress green_9: -6148873332814366145
+      Long dress green_9_0: -929667988991468747
+      Long dress green_9_1: -1968329671997961553
+      Long dress green_9_2: -2218166449487290305
+      Long dress green_9_3: 5248091506485072940
+      Long dress green_9_4: 8296169402200943168
+      Long dress green_9_5: 7609507420328377611
+      Long dress green_9_6: 8012929681712103464
+      Long dress green_EMPTY_18: 6225467868241883426
+      Long dress green_EMPTY_19: 7633839187853628456
+      Long dress green_EMPTY_28: -3332818061158934513
+      Long dress green_EMPTY_29: 3149188821223772543
+      Long dress green_EMPTY_34: -6539339346522748740
+      Long dress green_EMPTY_35: -2030080074041843704
+      Long dress green_EMPTY_36: -2661659016005533633
+      Long dress green_EMPTY_37: 7528709108056887004
+      Long dress green_EMPTY_38: 1692479322797023532
+      Long dress green_EMPTY_39: -5184263793061029986
+      Long dress green_EMPTY_44: -5881752285501647884
+      Long dress green_EMPTY_45: -3467134774506108767
+      Long dress green_EMPTY_46: -1435650206425751779
+      Long dress green_EMPTY_47: 7970304675592633268
+      Long dress green_EMPTY_48: -9055380705517833828
+      Long dress green_EMPTY_49: -2267254306080629272
+      Long dress green_EMPTY_5: -6957727770871124640
+      Long dress green_EMPTY_56: -6995236908974373028
+      Long dress green_EMPTY_57: 5542878192490337805
+      Long dress green_EMPTY_58: 6146109209760045834
+      Long dress green_EMPTY_59: -8201613268976276935
+      Long dress green_EMPTY_6: 823909609868441407
+      Long dress green_EMPTY_7: -3700928461293085625
+      Long dress green_EMPTY_8: 3298072743476624629
+      Long dress green_EMPTY_9: 2018579346475143597
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

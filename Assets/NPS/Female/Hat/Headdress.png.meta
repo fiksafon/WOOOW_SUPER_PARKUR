@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: 0e0769420062d0743aa62fbd51d7e811
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8784865957831208059
+    second: Headdress_0
+  - first:
+      213: 755298405161124724
+    second: Headdress_1
+  - first:
+      213: 5121958889311807976
+    second: Headdress_2
+  - first:
+      213: -5733585269336206541
+    second: Headdress_3
+  - first:
+      213: 8149685677230949424
+    second: Headdress_4
+  - first:
+      213: 6344660755306939778
+    second: Headdress_5
+  - first:
+      213: -7652498480584875605
+    second: Headdress_6
+  - first:
+      213: -5967184889114088140
+    second: Headdress_7
+  - first:
+      213: -4436538492707210281
+    second: Headdress_8
+  - first:
+      213: -8769867041597053434
+    second: Headdress_9
+  - first:
+      213: 7285299720084041561
+    second: Headdress_10
+  - first:
+      213: -8362932804325371336
+    second: Headdress_11
+  - first:
+      213: 4693402560349539312
+    second: Headdress_12
+  - first:
+      213: -6533748503903550434
+    second: Headdress_13
+  - first:
+      213: -4404769455069466323
+    second: Headdress_14
+  - first:
+      213: 6928786065133306969
+    second: Headdress_15
+  - first:
+      213: -7979960011928096024
+    second: Headdress_16
+  - first:
+      213: 8844654581542104304
+    second: Headdress_17
+  - first:
+      213: -1082487731014895307
+    second: Headdress_18
+  - first:
+      213: -1192516441894423053
+    second: Headdress_19
+  - first:
+      213: 3620546794297934451
+    second: Headdress_20
+  - first:
+      213: 4143305257714179241
+    second: Headdress_21
+  - first:
+      213: 3274057409011830724
+    second: Headdress_22
+  - first:
+      213: 3816764654393227929
+    second: Headdress_23
+  - first:
+      213: 314369252254382259
+    second: Headdress_24
+  - first:
+      213: -5653145494896645815
+    second: Headdress_25
+  - first:
+      213: 4137309357797483210
+    second: Headdress_26
+  - first:
+      213: -322213711383580892
+    second: Headdress_27
+  - first:
+      213: -4966521996805447482
+    second: Headdress_28
+  - first:
+      213: 145105655942436166
+    second: Headdress_29
+  - first:
+      213: -729989528788679298
+    second: Headdress_30
+  - first:
+      213: -3196707053676911985
+    second: Headdress_31
+  - first:
+      213: 7556056086530586214
+    second: Headdress_32
+  - first:
+      213: 445425439502810496
+    second: Headdress_33
+  - first:
+      213: -5602583410915425694
+    second: Headdress_34
+  - first:
+      213: -1097479822462091403
+    second: Headdress_35
+  - first:
+      213: 4465307669099736964
+    second: Headdress_36
+  - first:
+      213: 5125948433971824598
+    second: Headdress_37
+  - first:
+      213: 6087267796751203806
+    second: Headdress_38
+  - first:
+      213: 1145282605985481293
+    second: Headdress_39
+  - first:
+      213: 4507893482190086022
+    second: Headdress_40
+  - first:
+      213: -3402184004951492802
+    second: Headdress_41
+  - first:
+      213: 932288140234223078
+    second: Headdress_42
+  - first:
+      213: -4879277281804215692
+    second: Headdress_43
+  - first:
+      213: 9105795173783086591
+    second: Headdress_44
+  - first:
+      213: 8618476318121773733
+    second: Headdress_0_6
+  - first:
+      213: -3873964869326309533
+    second: Headdress_1_6
+  - first:
+      213: 145304273513196807
+    second: Headdress_2_6
+  - first:
+      213: 128930385666672485
+    second: Headdress_3_6
+  - first:
+      213: 7339464336398140325
+    second: Headdress_4_6
+  - first:
+      213: -5726805783511658005
+    second: Headdress_5_6
+  - first:
+      213: -9089942779149426329
+    second: Headdress_6_6
+  - first:
+      213: -9110722136760330113
+    second: Headdress_7_6
+  - first:
+      213: 7833968099230753793
+    second: Headdress_8_6
+  - first:
+      213: 4270202370678747525
+    second: Headdress_9_6
+  - first:
+      213: 4329843149901787789
+    second: Headdress_0_5
+  - first:
+      213: 1554478123154031651
+    second: Headdress_1_5
+  - first:
+      213: 3521257926704711041
+    second: Headdress_2_5
+  - first:
+      213: 7678174417317098087
+    second: Headdress_3_5
+  - first:
+      213: -2877513465725941840
+    second: Headdress_4_5
+  - first:
+      213: 8322507335846208855
+    second: Headdress_5_5
+  - first:
+      213: 7323364430282753130
+    second: Headdress_6_5
+  - first:
+      213: -6155750635906765797
+    second: Headdress_7_5
+  - first:
+      213: 2624509291223737766
+    second: Headdress_8_5
+  - first:
+      213: 9178830139675982964
+    second: Headdress_9_5
+  - first:
+      213: -5337169388930838416
+    second: Headdress_0_4
+  - first:
+      213: 1491623972308072917
+    second: Headdress_1_4
+  - first:
+      213: -8058755996250670942
+    second: Headdress_2_4
+  - first:
+      213: 4844496309796420377
+    second: Headdress_3_4
+  - first:
+      213: 6199548556149662591
+    second: Headdress_4_4
+  - first:
+      213: -5775731807701104724
+    second: Headdress_5_4
+  - first:
+      213: 8982591257151962268
+    second: Headdress_6_4
+  - first:
+      213: 7535516805667209562
+    second: Headdress_7_4
+  - first:
+      213: 4703594991061661341
+    second: Headdress_8_4
+  - first:
+      213: -5723230716376020388
+    second: Headdress_9_4
+  - first:
+      213: -8883672246429244961
+    second: Headdress_0_3
+  - first:
+      213: 1430999689607153447
+    second: Headdress_1_3
+  - first:
+      213: -3614100250893625365
+    second: Headdress_2_3
+  - first:
+      213: 7948862687549614495
+    second: Headdress_3_3
+  - first:
+      213: -8569222218817276559
+    second: Headdress_4_3
+  - first:
+      213: -7002138814264756657
+    second: Headdress_5_3
+  - first:
+      213: 7700134935615899477
+    second: Headdress_6_3
+  - first:
+      213: 9031925249601071238
+    second: Headdress_7_3
+  - first:
+      213: 6507488226454867778
+    second: Headdress_8_3
+  - first:
+      213: -6158440481163387119
+    second: Headdress_9_3
+  - first:
+      213: -4397797415446128371
+    second: Headdress_0_2
+  - first:
+      213: 7388619434487192914
+    second: Headdress_1_2
+  - first:
+      213: 2733876347341393495
+    second: Headdress_2_2
+  - first:
+      213: -9086722014983472136
+    second: Headdress_3_2
+  - first:
+      213: 3682616937605130363
+    second: Headdress_4_2
+  - first:
+      213: 1225055725043552200
+    second: Headdress_5_2
+  - first:
+      213: 4712237290164936714
+    second: Headdress_6_2
+  - first:
+      213: -7935036087765426493
+    second: Headdress_7_2
+  - first:
+      213: 1550135334300754843
+    second: Headdress_8_2
+  - first:
+      213: -2386137923974473974
+    second: Headdress_9_2
+  - first:
+      213: 3976915499433963681
+    second: Headdress_0_1
+  - first:
+      213: 7712838282757906908
+    second: Headdress_1_1
+  - first:
+      213: -7411502654571620641
+    second: Headdress_2_1
+  - first:
+      213: -7492322672687130132
+    second: Headdress_3_1
+  - first:
+      213: -8640636787821139438
+    second: Headdress_4_1
+  - first:
+      213: 7389706673100160909
+    second: Headdress_5_1
+  - first:
+      213: 4137169854006641163
+    second: Headdress_6_1
+  - first:
+      213: -4896420758589548521
+    second: Headdress_7_1
+  - first:
+      213: -5166056013170776397
+    second: Headdress_8_1
+  - first:
+      213: 669682476676162135
+    second: Headdress_9_1
+  - first:
+      213: 4579748484060379938
+    second: Headdress_0_0
+  - first:
+      213: 8249237175396045286
+    second: Headdress_1_0
+  - first:
+      213: 4713149139583360515
+    second: Headdress_2_0
+  - first:
+      213: 6339262862029277270
+    second: Headdress_3_0
+  - first:
+      213: -5110807140175963360
+    second: Headdress_4_0
+  - first:
+      213: 5396444870119800953
+    second: Headdress_5_0
+  - first:
+      213: 2223693632421203636
+    second: Headdress_6_0
+  - first:
+      213: -1914342444179212291
+    second: Headdress_7_0
+  - first:
+      213: 8988380351601908328
+    second: Headdress_8_0
+  - first:
+      213: 553176963772986083
+    second: Headdress_9_0
+  - first:
+      213: -8524739171444225015
+    second: Headdress_EMPTY_5
+  - first:
+      213: -100468647208422944
+    second: Headdress_EMPTY_6
+  - first:
+      213: 526383707341303889
+    second: Headdress_EMPTY_7
+  - first:
+      213: -8647889451322533808
+    second: Headdress_EMPTY_8
+  - first:
+      213: -5901818869986148162
+    second: Headdress_EMPTY_9
+  - first:
+      213: -6682531814201441494
+    second: Headdress_EMPTY_18
+  - first:
+      213: -5241540451839711363
+    second: Headdress_EMPTY_19
+  - first:
+      213: -2876650170584440335
+    second: Headdress_EMPTY_28
+  - first:
+      213: 906895343503594
+    second: Headdress_EMPTY_29
+  - first:
+      213: -4473859919481063536
+    second: Headdress_EMPTY_34
+  - first:
+      213: 6296890177527124055
+    second: Headdress_EMPTY_35
+  - first:
+      213: -3863537678791803863
+    second: Headdress_EMPTY_36
+  - first:
+      213: 5007385411407686762
+    second: Headdress_EMPTY_37
+  - first:
+      213: -8333470172421126358
+    second: Headdress_EMPTY_38
+  - first:
+      213: 638582943912550318
+    second: Headdress_EMPTY_39
+  - first:
+      213: 9017951486370294650
+    second: Headdress_EMPTY_44
+  - first:
+      213: -6850014390033583709
+    second: Headdress_EMPTY_45
+  - first:
+      213: -8920504988843564365
+    second: Headdress_EMPTY_46
+  - first:
+      213: 1488216548385182845
+    second: Headdress_EMPTY_47
+  - first:
+      213: 8377775675102354011
+    second: Headdress_EMPTY_48
+  - first:
+      213: 1287426259590052160
+    second: Headdress_EMPTY_49
+  - first:
+      213: 373801309875565338
+    second: Headdress_50
+  - first:
+      213: -6958200123508793086
+    second: Headdress_51
+  - first:
+      213: 42598386439337829
+    second: Headdress_52
+  - first:
+      213: -7446591148223880893
+    second: Headdress_53
+  - first:
+      213: -5896411548030856379
+    second: Headdress_54
+  - first:
+      213: 4883562997368842672
+    second: Headdress_55
+  - first:
+      213: 8517469121797271088
+    second: Headdress_EMPTY_56
+  - first:
+      213: -3636080947666363226
+    second: Headdress_EMPTY_57
+  - first:
+      213: -3176355141609733987
+    second: Headdress_EMPTY_58
+  - first:
+      213: 2493526358777512125
+    second: Headdress_EMPTY_59
+  - first:
+      213: -529100640752208855
+    second: Headdress_60
+  - first:
+      213: 1527585448662292822
+    second: Headdress_61
+  - first:
+      213: 7221151330398020101
+    second: Headdress_62
+  - first:
+      213: 4746797439838576460
+    second: Headdress_63
+  - first:
+      213: 6180747054337874080
+    second: Headdress_64
+  - first:
+      213: -5838039399078814980
+    second: Headdress_65
+  - first:
+      213: -4849615617513965561
+    second: Headdress_66
+  - first:
+      213: 2722295260013054582
+    second: Headdress_67
+  - first:
+      213: -4158474900012970561
+    second: Headdress_68
+  - first:
+      213: -4685113189674409074
+    second: Headdress_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Headdress_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c63ff5b0d1ae970800000000000000
+      internalID: 8784865957831208059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4734c03d5eb5b7a00800000000000000
+      internalID: 755298405161124724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9a597f87ad41740800000000000000
+      internalID: 5121958889311807976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3339dcb43963e60b0800000000000000
+      internalID: -5733585269336206541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034807ec1ff791170800000000000000
+      internalID: 8149685677230949424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c853bb3ea02b980800000000000000
+      internalID: -8524739171444225015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1f3143c401b9ef0800000000000000
+      internalID: -100468647208422944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150b1a361371e4700800000000000000
+      internalID: 526383707341303889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058921dcc568cf780800000000000000
+      internalID: -8647889451322533808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb047c5c107881ea0800000000000000
+      internalID: -5901818869986148162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95facd90f759a1560800000000000000
+      internalID: 7285299720084041561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83299b55ce4e0fb80800000000000000
+      internalID: -8362932804325371336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb0b8d03c0522140800000000000000
+      internalID: 4693402560349539312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14c61d5a567355a0800000000000000
+      internalID: -6533748503903550434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21f711a48d1fd2c0800000000000000
+      internalID: -4404769455069466323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95482f8473ef72060800000000000000
+      internalID: 6928786065133306969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2343716ac714190800000000000000
+      internalID: -7979960011928096024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc29dd1b768eba70800000000000000
+      internalID: 8844654581542104304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23c64678b0e243a0800000000000000
+      internalID: -6682531814201441494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77e04cdabe4247b0800000000000000
+      internalID: -5241540451839711363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372cece7024ce3230800000000000000
+      internalID: 3620546794297934451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acdf020e2aff7930800000000000000
+      internalID: 4143305257714179241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfc266edd9cf6d20800000000000000
+      internalID: 3274057409011830724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99aff582b3fd7f430800000000000000
+      internalID: 3816764654393227929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b87de85b2ddc5400800000000000000
+      internalID: 314369252254382259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949e511cf1efb81b0800000000000000
+      internalID: -5653145494896645815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac22b65c0fcaa6930800000000000000
+      internalID: 4137309357797483210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fa83f2654478bf0800000000000000
+      internalID: -322213711383580892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f16f3739e51418d0800000000000000
+      internalID: -2876650170584440335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae84cc601d8330000800000000000000
+      internalID: 906895343503594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75cbc6246e8ed5f0800000000000000
+      internalID: -729989528788679298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f822a9e1fd303a3d0800000000000000
+      internalID: -3196707053676911985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666759c1af08cd860800000000000000
+      internalID: 7556056086530586214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dbc77c3187e2600800000000000000
+      internalID: 445425439502810496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09739745b18a9e1c0800000000000000
+      internalID: -4473859919481063536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750962d014c036750800000000000000
+      internalID: 6296890177527124055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cf64773f4f16ac0800000000000000
+      internalID: -3863537678791803863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cad6c508ecd7540800000000000000
+      internalID: 5007385411407686762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a278682e701995c80800000000000000
+      internalID: -8333470172421126358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafd78bddc3bcd800800000000000000
+      internalID: 638582943912550318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f1d3bfc314f8e30800000000000000
+      internalID: 4507893482190086022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37b95c4ca309c0d0800000000000000
+      internalID: -3402184004951492802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed68f2cf1720fc00800000000000000
+      internalID: 932288140234223078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a1d69e923594cb0800000000000000
+      internalID: -4879277281804215692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7baec20913362d70800000000000000
+      internalID: 9017951486370294650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1fbb7843cdfe0a0800000000000000
+      internalID: -6850014390033583709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b221eab9fff33480800000000000000
+      internalID: -8920504988843564365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d745b5bd01537a410800000000000000
+      internalID: 1488216548385182845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a5262d696d34470800000000000000
+      internalID: 8377775675102354011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049ff5dac5bddd110800000000000000
+      internalID: 1287426259590052160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1375b39f42003500800000000000000
+      internalID: 373801309875565338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201ed229ad18f6f90800000000000000
+      internalID: -6958200123508793086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567b8bbb107579000800000000000000
+      internalID: 42598386439337829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3412c8eedc468a890800000000000000
+      internalID: -7446591148223880893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5431c1600fcbb2ea0800000000000000
+      internalID: -5896411548030856379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b969600ca6e5c340800000000000000
+      internalID: 4883562997368842672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ea51ee901243670800000000000000
+      internalID: 8517469121797271088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acd7c394ab0a8dc0800000000000000
+      internalID: -3636080947666363226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90cdd7e3d15be3d0800000000000000
+      internalID: -3176355141609733987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0c1051309ca9220800000000000000
+      internalID: 2493526358777512125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924788145c148a8f0800000000000000
+      internalID: -529100640752208855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659529f3fd2133510800000000000000
+      internalID: 1527585448662292822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502a6bd20eea63460800000000000000
+      internalID: 7221151330398020101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fdf463f1300e140800000000000000
+      internalID: 4746797439838576460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8d95ce2bc66c550800000000000000
+      internalID: 6180747054337874080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa1c29091e1bfea0800000000000000
+      internalID: -5838039399078814980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708b4ec4a44b2bcb0800000000000000
+      internalID: -4849615617513965561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aceca9d1987c520800000000000000
+      internalID: 2722295260013054582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd49596c112a46c0800000000000000
+      internalID: -4158474900012970561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headdress_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83a5f470622bfeb0800000000000000
+      internalID: -4685113189674409074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Headdress_0: 8784865957831208059
+      Headdress_0_0: 4579748484060379938
+      Headdress_0_1: 3976915499433963681
+      Headdress_0_2: -4397797415446128371
+      Headdress_0_3: -8883672246429244961
+      Headdress_0_4: -5337169388930838416
+      Headdress_0_5: 4329843149901787789
+      Headdress_0_6: 8618476318121773733
+      Headdress_1: 755298405161124724
+      Headdress_10: 7285299720084041561
+      Headdress_11: -8362932804325371336
+      Headdress_12: 4693402560349539312
+      Headdress_13: -6533748503903550434
+      Headdress_14: -4404769455069466323
+      Headdress_15: 6928786065133306969
+      Headdress_16: -7979960011928096024
+      Headdress_17: 8844654581542104304
+      Headdress_18: -1082487731014895307
+      Headdress_19: -1192516441894423053
+      Headdress_1_0: 8249237175396045286
+      Headdress_1_1: 7712838282757906908
+      Headdress_1_2: 7388619434487192914
+      Headdress_1_3: 1430999689607153447
+      Headdress_1_4: 1491623972308072917
+      Headdress_1_5: 1554478123154031651
+      Headdress_1_6: -3873964869326309533
+      Headdress_2: 5121958889311807976
+      Headdress_20: 3620546794297934451
+      Headdress_21: 4143305257714179241
+      Headdress_22: 3274057409011830724
+      Headdress_23: 3816764654393227929
+      Headdress_24: 314369252254382259
+      Headdress_25: -5653145494896645815
+      Headdress_26: 4137309357797483210
+      Headdress_27: -322213711383580892
+      Headdress_28: -4966521996805447482
+      Headdress_29: 145105655942436166
+      Headdress_2_0: 4713149139583360515
+      Headdress_2_1: -7411502654571620641
+      Headdress_2_2: 2733876347341393495
+      Headdress_2_3: -3614100250893625365
+      Headdress_2_4: -8058755996250670942
+      Headdress_2_5: 3521257926704711041
+      Headdress_2_6: 145304273513196807
+      Headdress_3: -5733585269336206541
+      Headdress_30: -729989528788679298
+      Headdress_31: -3196707053676911985
+      Headdress_32: 7556056086530586214
+      Headdress_33: 445425439502810496
+      Headdress_34: -5602583410915425694
+      Headdress_35: -1097479822462091403
+      Headdress_36: 4465307669099736964
+      Headdress_37: 5125948433971824598
+      Headdress_38: 6087267796751203806
+      Headdress_39: 1145282605985481293
+      Headdress_3_0: 6339262862029277270
+      Headdress_3_1: -7492322672687130132
+      Headdress_3_2: -9086722014983472136
+      Headdress_3_3: 7948862687549614495
+      Headdress_3_4: 4844496309796420377
+      Headdress_3_5: 7678174417317098087
+      Headdress_3_6: 128930385666672485
+      Headdress_4: 8149685677230949424
+      Headdress_40: 4507893482190086022
+      Headdress_41: -3402184004951492802
+      Headdress_42: 932288140234223078
+      Headdress_43: -4879277281804215692
+      Headdress_44: 9105795173783086591
+      Headdress_4_0: -5110807140175963360
+      Headdress_4_1: -8640636787821139438
+      Headdress_4_2: 3682616937605130363
+      Headdress_4_3: -8569222218817276559
+      Headdress_4_4: 6199548556149662591
+      Headdress_4_5: -2877513465725941840
+      Headdress_4_6: 7339464336398140325
+      Headdress_5: 6344660755306939778
+      Headdress_50: 373801309875565338
+      Headdress_51: -6958200123508793086
+      Headdress_52: 42598386439337829
+      Headdress_53: -7446591148223880893
+      Headdress_54: -5896411548030856379
+      Headdress_55: 4883562997368842672
+      Headdress_5_0: 5396444870119800953
+      Headdress_5_1: 7389706673100160909
+      Headdress_5_2: 1225055725043552200
+      Headdress_5_3: -7002138814264756657
+      Headdress_5_4: -5775731807701104724
+      Headdress_5_5: 8322507335846208855
+      Headdress_5_6: -5726805783511658005
+      Headdress_6: -7652498480584875605
+      Headdress_60: -529100640752208855
+      Headdress_61: 1527585448662292822
+      Headdress_62: 7221151330398020101
+      Headdress_63: 4746797439838576460
+      Headdress_64: 6180747054337874080
+      Headdress_65: -5838039399078814980
+      Headdress_66: -4849615617513965561
+      Headdress_67: 2722295260013054582
+      Headdress_68: -4158474900012970561
+      Headdress_69: -4685113189674409074
+      Headdress_6_0: 2223693632421203636
+      Headdress_6_1: 4137169854006641163
+      Headdress_6_2: 4712237290164936714
+      Headdress_6_3: 7700134935615899477
+      Headdress_6_4: 8982591257151962268
+      Headdress_6_5: 7323364430282753130
+      Headdress_6_6: -9089942779149426329
+      Headdress_7: -5967184889114088140
+      Headdress_7_0: -1914342444179212291
+      Headdress_7_1: -4896420758589548521
+      Headdress_7_2: -7935036087765426493
+      Headdress_7_3: 9031925249601071238
+      Headdress_7_4: 7535516805667209562
+      Headdress_7_5: -6155750635906765797
+      Headdress_7_6: -9110722136760330113
+      Headdress_8: -4436538492707210281
+      Headdress_8_0: 8988380351601908328
+      Headdress_8_1: -5166056013170776397
+      Headdress_8_2: 1550135334300754843
+      Headdress_8_3: 6507488226454867778
+      Headdress_8_4: 4703594991061661341
+      Headdress_8_5: 2624509291223737766
+      Headdress_8_6: 7833968099230753793
+      Headdress_9: -8769867041597053434
+      Headdress_9_0: 553176963772986083
+      Headdress_9_1: 669682476676162135
+      Headdress_9_2: -2386137923974473974
+      Headdress_9_3: -6158440481163387119
+      Headdress_9_4: -5723230716376020388
+      Headdress_9_5: 9178830139675982964
+      Headdress_9_6: 4270202370678747525
+      Headdress_EMPTY_18: -6682531814201441494
+      Headdress_EMPTY_19: -5241540451839711363
+      Headdress_EMPTY_28: -2876650170584440335
+      Headdress_EMPTY_29: 906895343503594
+      Headdress_EMPTY_34: -4473859919481063536
+      Headdress_EMPTY_35: 6296890177527124055
+      Headdress_EMPTY_36: -3863537678791803863
+      Headdress_EMPTY_37: 5007385411407686762
+      Headdress_EMPTY_38: -8333470172421126358
+      Headdress_EMPTY_39: 638582943912550318
+      Headdress_EMPTY_44: 9017951486370294650
+      Headdress_EMPTY_45: -6850014390033583709
+      Headdress_EMPTY_46: -8920504988843564365
+      Headdress_EMPTY_47: 1488216548385182845
+      Headdress_EMPTY_48: 8377775675102354011
+      Headdress_EMPTY_49: 1287426259590052160
+      Headdress_EMPTY_5: -8524739171444225015
+      Headdress_EMPTY_56: 8517469121797271088
+      Headdress_EMPTY_57: -3636080947666363226
+      Headdress_EMPTY_58: -3176355141609733987
+      Headdress_EMPTY_59: 2493526358777512125
+      Headdress_EMPTY_6: -100468647208422944
+      Headdress_EMPTY_7: 526383707341303889
+      Headdress_EMPTY_8: -8647889451322533808
+      Headdress_EMPTY_9: -5901818869986148162
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

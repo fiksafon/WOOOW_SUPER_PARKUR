@@ -1,0 +1,2283 @@
+fileFormatVersion: 2
+guid: 6e29dcc66c7420e4190242ca16852f17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1967896789813234508
+    second: Farming Hat F_0
+  - first:
+      213: -3860592006399903864
+    second: Farming Hat F_1
+  - first:
+      213: 2236955755536422895
+    second: Farming Hat F_2
+  - first:
+      213: -3177977415666124391
+    second: Farming Hat F_3
+  - first:
+      213: -2643797116137353147
+    second: Farming Hat F_4
+  - first:
+      213: -6211357691724514576
+    second: Farming Hat F_5
+  - first:
+      213: 3843669176869033262
+    second: Farming Hat F_6
+  - first:
+      213: 4811618243423420813
+    second: Farming Hat F_7
+  - first:
+      213: 1066848839194607857
+    second: Farming Hat F_8
+  - first:
+      213: 3646839251287695292
+    second: Farming Hat F_9
+  - first:
+      213: -2718545240472760892
+    second: Farming Hat F_10
+  - first:
+      213: 3865895242300248403
+    second: Farming Hat F_11
+  - first:
+      213: -793122734130237663
+    second: Farming Hat F_12
+  - first:
+      213: 8110950997130324989
+    second: Farming Hat F_13
+  - first:
+      213: -4253092621518409988
+    second: Farming Hat F_14
+  - first:
+      213: -5260131740075802600
+    second: Farming Hat F_15
+  - first:
+      213: -2223757555264160657
+    second: Farming Hat F_16
+  - first:
+      213: 5967349516273652389
+    second: Farming Hat F_17
+  - first:
+      213: -5082090303364374142
+    second: Farming Hat F_18
+  - first:
+      213: -6167255550588641813
+    second: Farming Hat F_19
+  - first:
+      213: -2633324675952437825
+    second: Farming Hat F_20
+  - first:
+      213: 8559925612180820394
+    second: Farming Hat F_21
+  - first:
+      213: 3218056126621312053
+    second: Farming Hat F_22
+  - first:
+      213: -5233652869053589026
+    second: Farming Hat F_23
+  - first:
+      213: -8348331457792662409
+    second: Farming Hat F_24
+  - first:
+      213: -4009690318264225825
+    second: Farming Hat F_25
+  - first:
+      213: -6991976808472067970
+    second: Farming Hat F_26
+  - first:
+      213: -4409584408964780559
+    second: Farming Hat F_27
+  - first:
+      213: 6154348347096042784
+    second: Farming Hat F_28
+  - first:
+      213: 3465877792885805192
+    second: Farming Hat F_29
+  - first:
+      213: -457567642514223344
+    second: Farming Hat F_30
+  - first:
+      213: 8095672677974078618
+    second: Farming Hat F_31
+  - first:
+      213: -6318988132103201881
+    second: Farming Hat F_32
+  - first:
+      213: -7131400214566789519
+    second: Farming Hat F_33
+  - first:
+      213: -2582551028269890876
+    second: Farming Hat F_34
+  - first:
+      213: 6195922632407544773
+    second: Farming Hat F_35
+  - first:
+      213: -2728633304803623328
+    second: Farming Hat F_36
+  - first:
+      213: 6691963097094177440
+    second: Farming Hat F_37
+  - first:
+      213: 6490347768679969141
+    second: Farming Hat F_38
+  - first:
+      213: 2584989212484869186
+    second: Farming Hat F_39
+  - first:
+      213: -7298426684579900116
+    second: Farming Hat F_40
+  - first:
+      213: 9191555247716977017
+    second: Farming Hat F_41
+  - first:
+      213: -5640625257396047101
+    second: Farming Hat F_42
+  - first:
+      213: -153799051107886334
+    second: Farming Hat F_43
+  - first:
+      213: -4178145236186695349
+    second: Farming Hat F_44
+  - first:
+      213: 7499953422334337325
+    second: Farming Hat F_0_6
+  - first:
+      213: -6524020713805507265
+    second: Farming Hat F_1_6
+  - first:
+      213: 4841109816961451994
+    second: Farming Hat F_2_6
+  - first:
+      213: 7725978291450863408
+    second: Farming Hat F_3_6
+  - first:
+      213: -219453318049094590
+    second: Farming Hat F_4_6
+  - first:
+      213: -5034143155253019568
+    second: Farming Hat F_5_6
+  - first:
+      213: 5438728334908203450
+    second: Farming Hat F_6_6
+  - first:
+      213: -4112920010793338500
+    second: Farming Hat F_7_6
+  - first:
+      213: -4554208906680336463
+    second: Farming Hat F_8_6
+  - first:
+      213: -6285261211121686125
+    second: Farming Hat F_9_6
+  - first:
+      213: 7005730382984891030
+    second: Farming Hat F_0_5
+  - first:
+      213: 7163020227044114385
+    second: Farming Hat F_1_5
+  - first:
+      213: -8067754293526093553
+    second: Farming Hat F_2_5
+  - first:
+      213: 341057008732845377
+    second: Farming Hat F_3_5
+  - first:
+      213: 9134170018051972084
+    second: Farming Hat F_4_5
+  - first:
+      213: 5061564976030303910
+    second: Farming Hat F_5_5
+  - first:
+      213: 5013717945704753183
+    second: Farming Hat F_6_5
+  - first:
+      213: -8607756404477652807
+    second: Farming Hat F_7_5
+  - first:
+      213: -290506817103295120
+    second: Farming Hat F_8_5
+  - first:
+      213: -4321567118010745011
+    second: Farming Hat F_9_5
+  - first:
+      213: -8341155264931635426
+    second: Farming Hat F_0_4
+  - first:
+      213: -2840999289832538147
+    second: Farming Hat F_1_4
+  - first:
+      213: -8996037813923262802
+    second: Farming Hat F_2_4
+  - first:
+      213: -8480782030493764077
+    second: Farming Hat F_3_4
+  - first:
+      213: 3849746126963248532
+    second: Farming Hat F_4_4
+  - first:
+      213: -2534215820348166447
+    second: Farming Hat F_5_4
+  - first:
+      213: -6586959348451474138
+    second: Farming Hat F_6_4
+  - first:
+      213: 3672316107940257196
+    second: Farming Hat F_7_4
+  - first:
+      213: -553792780693944035
+    second: Farming Hat F_8_4
+  - first:
+      213: 1769065180488806359
+    second: Farming Hat F_9_4
+  - first:
+      213: -2998863177711308972
+    second: Farming Hat F_0_3
+  - first:
+      213: -6780053013624768172
+    second: Farming Hat F_1_3
+  - first:
+      213: 8804142458827583792
+    second: Farming Hat F_2_3
+  - first:
+      213: -1827269192584896001
+    second: Farming Hat F_3_3
+  - first:
+      213: -3113684295811965117
+    second: Farming Hat F_4_3
+  - first:
+      213: 2525100973153538767
+    second: Farming Hat F_5_3
+  - first:
+      213: 2883423675454324817
+    second: Farming Hat F_6_3
+  - first:
+      213: 602976617369041207
+    second: Farming Hat F_7_3
+  - first:
+      213: 5325614153418444755
+    second: Farming Hat F_8_3
+  - first:
+      213: 3483860270134643390
+    second: Farming Hat F_9_3
+  - first:
+      213: 2199467875356769695
+    second: Farming Hat F_0_2
+  - first:
+      213: -6218991596998153533
+    second: Farming Hat F_1_2
+  - first:
+      213: 7873354398768242575
+    second: Farming Hat F_2_2
+  - first:
+      213: 3685061761398229333
+    second: Farming Hat F_3_2
+  - first:
+      213: 674428916693175238
+    second: Farming Hat F_4_2
+  - first:
+      213: 4873287657274084558
+    second: Farming Hat F_5_2
+  - first:
+      213: -5635968652605902900
+    second: Farming Hat F_6_2
+  - first:
+      213: -7265221878392724570
+    second: Farming Hat F_7_2
+  - first:
+      213: 4167080306358543391
+    second: Farming Hat F_8_2
+  - first:
+      213: 933011845599323626
+    second: Farming Hat F_9_2
+  - first:
+      213: -7778755726443188344
+    second: Farming Hat F_0_1
+  - first:
+      213: 7988183397521218518
+    second: Farming Hat F_1_1
+  - first:
+      213: 6717876910224855084
+    second: Farming Hat F_2_1
+  - first:
+      213: -2465485980803329780
+    second: Farming Hat F_3_1
+  - first:
+      213: 4669288368181873643
+    second: Farming Hat F_4_1
+  - first:
+      213: 7710438018599805482
+    second: Farming Hat F_5_1
+  - first:
+      213: -7074621114569116210
+    second: Farming Hat F_6_1
+  - first:
+      213: -3970352159389764527
+    second: Farming Hat F_7_1
+  - first:
+      213: 2444457457609690685
+    second: Farming Hat F_8_1
+  - first:
+      213: -5649758246485162855
+    second: Farming Hat F_9_1
+  - first:
+      213: 3203291818784864134
+    second: Farming Hat F_0_0
+  - first:
+      213: -3940558735157139587
+    second: Farming Hat F_1_0
+  - first:
+      213: -5971942750943479368
+    second: Farming Hat F_2_0
+  - first:
+      213: 6720600036571726497
+    second: Farming Hat F_3_0
+  - first:
+      213: 7161486135776718328
+    second: Farming Hat F_4_0
+  - first:
+      213: 342253898838088501
+    second: Farming Hat F_5_0
+  - first:
+      213: 3615313779969358654
+    second: Farming Hat F_6_0
+  - first:
+      213: -1075331114640159449
+    second: Farming Hat F_7_0
+  - first:
+      213: 1235932565560554371
+    second: Farming Hat F_8_0
+  - first:
+      213: 5439690902024263145
+    second: Farming Hat F_9_0
+  - first:
+      213: -1992242608411862017
+    second: Farming Hat F_EMPTY_5
+  - first:
+      213: -5881266032905876024
+    second: Farming Hat F_EMPTY_6
+  - first:
+      213: -7289666900144304283
+    second: Farming Hat F_EMPTY_7
+  - first:
+      213: -6769421234811980171
+    second: Farming Hat F_EMPTY_8
+  - first:
+      213: -624534630810209389
+    second: Farming Hat F_EMPTY_9
+  - first:
+      213: -5087694718173857271
+    second: Farming Hat F_EMPTY_18
+  - first:
+      213: -2494364068528606205
+    second: Farming Hat F_EMPTY_19
+  - first:
+      213: -4053204190277228796
+    second: Farming Hat F_EMPTY_28
+  - first:
+      213: -7503646797859909469
+    second: Farming Hat F_EMPTY_29
+  - first:
+      213: 2534222363652612564
+    second: Farming Hat F_EMPTY_34
+  - first:
+      213: 4715539659667947631
+    second: Farming Hat F_EMPTY_35
+  - first:
+      213: -6814115159831080580
+    second: Farming Hat F_EMPTY_36
+  - first:
+      213: 9133904039088854912
+    second: Farming Hat F_EMPTY_37
+  - first:
+      213: -546239869519391254
+    second: Farming Hat F_EMPTY_38
+  - first:
+      213: -2274089545828031883
+    second: Farming Hat F_EMPTY_39
+  - first:
+      213: 6444778507791485997
+    second: Farming Hat F_EMPTY_44
+  - first:
+      213: 784020757683166075
+    second: Farming Hat F_EMPTY_45
+  - first:
+      213: -5728015964868373772
+    second: Farming Hat F_EMPTY_46
+  - first:
+      213: 4557013727328902178
+    second: Farming Hat F_EMPTY_47
+  - first:
+      213: -7729159291627898113
+    second: Farming Hat F_EMPTY_48
+  - first:
+      213: 939168727827718251
+    second: Farming Hat F_EMPTY_49
+  - first:
+      213: 1661617704262883316
+    second: Farming Hat F_50
+  - first:
+      213: 2649387101028373399
+    second: Farming Hat F_51
+  - first:
+      213: -7764581766634690138
+    second: Farming Hat F_52
+  - first:
+      213: 8838611083374144272
+    second: Farming Hat F_53
+  - first:
+      213: -2035922817244964569
+    second: Farming Hat F_54
+  - first:
+      213: -572893760320614018
+    second: Farming Hat F_55
+  - first:
+      213: 2341605119564554102
+    second: Farming Hat F_EMPTY_56
+  - first:
+      213: -2215875580846804407
+    second: Farming Hat F_EMPTY_57
+  - first:
+      213: 300829102895229315
+    second: Farming Hat F_EMPTY_58
+  - first:
+      213: 762063694342820586
+    second: Farming Hat F_EMPTY_59
+  - first:
+      213: -1460764197394800957
+    second: Farming Hat F_60
+  - first:
+      213: 796263010881583274
+    second: Farming Hat F_61
+  - first:
+      213: 2350831147751859975
+    second: Farming Hat F_62
+  - first:
+      213: 3411028337395605715
+    second: Farming Hat F_63
+  - first:
+      213: 6816545261668686567
+    second: Farming Hat F_64
+  - first:
+      213: -2660742834032788229
+    second: Farming Hat F_65
+  - first:
+      213: -489432906833956741
+    second: Farming Hat F_66
+  - first:
+      213: -8050811180286528527
+    second: Farming Hat F_67
+  - first:
+      213: -8970759114143270429
+    second: Farming Hat F_68
+  - first:
+      213: 5868061692691195062
+    second: Farming Hat F_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Farming Hat F_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b037734bf5f4b10800000000000000
+      internalID: 1967896789813234508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88732d3460c6c6ac0800000000000000
+      internalID: -3860592006399903864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7930368634b0f10800000000000000
+      internalID: 2236955755536422895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999b10bc06e85e3d0800000000000000
+      internalID: -3177977415666124391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5405e62c7885f4bd0800000000000000
+      internalID: -2643797116137353147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb963b27e12a54e0800000000000000
+      internalID: -1992242608411862017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd031f04bb816ea0800000000000000
+      internalID: -5881266032905876024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fc9fd9396e5da90800000000000000
+      internalID: -7289666900144304283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576bb0cb04f2e02a0800000000000000
+      internalID: -6769421234811980171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393b0acef053557f0800000000000000
+      internalID: -624534630810209389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdcacbd189c54ad0800000000000000
+      internalID: -2718545240472760892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351dd209d3b66a530800000000000000
+      internalID: 3865895242300248403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f61e053134ef4f0800000000000000
+      internalID: -793122734130237663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbad8e45f2ef8070800000000000000
+      internalID: 8110950997130324989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe6f896bcaf9f4c0800000000000000
+      internalID: -4253092621518409988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81046014d024007b0800000000000000
+      internalID: -5260131740075802600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c73e31940a321e0800000000000000
+      internalID: -2223757555264160657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a21718c4c840d250800000000000000
+      internalID: 5967349516273652389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90abd9d0c90e469b0800000000000000
+      internalID: -5087694718173857271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304bada681d326dd0800000000000000
+      internalID: -2494364068528606205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5959fb82d847bd0800000000000000
+      internalID: -2633324675952437825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa15ec9edf6fac670800000000000000
+      internalID: 8559925612180820394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53468864ff4d8ac20800000000000000
+      internalID: 3218056126621312053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed95b56d1745e57b0800000000000000
+      internalID: -5233652869053589026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774ac0f35c4c42c80800000000000000
+      internalID: -8348331457792662409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfa98856e7ba58c0800000000000000
+      internalID: -4009690318264225825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70c045432287fe90800000000000000
+      internalID: -6991976808472067970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdad80d7520ec2c0800000000000000
+      internalID: -4409584408964780559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407a664834020c7c0800000000000000
+      internalID: -4053204190277228796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0109d4ef0bdd790800000000000000
+      internalID: -7503646797859909469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f0a3747a466a9f0800000000000000
+      internalID: -457567642514223344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94fa7c686b995070800000000000000
+      internalID: 8095672677974078618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab5416f5c17e48a0800000000000000
+      internalID: -6318988132103201881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e1a93e94d280d90800000000000000
+      internalID: -7131400214566789519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d16d5710dd5b2320800000000000000
+      internalID: 2534222363652612564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6046c22656f07140800000000000000
+      internalID: 4715539659667947631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c711aa76d566f61a0800000000000000
+      internalID: -6814115159831080580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087956e745522ce70800000000000000
+      internalID: 9133904039088854912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae514279bbd5b68f0800000000000000
+      internalID: -546239869519391254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572ad715b9fc070e0800000000000000
+      internalID: -2274089545828031883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25126e5997c6ba90800000000000000
+      internalID: -7298426684579900116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9794c818cc6fe8f70800000000000000
+      internalID: 9191555247716977017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303ffc5b63978b1b0800000000000000
+      internalID: -5640625257396047101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b1cefe3989dddf0800000000000000
+      internalID: -153799051107886334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ccbfc28e3707950800000000000000
+      internalID: 6444778507791485997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bdc36a9b661ea00800000000000000
+      internalID: 784020757683166075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2114a04dff180b0800000000000000
+      internalID: -5728015964868373772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c940647d3cd3f30800000000000000
+      internalID: 4557013727328902178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffafb1a33928cb490800000000000000
+      internalID: -7729159291627898113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60a3566bf8980d00800000000000000
+      internalID: 939168727827718251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7d6179f704f0710800000000000000
+      internalID: 1661617704262883316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7935c45088384c420800000000000000
+      internalID: 2649387101028373399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9a342950aae3490800000000000000
+      internalID: -7764581766634690138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ba85c83fd09aa70800000000000000
+      internalID: 8838611083374144272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72950080cf2feb3e0800000000000000
+      internalID: -2035922817244964569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e715d0a092cac08f0800000000000000
+      internalID: -572893760320614018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f91eb237d0f7020800000000000000
+      internalID: 2341605119564554102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942f92146e0af31e0800000000000000
+      internalID: -2215875580846804407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3896b28a972cc2400800000000000000
+      internalID: 300829102895229315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2968574e4639a00800000000000000
+      internalID: 762063694342820586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce9ca1b3b25abbe0800000000000000
+      internalID: -1460764197394800957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa831675df4ec0b00800000000000000
+      internalID: 796263010881583274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7076ca04974df9020800000000000000
+      internalID: 2350831147751859975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0a1415338665f20800000000000000
+      internalID: 3411028337395605715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea5225cccb399e50800000000000000
+      internalID: 6816545261668686567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc3fca5d74231bd0800000000000000
+      internalID: -2660742834032788229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7076c64d5f2539f0800000000000000
+      internalID: -489432906833956741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f33745f2e5c54090800000000000000
+      internalID: -8050811180286528527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e974e36d16718380800000000000000
+      internalID: -8970759114143270429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farming Hat F_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4afe8e40b8f6150800000000000000
+      internalID: 5868061692691195062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Farming Hat F_0: 1967896789813234508
+      Farming Hat F_0_0: 3203291818784864134
+      Farming Hat F_0_1: -7778755726443188344
+      Farming Hat F_0_2: 2199467875356769695
+      Farming Hat F_0_3: -2998863177711308972
+      Farming Hat F_0_4: -8341155264931635426
+      Farming Hat F_0_5: 7005730382984891030
+      Farming Hat F_0_6: 7499953422334337325
+      Farming Hat F_1: -3860592006399903864
+      Farming Hat F_10: -2718545240472760892
+      Farming Hat F_11: 3865895242300248403
+      Farming Hat F_12: -793122734130237663
+      Farming Hat F_13: 8110950997130324989
+      Farming Hat F_14: -4253092621518409988
+      Farming Hat F_15: -5260131740075802600
+      Farming Hat F_16: -2223757555264160657
+      Farming Hat F_17: 5967349516273652389
+      Farming Hat F_18: -5082090303364374142
+      Farming Hat F_19: -6167255550588641813
+      Farming Hat F_1_0: -3940558735157139587
+      Farming Hat F_1_1: 7988183397521218518
+      Farming Hat F_1_2: -6218991596998153533
+      Farming Hat F_1_3: -6780053013624768172
+      Farming Hat F_1_4: -2840999289832538147
+      Farming Hat F_1_5: 7163020227044114385
+      Farming Hat F_1_6: -6524020713805507265
+      Farming Hat F_2: 2236955755536422895
+      Farming Hat F_20: -2633324675952437825
+      Farming Hat F_21: 8559925612180820394
+      Farming Hat F_22: 3218056126621312053
+      Farming Hat F_23: -5233652869053589026
+      Farming Hat F_24: -8348331457792662409
+      Farming Hat F_25: -4009690318264225825
+      Farming Hat F_26: -6991976808472067970
+      Farming Hat F_27: -4409584408964780559
+      Farming Hat F_28: 6154348347096042784
+      Farming Hat F_29: 3465877792885805192
+      Farming Hat F_2_0: -5971942750943479368
+      Farming Hat F_2_1: 6717876910224855084
+      Farming Hat F_2_2: 7873354398768242575
+      Farming Hat F_2_3: 8804142458827583792
+      Farming Hat F_2_4: -8996037813923262802
+      Farming Hat F_2_5: -8067754293526093553
+      Farming Hat F_2_6: 4841109816961451994
+      Farming Hat F_3: -3177977415666124391
+      Farming Hat F_30: -457567642514223344
+      Farming Hat F_31: 8095672677974078618
+      Farming Hat F_32: -6318988132103201881
+      Farming Hat F_33: -7131400214566789519
+      Farming Hat F_34: -2582551028269890876
+      Farming Hat F_35: 6195922632407544773
+      Farming Hat F_36: -2728633304803623328
+      Farming Hat F_37: 6691963097094177440
+      Farming Hat F_38: 6490347768679969141
+      Farming Hat F_39: 2584989212484869186
+      Farming Hat F_3_0: 6720600036571726497
+      Farming Hat F_3_1: -2465485980803329780
+      Farming Hat F_3_2: 3685061761398229333
+      Farming Hat F_3_3: -1827269192584896001
+      Farming Hat F_3_4: -8480782030493764077
+      Farming Hat F_3_5: 341057008732845377
+      Farming Hat F_3_6: 7725978291450863408
+      Farming Hat F_4: -2643797116137353147
+      Farming Hat F_40: -7298426684579900116
+      Farming Hat F_41: 9191555247716977017
+      Farming Hat F_42: -5640625257396047101
+      Farming Hat F_43: -153799051107886334
+      Farming Hat F_44: -4178145236186695349
+      Farming Hat F_4_0: 7161486135776718328
+      Farming Hat F_4_1: 4669288368181873643
+      Farming Hat F_4_2: 674428916693175238
+      Farming Hat F_4_3: -3113684295811965117
+      Farming Hat F_4_4: 3849746126963248532
+      Farming Hat F_4_5: 9134170018051972084
+      Farming Hat F_4_6: -219453318049094590
+      Farming Hat F_5: -6211357691724514576
+      Farming Hat F_50: 1661617704262883316
+      Farming Hat F_51: 2649387101028373399
+      Farming Hat F_52: -7764581766634690138
+      Farming Hat F_53: 8838611083374144272
+      Farming Hat F_54: -2035922817244964569
+      Farming Hat F_55: -572893760320614018
+      Farming Hat F_5_0: 342253898838088501
+      Farming Hat F_5_1: 7710438018599805482
+      Farming Hat F_5_2: 4873287657274084558
+      Farming Hat F_5_3: 2525100973153538767
+      Farming Hat F_5_4: -2534215820348166447
+      Farming Hat F_5_5: 5061564976030303910
+      Farming Hat F_5_6: -5034143155253019568
+      Farming Hat F_6: 3843669176869033262
+      Farming Hat F_60: -1460764197394800957
+      Farming Hat F_61: 796263010881583274
+      Farming Hat F_62: 2350831147751859975
+      Farming Hat F_63: 3411028337395605715
+      Farming Hat F_64: 6816545261668686567
+      Farming Hat F_65: -2660742834032788229
+      Farming Hat F_66: -489432906833956741
+      Farming Hat F_67: -8050811180286528527
+      Farming Hat F_68: -8970759114143270429
+      Farming Hat F_69: 5868061692691195062
+      Farming Hat F_6_0: 3615313779969358654
+      Farming Hat F_6_1: -7074621114569116210
+      Farming Hat F_6_2: -5635968652605902900
+      Farming Hat F_6_3: 2883423675454324817
+      Farming Hat F_6_4: -6586959348451474138
+      Farming Hat F_6_5: 5013717945704753183
+      Farming Hat F_6_6: 5438728334908203450
+      Farming Hat F_7: 4811618243423420813
+      Farming Hat F_7_0: -1075331114640159449
+      Farming Hat F_7_1: -3970352159389764527
+      Farming Hat F_7_2: -7265221878392724570
+      Farming Hat F_7_3: 602976617369041207
+      Farming Hat F_7_4: 3672316107940257196
+      Farming Hat F_7_5: -8607756404477652807
+      Farming Hat F_7_6: -4112920010793338500
+      Farming Hat F_8: 1066848839194607857
+      Farming Hat F_8_0: 1235932565560554371
+      Farming Hat F_8_1: 2444457457609690685
+      Farming Hat F_8_2: 4167080306358543391
+      Farming Hat F_8_3: 5325614153418444755
+      Farming Hat F_8_4: -553792780693944035
+      Farming Hat F_8_5: -290506817103295120
+      Farming Hat F_8_6: -4554208906680336463
+      Farming Hat F_9: 3646839251287695292
+      Farming Hat F_9_0: 5439690902024263145
+      Farming Hat F_9_1: -5649758246485162855
+      Farming Hat F_9_2: 933011845599323626
+      Farming Hat F_9_3: 3483860270134643390
+      Farming Hat F_9_4: 1769065180488806359
+      Farming Hat F_9_5: -4321567118010745011
+      Farming Hat F_9_6: -6285261211121686125
+      Farming Hat F_EMPTY_18: -5087694718173857271
+      Farming Hat F_EMPTY_19: -2494364068528606205
+      Farming Hat F_EMPTY_28: -4053204190277228796
+      Farming Hat F_EMPTY_29: -7503646797859909469
+      Farming Hat F_EMPTY_34: 2534222363652612564
+      Farming Hat F_EMPTY_35: 4715539659667947631
+      Farming Hat F_EMPTY_36: -6814115159831080580
+      Farming Hat F_EMPTY_37: 9133904039088854912
+      Farming Hat F_EMPTY_38: -546239869519391254
+      Farming Hat F_EMPTY_39: -2274089545828031883
+      Farming Hat F_EMPTY_44: 6444778507791485997
+      Farming Hat F_EMPTY_45: 784020757683166075
+      Farming Hat F_EMPTY_46: -5728015964868373772
+      Farming Hat F_EMPTY_47: 4557013727328902178
+      Farming Hat F_EMPTY_48: -7729159291627898113
+      Farming Hat F_EMPTY_49: 939168727827718251
+      Farming Hat F_EMPTY_5: -1992242608411862017
+      Farming Hat F_EMPTY_56: 2341605119564554102
+      Farming Hat F_EMPTY_57: -2215875580846804407
+      Farming Hat F_EMPTY_58: 300829102895229315
+      Farming Hat F_EMPTY_59: 762063694342820586
+      Farming Hat F_EMPTY_6: -5881266032905876024
+      Farming Hat F_EMPTY_7: -7289666900144304283
+      Farming Hat F_EMPTY_8: -6769421234811980171
+      Farming Hat F_EMPTY_9: -624534630810209389
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

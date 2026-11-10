@@ -1,0 +1,2299 @@
+fileFormatVersion: 2
+guid: b19032f64f46c1c4ab9417144d89a0ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1271010783929964936
+    second: Blue Corset v2 Long Sleeves_0
+  - first:
+      213: -1227109710556958815
+    second: Blue Corset v2 Long Sleeves_1
+  - first:
+      213: -971625543612620818
+    second: Blue Corset v2 Long Sleeves_2
+  - first:
+      213: -484053809040155852
+    second: Blue Corset v2 Long Sleeves_3
+  - first:
+      213: 1988211812326630116
+    second: Blue Corset v2 Long Sleeves_4
+  - first:
+      213: 3466232917408640515
+    second: Blue Corset v2 Long Sleeves_5
+  - first:
+      213: -7347438763007043306
+    second: Blue Corset v2 Long Sleeves_6
+  - first:
+      213: 5021984255035960880
+    second: Blue Corset v2 Long Sleeves_7
+  - first:
+      213: -3737730756785906413
+    second: Blue Corset v2 Long Sleeves_8
+  - first:
+      213: 7930784882680387927
+    second: Blue Corset v2 Long Sleeves_9
+  - first:
+      213: -1610851538054207271
+    second: Blue Corset v2 Long Sleeves_10
+  - first:
+      213: -8808348352081365910
+    second: Blue Corset v2 Long Sleeves_11
+  - first:
+      213: -5667511885644246476
+    second: Blue Corset v2 Long Sleeves_12
+  - first:
+      213: -7049835542613312626
+    second: Blue Corset v2 Long Sleeves_13
+  - first:
+      213: 1737160712248657162
+    second: Blue Corset v2 Long Sleeves_14
+  - first:
+      213: -5837116815753022667
+    second: Blue Corset v2 Long Sleeves_15
+  - first:
+      213: -8759319942030861532
+    second: Blue Corset v2 Long Sleeves_16
+  - first:
+      213: 2671755987905711131
+    second: Blue Corset v2 Long Sleeves_17
+  - first:
+      213: -2410677286484852650
+    second: Blue Corset v2 Long Sleeves_18
+  - first:
+      213: -9092059988426833952
+    second: Blue Corset v2 Long Sleeves_19
+  - first:
+      213: -4271841500760989740
+    second: Blue Corset v2 Long Sleeves_20
+  - first:
+      213: -6698241746248416621
+    second: Blue Corset v2 Long Sleeves_21
+  - first:
+      213: 8981930200844460589
+    second: Blue Corset v2 Long Sleeves_22
+  - first:
+      213: 4112861272622408346
+    second: Blue Corset v2 Long Sleeves_23
+  - first:
+      213: 3319952566500535904
+    second: Blue Corset v2 Long Sleeves_24
+  - first:
+      213: 2484554910945072665
+    second: Blue Corset v2 Long Sleeves_25
+  - first:
+      213: -6973764351717965363
+    second: Blue Corset v2 Long Sleeves_26
+  - first:
+      213: 5215657809507881703
+    second: Blue Corset v2 Long Sleeves_27
+  - first:
+      213: 8837924394659438033
+    second: Blue Corset v2 Long Sleeves_28
+  - first:
+      213: -7706912414989325485
+    second: Blue Corset v2 Long Sleeves_29
+  - first:
+      213: -2870904677863464995
+    second: Blue Corset v2 Long Sleeves_30
+  - first:
+      213: 6005555291952366571
+    second: Blue Corset v2 Long Sleeves_31
+  - first:
+      213: 6630909778024707544
+    second: Blue Corset v2 Long Sleeves_32
+  - first:
+      213: -6353348485875396172
+    second: Blue Corset v2 Long Sleeves_33
+  - first:
+      213: 8014403041793288589
+    second: Blue Corset v2 Long Sleeves_34
+  - first:
+      213: 9035817760744404037
+    second: Blue Corset v2 Long Sleeves_35
+  - first:
+      213: 7664797378826144355
+    second: Blue Corset v2 Long Sleeves_36
+  - first:
+      213: 4505860023752482038
+    second: Blue Corset v2 Long Sleeves_37
+  - first:
+      213: 1759837173679565919
+    second: Blue Corset v2 Long Sleeves_38
+  - first:
+      213: -4267811762162570753
+    second: Blue Corset v2 Long Sleeves_39
+  - first:
+      213: -4169382502574268729
+    second: Blue Corset v2 Long Sleeves_40
+  - first:
+      213: 5399307324325250764
+    second: Blue Corset v2 Long Sleeves_41
+  - first:
+      213: -6428063198323877839
+    second: Blue Corset v2 Long Sleeves_42
+  - first:
+      213: -1659190602257765690
+    second: Blue Corset v2 Long Sleeves_43
+  - first:
+      213: 353599955255702968
+    second: Blue Corset v2 Long Sleeves_44
+  - first:
+      213: 4482659012993981886
+    second: Blue Corset v2 Long Sleeves_45
+  - first:
+      213: -4887167046803363264
+    second: Blue Corset v2 Long Sleeves_46
+  - first:
+      213: -340326972408154220
+    second: Blue Corset v2 Long Sleeves_47
+  - first:
+      213: -8223555910843230914
+    second: Blue Corset v2 Long Sleeves_48
+  - first:
+      213: 1049707189639823153
+    second: Blue Corset v2 Long Sleeves_0_6
+  - first:
+      213: 8998743668165610074
+    second: Blue Corset v2 Long Sleeves_1_6
+  - first:
+      213: 1775173759258031599
+    second: Blue Corset v2 Long Sleeves_2_6
+  - first:
+      213: -2964916287097849534
+    second: Blue Corset v2 Long Sleeves_3_6
+  - first:
+      213: 5995298566635370253
+    second: Blue Corset v2 Long Sleeves_4_6
+  - first:
+      213: 2739037642618341146
+    second: Blue Corset v2 Long Sleeves_5_6
+  - first:
+      213: -7783809861323330136
+    second: Blue Corset v2 Long Sleeves_6_6
+  - first:
+      213: -2146637894322249687
+    second: Blue Corset v2 Long Sleeves_7_6
+  - first:
+      213: 8092778997503152368
+    second: Blue Corset v2 Long Sleeves_8_6
+  - first:
+      213: -6995321872471596133
+    second: Blue Corset v2 Long Sleeves_9_6
+  - first:
+      213: -6753491868577091742
+    second: Blue Corset v2 Long Sleeves_0_5
+  - first:
+      213: 1060471840705423662
+    second: Blue Corset v2 Long Sleeves_1_5
+  - first:
+      213: -3931766452557544418
+    second: Blue Corset v2 Long Sleeves_2_5
+  - first:
+      213: -4374730678868687021
+    second: Blue Corset v2 Long Sleeves_3_5
+  - first:
+      213: -5699256101875653247
+    second: Blue Corset v2 Long Sleeves_4_5
+  - first:
+      213: 2510513830119895652
+    second: Blue Corset v2 Long Sleeves_5_5
+  - first:
+      213: -1960896604988110829
+    second: Blue Corset v2 Long Sleeves_6_5
+  - first:
+      213: 5105927491225685062
+    second: Blue Corset v2 Long Sleeves_7_5
+  - first:
+      213: -4746393244567065964
+    second: Blue Corset v2 Long Sleeves_8_5
+  - first:
+      213: -751952198216670173
+    second: Blue Corset v2 Long Sleeves_9_5
+  - first:
+      213: 5685917845919685155
+    second: Blue Corset v2 Long Sleeves_0_4
+  - first:
+      213: -6158072537037033152
+    second: Blue Corset v2 Long Sleeves_1_4
+  - first:
+      213: 135869629293927051
+    second: Blue Corset v2 Long Sleeves_2_4
+  - first:
+      213: -8624019857991391283
+    second: Blue Corset v2 Long Sleeves_3_4
+  - first:
+      213: -1982045645982238752
+    second: Blue Corset v2 Long Sleeves_4_4
+  - first:
+      213: 612795125031181517
+    second: Blue Corset v2 Long Sleeves_5_4
+  - first:
+      213: 4204862251445819184
+    second: Blue Corset v2 Long Sleeves_6_4
+  - first:
+      213: 294817458296648807
+    second: Blue Corset v2 Long Sleeves_7_4
+  - first:
+      213: -2315326300119529188
+    second: Blue Corset v2 Long Sleeves_8_4
+  - first:
+      213: 4658958130240353079
+    second: Blue Corset v2 Long Sleeves_9_4
+  - first:
+      213: 4314997399203127745
+    second: Blue Corset v2 Long Sleeves_0_3
+  - first:
+      213: -7688924234371764828
+    second: Blue Corset v2 Long Sleeves_1_3
+  - first:
+      213: 3384213943348367258
+    second: Blue Corset v2 Long Sleeves_2_3
+  - first:
+      213: 6699871766080821596
+    second: Blue Corset v2 Long Sleeves_3_3
+  - first:
+      213: -8258274568119396920
+    second: Blue Corset v2 Long Sleeves_4_3
+  - first:
+      213: 42808285690831316
+    second: Blue Corset v2 Long Sleeves_5_3
+  - first:
+      213: -3607774000354452724
+    second: Blue Corset v2 Long Sleeves_6_3
+  - first:
+      213: 4920763798364713738
+    second: Blue Corset v2 Long Sleeves_7_3
+  - first:
+      213: 3223259616420030979
+    second: Blue Corset v2 Long Sleeves_8_3
+  - first:
+      213: 3070547738092786398
+    second: Blue Corset v2 Long Sleeves_9_3
+  - first:
+      213: -8781525584475599532
+    second: Blue Corset v2 Long Sleeves_0_2
+  - first:
+      213: 3926748519806424554
+    second: Blue Corset v2 Long Sleeves_1_2
+  - first:
+      213: -4391969789136121356
+    second: Blue Corset v2 Long Sleeves_2_2
+  - first:
+      213: 9216916269031926205
+    second: Blue Corset v2 Long Sleeves_3_2
+  - first:
+      213: 3280124791475910685
+    second: Blue Corset v2 Long Sleeves_4_2
+  - first:
+      213: 1897777773546290501
+    second: Blue Corset v2 Long Sleeves_5_2
+  - first:
+      213: 610496905733093650
+    second: Blue Corset v2 Long Sleeves_6_2
+  - first:
+      213: 1880494182123905376
+    second: Blue Corset v2 Long Sleeves_7_2
+  - first:
+      213: 4317676863774772945
+    second: Blue Corset v2 Long Sleeves_8_2
+  - first:
+      213: -4202421315160357996
+    second: Blue Corset v2 Long Sleeves_9_2
+  - first:
+      213: 9042960943892425304
+    second: Blue Corset v2 Long Sleeves_0_1
+  - first:
+      213: -2882768753192855825
+    second: Blue Corset v2 Long Sleeves_1_1
+  - first:
+      213: -1094515142187664033
+    second: Blue Corset v2 Long Sleeves_2_1
+  - first:
+      213: -5063826979955769337
+    second: Blue Corset v2 Long Sleeves_3_1
+  - first:
+      213: -6646713308601270908
+    second: Blue Corset v2 Long Sleeves_4_1
+  - first:
+      213: -2446788365355410403
+    second: Blue Corset v2 Long Sleeves_5_1
+  - first:
+      213: 7940716943746932724
+    second: Blue Corset v2 Long Sleeves_6_1
+  - first:
+      213: -1143082387728330878
+    second: Blue Corset v2 Long Sleeves_7_1
+  - first:
+      213: -2408351299221807774
+    second: Blue Corset v2 Long Sleeves_8_1
+  - first:
+      213: -983059648933736258
+    second: Blue Corset v2 Long Sleeves_9_1
+  - first:
+      213: 6970158590791461662
+    second: Blue Corset v2 Long Sleeves_0_0
+  - first:
+      213: -7055453789822160051
+    second: Blue Corset v2 Long Sleeves_1_0
+  - first:
+      213: 9054594161044417582
+    second: Blue Corset v2 Long Sleeves_2_0
+  - first:
+      213: -8791305081378405903
+    second: Blue Corset v2 Long Sleeves_3_0
+  - first:
+      213: -6164293207834440989
+    second: Blue Corset v2 Long Sleeves_4_0
+  - first:
+      213: 5569016989774750891
+    second: Blue Corset v2 Long Sleeves_5_0
+  - first:
+      213: -8672271850993198442
+    second: Blue Corset v2 Long Sleeves_6_0
+  - first:
+      213: 6222874410601286720
+    second: Blue Corset v2 Long Sleeves_7_0
+  - first:
+      213: -4345781450519766750
+    second: Blue Corset v2 Long Sleeves_8_0
+  - first:
+      213: 6949541301797221512
+    second: Blue Corset v2 Long Sleeves_9_0
+  - first:
+      213: -8953397797692107238
+    second: Blue Corset v2 Long Sleeves_EMPTY_5
+  - first:
+      213: -1022426283066385390
+    second: Blue Corset v2 Long Sleeves_EMPTY_6
+  - first:
+      213: 3704205698683970116
+    second: Blue Corset v2 Long Sleeves_EMPTY_7
+  - first:
+      213: 3133372870059125002
+    second: Blue Corset v2 Long Sleeves_EMPTY_8
+  - first:
+      213: 7551197714576566988
+    second: Blue Corset v2 Long Sleeves_EMPTY_9
+  - first:
+      213: 7662972418674480360
+    second: Blue Corset v2 Long Sleeves_EMPTY_18
+  - first:
+      213: 4488027957447081095
+    second: Blue Corset v2 Long Sleeves_EMPTY_19
+  - first:
+      213: -5802662477806238465
+    second: Blue Corset v2 Long Sleeves_EMPTY_28
+  - first:
+      213: 1314759164526593720
+    second: Blue Corset v2 Long Sleeves_EMPTY_29
+  - first:
+      213: -2288038070207189537
+    second: Blue Corset v2 Long Sleeves_EMPTY_34
+  - first:
+      213: 3667631323283417462
+    second: Blue Corset v2 Long Sleeves_EMPTY_35
+  - first:
+      213: 5326146108634417142
+    second: Blue Corset v2 Long Sleeves_EMPTY_36
+  - first:
+      213: -140021436315419410
+    second: Blue Corset v2 Long Sleeves_EMPTY_37
+  - first:
+      213: 4641466916922904588
+    second: Blue Corset v2 Long Sleeves_EMPTY_38
+  - first:
+      213: -7959010607774288534
+    second: Blue Corset v2 Long Sleeves_EMPTY_39
+  - first:
+      213: 1863099192316015432
+    second: Blue Corset v2 Long Sleeves_EMPTY_44
+  - first:
+      213: -200181027168701422
+    second: Blue Corset v2 Long Sleeves_EMPTY_45
+  - first:
+      213: -1492247368418089828
+    second: Blue Corset v2 Long Sleeves_EMPTY_46
+  - first:
+      213: 8439062166277594619
+    second: Blue Corset v2 Long Sleeves_EMPTY_47
+  - first:
+      213: 558101134911634116
+    second: Blue Corset v2 Long Sleeves_EMPTY_48
+  - first:
+      213: -3862292065620743021
+    second: Blue Corset v2 Long Sleeves_EMPTY_49
+  - first:
+      213: 42956761429022818
+    second: Blue Corset v2 Long Sleeves_50
+  - first:
+      213: 7759396687553373979
+    second: Blue Corset v2 Long Sleeves_51
+  - first:
+      213: 4104186228554057451
+    second: Blue Corset v2 Long Sleeves_52
+  - first:
+      213: 3221216896434957546
+    second: Blue Corset v2 Long Sleeves_53
+  - first:
+      213: -3348548918681575936
+    second: Blue Corset v2 Long Sleeves_54
+  - first:
+      213: 6333097606309521715
+    second: Blue Corset v2 Long Sleeves_55
+  - first:
+      213: 3800693918877064797
+    second: Blue Corset v2 Long Sleeves_EMPTY_56
+  - first:
+      213: 5785289725450877004
+    second: Blue Corset v2 Long Sleeves_EMPTY_57
+  - first:
+      213: -7673519976385056940
+    second: Blue Corset v2 Long Sleeves_EMPTY_58
+  - first:
+      213: -269428769406655093
+    second: Blue Corset v2 Long Sleeves_EMPTY_59
+  - first:
+      213: 3417611310948493819
+    second: Blue Corset v2 Long Sleeves_60
+  - first:
+      213: -7896483555932522769
+    second: Blue Corset v2 Long Sleeves_61
+  - first:
+      213: 1885300282197305681
+    second: Blue Corset v2 Long Sleeves_62
+  - first:
+      213: 85433401665385881
+    second: Blue Corset v2 Long Sleeves_63
+  - first:
+      213: 2104187801755393229
+    second: Blue Corset v2 Long Sleeves_64
+  - first:
+      213: -2306091772200475706
+    second: Blue Corset v2 Long Sleeves_65
+  - first:
+      213: -7415512366108388050
+    second: Blue Corset v2 Long Sleeves_66
+  - first:
+      213: 1305658800998786505
+    second: Blue Corset v2 Long Sleeves_67
+  - first:
+      213: -5372169855255792977
+    second: Blue Corset v2 Long Sleeves_68
+  - first:
+      213: 6268014704462706321
+    second: Blue Corset v2 Long Sleeves_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88916d9e29983a110800000000000000
+      internalID: 1271010783929964936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afe1d1483e68fee0800000000000000
+      internalID: -1227109710556958815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef164a47b71482f0800000000000000
+      internalID: -971625543612620818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b9cf310ab4849f0800000000000000
+      internalID: -484053809040155852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2e6fbfb1c879b10800000000000000
+      internalID: 1988211812326630116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a161ccfd3242fb380800000000000000
+      internalID: -8953397797692107238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c1ecc66bc9fc1f0800000000000000
+      internalID: -1022426283066385390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442290d057bf76330800000000000000
+      internalID: 3704205698683970116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0968b4260afb7b20800000000000000
+      internalID: 3133372870059125002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccae31e305e3bc860800000000000000
+      internalID: 7551197714576566988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d823609f0b15a9e0800000000000000
+      internalID: -1610851538054207271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64fa48a7d572c580800000000000000
+      internalID: -8808348352081365910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432dedfb7f3f851b0800000000000000
+      internalID: -5667511885644246476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b3c95fce3f92e90800000000000000
+      internalID: -7049835542613312626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a058853c672ab1810800000000000000
+      internalID: 1737160712248657162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533f494be256efea0800000000000000
+      internalID: -5837116815753022667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b514debe4a07680800000000000000
+      internalID: -8759319942030861532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c84a95aebf31520800000000000000
+      internalID: 2671755987905711131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e455ba80d8585a60800000000000000
+      internalID: 7662972418674480360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cb7a116ada84e30800000000000000
+      internalID: 4488027957447081095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df9e5ac9ce57b4c0800000000000000
+      internalID: -4271841500760989740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392cb2fde901b03a0800000000000000
+      internalID: -6698241746248416621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22efaaede936ac70800000000000000
+      internalID: 8981930200844460589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92ae1d5981d31930800000000000000
+      internalID: 4112861272622408346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e2965f447d21e20800000000000000
+      internalID: 3319952566500535904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91655db1789ea7220800000000000000
+      internalID: 2484554910945072665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1819c4546383f90800000000000000
+      internalID: -6973764351717965363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e295bdd42db16840800000000000000
+      internalID: 5215657809507881703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff40fd2683dc87fa0800000000000000
+      internalID: -5802662477806238465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b60cc68e76fe3210800000000000000
+      internalID: 1314759164526593720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfd0fbf76f7828d0800000000000000
+      internalID: -2870904677863464995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3c9cf18b4085350800000000000000
+      internalID: 6005555291952366571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5b3d0af49b50c50800000000000000
+      internalID: 6630909778024707544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1912da63f54d7a0800000000000000
+      internalID: -6353348485875396172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddeab86f714f30e0800000000000000
+      internalID: -2288038070207189537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679676fa14b06e230800000000000000
+      internalID: 3667631323283417462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7cbfaaaa54ae940800000000000000
+      internalID: 5326146108634417142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecba7bde3b8e0ef0800000000000000
+      internalID: -140021436315419410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00dae3c19dc96040800000000000000
+      internalID: 4641466916922904588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a653c08550aeb8190800000000000000
+      internalID: -7959010607774288534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ced45944b06326c0800000000000000
+      internalID: -4169382502574268729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6429b97613eea40800000000000000
+      internalID: 5399307324325250764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138d426149eeac6a0800000000000000
+      internalID: -6428063198323877839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca62c120fe59f8e0800000000000000
+      internalID: -1659190602257765690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843305328de0bd910800000000000000
+      internalID: 1863099192316015432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21436d89a60d83df0800000000000000
+      internalID: -200181027168701422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94ad68bce87a4be0800000000000000
+      internalID: -1492247368418089828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd1a6204529d1570800000000000000
+      internalID: 8439062166277594619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca76277606ceb700800000000000000
+      internalID: 558101134911634116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cadd164d1666ac0800000000000000
+      internalID: -3862292065620743021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2689da962fc989000800000000000000
+      internalID: 42956761429022818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1726f02d2aeeab60800000000000000
+      internalID: 7759396687553373979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6c30541aff4f830800000000000000
+      internalID: 4104186228554057451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeced7853bf04bc20800000000000000
+      internalID: 3221216896434957546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e57f4ff709781d0800000000000000
+      internalID: -3348548918681575936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339a4fff7bea3e750800000000000000
+      internalID: 6333097606309521715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e97a67bf6ceb430800000000000000
+      internalID: 3800693918877064797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4877308a5a794050800000000000000
+      internalID: 5785289725450877004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f64becc3e228590800000000000000
+      internalID: -7673519976385056940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85ee3336fbc24cf0800000000000000
+      internalID: -269428769406655093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf92179416bcd6f20800000000000000
+      internalID: 3417611310948493819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6bde11b0e0a6290800000000000000
+      internalID: -7896483555932522769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159605f2e9ee92a10800000000000000
+      internalID: 1885300282197305681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995f736e9358f2100800000000000000
+      internalID: 85433401665385881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc175048a3933d10800000000000000
+      internalID: 2104187801755393229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c32a8a50cd1fffd0800000000000000
+      internalID: -2306091772200475706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25d796cacec61990800000000000000
+      internalID: -7415512366108388050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5256703c1ae1210800000000000000
+      internalID: 1305658800998786505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2ba68caf73275b0800000000000000
+      internalID: -5372169855255792977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Corset v2 Long Sleeves_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196bc621a267cf650800000000000000
+      internalID: 6268014704462706321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blue Corset v2 Long Sleeves_0: 1271010783929964936
+      Blue Corset v2 Long Sleeves_0_0: 6970158590791461662
+      Blue Corset v2 Long Sleeves_0_1: 9042960943892425304
+      Blue Corset v2 Long Sleeves_0_2: -8781525584475599532
+      Blue Corset v2 Long Sleeves_0_3: 4314997399203127745
+      Blue Corset v2 Long Sleeves_0_4: 5685917845919685155
+      Blue Corset v2 Long Sleeves_0_5: -6753491868577091742
+      Blue Corset v2 Long Sleeves_0_6: 1049707189639823153
+      Blue Corset v2 Long Sleeves_1: -1227109710556958815
+      Blue Corset v2 Long Sleeves_10: -1610851538054207271
+      Blue Corset v2 Long Sleeves_11: -8808348352081365910
+      Blue Corset v2 Long Sleeves_12: -5667511885644246476
+      Blue Corset v2 Long Sleeves_13: -7049835542613312626
+      Blue Corset v2 Long Sleeves_14: 1737160712248657162
+      Blue Corset v2 Long Sleeves_15: -5837116815753022667
+      Blue Corset v2 Long Sleeves_16: -8759319942030861532
+      Blue Corset v2 Long Sleeves_17: 2671755987905711131
+      Blue Corset v2 Long Sleeves_18: -2410677286484852650
+      Blue Corset v2 Long Sleeves_19: -9092059988426833952
+      Blue Corset v2 Long Sleeves_1_0: -7055453789822160051
+      Blue Corset v2 Long Sleeves_1_1: -2882768753192855825
+      Blue Corset v2 Long Sleeves_1_2: 3926748519806424554
+      Blue Corset v2 Long Sleeves_1_3: -7688924234371764828
+      Blue Corset v2 Long Sleeves_1_4: -6158072537037033152
+      Blue Corset v2 Long Sleeves_1_5: 1060471840705423662
+      Blue Corset v2 Long Sleeves_1_6: 8998743668165610074
+      Blue Corset v2 Long Sleeves_2: -971625543612620818
+      Blue Corset v2 Long Sleeves_20: -4271841500760989740
+      Blue Corset v2 Long Sleeves_21: -6698241746248416621
+      Blue Corset v2 Long Sleeves_22: 8981930200844460589
+      Blue Corset v2 Long Sleeves_23: 4112861272622408346
+      Blue Corset v2 Long Sleeves_24: 3319952566500535904
+      Blue Corset v2 Long Sleeves_25: 2484554910945072665
+      Blue Corset v2 Long Sleeves_26: -6973764351717965363
+      Blue Corset v2 Long Sleeves_27: 5215657809507881703
+      Blue Corset v2 Long Sleeves_28: 8837924394659438033
+      Blue Corset v2 Long Sleeves_29: -7706912414989325485
+      Blue Corset v2 Long Sleeves_2_0: 9054594161044417582
+      Blue Corset v2 Long Sleeves_2_1: -1094515142187664033
+      Blue Corset v2 Long Sleeves_2_2: -4391969789136121356
+      Blue Corset v2 Long Sleeves_2_3: 3384213943348367258
+      Blue Corset v2 Long Sleeves_2_4: 135869629293927051
+      Blue Corset v2 Long Sleeves_2_5: -3931766452557544418
+      Blue Corset v2 Long Sleeves_2_6: 1775173759258031599
+      Blue Corset v2 Long Sleeves_3: -484053809040155852
+      Blue Corset v2 Long Sleeves_30: -2870904677863464995
+      Blue Corset v2 Long Sleeves_31: 6005555291952366571
+      Blue Corset v2 Long Sleeves_32: 6630909778024707544
+      Blue Corset v2 Long Sleeves_33: -6353348485875396172
+      Blue Corset v2 Long Sleeves_34: 8014403041793288589
+      Blue Corset v2 Long Sleeves_35: 9035817760744404037
+      Blue Corset v2 Long Sleeves_36: 7664797378826144355
+      Blue Corset v2 Long Sleeves_37: 4505860023752482038
+      Blue Corset v2 Long Sleeves_38: 1759837173679565919
+      Blue Corset v2 Long Sleeves_39: -4267811762162570753
+      Blue Corset v2 Long Sleeves_3_0: -8791305081378405903
+      Blue Corset v2 Long Sleeves_3_1: -5063826979955769337
+      Blue Corset v2 Long Sleeves_3_2: 9216916269031926205
+      Blue Corset v2 Long Sleeves_3_3: 6699871766080821596
+      Blue Corset v2 Long Sleeves_3_4: -8624019857991391283
+      Blue Corset v2 Long Sleeves_3_5: -4374730678868687021
+      Blue Corset v2 Long Sleeves_3_6: -2964916287097849534
+      Blue Corset v2 Long Sleeves_4: 1988211812326630116
+      Blue Corset v2 Long Sleeves_40: -4169382502574268729
+      Blue Corset v2 Long Sleeves_41: 5399307324325250764
+      Blue Corset v2 Long Sleeves_42: -6428063198323877839
+      Blue Corset v2 Long Sleeves_43: -1659190602257765690
+      Blue Corset v2 Long Sleeves_44: 353599955255702968
+      Blue Corset v2 Long Sleeves_45: 4482659012993981886
+      Blue Corset v2 Long Sleeves_46: -4887167046803363264
+      Blue Corset v2 Long Sleeves_47: -340326972408154220
+      Blue Corset v2 Long Sleeves_48: -8223555910843230914
+      Blue Corset v2 Long Sleeves_4_0: -6164293207834440989
+      Blue Corset v2 Long Sleeves_4_1: -6646713308601270908
+      Blue Corset v2 Long Sleeves_4_2: 3280124791475910685
+      Blue Corset v2 Long Sleeves_4_3: -8258274568119396920
+      Blue Corset v2 Long Sleeves_4_4: -1982045645982238752
+      Blue Corset v2 Long Sleeves_4_5: -5699256101875653247
+      Blue Corset v2 Long Sleeves_4_6: 5995298566635370253
+      Blue Corset v2 Long Sleeves_5: 3466232917408640515
+      Blue Corset v2 Long Sleeves_50: 42956761429022818
+      Blue Corset v2 Long Sleeves_51: 7759396687553373979
+      Blue Corset v2 Long Sleeves_52: 4104186228554057451
+      Blue Corset v2 Long Sleeves_53: 3221216896434957546
+      Blue Corset v2 Long Sleeves_54: -3348548918681575936
+      Blue Corset v2 Long Sleeves_55: 6333097606309521715
+      Blue Corset v2 Long Sleeves_5_0: 5569016989774750891
+      Blue Corset v2 Long Sleeves_5_1: -2446788365355410403
+      Blue Corset v2 Long Sleeves_5_2: 1897777773546290501
+      Blue Corset v2 Long Sleeves_5_3: 42808285690831316
+      Blue Corset v2 Long Sleeves_5_4: 612795125031181517
+      Blue Corset v2 Long Sleeves_5_5: 2510513830119895652
+      Blue Corset v2 Long Sleeves_5_6: 2739037642618341146
+      Blue Corset v2 Long Sleeves_6: -7347438763007043306
+      Blue Corset v2 Long Sleeves_60: 3417611310948493819
+      Blue Corset v2 Long Sleeves_61: -7896483555932522769
+      Blue Corset v2 Long Sleeves_62: 1885300282197305681
+      Blue Corset v2 Long Sleeves_63: 85433401665385881
+      Blue Corset v2 Long Sleeves_64: 2104187801755393229
+      Blue Corset v2 Long Sleeves_65: -2306091772200475706
+      Blue Corset v2 Long Sleeves_66: -7415512366108388050
+      Blue Corset v2 Long Sleeves_67: 1305658800998786505
+      Blue Corset v2 Long Sleeves_68: -5372169855255792977
+      Blue Corset v2 Long Sleeves_69: 6268014704462706321
+      Blue Corset v2 Long Sleeves_6_0: -8672271850993198442
+      Blue Corset v2 Long Sleeves_6_1: 7940716943746932724
+      Blue Corset v2 Long Sleeves_6_2: 610496905733093650
+      Blue Corset v2 Long Sleeves_6_3: -3607774000354452724
+      Blue Corset v2 Long Sleeves_6_4: 4204862251445819184
+      Blue Corset v2 Long Sleeves_6_5: -1960896604988110829
+      Blue Corset v2 Long Sleeves_6_6: -7783809861323330136
+      Blue Corset v2 Long Sleeves_7: 5021984255035960880
+      Blue Corset v2 Long Sleeves_7_0: 6222874410601286720
+      Blue Corset v2 Long Sleeves_7_1: -1143082387728330878
+      Blue Corset v2 Long Sleeves_7_2: 1880494182123905376
+      Blue Corset v2 Long Sleeves_7_3: 4920763798364713738
+      Blue Corset v2 Long Sleeves_7_4: 294817458296648807
+      Blue Corset v2 Long Sleeves_7_5: 5105927491225685062
+      Blue Corset v2 Long Sleeves_7_6: -2146637894322249687
+      Blue Corset v2 Long Sleeves_8: -3737730756785906413
+      Blue Corset v2 Long Sleeves_8_0: -4345781450519766750
+      Blue Corset v2 Long Sleeves_8_1: -2408351299221807774
+      Blue Corset v2 Long Sleeves_8_2: 4317676863774772945
+      Blue Corset v2 Long Sleeves_8_3: 3223259616420030979
+      Blue Corset v2 Long Sleeves_8_4: -2315326300119529188
+      Blue Corset v2 Long Sleeves_8_5: -4746393244567065964
+      Blue Corset v2 Long Sleeves_8_6: 8092778997503152368
+      Blue Corset v2 Long Sleeves_9: 7930784882680387927
+      Blue Corset v2 Long Sleeves_9_0: 6949541301797221512
+      Blue Corset v2 Long Sleeves_9_1: -983059648933736258
+      Blue Corset v2 Long Sleeves_9_2: -4202421315160357996
+      Blue Corset v2 Long Sleeves_9_3: 3070547738092786398
+      Blue Corset v2 Long Sleeves_9_4: 4658958130240353079
+      Blue Corset v2 Long Sleeves_9_5: -751952198216670173
+      Blue Corset v2 Long Sleeves_9_6: -6995321872471596133
+      Blue Corset v2 Long Sleeves_EMPTY_18: 7662972418674480360
+      Blue Corset v2 Long Sleeves_EMPTY_19: 4488027957447081095
+      Blue Corset v2 Long Sleeves_EMPTY_28: -5802662477806238465
+      Blue Corset v2 Long Sleeves_EMPTY_29: 1314759164526593720
+      Blue Corset v2 Long Sleeves_EMPTY_34: -2288038070207189537
+      Blue Corset v2 Long Sleeves_EMPTY_35: 3667631323283417462
+      Blue Corset v2 Long Sleeves_EMPTY_36: 5326146108634417142
+      Blue Corset v2 Long Sleeves_EMPTY_37: -140021436315419410
+      Blue Corset v2 Long Sleeves_EMPTY_38: 4641466916922904588
+      Blue Corset v2 Long Sleeves_EMPTY_39: -7959010607774288534
+      Blue Corset v2 Long Sleeves_EMPTY_44: 1863099192316015432
+      Blue Corset v2 Long Sleeves_EMPTY_45: -200181027168701422
+      Blue Corset v2 Long Sleeves_EMPTY_46: -1492247368418089828
+      Blue Corset v2 Long Sleeves_EMPTY_47: 8439062166277594619
+      Blue Corset v2 Long Sleeves_EMPTY_48: 558101134911634116
+      Blue Corset v2 Long Sleeves_EMPTY_49: -3862292065620743021
+      Blue Corset v2 Long Sleeves_EMPTY_5: -8953397797692107238
+      Blue Corset v2 Long Sleeves_EMPTY_56: 3800693918877064797
+      Blue Corset v2 Long Sleeves_EMPTY_57: 5785289725450877004
+      Blue Corset v2 Long Sleeves_EMPTY_58: -7673519976385056940
+      Blue Corset v2 Long Sleeves_EMPTY_59: -269428769406655093
+      Blue Corset v2 Long Sleeves_EMPTY_6: -1022426283066385390
+      Blue Corset v2 Long Sleeves_EMPTY_7: 3704205698683970116
+      Blue Corset v2 Long Sleeves_EMPTY_8: 3133372870059125002
+      Blue Corset v2 Long Sleeves_EMPTY_9: 7551197714576566988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

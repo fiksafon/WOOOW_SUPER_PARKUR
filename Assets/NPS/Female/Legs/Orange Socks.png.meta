@@ -1,0 +1,2319 @@
+fileFormatVersion: 2
+guid: 0e35e6b089f450f4295d9ed55ce7b9ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2518402101357404115
+    second: Orange Socks_0
+  - first:
+      213: 8442889981046455124
+    second: Orange Socks_1
+  - first:
+      213: -7035828816101588596
+    second: Orange Socks_2
+  - first:
+      213: -610012998262659553
+    second: Orange Socks_3
+  - first:
+      213: -6492490412264073641
+    second: Orange Socks_4
+  - first:
+      213: -6616827736602446085
+    second: Orange Socks_5
+  - first:
+      213: 7904262583326113091
+    second: Orange Socks_6
+  - first:
+      213: -1189825902503914928
+    second: Orange Socks_7
+  - first:
+      213: -5141451191896819939
+    second: Orange Socks_8
+  - first:
+      213: -2470520681821315680
+    second: Orange Socks_9
+  - first:
+      213: 6229942789178374190
+    second: Orange Socks_10
+  - first:
+      213: -3186636627585486539
+    second: Orange Socks_11
+  - first:
+      213: -6252300010718635741
+    second: Orange Socks_12
+  - first:
+      213: -1467708725390960722
+    second: Orange Socks_13
+  - first:
+      213: -7831990571531874036
+    second: Orange Socks_14
+  - first:
+      213: 8805465554995781146
+    second: Orange Socks_15
+  - first:
+      213: -3218092585911770944
+    second: Orange Socks_16
+  - first:
+      213: -561918527945837908
+    second: Orange Socks_17
+  - first:
+      213: 2213068491509565396
+    second: Orange Socks_18
+  - first:
+      213: 8815857755548767960
+    second: Orange Socks_19
+  - first:
+      213: -8317353550831890515
+    second: Orange Socks_20
+  - first:
+      213: -5222183355443901363
+    second: Orange Socks_21
+  - first:
+      213: 990298448030229216
+    second: Orange Socks_22
+  - first:
+      213: 8723813084112459706
+    second: Orange Socks_23
+  - first:
+      213: 1719628488347710
+    second: Orange Socks_24
+  - first:
+      213: 3734846864730001651
+    second: Orange Socks_25
+  - first:
+      213: -179325086991644383
+    second: Orange Socks_26
+  - first:
+      213: 1009243507929170035
+    second: Orange Socks_27
+  - first:
+      213: -2354490819395638614
+    second: Orange Socks_28
+  - first:
+      213: -3579998841897702971
+    second: Orange Socks_29
+  - first:
+      213: 4604065778250878211
+    second: Orange Socks_30
+  - first:
+      213: 5968402002520285136
+    second: Orange Socks_31
+  - first:
+      213: -7162084815222685045
+    second: Orange Socks_32
+  - first:
+      213: -3256921669498270875
+    second: Orange Socks_33
+  - first:
+      213: 6100652175511176208
+    second: Orange Socks_34
+  - first:
+      213: -4984692012281699750
+    second: Orange Socks_35
+  - first:
+      213: -1969192744375968162
+    second: Orange Socks_36
+  - first:
+      213: -8725822167157315813
+    second: Orange Socks_37
+  - first:
+      213: -8897262543038663676
+    second: Orange Socks_38
+  - first:
+      213: 1130489053327151874
+    second: Orange Socks_39
+  - first:
+      213: 2578846548497865305
+    second: Orange Socks_40
+  - first:
+      213: 8047992929028707557
+    second: Orange Socks_41
+  - first:
+      213: 4935538126630468586
+    second: Orange Socks_42
+  - first:
+      213: 6768337145231456797
+    second: Orange Socks_43
+  - first:
+      213: -7751317119057349083
+    second: Orange Socks_44
+  - first:
+      213: 4700556398867781153
+    second: Orange Socks_45
+  - first:
+      213: -7432958629984130230
+    second: Orange Socks_46
+  - first:
+      213: -8886702868040771959
+    second: Orange Socks_47
+  - first:
+      213: 3511801719268416488
+    second: Orange Socks_48
+  - first:
+      213: 4341951147846161042
+    second: Orange Socks_49
+  - first:
+      213: 1722491627292930361
+    second: Orange Socks_50
+  - first:
+      213: 7325006108090824987
+    second: Orange Socks_51
+  - first:
+      213: -6518629580430329047
+    second: Orange Socks_52
+  - first:
+      213: -2967598298228818916
+    second: Orange Socks_53
+  - first:
+      213: 675598873734147269
+    second: Orange Socks_54
+  - first:
+      213: -4059792925130891355
+    second: Orange Socks_55
+  - first:
+      213: 4119981582521601694
+    second: Orange Socks_56
+  - first:
+      213: 3476724148009520821
+    second: Orange Socks_57
+  - first:
+      213: -4211291675833326622
+    second: Orange Socks_58
+  - first:
+      213: -6232796262983153160
+    second: Orange Socks_59
+  - first:
+      213: 5823131427086864354
+    second: Orange Socks_60
+  - first:
+      213: 2150835001064444656
+    second: Orange Socks_61
+  - first:
+      213: -6486616414196931527
+    second: Orange Socks_62
+  - first:
+      213: -5477600878869244838
+    second: Orange Socks_0_6
+  - first:
+      213: -9180859205171318376
+    second: Orange Socks_1_6
+  - first:
+      213: 3249101162770221202
+    second: Orange Socks_2_6
+  - first:
+      213: 5053244145254701589
+    second: Orange Socks_3_6
+  - first:
+      213: 3314854937115367025
+    second: Orange Socks_4_6
+  - first:
+      213: 5023889777901005650
+    second: Orange Socks_5_6
+  - first:
+      213: -1858076721356470382
+    second: Orange Socks_6_6
+  - first:
+      213: 7223314084338730861
+    second: Orange Socks_7_6
+  - first:
+      213: 4892899013693709321
+    second: Orange Socks_8_6
+  - first:
+      213: 3355764269146406006
+    second: Orange Socks_9_6
+  - first:
+      213: -6636130938510484653
+    second: Orange Socks_0_5
+  - first:
+      213: -1488128112561711674
+    second: Orange Socks_1_5
+  - first:
+      213: -6634938438838850688
+    second: Orange Socks_2_5
+  - first:
+      213: -3578974810133718719
+    second: Orange Socks_3_5
+  - first:
+      213: -7690599143673161442
+    second: Orange Socks_4_5
+  - first:
+      213: 6707582773439522603
+    second: Orange Socks_5_5
+  - first:
+      213: -5501376082691569659
+    second: Orange Socks_6_5
+  - first:
+      213: -2900363105770265113
+    second: Orange Socks_7_5
+  - first:
+      213: 6585458704998431039
+    second: Orange Socks_8_5
+  - first:
+      213: -7930739153218871031
+    second: Orange Socks_9_5
+  - first:
+      213: 6289266211933909251
+    second: Orange Socks_0_4
+  - first:
+      213: -4646566967906762487
+    second: Orange Socks_1_4
+  - first:
+      213: 1317043965807118173
+    second: Orange Socks_2_4
+  - first:
+      213: -3944637591494359499
+    second: Orange Socks_3_4
+  - first:
+      213: -1276891329723706369
+    second: Orange Socks_4_4
+  - first:
+      213: -2611051755275101673
+    second: Orange Socks_5_4
+  - first:
+      213: -7895515138170309237
+    second: Orange Socks_6_4
+  - first:
+      213: -3979403311117804230
+    second: Orange Socks_7_4
+  - first:
+      213: -2127125454379878313
+    second: Orange Socks_8_4
+  - first:
+      213: 3156666039023864354
+    second: Orange Socks_9_4
+  - first:
+      213: -6863126965473444039
+    second: Orange Socks_0_3
+  - first:
+      213: -4829794474746409735
+    second: Orange Socks_1_3
+  - first:
+      213: -1523403316551476513
+    second: Orange Socks_2_3
+  - first:
+      213: 5847465733650044422
+    second: Orange Socks_3_3
+  - first:
+      213: 4393655089760673173
+    second: Orange Socks_4_3
+  - first:
+      213: -3813045743409662041
+    second: Orange Socks_5_3
+  - first:
+      213: 8902826137779097719
+    second: Orange Socks_6_3
+  - first:
+      213: -1631720718950829362
+    second: Orange Socks_7_3
+  - first:
+      213: 896636480155591453
+    second: Orange Socks_8_3
+  - first:
+      213: 5088585770738657739
+    second: Orange Socks_9_3
+  - first:
+      213: -7513653328849277382
+    second: Orange Socks_0_2
+  - first:
+      213: -7841491130056019583
+    second: Orange Socks_1_2
+  - first:
+      213: 1020316174478240345
+    second: Orange Socks_2_2
+  - first:
+      213: 8832483485753591976
+    second: Orange Socks_3_2
+  - first:
+      213: -6596668434846264778
+    second: Orange Socks_4_2
+  - first:
+      213: 8071141974411859910
+    second: Orange Socks_5_2
+  - first:
+      213: -8912151689417496000
+    second: Orange Socks_6_2
+  - first:
+      213: -710169686699736192
+    second: Orange Socks_7_2
+  - first:
+      213: 7602594222606377705
+    second: Orange Socks_8_2
+  - first:
+      213: -6396523846224322536
+    second: Orange Socks_9_2
+  - first:
+      213: -1808108425618736018
+    second: Orange Socks_0_1
+  - first:
+      213: -2350202633437749995
+    second: Orange Socks_1_1
+  - first:
+      213: 5853849004724967859
+    second: Orange Socks_2_1
+  - first:
+      213: 1611053891938898953
+    second: Orange Socks_3_1
+  - first:
+      213: -7583997674483601666
+    second: Orange Socks_4_1
+  - first:
+      213: 4992046946121687382
+    second: Orange Socks_5_1
+  - first:
+      213: -5245421943141339121
+    second: Orange Socks_6_1
+  - first:
+      213: -4527787552558321974
+    second: Orange Socks_7_1
+  - first:
+      213: -5326753497608689080
+    second: Orange Socks_8_1
+  - first:
+      213: 6954566013482200604
+    second: Orange Socks_9_1
+  - first:
+      213: 4843112349379401957
+    second: Orange Socks_0_0
+  - first:
+      213: -8216180747254912089
+    second: Orange Socks_1_0
+  - first:
+      213: 5239323749756414917
+    second: Orange Socks_2_0
+  - first:
+      213: -6582375728105817530
+    second: Orange Socks_3_0
+  - first:
+      213: -2852334903001484490
+    second: Orange Socks_4_0
+  - first:
+      213: 8549854455654663275
+    second: Orange Socks_5_0
+  - first:
+      213: -1833180991626862968
+    second: Orange Socks_6_0
+  - first:
+      213: -2522362927981352105
+    second: Orange Socks_7_0
+  - first:
+      213: -7005442464167490146
+    second: Orange Socks_8_0
+  - first:
+      213: 3740926475904318504
+    second: Orange Socks_9_0
+  - first:
+      213: -152200727172339856
+    second: Orange Socks_EMPTY_5
+  - first:
+      213: -8443372751043413633
+    second: Orange Socks_EMPTY_6
+  - first:
+      213: 2242179515351439182
+    second: Orange Socks_EMPTY_7
+  - first:
+      213: 1106648219749194887
+    second: Orange Socks_EMPTY_8
+  - first:
+      213: 9006344276010066494
+    second: Orange Socks_EMPTY_9
+  - first:
+      213: -2356579530441212742
+    second: Orange Socks_EMPTY_18
+  - first:
+      213: -4782712745431863187
+    second: Orange Socks_EMPTY_19
+  - first:
+      213: 5044871792927581241
+    second: Orange Socks_EMPTY_28
+  - first:
+      213: 8678806284927024264
+    second: Orange Socks_EMPTY_29
+  - first:
+      213: 6508707382087352111
+    second: Orange Socks_EMPTY_34
+  - first:
+      213: -6975942645252033173
+    second: Orange Socks_EMPTY_35
+  - first:
+      213: -8189461405045521729
+    second: Orange Socks_EMPTY_36
+  - first:
+      213: 4052468264773161684
+    second: Orange Socks_EMPTY_37
+  - first:
+      213: 3238589686190574325
+    second: Orange Socks_EMPTY_38
+  - first:
+      213: 3521770130901515849
+    second: Orange Socks_EMPTY_39
+  - first:
+      213: 4738434953975705720
+    second: Orange Socks_EMPTY_44
+  - first:
+      213: -3042438204674462392
+    second: Orange Socks_EMPTY_45
+  - first:
+      213: -2441446166534115525
+    second: Orange Socks_EMPTY_46
+  - first:
+      213: -7746210977704532888
+    second: Orange Socks_EMPTY_47
+  - first:
+      213: -1658344828017905385
+    second: Orange Socks_EMPTY_48
+  - first:
+      213: -7921430656481603517
+    second: Orange Socks_EMPTY_49
+  - first:
+      213: 7622153544331155544
+    second: Orange Socks_EMPTY_56
+  - first:
+      213: -2467511603461520402
+    second: Orange Socks_EMPTY_57
+  - first:
+      213: 7346250598967545725
+    second: Orange Socks_EMPTY_58
+  - first:
+      213: -4871792670510370831
+    second: Orange Socks_EMPTY_59
+  - first:
+      213: -548175458978958051
+    second: Orange Socks_63
+  - first:
+      213: -3824502852180501304
+    second: Orange Socks_64
+  - first:
+      213: 3147774624416358328
+    second: Orange Socks_65
+  - first:
+      213: 6278089903709578630
+    second: Orange Socks_66
+  - first:
+      213: 7988849206183544433
+    second: Orange Socks_67
+  - first:
+      213: -1943649950304296807
+    second: Orange Socks_68
+  - first:
+      213: 5498795772189398900
+    second: Orange Socks_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orange Socks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20aef2c1a6dc0dd0800000000000000
+      internalID: -2518402101357404115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b7af594bb2b2570800000000000000
+      internalID: 8442889981046455124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81cecb18f6bb5e90800000000000000
+      internalID: -7035828816101588596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16ee2af86cc887f0800000000000000
+      internalID: -610012998262659553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756de556e5a06e5a0800000000000000
+      internalID: -6492490412264073641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077265abe3643edf0800000000000000
+      internalID: -152200727172339856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7938d3c73d13da80800000000000000
+      internalID: -8443372751043413633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e471e2fb362dd1f10800000000000000
+      internalID: 2242179515351439182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c187d41ba9b5f00800000000000000
+      internalID: 1106648219749194887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32e370c666fcfc70800000000000000
+      internalID: 9006344276010066494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28bbf785f3357650800000000000000
+      internalID: 6229942789178374190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531b488eedac6c3d0800000000000000
+      internalID: -3186636627585486539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329d1ff244e5b39a0800000000000000
+      internalID: -6252300010718635741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea79455c0b6a1abe0800000000000000
+      internalID: -1467708725390960722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0152a3221e2f4390800000000000000
+      internalID: -7831990571531874036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e1677d44c433a70800000000000000
+      internalID: 8805465554995781146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c02962e7d90753d0800000000000000
+      internalID: -3218092585911770944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2f315731aa338f0800000000000000
+      internalID: -561918527945837908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc381b176fbb4fd0800000000000000
+      internalID: -2356579530441212742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60fcc1191460adb0800000000000000
+      internalID: -4782712745431863187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafc4534303d29c80800000000000000
+      internalID: -8317353550831890515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c0fc218e31787b0800000000000000
+      internalID: -5222183355443901363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e26670113f3ebd00800000000000000
+      internalID: 990298448030229216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab79d6d77c5311970800000000000000
+      internalID: 8723813084112459706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3091353efb160000800000000000000
+      internalID: 1719628488347710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f096b67f67d4d330800000000000000
+      internalID: 3734846864730001651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1290c8298c8e28df0800000000000000
+      internalID: -179325086991644383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370ccfd8f9d810e00800000000000000
+      internalID: 1009243507929170035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93426d2ba2cf20640800000000000000
+      internalID: 5044871792927581241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cb0877550517870800000000000000
+      internalID: 8678806284927024264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d0d239e6de4ef30800000000000000
+      internalID: 4604065778250878211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df93f4dff504d250800000000000000
+      internalID: 5968402002520285136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82ce619ec92b9c90800000000000000
+      internalID: -7162084815222685045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b884c5ff61dc2d0800000000000000
+      internalID: -3256921669498270875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f774021e2935a50800000000000000
+      internalID: 6508707382087352111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65f040df19703f90800000000000000
+      internalID: -6975942645252033173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb28d72ed30395e80800000000000000
+      internalID: -8189461405045521729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d219597a624d3830800000000000000
+      internalID: 4052468264773161684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa02aa2928c1fc20800000000000000
+      internalID: 3238589686190574325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e37f06647dfd030800000000000000
+      internalID: 3521770130901515849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a1575c547e9c320800000000000000
+      internalID: 2578846548497865305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e49c99cde630bf60800000000000000
+      internalID: 8047992929028707557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebb43dc6cd8e7440800000000000000
+      internalID: 4935538126630468586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a3a9df5c6fded50800000000000000
+      internalID: 6768337145231456797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870340f3c7d42c140800000000000000
+      internalID: 4738434953975705720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d2d47829617c5d0800000000000000
+      internalID: -3042438204674462392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fae7995ad3e1ed0800000000000000
+      internalID: -2441446166534115525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864a0be282eef7490800000000000000
+      internalID: -7746210977704532888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711f2ea4a206cf8e0800000000000000
+      internalID: -1658344828017905385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340568799cc611290800000000000000
+      internalID: -7921430656481603517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9313165420587e710800000000000000
+      internalID: 1722491627292930361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19f15aee36a7a560800000000000000
+      internalID: 7325006108090824987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bb81c0fec2985a0800000000000000
+      internalID: -6518629580430329047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c740e1219f0d6d0800000000000000
+      internalID: -2967598298228818916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cce39f9895306900800000000000000
+      internalID: 675598873734147269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afdde328d7b8a7c0800000000000000
+      internalID: -4059792925130891355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858d751c34457c960800000000000000
+      internalID: 7622153544331155544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee385842543a1cdd0800000000000000
+      internalID: -2467511603461520402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f06766fff13f560800000000000000
+      internalID: 7346250598967545725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffa0e6c06ae36cb0800000000000000
+      internalID: -4871792670510370831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef0def3e2befc050800000000000000
+      internalID: 5823131427086864354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f25ce0b90d49dd10800000000000000
+      internalID: 2150835001064444656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934e2952db8eaf5a0800000000000000
+      internalID: -6486616414196931527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15f8fc035d7468f0800000000000000
+      internalID: -548175458978958051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc10554be2aceac0800000000000000
+      internalID: -3824502852180501304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf5351e7542fab20800000000000000
+      internalID: 3147774624416358328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68563923181402750800000000000000
+      internalID: 6278089903709578630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1764bbab6081ede60800000000000000
+      internalID: 7988849206183544433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99028680ba4c605e0800000000000000
+      internalID: -1943649950304296807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Socks_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477d4c5fe95af4c40800000000000000
+      internalID: 5498795772189398900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orange Socks_0: -2518402101357404115
+      Orange Socks_0_0: 4843112349379401957
+      Orange Socks_0_1: -1808108425618736018
+      Orange Socks_0_2: -7513653328849277382
+      Orange Socks_0_3: -6863126965473444039
+      Orange Socks_0_4: 6289266211933909251
+      Orange Socks_0_5: -6636130938510484653
+      Orange Socks_0_6: -5477600878869244838
+      Orange Socks_1: 8442889981046455124
+      Orange Socks_10: 6229942789178374190
+      Orange Socks_11: -3186636627585486539
+      Orange Socks_12: -6252300010718635741
+      Orange Socks_13: -1467708725390960722
+      Orange Socks_14: -7831990571531874036
+      Orange Socks_15: 8805465554995781146
+      Orange Socks_16: -3218092585911770944
+      Orange Socks_17: -561918527945837908
+      Orange Socks_18: 2213068491509565396
+      Orange Socks_19: 8815857755548767960
+      Orange Socks_1_0: -8216180747254912089
+      Orange Socks_1_1: -2350202633437749995
+      Orange Socks_1_2: -7841491130056019583
+      Orange Socks_1_3: -4829794474746409735
+      Orange Socks_1_4: -4646566967906762487
+      Orange Socks_1_5: -1488128112561711674
+      Orange Socks_1_6: -9180859205171318376
+      Orange Socks_2: -7035828816101588596
+      Orange Socks_20: -8317353550831890515
+      Orange Socks_21: -5222183355443901363
+      Orange Socks_22: 990298448030229216
+      Orange Socks_23: 8723813084112459706
+      Orange Socks_24: 1719628488347710
+      Orange Socks_25: 3734846864730001651
+      Orange Socks_26: -179325086991644383
+      Orange Socks_27: 1009243507929170035
+      Orange Socks_28: -2354490819395638614
+      Orange Socks_29: -3579998841897702971
+      Orange Socks_2_0: 5239323749756414917
+      Orange Socks_2_1: 5853849004724967859
+      Orange Socks_2_2: 1020316174478240345
+      Orange Socks_2_3: -1523403316551476513
+      Orange Socks_2_4: 1317043965807118173
+      Orange Socks_2_5: -6634938438838850688
+      Orange Socks_2_6: 3249101162770221202
+      Orange Socks_3: -610012998262659553
+      Orange Socks_30: 4604065778250878211
+      Orange Socks_31: 5968402002520285136
+      Orange Socks_32: -7162084815222685045
+      Orange Socks_33: -3256921669498270875
+      Orange Socks_34: 6100652175511176208
+      Orange Socks_35: -4984692012281699750
+      Orange Socks_36: -1969192744375968162
+      Orange Socks_37: -8725822167157315813
+      Orange Socks_38: -8897262543038663676
+      Orange Socks_39: 1130489053327151874
+      Orange Socks_3_0: -6582375728105817530
+      Orange Socks_3_1: 1611053891938898953
+      Orange Socks_3_2: 8832483485753591976
+      Orange Socks_3_3: 5847465733650044422
+      Orange Socks_3_4: -3944637591494359499
+      Orange Socks_3_5: -3578974810133718719
+      Orange Socks_3_6: 5053244145254701589
+      Orange Socks_4: -6492490412264073641
+      Orange Socks_40: 2578846548497865305
+      Orange Socks_41: 8047992929028707557
+      Orange Socks_42: 4935538126630468586
+      Orange Socks_43: 6768337145231456797
+      Orange Socks_44: -7751317119057349083
+      Orange Socks_45: 4700556398867781153
+      Orange Socks_46: -7432958629984130230
+      Orange Socks_47: -8886702868040771959
+      Orange Socks_48: 3511801719268416488
+      Orange Socks_49: 4341951147846161042
+      Orange Socks_4_0: -2852334903001484490
+      Orange Socks_4_1: -7583997674483601666
+      Orange Socks_4_2: -6596668434846264778
+      Orange Socks_4_3: 4393655089760673173
+      Orange Socks_4_4: -1276891329723706369
+      Orange Socks_4_5: -7690599143673161442
+      Orange Socks_4_6: 3314854937115367025
+      Orange Socks_5: -6616827736602446085
+      Orange Socks_50: 1722491627292930361
+      Orange Socks_51: 7325006108090824987
+      Orange Socks_52: -6518629580430329047
+      Orange Socks_53: -2967598298228818916
+      Orange Socks_54: 675598873734147269
+      Orange Socks_55: -4059792925130891355
+      Orange Socks_56: 4119981582521601694
+      Orange Socks_57: 3476724148009520821
+      Orange Socks_58: -4211291675833326622
+      Orange Socks_59: -6232796262983153160
+      Orange Socks_5_0: 8549854455654663275
+      Orange Socks_5_1: 4992046946121687382
+      Orange Socks_5_2: 8071141974411859910
+      Orange Socks_5_3: -3813045743409662041
+      Orange Socks_5_4: -2611051755275101673
+      Orange Socks_5_5: 6707582773439522603
+      Orange Socks_5_6: 5023889777901005650
+      Orange Socks_6: 7904262583326113091
+      Orange Socks_60: 5823131427086864354
+      Orange Socks_61: 2150835001064444656
+      Orange Socks_62: -6486616414196931527
+      Orange Socks_63: -548175458978958051
+      Orange Socks_64: -3824502852180501304
+      Orange Socks_65: 3147774624416358328
+      Orange Socks_66: 6278089903709578630
+      Orange Socks_67: 7988849206183544433
+      Orange Socks_68: -1943649950304296807
+      Orange Socks_69: 5498795772189398900
+      Orange Socks_6_0: -1833180991626862968
+      Orange Socks_6_1: -5245421943141339121
+      Orange Socks_6_2: -8912151689417496000
+      Orange Socks_6_3: 8902826137779097719
+      Orange Socks_6_4: -7895515138170309237
+      Orange Socks_6_5: -5501376082691569659
+      Orange Socks_6_6: -1858076721356470382
+      Orange Socks_7: -1189825902503914928
+      Orange Socks_7_0: -2522362927981352105
+      Orange Socks_7_1: -4527787552558321974
+      Orange Socks_7_2: -710169686699736192
+      Orange Socks_7_3: -1631720718950829362
+      Orange Socks_7_4: -3979403311117804230
+      Orange Socks_7_5: -2900363105770265113
+      Orange Socks_7_6: 7223314084338730861
+      Orange Socks_8: -5141451191896819939
+      Orange Socks_8_0: -7005442464167490146
+      Orange Socks_8_1: -5326753497608689080
+      Orange Socks_8_2: 7602594222606377705
+      Orange Socks_8_3: 896636480155591453
+      Orange Socks_8_4: -2127125454379878313
+      Orange Socks_8_5: 6585458704998431039
+      Orange Socks_8_6: 4892899013693709321
+      Orange Socks_9: -2470520681821315680
+      Orange Socks_9_0: 3740926475904318504
+      Orange Socks_9_1: 6954566013482200604
+      Orange Socks_9_2: -6396523846224322536
+      Orange Socks_9_3: 5088585770738657739
+      Orange Socks_9_4: 3156666039023864354
+      Orange Socks_9_5: -7930739153218871031
+      Orange Socks_9_6: 3355764269146406006
+      Orange Socks_EMPTY_18: -2356579530441212742
+      Orange Socks_EMPTY_19: -4782712745431863187
+      Orange Socks_EMPTY_28: 5044871792927581241
+      Orange Socks_EMPTY_29: 8678806284927024264
+      Orange Socks_EMPTY_34: 6508707382087352111
+      Orange Socks_EMPTY_35: -6975942645252033173
+      Orange Socks_EMPTY_36: -8189461405045521729
+      Orange Socks_EMPTY_37: 4052468264773161684
+      Orange Socks_EMPTY_38: 3238589686190574325
+      Orange Socks_EMPTY_39: 3521770130901515849
+      Orange Socks_EMPTY_44: 4738434953975705720
+      Orange Socks_EMPTY_45: -3042438204674462392
+      Orange Socks_EMPTY_46: -2441446166534115525
+      Orange Socks_EMPTY_47: -7746210977704532888
+      Orange Socks_EMPTY_48: -1658344828017905385
+      Orange Socks_EMPTY_49: -7921430656481603517
+      Orange Socks_EMPTY_5: -152200727172339856
+      Orange Socks_EMPTY_56: 7622153544331155544
+      Orange Socks_EMPTY_57: -2467511603461520402
+      Orange Socks_EMPTY_58: 7346250598967545725
+      Orange Socks_EMPTY_59: -4871792670510370831
+      Orange Socks_EMPTY_6: -8443372751043413633
+      Orange Socks_EMPTY_7: 2242179515351439182
+      Orange Socks_EMPTY_8: 1106648219749194887
+      Orange Socks_EMPTY_9: 9006344276010066494
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

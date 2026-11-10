@@ -1,0 +1,2285 @@
+fileFormatVersion: 2
+guid: bbd46d4e30832a045a4a7ec057922838
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3725627876854875849
+    second: Short Skirt_0
+  - first:
+      213: 8282506200285690737
+    second: Short Skirt_1
+  - first:
+      213: -4374327597911553885
+    second: Short Skirt_2
+  - first:
+      213: 630675441141210989
+    second: Short Skirt_3
+  - first:
+      213: -614139148484272532
+    second: Short Skirt_4
+  - first:
+      213: 8336538867446468563
+    second: Short Skirt_5
+  - first:
+      213: 7338437302691004461
+    second: Short Skirt_6
+  - first:
+      213: 8116158742993444637
+    second: Short Skirt_7
+  - first:
+      213: -2879608229610224437
+    second: Short Skirt_8
+  - first:
+      213: -8863664510957976445
+    second: Short Skirt_9
+  - first:
+      213: 5555313181723076293
+    second: Short Skirt_10
+  - first:
+      213: 730454115766670110
+    second: Short Skirt_11
+  - first:
+      213: -8777297131025081770
+    second: Short Skirt_12
+  - first:
+      213: 8650768235798329345
+    second: Short Skirt_13
+  - first:
+      213: 3059465954329184288
+    second: Short Skirt_14
+  - first:
+      213: 4739740466398914507
+    second: Short Skirt_15
+  - first:
+      213: 3790236963741525098
+    second: Short Skirt_16
+  - first:
+      213: 1988493323941621692
+    second: Short Skirt_17
+  - first:
+      213: 6665922613697483452
+    second: Short Skirt_18
+  - first:
+      213: -8994018411633000011
+    second: Short Skirt_19
+  - first:
+      213: 5347969110020076711
+    second: Short Skirt_20
+  - first:
+      213: -7828335866617770892
+    second: Short Skirt_21
+  - first:
+      213: -9065285832647215919
+    second: Short Skirt_22
+  - first:
+      213: 7659917656502181203
+    second: Short Skirt_23
+  - first:
+      213: -1787193905461236568
+    second: Short Skirt_24
+  - first:
+      213: -1218492087013725272
+    second: Short Skirt_25
+  - first:
+      213: 617914219725110163
+    second: Short Skirt_26
+  - first:
+      213: 4723508287019943268
+    second: Short Skirt_27
+  - first:
+      213: -2807714216874304526
+    second: Short Skirt_28
+  - first:
+      213: 2427581760545711315
+    second: Short Skirt_29
+  - first:
+      213: 3811651565848938754
+    second: Short Skirt_30
+  - first:
+      213: 1404873553282365348
+    second: Short Skirt_31
+  - first:
+      213: 6119027993956610693
+    second: Short Skirt_32
+  - first:
+      213: -4369592292199535928
+    second: Short Skirt_33
+  - first:
+      213: -5876799956143189957
+    second: Short Skirt_34
+  - first:
+      213: -6199867797516133210
+    second: Short Skirt_35
+  - first:
+      213: -7930650178337486450
+    second: Short Skirt_36
+  - first:
+      213: 1317827721900204975
+    second: Short Skirt_37
+  - first:
+      213: -5989190525675020793
+    second: Short Skirt_38
+  - first:
+      213: 5638925646088944099
+    second: Short Skirt_39
+  - first:
+      213: -1105599871901551327
+    second: Short Skirt_40
+  - first:
+      213: 152524903843171486
+    second: Short Skirt_41
+  - first:
+      213: 1969902165248338923
+    second: Short Skirt_42
+  - first:
+      213: 3579594687376171640
+    second: Short Skirt_43
+  - first:
+      213: -1559542088496635378
+    second: Short Skirt_44
+  - first:
+      213: 1394113136006872195
+    second: Short Skirt_0_6
+  - first:
+      213: -1778442465034080083
+    second: Short Skirt_1_6
+  - first:
+      213: -7064006533326250372
+    second: Short Skirt_2_6
+  - first:
+      213: -3775981899507044233
+    second: Short Skirt_3_6
+  - first:
+      213: 7431967264074437495
+    second: Short Skirt_4_6
+  - first:
+      213: -2223603894437933655
+    second: Short Skirt_5_6
+  - first:
+      213: 7253042697830887082
+    second: Short Skirt_6_6
+  - first:
+      213: -1572067830803031681
+    second: Short Skirt_7_6
+  - first:
+      213: -366932906022605201
+    second: Short Skirt_8_6
+  - first:
+      213: -3499034718290482553
+    second: Short Skirt_9_6
+  - first:
+      213: 8451423292669463609
+    second: Short Skirt_0_5
+  - first:
+      213: -3013346580533619612
+    second: Short Skirt_1_5
+  - first:
+      213: 3335334807457072895
+    second: Short Skirt_2_5
+  - first:
+      213: 3237134568991020412
+    second: Short Skirt_3_5
+  - first:
+      213: 8135737059232720278
+    second: Short Skirt_4_5
+  - first:
+      213: 3868082864987955331
+    second: Short Skirt_5_5
+  - first:
+      213: 200435279011251504
+    second: Short Skirt_6_5
+  - first:
+      213: 8543925189980251611
+    second: Short Skirt_7_5
+  - first:
+      213: -2387121236558191534
+    second: Short Skirt_8_5
+  - first:
+      213: -8333443818913366650
+    second: Short Skirt_9_5
+  - first:
+      213: -969958454145338998
+    second: Short Skirt_0_4
+  - first:
+      213: -6514568614434604312
+    second: Short Skirt_1_4
+  - first:
+      213: -8936824305418893065
+    second: Short Skirt_2_4
+  - first:
+      213: 1176279423515169512
+    second: Short Skirt_3_4
+  - first:
+      213: -3407714314519855875
+    second: Short Skirt_4_4
+  - first:
+      213: 7622444630185729337
+    second: Short Skirt_5_4
+  - first:
+      213: 6139221545197291933
+    second: Short Skirt_6_4
+  - first:
+      213: -1801013578763863428
+    second: Short Skirt_7_4
+  - first:
+      213: -5665664605299620708
+    second: Short Skirt_8_4
+  - first:
+      213: -4621525242485618143
+    second: Short Skirt_9_4
+  - first:
+      213: 5769960366659888206
+    second: Short Skirt_0_3
+  - first:
+      213: 2049959653079448548
+    second: Short Skirt_1_3
+  - first:
+      213: -3146757738730005121
+    second: Short Skirt_2_3
+  - first:
+      213: -237386014233901242
+    second: Short Skirt_3_3
+  - first:
+      213: -1282727757136083198
+    second: Short Skirt_4_3
+  - first:
+      213: 1019394429454919331
+    second: Short Skirt_5_3
+  - first:
+      213: -6163482303847959931
+    second: Short Skirt_6_3
+  - first:
+      213: -7404432981673062257
+    second: Short Skirt_7_3
+  - first:
+      213: 2945147123369047447
+    second: Short Skirt_8_3
+  - first:
+      213: -7523967156417005941
+    second: Short Skirt_9_3
+  - first:
+      213: 1465752675524086159
+    second: Short Skirt_0_2
+  - first:
+      213: 8933213272081473256
+    second: Short Skirt_1_2
+  - first:
+      213: -1385763209018905801
+    second: Short Skirt_2_2
+  - first:
+      213: 4985881964692396957
+    second: Short Skirt_3_2
+  - first:
+      213: 4460343353021559900
+    second: Short Skirt_4_2
+  - first:
+      213: -1000473293963347288
+    second: Short Skirt_5_2
+  - first:
+      213: 3579926245649920266
+    second: Short Skirt_6_2
+  - first:
+      213: 2550374983774641694
+    second: Short Skirt_7_2
+  - first:
+      213: 1451934882759117948
+    second: Short Skirt_8_2
+  - first:
+      213: -2868360984565120258
+    second: Short Skirt_9_2
+  - first:
+      213: -1990325359914749006
+    second: Short Skirt_0_1
+  - first:
+      213: -6095238639485016847
+    second: Short Skirt_1_1
+  - first:
+      213: 7454503709523624808
+    second: Short Skirt_2_1
+  - first:
+      213: -6261228791841377648
+    second: Short Skirt_3_1
+  - first:
+      213: 7876240752524047901
+    second: Short Skirt_4_1
+  - first:
+      213: 806992803698469163
+    second: Short Skirt_5_1
+  - first:
+      213: 8553215454559949371
+    second: Short Skirt_6_1
+  - first:
+      213: -5082798804029113292
+    second: Short Skirt_7_1
+  - first:
+      213: -6959291466365922391
+    second: Short Skirt_8_1
+  - first:
+      213: -6161824489969850407
+    second: Short Skirt_9_1
+  - first:
+      213: -2491360880385630706
+    second: Short Skirt_0_0
+  - first:
+      213: -2539988592855602707
+    second: Short Skirt_1_0
+  - first:
+      213: -7488040397461650036
+    second: Short Skirt_2_0
+  - first:
+      213: -9064155916728503527
+    second: Short Skirt_3_0
+  - first:
+      213: -3851428211974642555
+    second: Short Skirt_4_0
+  - first:
+      213: 4643054652291209454
+    second: Short Skirt_5_0
+  - first:
+      213: -6740957339875848832
+    second: Short Skirt_6_0
+  - first:
+      213: -22729557466472735
+    second: Short Skirt_7_0
+  - first:
+      213: 6887142975248472228
+    second: Short Skirt_8_0
+  - first:
+      213: -1972102502467454322
+    second: Short Skirt_9_0
+  - first:
+      213: -3583860175604973423
+    second: Short Skirt_EMPTY_5
+  - first:
+      213: 1078045608231106255
+    second: Short Skirt_EMPTY_6
+  - first:
+      213: 6531230062906115529
+    second: Short Skirt_EMPTY_7
+  - first:
+      213: -7820829899488224055
+    second: Short Skirt_EMPTY_8
+  - first:
+      213: -6850241614396588347
+    second: Short Skirt_EMPTY_9
+  - first:
+      213: 7230512959366556338
+    second: Short Skirt_EMPTY_18
+  - first:
+      213: -9050653670931668148
+    second: Short Skirt_EMPTY_19
+  - first:
+      213: 2501186829669771503
+    second: Short Skirt_EMPTY_28
+  - first:
+      213: 1207727649353975640
+    second: Short Skirt_EMPTY_29
+  - first:
+      213: 548745652286307007
+    second: Short Skirt_EMPTY_34
+  - first:
+      213: -754866869648029449
+    second: Short Skirt_EMPTY_35
+  - first:
+      213: -3397421939583874445
+    second: Short Skirt_EMPTY_36
+  - first:
+      213: 3587639633288639345
+    second: Short Skirt_EMPTY_37
+  - first:
+      213: 8876640543440839628
+    second: Short Skirt_EMPTY_38
+  - first:
+      213: 6339531344981041514
+    second: Short Skirt_EMPTY_39
+  - first:
+      213: -4807318612331879774
+    second: Short Skirt_EMPTY_44
+  - first:
+      213: -5575796771253120789
+    second: Short Skirt_EMPTY_45
+  - first:
+      213: 481065082859940173
+    second: Short Skirt_EMPTY_46
+  - first:
+      213: -471197025229867409
+    second: Short Skirt_EMPTY_47
+  - first:
+      213: -2259536087635244531
+    second: Short Skirt_EMPTY_48
+  - first:
+      213: -2956278556954239094
+    second: Short Skirt_EMPTY_49
+  - first:
+      213: -1970217509308974772
+    second: Short Skirt_50
+  - first:
+      213: -2486749450340000362
+    second: Short Skirt_51
+  - first:
+      213: 3980630626364379938
+    second: Short Skirt_52
+  - first:
+      213: 4099692982014792268
+    second: Short Skirt_53
+  - first:
+      213: 7479539559794156907
+    second: Short Skirt_54
+  - first:
+      213: 3142916130154512642
+    second: Short Skirt_55
+  - first:
+      213: -7526653729104342365
+    second: Short Skirt_EMPTY_56
+  - first:
+      213: 4761981698656381847
+    second: Short Skirt_EMPTY_57
+  - first:
+      213: 1355872138167145736
+    second: Short Skirt_EMPTY_58
+  - first:
+      213: -2458715409415632810
+    second: Short Skirt_EMPTY_59
+  - first:
+      213: 2035735854310432195
+    second: Short Skirt_60
+  - first:
+      213: 8744231139077242347
+    second: Short Skirt_61
+  - first:
+      213: 7565936873620982968
+    second: Short Skirt_62
+  - first:
+      213: 561947300183855792
+    second: Short Skirt_63
+  - first:
+      213: 6577959608551573779
+    second: Short Skirt_64
+  - first:
+      213: -532159818161831756
+    second: Short Skirt_65
+  - first:
+      213: -313874185233510151
+    second: Short Skirt_66
+  - first:
+      213: -7955164428022280526
+    second: Short Skirt_67
+  - first:
+      213: 7676845632003865322
+    second: Short Skirt_68
+  - first:
+      213: -1818233975676451303
+    second: Short Skirt_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Short Skirt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c64a3590d614b330800000000000000
+      internalID: 3725627876854875849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bbffda18f51f270800000000000000
+      internalID: 8282506200285690737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a84b43d9344b43c0800000000000000
+      internalID: -4374327597911553885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fd8c5e8fb90c800800000000000000
+      internalID: 630675441141210989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e1fe3c2b32a77f0800000000000000
+      internalID: -614139148484272532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190856c8822934ec0800000000000000
+      internalID: -3583860175604973423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6f84ad4ccf5fe00800000000000000
+      internalID: 1078045608231106255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c50fd5632793aa50800000000000000
+      internalID: 6531230062906115529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc104894a4d67390800000000000000
+      internalID: -7820829899488224055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cefa4cbb8d0fe0a0800000000000000
+      internalID: -6850241614396588347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c626acc7ef681d40800000000000000
+      internalID: 5555313181723076293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e139efee528132a00800000000000000
+      internalID: 730454115766670110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ad13173c6c03680800000000000000
+      internalID: -8777297131025081770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108fdf070e3bd0870800000000000000
+      internalID: 8650768235798329345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02841326318657a20800000000000000
+      internalID: 3059465954329184288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7604b87d0f6c140800000000000000
+      internalID: 4739740466398914507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a646e5edf60a99430800000000000000
+      internalID: 3790236963741525098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfa6c3842c889b10800000000000000
+      internalID: 1988493323941621692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bae6e64a31f75460800000000000000
+      internalID: 7230512959366556338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43680f407e956280800000000000000
+      internalID: -9050653670931668148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a43280229dc73a40800000000000000
+      internalID: 5347969110020076711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c4ccf610a2c5390800000000000000
+      internalID: -7828335866617770892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d47eada092a13280800000000000000
+      internalID: -9065285832647215919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d1e8c468e7d4a60800000000000000
+      internalID: 7659917656502181203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac6d38ac9c9237e0800000000000000
+      internalID: -1787193905461236568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab2ce717eb071fe0800000000000000
+      internalID: -1218492087013725272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bb06085b5439800800000000000000
+      internalID: 617914219725110163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4650075c2c54d8140800000000000000
+      internalID: 4723508287019943268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe82a537b2006b220800000000000000
+      internalID: 2501186829669771503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8574925f5e5b2c010800000000000000
+      internalID: 1207727649353975640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209ccf577e4b5e430800000000000000
+      internalID: 3811651565848938754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a77cb9ad0d1f7310800000000000000
+      internalID: 1404873553282365348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582747e5a872be450800000000000000
+      internalID: 6119027993956610693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca692a16f61c53c0800000000000000
+      internalID: -4369592292199535928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbab09c63498d9700800000000000000
+      internalID: 548745652286307007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f80bedd49c2685f0800000000000000
+      internalID: -754866869648029449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a0cfa0fbee9d0d0800000000000000
+      internalID: -3397421939583874445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17338440d3bd9c130800000000000000
+      internalID: 3587639633288639345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc32f963b89203b70800000000000000
+      internalID: 8876640543440839628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61ac048b2a8af750800000000000000
+      internalID: 6339531344981041514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125379336ce18a0f0800000000000000
+      internalID: -1105599871901551327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c09f88790ed1200800000000000000
+      internalID: 152524903843171486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb66e1159f765b10800000000000000
+      internalID: 1969902165248338923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872aee417664da130800000000000000
+      internalID: 3579594687376171640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2a5dd3139f84db0800000000000000
+      internalID: -4807318612331879774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be010bdd06ace92b0800000000000000
+      internalID: -5575796771253120789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49e5b1e4261da600800000000000000
+      internalID: 481065082859940173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66f3f35dc8f579f0800000000000000
+      internalID: -471197025229867409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a435b56e384a0e0800000000000000
+      internalID: -2259536087635244531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f53a3c05039f6d0800000000000000
+      internalID: -2956278556954239094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49326b2d9168a4e0800000000000000
+      internalID: -1970217509308974772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d161fdc8a4d7dd0800000000000000
+      internalID: -2486749450340000362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2235d72e67a0e3730800000000000000
+      internalID: 3980630626364379938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c425729cb0905e830800000000000000
+      internalID: 4099692982014792268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b652301f999acc760800000000000000
+      internalID: 7479539559794156907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20184b88191ed9b20800000000000000
+      internalID: 3142916130154512642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2dd51bf44fb8790800000000000000
+      internalID: -7526653729104342365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b2357ff15f51240800000000000000
+      internalID: 4761981698656381847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8055d44a68601d210800000000000000
+      internalID: 1355872138167145736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658800aac53e0edd0800000000000000
+      internalID: -2458715409415632810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd13b449f2604c10800000000000000
+      internalID: 2035735854310432195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedbb9e54efb95970800000000000000
+      internalID: 8744231139077242347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc4531208b9ff860800000000000000
+      internalID: 7565936873620982968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2d2f997107cc700800000000000000
+      internalID: 561947300183855792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3198596996b994b50800000000000000
+      internalID: 6577959608551573779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b04ab207736d98f0800000000000000
+      internalID: -532159818161831756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0ddfc6715e4abf0800000000000000
+      internalID: -313874185233510151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be88e9d914999190800000000000000
+      internalID: -7955164428022280526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea791bbd62a98a60800000000000000
+      internalID: 7676845632003865322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short Skirt_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916424125d554c6e0800000000000000
+      internalID: -1818233975676451303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d1ae4df6a6e47c048803efeaef5d8eed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":80.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Short Skirt_0: 3725627876854875849
+      Short Skirt_0_0: -2491360880385630706
+      Short Skirt_0_1: -1990325359914749006
+      Short Skirt_0_2: 1465752675524086159
+      Short Skirt_0_3: 5769960366659888206
+      Short Skirt_0_4: -969958454145338998
+      Short Skirt_0_5: 8451423292669463609
+      Short Skirt_0_6: 1394113136006872195
+      Short Skirt_1: 8282506200285690737
+      Short Skirt_10: 5555313181723076293
+      Short Skirt_11: 730454115766670110
+      Short Skirt_12: -8777297131025081770
+      Short Skirt_13: 8650768235798329345
+      Short Skirt_14: 3059465954329184288
+      Short Skirt_15: 4739740466398914507
+      Short Skirt_16: 3790236963741525098
+      Short Skirt_17: 1988493323941621692
+      Short Skirt_18: 6665922613697483452
+      Short Skirt_19: -8994018411633000011
+      Short Skirt_1_0: -2539988592855602707
+      Short Skirt_1_1: -6095238639485016847
+      Short Skirt_1_2: 8933213272081473256
+      Short Skirt_1_3: 2049959653079448548
+      Short Skirt_1_4: -6514568614434604312
+      Short Skirt_1_5: -3013346580533619612
+      Short Skirt_1_6: -1778442465034080083
+      Short Skirt_2: -4374327597911553885
+      Short Skirt_20: 5347969110020076711
+      Short Skirt_21: -7828335866617770892
+      Short Skirt_22: -9065285832647215919
+      Short Skirt_23: 7659917656502181203
+      Short Skirt_24: -1787193905461236568
+      Short Skirt_25: -1218492087013725272
+      Short Skirt_26: 617914219725110163
+      Short Skirt_27: 4723508287019943268
+      Short Skirt_28: -2807714216874304526
+      Short Skirt_29: 2427581760545711315
+      Short Skirt_2_0: -7488040397461650036
+      Short Skirt_2_1: 7454503709523624808
+      Short Skirt_2_2: -1385763209018905801
+      Short Skirt_2_3: -3146757738730005121
+      Short Skirt_2_4: -8936824305418893065
+      Short Skirt_2_5: 3335334807457072895
+      Short Skirt_2_6: -7064006533326250372
+      Short Skirt_3: 630675441141210989
+      Short Skirt_30: 3811651565848938754
+      Short Skirt_31: 1404873553282365348
+      Short Skirt_32: 6119027993956610693
+      Short Skirt_33: -4369592292199535928
+      Short Skirt_34: -5876799956143189957
+      Short Skirt_35: -6199867797516133210
+      Short Skirt_36: -7930650178337486450
+      Short Skirt_37: 1317827721900204975
+      Short Skirt_38: -5989190525675020793
+      Short Skirt_39: 5638925646088944099
+      Short Skirt_3_0: -9064155916728503527
+      Short Skirt_3_1: -6261228791841377648
+      Short Skirt_3_2: 4985881964692396957
+      Short Skirt_3_3: -237386014233901242
+      Short Skirt_3_4: 1176279423515169512
+      Short Skirt_3_5: 3237134568991020412
+      Short Skirt_3_6: -3775981899507044233
+      Short Skirt_4: -614139148484272532
+      Short Skirt_40: -1105599871901551327
+      Short Skirt_41: 152524903843171486
+      Short Skirt_42: 1969902165248338923
+      Short Skirt_43: 3579594687376171640
+      Short Skirt_44: -1559542088496635378
+      Short Skirt_4_0: -3851428211974642555
+      Short Skirt_4_1: 7876240752524047901
+      Short Skirt_4_2: 4460343353021559900
+      Short Skirt_4_3: -1282727757136083198
+      Short Skirt_4_4: -3407714314519855875
+      Short Skirt_4_5: 8135737059232720278
+      Short Skirt_4_6: 7431967264074437495
+      Short Skirt_5: 8336538867446468563
+      Short Skirt_50: -1970217509308974772
+      Short Skirt_51: -2486749450340000362
+      Short Skirt_52: 3980630626364379938
+      Short Skirt_53: 4099692982014792268
+      Short Skirt_54: 7479539559794156907
+      Short Skirt_55: 3142916130154512642
+      Short Skirt_5_0: 4643054652291209454
+      Short Skirt_5_1: 806992803698469163
+      Short Skirt_5_2: -1000473293963347288
+      Short Skirt_5_3: 1019394429454919331
+      Short Skirt_5_4: 7622444630185729337
+      Short Skirt_5_5: 3868082864987955331
+      Short Skirt_5_6: -2223603894437933655
+      Short Skirt_6: 7338437302691004461
+      Short Skirt_60: 2035735854310432195
+      Short Skirt_61: 8744231139077242347
+      Short Skirt_62: 7565936873620982968
+      Short Skirt_63: 561947300183855792
+      Short Skirt_64: 6577959608551573779
+      Short Skirt_65: -532159818161831756
+      Short Skirt_66: -313874185233510151
+      Short Skirt_67: -7955164428022280526
+      Short Skirt_68: 7676845632003865322
+      Short Skirt_69: -1818233975676451303
+      Short Skirt_6_0: -6740957339875848832
+      Short Skirt_6_1: 8553215454559949371
+      Short Skirt_6_2: 3579926245649920266
+      Short Skirt_6_3: -6163482303847959931
+      Short Skirt_6_4: 6139221545197291933
+      Short Skirt_6_5: 200435279011251504
+      Short Skirt_6_6: 7253042697830887082
+      Short Skirt_7: 8116158742993444637
+      Short Skirt_7_0: -22729557466472735
+      Short Skirt_7_1: -5082798804029113292
+      Short Skirt_7_2: 2550374983774641694
+      Short Skirt_7_3: -7404432981673062257
+      Short Skirt_7_4: -1801013578763863428
+      Short Skirt_7_5: 8543925189980251611
+      Short Skirt_7_6: -1572067830803031681
+      Short Skirt_8: -2879608229610224437
+      Short Skirt_8_0: 6887142975248472228
+      Short Skirt_8_1: -6959291466365922391
+      Short Skirt_8_2: 1451934882759117948
+      Short Skirt_8_3: 2945147123369047447
+      Short Skirt_8_4: -5665664605299620708
+      Short Skirt_8_5: -2387121236558191534
+      Short Skirt_8_6: -366932906022605201
+      Short Skirt_9: -8863664510957976445
+      Short Skirt_9_0: -1972102502467454322
+      Short Skirt_9_1: -6161824489969850407
+      Short Skirt_9_2: -2868360984565120258
+      Short Skirt_9_3: -7523967156417005941
+      Short Skirt_9_4: -4621525242485618143
+      Short Skirt_9_5: -8333443818913366650
+      Short Skirt_9_6: -3499034718290482553
+      Short Skirt_EMPTY_18: 7230512959366556338
+      Short Skirt_EMPTY_19: -9050653670931668148
+      Short Skirt_EMPTY_28: 2501186829669771503
+      Short Skirt_EMPTY_29: 1207727649353975640
+      Short Skirt_EMPTY_34: 548745652286307007
+      Short Skirt_EMPTY_35: -754866869648029449
+      Short Skirt_EMPTY_36: -3397421939583874445
+      Short Skirt_EMPTY_37: 3587639633288639345
+      Short Skirt_EMPTY_38: 8876640543440839628
+      Short Skirt_EMPTY_39: 6339531344981041514
+      Short Skirt_EMPTY_44: -4807318612331879774
+      Short Skirt_EMPTY_45: -5575796771253120789
+      Short Skirt_EMPTY_46: 481065082859940173
+      Short Skirt_EMPTY_47: -471197025229867409
+      Short Skirt_EMPTY_48: -2259536087635244531
+      Short Skirt_EMPTY_49: -2956278556954239094
+      Short Skirt_EMPTY_5: -3583860175604973423
+      Short Skirt_EMPTY_56: -7526653729104342365
+      Short Skirt_EMPTY_57: 4761981698656381847
+      Short Skirt_EMPTY_58: 1355872138167145736
+      Short Skirt_EMPTY_59: -2458715409415632810
+      Short Skirt_EMPTY_6: 1078045608231106255
+      Short Skirt_EMPTY_7: 6531230062906115529
+      Short Skirt_EMPTY_8: -7820829899488224055
+      Short Skirt_EMPTY_9: -6850241614396588347
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

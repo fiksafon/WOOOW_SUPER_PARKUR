@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: 4ed44d4bee7306d4ebb2330a313788fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3208398018887562541
+    second: Orange Corset v2_0
+  - first:
+      213: -5006537778032954427
+    second: Orange Corset v2_1
+  - first:
+      213: 1085022314177598678
+    second: Orange Corset v2_2
+  - first:
+      213: -476072127619174793
+    second: Orange Corset v2_3
+  - first:
+      213: 8466789501765850334
+    second: Orange Corset v2_4
+  - first:
+      213: 281766108085780171
+    second: Orange Corset v2_5
+  - first:
+      213: 7148739093275494189
+    second: Orange Corset v2_6
+  - first:
+      213: 939618929893213430
+    second: Orange Corset v2_7
+  - first:
+      213: -6078806360203473966
+    second: Orange Corset v2_8
+  - first:
+      213: 2473614974769818086
+    second: Orange Corset v2_9
+  - first:
+      213: 3779642732099865188
+    second: Orange Corset v2_10
+  - first:
+      213: 8177041952305702276
+    second: Orange Corset v2_11
+  - first:
+      213: -5920116236608268326
+    second: Orange Corset v2_12
+  - first:
+      213: 4543735464046680165
+    second: Orange Corset v2_13
+  - first:
+      213: -2846713338291327109
+    second: Orange Corset v2_14
+  - first:
+      213: -6741303332277637535
+    second: Orange Corset v2_15
+  - first:
+      213: 2019352515969724381
+    second: Orange Corset v2_16
+  - first:
+      213: -2856538754246732676
+    second: Orange Corset v2_17
+  - first:
+      213: 7167283227941075881
+    second: Orange Corset v2_18
+  - first:
+      213: -2465219100094918119
+    second: Orange Corset v2_19
+  - first:
+      213: -5556043000990443720
+    second: Orange Corset v2_20
+  - first:
+      213: -4446434320611799276
+    second: Orange Corset v2_21
+  - first:
+      213: -3845626610232336466
+    second: Orange Corset v2_22
+  - first:
+      213: -7370256522144363514
+    second: Orange Corset v2_23
+  - first:
+      213: 4101550057779620812
+    second: Orange Corset v2_24
+  - first:
+      213: -1857672294618577081
+    second: Orange Corset v2_25
+  - first:
+      213: -7917513946130791688
+    second: Orange Corset v2_26
+  - first:
+      213: 8132742399661837497
+    second: Orange Corset v2_27
+  - first:
+      213: 9116598045919182766
+    second: Orange Corset v2_28
+  - first:
+      213: 1802834936072724555
+    second: Orange Corset v2_29
+  - first:
+      213: -7672010441200638991
+    second: Orange Corset v2_30
+  - first:
+      213: 5887492418465528037
+    second: Orange Corset v2_31
+  - first:
+      213: -5774183361608731174
+    second: Orange Corset v2_32
+  - first:
+      213: 3216872577938423916
+    second: Orange Corset v2_33
+  - first:
+      213: 2536046801928970555
+    second: Orange Corset v2_34
+  - first:
+      213: 3165969184349060971
+    second: Orange Corset v2_35
+  - first:
+      213: -6694424746527975754
+    second: Orange Corset v2_36
+  - first:
+      213: 4951334248557622855
+    second: Orange Corset v2_37
+  - first:
+      213: -7300714922814260048
+    second: Orange Corset v2_38
+  - first:
+      213: 9141310005536028529
+    second: Orange Corset v2_39
+  - first:
+      213: 8797094743596132587
+    second: Orange Corset v2_40
+  - first:
+      213: 8158820366908625148
+    second: Orange Corset v2_41
+  - first:
+      213: 804853924519544663
+    second: Orange Corset v2_42
+  - first:
+      213: 2805182482549298591
+    second: Orange Corset v2_43
+  - first:
+      213: 4788114544607192962
+    second: Orange Corset v2_44
+  - first:
+      213: 8337640749994826690
+    second: Orange Corset v2_45
+  - first:
+      213: 7144371349345256474
+    second: Orange Corset v2_46
+  - first:
+      213: 4827242882533908757
+    second: Orange Corset v2_47
+  - first:
+      213: 7909796500991185711
+    second: Orange Corset v2_48
+  - first:
+      213: -6128621615772743382
+    second: Orange Corset v2_49
+  - first:
+      213: -8357537237573623906
+    second: Orange Corset v2_50
+  - first:
+      213: 313752785608229052
+    second: Orange Corset v2_51
+  - first:
+      213: -1632969702437451200
+    second: Orange Corset v2_52
+  - first:
+      213: 2872424874653804756
+    second: Orange Corset v2_53
+  - first:
+      213: -705360760647044728
+    second: Orange Corset v2_0_6
+  - first:
+      213: -7713786040138810412
+    second: Orange Corset v2_1_6
+  - first:
+      213: 7929451069954647712
+    second: Orange Corset v2_2_6
+  - first:
+      213: 6383625471910093356
+    second: Orange Corset v2_3_6
+  - first:
+      213: 8979121457565881332
+    second: Orange Corset v2_4_6
+  - first:
+      213: -6154508819652963632
+    second: Orange Corset v2_5_6
+  - first:
+      213: 7812267129160013949
+    second: Orange Corset v2_6_6
+  - first:
+      213: -1722459953579170284
+    second: Orange Corset v2_7_6
+  - first:
+      213: -1951510719758512801
+    second: Orange Corset v2_8_6
+  - first:
+      213: -5780783359269887919
+    second: Orange Corset v2_9_6
+  - first:
+      213: -5419441456051531839
+    second: Orange Corset v2_0_5
+  - first:
+      213: -778436911605633792
+    second: Orange Corset v2_1_5
+  - first:
+      213: -1318011647443259726
+    second: Orange Corset v2_2_5
+  - first:
+      213: 1900351441506854998
+    second: Orange Corset v2_3_5
+  - first:
+      213: 3817687006356490793
+    second: Orange Corset v2_4_5
+  - first:
+      213: 1326655245291973243
+    second: Orange Corset v2_5_5
+  - first:
+      213: -4626528373253805468
+    second: Orange Corset v2_6_5
+  - first:
+      213: 2306255402110007452
+    second: Orange Corset v2_7_5
+  - first:
+      213: -1271931772366441984
+    second: Orange Corset v2_8_5
+  - first:
+      213: -6747564629211163812
+    second: Orange Corset v2_9_5
+  - first:
+      213: -7722053204599065005
+    second: Orange Corset v2_0_4
+  - first:
+      213: 5719503019348877423
+    second: Orange Corset v2_1_4
+  - first:
+      213: 6956754146161199767
+    second: Orange Corset v2_2_4
+  - first:
+      213: -6903056951114063615
+    second: Orange Corset v2_3_4
+  - first:
+      213: -6868406084172676486
+    second: Orange Corset v2_4_4
+  - first:
+      213: -1033151738226775823
+    second: Orange Corset v2_5_4
+  - first:
+      213: -3152686503513874249
+    second: Orange Corset v2_6_4
+  - first:
+      213: -1726320604181267235
+    second: Orange Corset v2_7_4
+  - first:
+      213: -8628843536207362471
+    second: Orange Corset v2_8_4
+  - first:
+      213: -6445578138736028897
+    second: Orange Corset v2_9_4
+  - first:
+      213: 7268156625176929703
+    second: Orange Corset v2_0_3
+  - first:
+      213: -1673759009358446442
+    second: Orange Corset v2_1_3
+  - first:
+      213: 1085308681866864107
+    second: Orange Corset v2_2_3
+  - first:
+      213: 3508429138508572004
+    second: Orange Corset v2_3_3
+  - first:
+      213: 2267000535436853506
+    second: Orange Corset v2_4_3
+  - first:
+      213: -1616254048936647405
+    second: Orange Corset v2_5_3
+  - first:
+      213: 2450061621484854532
+    second: Orange Corset v2_6_3
+  - first:
+      213: 3616257708447486194
+    second: Orange Corset v2_7_3
+  - first:
+      213: -257833744322120119
+    second: Orange Corset v2_8_3
+  - first:
+      213: 1998730033826124431
+    second: Orange Corset v2_9_3
+  - first:
+      213: -6478267853360532256
+    second: Orange Corset v2_0_2
+  - first:
+      213: -5090836991774215096
+    second: Orange Corset v2_1_2
+  - first:
+      213: 2971945497856254013
+    second: Orange Corset v2_2_2
+  - first:
+      213: 1834701037706256630
+    second: Orange Corset v2_3_2
+  - first:
+      213: -4522895403034757284
+    second: Orange Corset v2_4_2
+  - first:
+      213: 4115046537927542365
+    second: Orange Corset v2_5_2
+  - first:
+      213: 5406528756951343867
+    second: Orange Corset v2_6_2
+  - first:
+      213: -1696553256646784164
+    second: Orange Corset v2_7_2
+  - first:
+      213: 614282563673153600
+    second: Orange Corset v2_8_2
+  - first:
+      213: 3499584587677249800
+    second: Orange Corset v2_9_2
+  - first:
+      213: -1454266922270266884
+    second: Orange Corset v2_0_1
+  - first:
+      213: -2432233676957980055
+    second: Orange Corset v2_1_1
+  - first:
+      213: 3808704403176226548
+    second: Orange Corset v2_2_1
+  - first:
+      213: 5474736666361851278
+    second: Orange Corset v2_3_1
+  - first:
+      213: -2411564508481870224
+    second: Orange Corset v2_4_1
+  - first:
+      213: -2468133747698317321
+    second: Orange Corset v2_5_1
+  - first:
+      213: -7092566896193044517
+    second: Orange Corset v2_6_1
+  - first:
+      213: 6757022485646735627
+    second: Orange Corset v2_7_1
+  - first:
+      213: 492983242899499737
+    second: Orange Corset v2_8_1
+  - first:
+      213: -4408393658064313141
+    second: Orange Corset v2_9_1
+  - first:
+      213: -5609514594588906742
+    second: Orange Corset v2_0_0
+  - first:
+      213: -3016113750383180483
+    second: Orange Corset v2_1_0
+  - first:
+      213: 5851067596394139679
+    second: Orange Corset v2_2_0
+  - first:
+      213: -5033576175981356241
+    second: Orange Corset v2_3_0
+  - first:
+      213: -6266380215863232064
+    second: Orange Corset v2_4_0
+  - first:
+      213: 8190159671093263039
+    second: Orange Corset v2_5_0
+  - first:
+      213: 2576010516418393045
+    second: Orange Corset v2_6_0
+  - first:
+      213: 2501781888825669311
+    second: Orange Corset v2_7_0
+  - first:
+      213: 2409110274562036911
+    second: Orange Corset v2_8_0
+  - first:
+      213: 1451513107751604168
+    second: Orange Corset v2_9_0
+  - first:
+      213: -3411744239254771998
+    second: Orange Corset v2_EMPTY_5
+  - first:
+      213: -4117724111050393844
+    second: Orange Corset v2_EMPTY_6
+  - first:
+      213: 3381953235679858677
+    second: Orange Corset v2_EMPTY_7
+  - first:
+      213: 505352716443757862
+    second: Orange Corset v2_EMPTY_8
+  - first:
+      213: -8473519799647559097
+    second: Orange Corset v2_EMPTY_9
+  - first:
+      213: 9140323326641827790
+    second: Orange Corset v2_EMPTY_18
+  - first:
+      213: 3697131807625297737
+    second: Orange Corset v2_EMPTY_19
+  - first:
+      213: 4167624853904943936
+    second: Orange Corset v2_EMPTY_28
+  - first:
+      213: -2186290253290793877
+    second: Orange Corset v2_EMPTY_29
+  - first:
+      213: 7814892776180810849
+    second: Orange Corset v2_EMPTY_34
+  - first:
+      213: 4650173570247709754
+    second: Orange Corset v2_EMPTY_35
+  - first:
+      213: 5316403224812383616
+    second: Orange Corset v2_EMPTY_36
+  - first:
+      213: -7207929597611139639
+    second: Orange Corset v2_EMPTY_37
+  - first:
+      213: -4301478179325897857
+    second: Orange Corset v2_EMPTY_38
+  - first:
+      213: -5302775628051851201
+    second: Orange Corset v2_EMPTY_39
+  - first:
+      213: 8851111993747523688
+    second: Orange Corset v2_EMPTY_44
+  - first:
+      213: -6039933019992951994
+    second: Orange Corset v2_EMPTY_45
+  - first:
+      213: -1758747414876709209
+    second: Orange Corset v2_EMPTY_46
+  - first:
+      213: 7415794483761586798
+    second: Orange Corset v2_EMPTY_47
+  - first:
+      213: -9129608305072125513
+    second: Orange Corset v2_EMPTY_48
+  - first:
+      213: 5762780877912882951
+    second: Orange Corset v2_EMPTY_49
+  - first:
+      213: -7579093830557734543
+    second: Orange Corset v2_54
+  - first:
+      213: -1159276612262386892
+    second: Orange Corset v2_55
+  - first:
+      213: -4531982505472846039
+    second: Orange Corset v2_EMPTY_56
+  - first:
+      213: 6219163405765814335
+    second: Orange Corset v2_EMPTY_57
+  - first:
+      213: 1004072740172636659
+    second: Orange Corset v2_EMPTY_58
+  - first:
+      213: -4699232893389430215
+    second: Orange Corset v2_EMPTY_59
+  - first:
+      213: 2067761878461322574
+    second: Orange Corset v2_60
+  - first:
+      213: 4801142420949044871
+    second: Orange Corset v2_61
+  - first:
+      213: -7775023242023679287
+    second: Orange Corset v2_62
+  - first:
+      213: -5517875501530608929
+    second: Orange Corset v2_63
+  - first:
+      213: 8149440710933796515
+    second: Orange Corset v2_64
+  - first:
+      213: -4440647196748832395
+    second: Orange Corset v2_65
+  - first:
+      213: 4146339881195119293
+    second: Orange Corset v2_66
+  - first:
+      213: 2549858581370498346
+    second: Orange Corset v2_67
+  - first:
+      213: 416786070841514962
+    second: Orange Corset v2_68
+  - first:
+      213: 2883805020507189039
+    second: Orange Corset v2_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orange Corset v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dac32a200b7973d0800000000000000
+      internalID: -3208398018887562541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3b5c9aa64358ab0800000000000000
+      internalID: -5006537778032954427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d49de9cb06ce0f00800000000000000
+      internalID: 1085022314177598678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e6bc91ce6a469f0800000000000000
+      internalID: -476072127619174793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed492c06134108570800000000000000
+      internalID: 8466789501765850334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6ebbac0bc07a0d0800000000000000
+      internalID: -3411744239254771998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07b7c5dcb7ead6c0800000000000000
+      internalID: -4117724111050393844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff4eabac8c1fee20800000000000000
+      internalID: 3381953235679858677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62da8ed3e9f530700800000000000000
+      internalID: 505352716443757862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742a4c803a2086a80800000000000000
+      internalID: -8473519799647559097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a03b81a0df37430800000000000000
+      internalID: 3779642732099865188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485e5a0f450ba7170800000000000000
+      internalID: 8177041952305702276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad711ff16a587dda0800000000000000
+      internalID: -5920116236608268326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568d8dfa4579e0f30800000000000000
+      internalID: 4543735464046680165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f67c52d417e78d0800000000000000
+      internalID: -2846713338291327109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e2f6416541272a0800000000000000
+      internalID: -6741303332277637535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfaaae0a6e260c10800000000000000
+      internalID: 2019352515969724381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c749cf933298b58d0800000000000000
+      internalID: -2856538754246732676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfe3b853a3f8de70800000000000000
+      internalID: 9140323326641827790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fbd417ac9de4330800000000000000
+      internalID: 3697131807625297737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8375b29e358f4e2b0800000000000000
+      internalID: -5556043000990443720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f04da2b871b42c0800000000000000
+      internalID: -4446434320611799276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafdf4619f691aac0800000000000000
+      internalID: -3845626610232336466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c441e0eb697b990800000000000000
+      internalID: -7370256522144363514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbef6eeb02abe830800000000000000
+      internalID: 4101550057779620812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747cc22f3e83836e0800000000000000
+      internalID: -1857672294618577081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f24ca8c3075f1290800000000000000
+      internalID: -7917513946130791688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc0a959f1e4dd070800000000000000
+      internalID: 8132742399661837497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04be71e39b066d930800000000000000
+      internalID: 4167624853904943936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6414bc199cb8a1e0800000000000000
+      internalID: -2186290253290793877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3e52bd62b878590800000000000000
+      internalID: -7672010441200638991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8717c492394b150800000000000000
+      internalID: 5887492418465528037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5375753dafddfa0800000000000000
+      internalID: -5774183361608731174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6007bfd090a4ac20800000000000000
+      internalID: 3216872577938423916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164060a2393147c60800000000000000
+      internalID: 7814892776180810849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a345686793cb88040800000000000000
+      internalID: 4650173570247709754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08deea1c098a7c940800000000000000
+      internalID: 5316403224812383616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd1d50683a48fb90800000000000000
+      internalID: -7207929597611139639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f739f28d2641e44c0800000000000000
+      internalID: -4301478179325897857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38de5e59a1c866b0800000000000000
+      internalID: -5302775628051851201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8e08f6f0f851a70800000000000000
+      internalID: 8797094743596132587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf09fcb75e3f93170800000000000000
+      internalID: 8158820366908625148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757011b416a6b2b00800000000000000
+      internalID: 804853924519544663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95df7afa920ee620800000000000000
+      internalID: 2805182482549298591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868458e867775da70800000000000000
+      internalID: 8851111993747523688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643fa245be8dd2ca0800000000000000
+      internalID: -6039933019992951994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae13ae5b8ca797e0800000000000000
+      internalID: -1758747414876709209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6229ebdac13ae660800000000000000
+      internalID: 7415794483761586798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b948b50e9d1d4180800000000000000
+      internalID: -9129608305072125513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f396a0da289ff40800000000000000
+      internalID: 5762780877912882951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f135d9920140c80800000000000000
+      internalID: -8357537237573623906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0c7750f7caa5400800000000000000
+      internalID: 313752785608229052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a8d3d15b68659e0800000000000000
+      internalID: -1632969702437451200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d86cb96437ecd720800000000000000
+      internalID: 2872424874653804756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179604e1156a1d690800000000000000
+      internalID: -7579093830557734543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433aea1301c69efe0800000000000000
+      internalID: -1159276612262386892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92791093ce92b11c0800000000000000
+      internalID: -4531982505472846039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38a7c0ca28ee4650800000000000000
+      internalID: 6219163405765814335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1a4ae56de2fed00800000000000000
+      internalID: 1004072740172636659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_EMPTY_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93221b0c498f8ceb0800000000000000
+      internalID: -4699232893389430215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4518c5197a22bc10800000000000000
+      internalID: 2067761878461322574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e0ab4289511a240800000000000000
+      internalID: 4801142420949044871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cac5c22e81991490800000000000000
+      internalID: -7775023242023679287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda007067719c63b0800000000000000
+      internalID: -5517875501530608929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6d0552621a81170800000000000000
+      internalID: 8149440710933796515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571a3f0f6e6af52c0800000000000000
+      internalID: -4440647196748832395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2aba85722ca8930800000000000000
+      internalID: 4146339881195119293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2de11abedae26320800000000000000
+      internalID: 2549858581370498346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbd6d329b8b8c500800000000000000
+      internalID: 416786070841514962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Corset v2_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fa1d81365550820800000000000000
+      internalID: 2883805020507189039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orange Corset v2_0: -3208398018887562541
+      Orange Corset v2_0_0: -5609514594588906742
+      Orange Corset v2_0_1: -1454266922270266884
+      Orange Corset v2_0_2: -6478267853360532256
+      Orange Corset v2_0_3: 7268156625176929703
+      Orange Corset v2_0_4: -7722053204599065005
+      Orange Corset v2_0_5: -5419441456051531839
+      Orange Corset v2_0_6: -705360760647044728
+      Orange Corset v2_1: -5006537778032954427
+      Orange Corset v2_10: 3779642732099865188
+      Orange Corset v2_11: 8177041952305702276
+      Orange Corset v2_12: -5920116236608268326
+      Orange Corset v2_13: 4543735464046680165
+      Orange Corset v2_14: -2846713338291327109
+      Orange Corset v2_15: -6741303332277637535
+      Orange Corset v2_16: 2019352515969724381
+      Orange Corset v2_17: -2856538754246732676
+      Orange Corset v2_18: 7167283227941075881
+      Orange Corset v2_19: -2465219100094918119
+      Orange Corset v2_1_0: -3016113750383180483
+      Orange Corset v2_1_1: -2432233676957980055
+      Orange Corset v2_1_2: -5090836991774215096
+      Orange Corset v2_1_3: -1673759009358446442
+      Orange Corset v2_1_4: 5719503019348877423
+      Orange Corset v2_1_5: -778436911605633792
+      Orange Corset v2_1_6: -7713786040138810412
+      Orange Corset v2_2: 1085022314177598678
+      Orange Corset v2_20: -5556043000990443720
+      Orange Corset v2_21: -4446434320611799276
+      Orange Corset v2_22: -3845626610232336466
+      Orange Corset v2_23: -7370256522144363514
+      Orange Corset v2_24: 4101550057779620812
+      Orange Corset v2_25: -1857672294618577081
+      Orange Corset v2_26: -7917513946130791688
+      Orange Corset v2_27: 8132742399661837497
+      Orange Corset v2_28: 9116598045919182766
+      Orange Corset v2_29: 1802834936072724555
+      Orange Corset v2_2_0: 5851067596394139679
+      Orange Corset v2_2_1: 3808704403176226548
+      Orange Corset v2_2_2: 2971945497856254013
+      Orange Corset v2_2_3: 1085308681866864107
+      Orange Corset v2_2_4: 6956754146161199767
+      Orange Corset v2_2_5: -1318011647443259726
+      Orange Corset v2_2_6: 7929451069954647712
+      Orange Corset v2_3: -476072127619174793
+      Orange Corset v2_30: -7672010441200638991
+      Orange Corset v2_31: 5887492418465528037
+      Orange Corset v2_32: -5774183361608731174
+      Orange Corset v2_33: 3216872577938423916
+      Orange Corset v2_34: 2536046801928970555
+      Orange Corset v2_35: 3165969184349060971
+      Orange Corset v2_36: -6694424746527975754
+      Orange Corset v2_37: 4951334248557622855
+      Orange Corset v2_38: -7300714922814260048
+      Orange Corset v2_39: 9141310005536028529
+      Orange Corset v2_3_0: -5033576175981356241
+      Orange Corset v2_3_1: 5474736666361851278
+      Orange Corset v2_3_2: 1834701037706256630
+      Orange Corset v2_3_3: 3508429138508572004
+      Orange Corset v2_3_4: -6903056951114063615
+      Orange Corset v2_3_5: 1900351441506854998
+      Orange Corset v2_3_6: 6383625471910093356
+      Orange Corset v2_4: 8466789501765850334
+      Orange Corset v2_40: 8797094743596132587
+      Orange Corset v2_41: 8158820366908625148
+      Orange Corset v2_42: 804853924519544663
+      Orange Corset v2_43: 2805182482549298591
+      Orange Corset v2_44: 4788114544607192962
+      Orange Corset v2_45: 8337640749994826690
+      Orange Corset v2_46: 7144371349345256474
+      Orange Corset v2_47: 4827242882533908757
+      Orange Corset v2_48: 7909796500991185711
+      Orange Corset v2_49: -6128621615772743382
+      Orange Corset v2_4_0: -6266380215863232064
+      Orange Corset v2_4_1: -2411564508481870224
+      Orange Corset v2_4_2: -4522895403034757284
+      Orange Corset v2_4_3: 2267000535436853506
+      Orange Corset v2_4_4: -6868406084172676486
+      Orange Corset v2_4_5: 3817687006356490793
+      Orange Corset v2_4_6: 8979121457565881332
+      Orange Corset v2_5: 281766108085780171
+      Orange Corset v2_50: -8357537237573623906
+      Orange Corset v2_51: 313752785608229052
+      Orange Corset v2_52: -1632969702437451200
+      Orange Corset v2_53: 2872424874653804756
+      Orange Corset v2_54: -7579093830557734543
+      Orange Corset v2_55: -1159276612262386892
+      Orange Corset v2_5_0: 8190159671093263039
+      Orange Corset v2_5_1: -2468133747698317321
+      Orange Corset v2_5_2: 4115046537927542365
+      Orange Corset v2_5_3: -1616254048936647405
+      Orange Corset v2_5_4: -1033151738226775823
+      Orange Corset v2_5_5: 1326655245291973243
+      Orange Corset v2_5_6: -6154508819652963632
+      Orange Corset v2_6: 7148739093275494189
+      Orange Corset v2_60: 2067761878461322574
+      Orange Corset v2_61: 4801142420949044871
+      Orange Corset v2_62: -7775023242023679287
+      Orange Corset v2_63: -5517875501530608929
+      Orange Corset v2_64: 8149440710933796515
+      Orange Corset v2_65: -4440647196748832395
+      Orange Corset v2_66: 4146339881195119293
+      Orange Corset v2_67: 2549858581370498346
+      Orange Corset v2_68: 416786070841514962
+      Orange Corset v2_69: 2883805020507189039
+      Orange Corset v2_6_0: 2576010516418393045
+      Orange Corset v2_6_1: -7092566896193044517
+      Orange Corset v2_6_2: 5406528756951343867
+      Orange Corset v2_6_3: 2450061621484854532
+      Orange Corset v2_6_4: -3152686503513874249
+      Orange Corset v2_6_5: -4626528373253805468
+      Orange Corset v2_6_6: 7812267129160013949
+      Orange Corset v2_7: 939618929893213430
+      Orange Corset v2_7_0: 2501781888825669311
+      Orange Corset v2_7_1: 6757022485646735627
+      Orange Corset v2_7_2: -1696553256646784164
+      Orange Corset v2_7_3: 3616257708447486194
+      Orange Corset v2_7_4: -1726320604181267235
+      Orange Corset v2_7_5: 2306255402110007452
+      Orange Corset v2_7_6: -1722459953579170284
+      Orange Corset v2_8: -6078806360203473966
+      Orange Corset v2_8_0: 2409110274562036911
+      Orange Corset v2_8_1: 492983242899499737
+      Orange Corset v2_8_2: 614282563673153600
+      Orange Corset v2_8_3: -257833744322120119
+      Orange Corset v2_8_4: -8628843536207362471
+      Orange Corset v2_8_5: -1271931772366441984
+      Orange Corset v2_8_6: -1951510719758512801
+      Orange Corset v2_9: 2473614974769818086
+      Orange Corset v2_9_0: 1451513107751604168
+      Orange Corset v2_9_1: -4408393658064313141
+      Orange Corset v2_9_2: 3499584587677249800
+      Orange Corset v2_9_3: 1998730033826124431
+      Orange Corset v2_9_4: -6445578138736028897
+      Orange Corset v2_9_5: -6747564629211163812
+      Orange Corset v2_9_6: -5780783359269887919
+      Orange Corset v2_EMPTY_18: 9140323326641827790
+      Orange Corset v2_EMPTY_19: 3697131807625297737
+      Orange Corset v2_EMPTY_28: 4167624853904943936
+      Orange Corset v2_EMPTY_29: -2186290253290793877
+      Orange Corset v2_EMPTY_34: 7814892776180810849
+      Orange Corset v2_EMPTY_35: 4650173570247709754
+      Orange Corset v2_EMPTY_36: 5316403224812383616
+      Orange Corset v2_EMPTY_37: -7207929597611139639
+      Orange Corset v2_EMPTY_38: -4301478179325897857
+      Orange Corset v2_EMPTY_39: -5302775628051851201
+      Orange Corset v2_EMPTY_44: 8851111993747523688
+      Orange Corset v2_EMPTY_45: -6039933019992951994
+      Orange Corset v2_EMPTY_46: -1758747414876709209
+      Orange Corset v2_EMPTY_47: 7415794483761586798
+      Orange Corset v2_EMPTY_48: -9129608305072125513
+      Orange Corset v2_EMPTY_49: 5762780877912882951
+      Orange Corset v2_EMPTY_5: -3411744239254771998
+      Orange Corset v2_EMPTY_56: -4531982505472846039
+      Orange Corset v2_EMPTY_57: 6219163405765814335
+      Orange Corset v2_EMPTY_58: 1004072740172636659
+      Orange Corset v2_EMPTY_59: -4699232893389430215
+      Orange Corset v2_EMPTY_6: -4117724111050393844
+      Orange Corset v2_EMPTY_7: 3381953235679858677
+      Orange Corset v2_EMPTY_8: 505352716443757862
+      Orange Corset v2_EMPTY_9: -8473519799647559097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
