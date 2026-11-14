@@ -9,12 +9,14 @@ public class playerController : MonoBehaviour
     [SerializeField] private PlayerMoveControl _playerMoveControl;
     [SerializeField] private Transform _Legs;
     [SerializeField] private LayerMask _groundLayer;
+    [SerializeField] private CheckColider _checkColider;
     private float _Timer = 0f;
     private float _ChekDelay = 0.2f;
     private float _groundCheckDistance = 0.3f;
     private bool _isGrounded = false;
     private PlayerCameraController _playerCameraController;
     private EventBus _inet;
+
 
     public void Initialize(PlayerCameraController cameraController, EventBus bus)
     {
@@ -46,6 +48,11 @@ public class playerController : MonoBehaviour
         return;
       }
         _playerCameraController.GetPlayerPosition(transform.position);
+
+        if (_checkColider.HasInteractable)
+        {
+            GetInteractable(_checkColider.CurrentInteractable);
+        }
     }
 
     private void OnLookPressed(Vector2 lookInput)
@@ -74,5 +81,27 @@ public class playerController : MonoBehaviour
     {
       _playerMoveControl.SetGrounded(_isGrounded);
     }
+    private void GetInteractable(IInteraktbl interactable)
+    {
+       interactable.Interact(gameObject);
+    }
     
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Kostya
